@@ -1,4 +1,4 @@
-# Movie Script Analyzer - Digital Humanities 2018, Ben Gurion
+# Movie Script Analyzer - Digital Humanities, Ben Gurion 2018
 
 This is our final project for Digital Humanities for Computer Science class of 2018 in BGU.
 The program analyzes movie language through its script and builds JSON outputs.
@@ -49,5 +49,6 @@ python _modules\install_nltk.py
 Shahar Bashari, Tamir Eyal
 
 ## Disclaimer:
+
 We do not own any of the movies used as source material here.
 The scripts are obtained through OpenSubtitles API and used for educational purposes only.
