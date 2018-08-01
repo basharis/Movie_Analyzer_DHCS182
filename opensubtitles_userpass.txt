@@ -1,2 +1,2 @@
-user=dhcs182
-pass=Papyrus
+user=USERNAME
+pass=PASSWORD
