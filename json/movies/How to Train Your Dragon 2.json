@@ -1,0 +1,41 @@
+{
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 7.8,
+    "plot": [
+        "It's been five years since Hiccup and Toothless successfully united dragons and vikings on the island of Berk. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace. Now, Hiccup and Toothless must unite to stand up for what they believe while recognizing that only together do they have the power to change the future of both men and dragons.::Twentieth Century Fox Film Corporation",
+        "Five years after Hiccup unified dragons and Vikings, they all face a new enemy - Drago, a man starting a war with dragons to rule the whole world once and for all. While Stoick would rather lock up and stay away from him, Hiccup wants to reason with him like he did with his dad. Traveling away from Berk, Hiccup comes across his long lost mother, who has been riding dragons way before he has. Does Hiccup have what it takes to take on Drago and his army of dragons?::James Hake / edited by statmanjeff",
+        "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.::Twentieth Century Fox"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.0843178507849165,
+        "linguistic_difficulty_percentage": 0.03236769703835572,
+        "words_per_minute": 60,
+        "common_words": {
+            "dragon": 86,
+            "oh": 59,
+            "come": 40,
+            "uh": 37,
+            "one": 36,
+            "well": 30,
+            "hiccup": 30,
+            "drago": 30,
+            "yeah": 29,
+            "know": 29
+        }
+    }
+}

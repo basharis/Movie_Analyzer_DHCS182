@@ -1,0 +1,39 @@
+{
+    "title": "I'm Not There.",
+    "year": 2007,
+    "genres": [
+        "Biography",
+        "Drama",
+        "Music",
+        "Western"
+    ],
+    "runtime": [
+        "135"
+    ],
+    "rating": 7.0,
+    "plot": [
+        "Six incarnations of Bob Dylan: an actor, a folk singer, an electrified troubadour, Rimbaud, Billy the Kid, and Woody Guthrie. Put Dylan's music behind their adventures, soliloquies, interviews, marriage, and infidelity. Recreate 1960s documentaries in black and white. Put each at a crossroads, the artist becoming someone else. Jack, the son of Ramblin' Jack Elliott, finds Jesus; handsome Robbie falls in love then abandons Claire. Woody, a lad escaped from foster care, hobos the U.S. singing; Billy awakes in a valley threatened by a six-lane highway; Rimbaud talks. Jude, booed at Newport when he goes electric, fences with reporters, pundits, and fans. He won't be classified.::<jhailey@hotmail.com>",
+        "Six individuals represent the spirit of Bob Dylan in various stages of his career and personal life. A young man named Arthur is in an interrogation room, he who is providing indirect answers to unseen interrogators. Woody Guthrie is a young black youth who is riding the rails in 1959 making his way to Hollywood to become a singing sensation, until his past catches up with him. In the early 1960's, folk singing sensation Jack Rollins rebels against folk music, accusing it of becoming the establishment against which its protest songs rally. Rollins embarks on a new passion in the 1970's. Actor Robbie Clark portrays Rollins in a 1965 movie entitled \"Grain of Sand\", the public and critical reception to which begins to affect his marriage to his French wife, Claire. Jude Quinn, a singer in the mid 1960's, begins to outrage his folk music fans by moving away from the roots of the music which made him famous. And outlaw Henry McCarty, better known as Billy the Kid, with who Rollins is obsessed, deals with the destruction of Riddle Township by his adversary, Sheriff Pat Garrett.::Huggo",
+        "Ruminations on the life of Bob Dylan, where six characters embody a different aspect of the musician's life and work.::IMDb Editors"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.556173084557364,
+        "linguistic_difficulty_percentage": 0.08733624454148471,
+        "words_per_minute": 93,
+        "common_words": {
+            "know": 117,
+            "wa": 90,
+            "like": 81,
+            "well": 59,
+            "man": 46,
+            "come": 45,
+            "say": 44,
+            "think": 43,
+            "one": 39,
+            "song": 39
+        }
+    }
+}

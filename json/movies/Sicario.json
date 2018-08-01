@@ -1,0 +1,42 @@
+{
+    "title": "Sicario",
+    "year": 2015,
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "121"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "When drug violence worsens on the USA Mexico border, the FBI sends an idealistic agent, Kate Macer (Emily Blunt) on a mission to eradicate a drug cartel responsible for a bomb that had killed members of her team.::Gusde",
+        "Kate Macer leads a Phoenix based kidnap response unit for the FBI. Following Kate's team leading a raid on a known drug den in nearby Chandler, Kate is recruited to work on a special ops team led by Matt Graver of the CIA, he who is on special assignment for the Department of Defense. They recruited her because they wanted someone with tactical procedures knowledge. Outwardly, the team's mission, which works behind a Delta Force team as its primary gun power as required, is to decapitate a Mexican drug cartel by capturing or dismembering the workings of the main players, cartel head Manuel D\u00edaz, his second in command Guillermo D\u00edaz (Manuel's brother), and drug lord Fausto Alarc\u00f3n. Kate agrees to the assignment as she feels the work of this team would be more effective in stopping the drug trade in the US than the piecemeal work of her current kidnap response unit. The third on the team is a mysterious Hispanic or Latino man Kate only knows as Alejandro, and who she does not fully trust as she can tell that he is suffering from a very traumatic past. When Kate and the team arrive in El Paso for their first mission, Kate learns that the team's workings are not all they appear on the surface - many of the proceedings which would not be considered above board or legal - despite the end goal being as she knows it to be. Still largely in the dark and only given information on a need to know basis, Kate decides to stick it out with the team if only to discover all that she is not told while still believing in the end goal. She may have changing or at least mixed emotions as she learns more and more about what is going on, including the specific reason why she was recruited.::Huggo",
+        "FBI field agent Kate Macer is approached to join a special anti-drugs task force that also involves the Department of Defense and the Department of Justice. She is given very little information about the methods or aims of the task force, except that it is going after senior members of a Mexican drug cartel. She soon realizes that their methods are quite unorthodox, even potentially illegal, and the aim may be even more unconventional.::grantss",
+        "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.::chasinwill"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 2.7835408022130017,
+        "linguistic_difficulty_percentage": 0.05186721991701245,
+        "words_per_minute": 47,
+        "common_words": {
+            "get": 54,
+            "right": 38,
+            "okay": 35,
+            "yeah": 33,
+            "go": 32,
+            "know": 30,
+            "one": 27,
+            "like": 27,
+            "gonna": 27,
+            "good": 24
+        }
+    }
+}

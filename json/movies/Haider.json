@@ -1,0 +1,39 @@
+{
+    "title": "Haider",
+    "year": 2014,
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "160"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Vishal Bhardwaj's adaptation of William Shakespeare's 'Hamlet', Haider - a young man returns home to Kashmir on receiving news of his father's disappearance. Not only does he learn that security forces have detained his father for harboring militants, but that his mother is in a relationship with his very own uncle. Intense drama follows between mother and son as both struggle to come to terms with news of his father's death. Soon Haider learns that his uncle is responsible for the gruesome murder, what follows is his journey to avenge his father's death.::Anonymous",
+        "Set in the year 1995 in the valley of Kashmir, the movie is Vishal Bharadwaj's own adaptation of William Shakespeare's Hamlet. A humanitarian and peace-loving doctor who does his profession with honesty is doing his duty in saving the life of a militant. For this act of harboring a terrorist the army and the police department arrest him and lodge him in their control with no traces left of his identity. The doctor's son tries his best to find out his father, but is shocked to find the reality of the incidents that happened to this effect, about his mother and his paternal uncle. What happens thereon makes Haider's melancholia.::PipingHotViews",
+        "A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects of playing a role in his father's fate.::SidK"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 1.8695590124161554,
+        "linguistic_difficulty_percentage": 0.12844298558584272,
+        "words_per_minute": 43,
+        "common_words": {
+            "haider": 62,
+            "mother": 37,
+            "father": 36,
+            "come": 33,
+            "wa": 29,
+            "go": 27,
+            "let": 25,
+            "know": 25,
+            "want": 24,
+            "yes": 23
+        }
+    }
+}

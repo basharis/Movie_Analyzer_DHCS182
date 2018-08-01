@@ -1,0 +1,42 @@
+{
+    "title": "Pocahontas",
+    "year": 1995,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Musical",
+        "Romance"
+    ],
+    "runtime": [
+        "81"
+    ],
+    "rating": 6.7,
+    "plot": [
+        "This is the Disney animated tale of the romance between a young American Indian woman named Pocahontas and Capt. John Smith, who journeyed to the New World with other settlers to begin fresh lives. Her powerful father, Chief Powhatan, disapproves of their relationship and wants her to marry a native warrior. Meanwhile, Smith's fellow Englishmen hope to rob the Native Americans of their gold. Can Pocahontas' love for Smith save the day?::Jwelch5742",
+        "Capt. John Smith leads a rag-tag band of English sailors & soldiers to the New World to plunder its riches for England (or, more precisely, for Governor Ratcliffe, who comes along for the ride). Meanwhile, in this \"New World,\" Chief Powhatan has pledged his daughter, Pocahontas, to be married to the village's greatest warrior. Pocahontas, however, has other ideas. She has seen a vision of a spinning arrow, a vision she believes tells her change is coming. Her life does indeed change when the English ship lands near her village. Between Ratcliffe, who believes the \"savages\" are hiding the gold he expected to be plentiful, and Powhatan, who believes these pale newcomers will destroy their land, Smith and Pocahontas have a difficult time preventing all-out war, and saving their love for each other.::Joe Sewell <jsewell@iu.net>",
+        "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.::Kenneth Chisholm and Brian McInnis"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Algonquin"
+        ],
+        "adult_language_percentage": 1.1157156518967166,
+        "linguistic_difficulty_percentage": 0.0318775900541919,
+        "words_per_minute": 77,
+        "common_words": {
+            "right": 40,
+            "like": 39,
+            "gold": 33,
+            "pocahontas": 32,
+            "look": 31,
+            "come": 30,
+            "see": 30,
+            "get": 29,
+            "savage": 29,
+            "know": 29
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "The Diving Bell and the Butterfly",
+    "year": 2007,
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "runtime": [
+        "112"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Forty-three year old Elle magazine editor Jean-Dominique Bauby - Jean-Do to his friends - awakens not knowing where he is. He is in a Berck-sur-Mer hospital, where he has been for the past several weeks in a coma after suffering a massive stroke. Although his cognitive facilities are in tact, he quickly learns that he has what is called locked-in syndrome which has resulted in him being almost completely paralyzed, including not being able to speak. One of his few functioning muscles is his left eye. His physical situation and hospitalization uncomfortably bring together the many people in his life, including: C\u00e9line Desmoulins, his ex-lover and mother of his children; In\u00e8s, his current lover; and his aged father who he calls Papinou. Among his compassionate recuperative team are his physical therapist Marie, and his speech therapist Henriette. Henriette eventually teaches him to communicate using a system where he spells out words: she reads out the letters of the alphabet in descending order of their use in the French language, and he blinks his functioning left eye when she reaches the appropriate letter. Although frustrating at start, he learns to communicate effectively but slowly using this method, so much so that with the help of Claude, a full time translator, he decides on the monumental and seemingly impossible task to keep to his pre-injury commitment of writing a book, changing its focus to life in his current state.::Huggo",
+        "The true story of 43 year-old magazine editor Jean-Dominique Beauby who after suffering a stroke is found to have locked-in syndrome, where he is paralyzed from the neck down. He can see and hear but cannot speak, communicating only by blinking his left eye for yes or no. Literally trapped inside his body, he faces a terrifying situation despite the support he has from an an expert medical team and his family. It's only when his speech therapist Henriette Roi devises a system for him to \"speak\" one letter at a time by blinking his eye does the world open up for him. The film is based an Bauby's book, which he dictated, one letter at a time.::garykmcd",
+        "Elle France editor Jean-Dominique Bauby, who, in 1995 at the age of 43, suffered a stroke that paralyzed his entire body, except his left eye. Using that eye to blink out his memoir, Bauby eloquently described the aspects of his interior world, from the psychological torment of being trapped inside his body to his imagined stories from lands he'd only visited in his mind.::Anonymous",
+        "The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.::Marco van Hoof <k_luifje7@hotmail.com>"
+    ],
+    "language": {
+        "id": [
+            "French"
+        ],
+        "adult_language_percentage": 0.9202932459834658,
+        "linguistic_difficulty_percentage": 0.06239276243955701,
+        "words_per_minute": 57,
+        "common_words": {
+            "want": 52,
+            "wa": 35,
+            "see": 32,
+            "know": 32,
+            "jean": 31,
+            "good": 31,
+            "like": 28,
+            "say": 27,
+            "yes": 23,
+            "come": 22
+        }
+    }
+}

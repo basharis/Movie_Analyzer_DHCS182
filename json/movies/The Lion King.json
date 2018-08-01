@@ -1,0 +1,46 @@
+{
+    "title": "The Lion King",
+    "year": 1994,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Musical"
+    ],
+    "runtime": [
+        "88"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?::femaledragon1234",
+        "This Disney animated feature follows the adventures of the young lion Simba, the heir of his father, Mufasa. Simba's wicked uncle, Scar, plots to usurp Mufasa's throne by luring father and son into a stampede of wildebeests. But Simba escapes, and only Mufasa is killed. Simba returns as an adult to take back his homeland from Scar with the help of his friends Timon and Pumbaa.::Jwelch5742",
+        "After being anointed as the next king of the jungle, young lion cub Simba is every bit as eager to take his proud father Mufasa's place as the king. However, this makes Simba's villainous uncle Scar jealous of him. But when Mufasa is suddenly murdered by Scar, Simba feels responsible for his death and runs away from home. Meeting up with two outcasts named Timon and Pumbaa, Simba embraces their ways of 'Hakuna Matata'. Years later, approached by his childhood friend Nala and the wise baboon Rafiki, Simba must return home to stop Scar's evil reign and fulfill his destiny as the new king.::Blazer346",
+        "The Lion King is a Disney property acclaimed as the Jewel of Animation. Having a great plot, funny and captivating characters and the most celebrated soundtrack in a kid's film, only compared to the likes of Frozen. The plot is elementary and straightforward, a young lion cub who cannot wait to be claimed King of the Pride Rocks finds himself in a life changing situation, when his Machiavellian and envious uncle conspires, alongside the hyenas, to overtake the kingdom and establish a dictatorship. Acquiring the advice from his old counselors (Zazu and Rafiki), the help from his new friends, Timone and Pumbaa, and the unexpected warning of a familiar face, whilst discovering the paths of love through his childhood girlfriend Nala, Simba will unshackle the Savanna from the reign of terror of Scar and returning the natural order to the Circle of Life.::Anonymous",
+        "A young lion prince is born in Africa, thus making his uncle Scar the second in line to the throne. Scar plots with the hyenas to kill King Mufasa and Prince Simba, thus making himself King. The King is killed and Simba is led to believe by Scar that it was his fault, and so flees the kingdom in shame. After years of exile he is persuaded to return home to overthrow the usurper and claim the kingdom as his own thus completing the \"Circle of Life\".::King of Hearts <g.forth@uea.ac.uk>",
+        "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Swahili",
+            "Xhosa",
+            "Zulu"
+        ],
+        "adult_language_percentage": 1.310694072088174,
+        "linguistic_difficulty_percentage": 0.044682752457551385,
+        "words_per_minute": 76,
+        "common_words": {
+            "king": 70,
+            "simba": 64,
+            "oh": 57,
+            "know": 40,
+            "well": 35,
+            "go": 35,
+            "yeah": 35,
+            "come": 33,
+            "hey": 33,
+            "wa": 30
+        }
+    }
+}

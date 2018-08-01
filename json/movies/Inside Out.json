@@ -1,0 +1,44 @@
+{
+    "title": "Inside Out",
+    "year": 2015,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "95"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school.::Pixar",
+        "When a young girl named Riley is uprooted from her Midwestern lifestyle and moves to the busy and chaotic San Francisco, her emotions; Anger, Sadness, Disgust, Fear, and (her most important emotion) Joy, start to disagree on how to deal with this dramatic change, which causes problems up in Headquaters, the central living and working place for the five emotions.",
+        "Riley, a young girl, is uprooted from her life in the Midwest when her dad gets a job in San Francisco. She needs her emotions to guide her through her new school, new people, and new life. But, an accident involving Riley's happy memories changes her entire outlook. Joy and Sadness need to find her memories and return them to Headquarters before its too late.",
+        "Riley leads a pretty good life, with her loving parents, participation in hockey and love for Minnesota, her home state, with the help of her emotions; Joy, Fear, Sadness, Disgust, and Anger. But when she moves to San Francisco, Joy and Sadness disappear, symbolizing her difficulty accepting her new life. Joy and Sadness go on a quest to return home and save Riley.",
+        "All of us have various brain functions that govern our response to various situations. The functions responsible for Happiness, Sadness, Fear, Anger and Disgust are characterized and the details of the activities they do to run the life of a young girl Riley right from her birth is what drives the story. When a sudden change in the life of Riley upsets their rhythm, they try to control the situation too much, which creates more confusion for her. Their adventures in an attempt to restore normalcy is what forms the crux of this movie.::PipingHotViews [Shriram]",
+        "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.7363214213607914,
+        "linguistic_difficulty_percentage": 0.010094891984655765,
+        "words_per_minute": 104,
+        "common_words": {
+            "joy": 125,
+            "oh": 117,
+            "riley": 108,
+            "bong": 83,
+            "bing": 75,
+            "sadness": 68,
+            "get": 67,
+            "go": 63,
+            "know": 60,
+            "like": 58
+        }
+    }
+}

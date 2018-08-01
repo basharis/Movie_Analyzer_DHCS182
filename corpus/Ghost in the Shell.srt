@@ -1,0 +1,3768 @@
+1
+00:02:26,168 --> 00:02:28,296
+<i>PROJECT 2571</i>
+
+2
+00:02:37,108 --> 00:02:39,296
+<i>Oxygen levels are dropping.</i>
+
+3
+00:02:43,864 --> 00:02:45,974
+<i>Brain function, normal.</i>
+
+4
+00:02:49,834 --> 00:02:52,805
+<i>Cerebral salvage,
+ready to proceed.</i>
+
+5
+00:02:58,695 --> 00:03:02,951
+<i>Robotic skeleton prepared
+and waiting for brain insertion.</i>
+
+6
+00:05:29,736 --> 00:05:32,785
+<i>Now your eyes...
+are gonna open.</i>
+
+7
+00:05:38,260 --> 00:05:40,590
+<i>You are safe.</i>
+
+8
+00:05:52,540 --> 00:05:55,030
+It's ok, just breathe.
+
+9
+00:05:55,870 --> 00:05:57,690
+Just breathe.
+
+10
+00:05:59,180 --> 00:06:00,580
+Breathe.
+
+11
+00:06:02,470 --> 00:06:03,860
+Good.
+
+12
+00:06:04,100 --> 00:06:05,780
+That's good.
+
+13
+00:06:08,800 --> 00:06:10,510
+Hello, Mira.
+
+14
+00:06:11,080 --> 00:06:12,970
+I'm Dr. Ouelet.
+
+15
+00:06:16,180 --> 00:06:19,250
+Do you remember anything
+about the attack?
+
+16
+00:06:20,360 --> 00:06:22,030
+What happened?
+
+17
+00:06:23,030 --> 00:06:25,110
+I was...
+You were drowning.
+
+18
+00:06:26,400 --> 00:06:27,900
+There was water.
+
+19
+00:06:28,580 --> 00:06:31,022
+That's right. You were on a boat,
+
+20
+00:06:31,222 --> 00:06:32,578
+a refugee boat.
+
+21
+00:06:32,778 --> 00:06:34,930
+It was sunk by terrorists.
+
+22
+00:06:35,680 --> 00:06:38,120
+Why can't I feel my body?
+
+23
+00:06:38,480 --> 00:06:41,430
+Mira, your body was damaged.
+We could not save that.
+
+24
+00:06:41,810 --> 00:06:44,000
+Only your brain survived.
+
+25
+00:06:44,420 --> 00:06:46,600
+We made you a new body.
+
+26
+00:06:47,120 --> 00:06:48,880
+A synthetic shell.
+
+27
+00:06:50,660 --> 00:06:53,460
+But your mind, your soul...
+
+28
+00:06:53,750 --> 00:06:55,150
+Your ghost.
+
+29
+00:06:55,340 --> 00:06:57,130
+It's still in there.
+
+30
+00:06:59,920 --> 00:07:00,920
+Please.
+
+31
+00:07:00,970 --> 00:07:02,380
+Sedate her.
+
+32
+00:07:17,320 --> 00:07:18,980
+Will it work?
+
+33
+00:07:19,310 --> 00:07:21,100
+Absolutely.
+
+34
+00:07:22,840 --> 00:07:24,580
+She's a miracle.
+
+35
+00:07:25,410 --> 00:07:28,570
+A machine can't lead,
+It can only follow orders.
+
+36
+00:07:28,870 --> 00:07:31,720
+A machine can't imagine or care or intuit.
+
+37
+00:07:31,960 --> 00:07:35,350
+But as a human mind in
+a cybernetic frame...
+
+38
+00:07:35,650 --> 00:07:38,080
+Mira can do all those things, and more.
+
+39
+00:07:38,100 --> 00:07:40,220
+The first of her kind.
+
+40
+00:07:42,450 --> 00:07:45,440
+She will join Section 9
+as soon as she is operational.
+
+41
+00:07:45,510 --> 00:07:47,870
+Please don't do that.
+
+42
+00:07:48,070 --> 00:07:51,470
+You reducing a complex human to a machine.
+
+43
+00:07:51,810 --> 00:07:53,970
+I don't think of her as a machine.
+
+44
+00:07:55,270 --> 00:07:56,930
+She is a weapon.
+
+45
+00:07:57,600 --> 00:07:59,890
+And the future of my company.
+
+46
+00:08:14,930 --> 00:08:18,190
+<i>ONE YEAR LATER</i>
+
+47
+00:08:21,600 --> 00:08:24,560
+<i>The first artificially created
+memory enhancement.</i>
+
+48
+00:08:24,660 --> 00:08:27,870
+<i>Sirenum training protocol is the
+fastest and most efficient way...</i>
+
+49
+00:08:27,970 --> 00:08:29,130
+<i>to develop your ability.</i>
+
+50
+00:08:34,730 --> 00:08:38,100
+<i>Stronger than ever.
+Experience your power.</i>
+
+51
+00:08:38,640 --> 00:08:42,720
+<i>Cybercrime is a Type 1 offense.
+Minimum punishment: 15 years in prison.</i>
+
+52
+00:08:43,020 --> 00:08:46,260
+<i>Hanka Robotics guarantees
+personal safety against...</i>
+
+53
+00:08:53,760 --> 00:08:59,010
+<i>All patrolling area units, be advised
+possible cybercrime activity in vicinity.</i>
+
+54
+00:08:59,350 --> 00:09:01,930
+<i>Airspace in adjoining areas
+will be locked down.</i>
+
+55
+00:09:02,020 --> 00:09:03,557
+<i>Section 9 is currently on site.</i>
+
+56
+00:09:03,580 --> 00:09:08,482
+<i>I repeat: All patrolling area units,
+be advised, possible cyber crime...</i>
+
+57
+00:09:11,920 --> 00:09:14,510
+This is major. I'm on site.
+
+58
+00:09:14,570 --> 00:09:16,630
+Awaiting instructions.
+
+59
+00:09:17,690 --> 00:09:19,350
+<i>Analyze and report.</i>
+
+60
+00:09:29,170 --> 00:09:31,830
+I'm human, I am flawed.
+
+61
+00:09:31,890 --> 00:09:34,980
+But I embrace change...
+
+62
+00:09:35,210 --> 00:09:37,260
+and enhancement.
+
+63
+00:09:37,350 --> 00:09:39,200
+Now there is nothing I can't do.
+
+64
+00:09:39,910 --> 00:09:44,160
+Nothing I can't know, nothing I can't be.
+
+65
+00:09:44,890 --> 00:09:46,150
+Wait and listen to something.
+
+66
+00:09:56,500 --> 00:09:58,080
+It's my 4 year old daughter.
+
+67
+00:09:58,120 --> 00:09:59,800
+In the time it took her
+to sing that lullaby
+
+68
+00:09:59,830 --> 00:10:01,310
+she learned to speak fluent French.
+
+69
+00:10:01,720 --> 00:10:03,630
+<i>Do you know that song?</i>
+
+70
+00:10:03,960 --> 00:10:05,920
+There is an echo box up here.
+
+71
+00:10:06,160 --> 00:10:07,960
+Someone is scanning data traffic.
+
+72
+00:10:08,960 --> 00:10:10,520
+<i>Keeps track of where it is transmitted.</i>
+
+73
+00:10:11,020 --> 00:10:12,800
+To see who's worth
+this kind of surveillance.
+
+74
+00:10:16,030 --> 00:10:18,470
+Accessing hotel security network.
+
+75
+00:10:23,530 --> 00:10:26,350
+What're you seeing, sir?
+I've got a lot of hotel to scan.
+
+76
+00:10:28,830 --> 00:10:33,070
+<i>There is a banquet room reserved for
+the President of the African Federation.</i>
+
+77
+00:10:33,770 --> 00:10:36,730
+<i>Dr. Osmond is invited
+on behalf of Hanka Robotics.</i>
+
+78
+00:10:40,090 --> 00:10:42,360
+Got it. 43rd floor.
+
+79
+00:10:43,910 --> 00:10:46,760
+Someone contacted the president staff.
+Someone is watching him.
+
+80
+00:10:47,320 --> 00:10:48,800
+Dr. Osmond...
+
+81
+00:10:48,960 --> 00:10:50,690
+What is it you want from us?
+
+82
+00:10:50,780 --> 00:10:53,900
+I think it is more about what
+Hanka Robotics can do for you.
+
+83
+00:10:54,430 --> 00:10:58,670
+73% of this world has woken up
+to the age of cyber enhancement.
+
+84
+00:10:59,260 --> 00:11:01,000
+Do you really wanna be left behind?
+
+85
+00:11:01,200 --> 00:11:05,520
+My people embrace cyber enhancement
+as do I.
+
+86
+00:11:05,900 --> 00:11:08,620
+There is no one who really
+understand the risk...
+
+87
+00:11:08,810 --> 00:11:13,050
+To individuality, identity,
+messing with the human soul.
+
+88
+00:11:15,070 --> 00:11:16,990
+Gentlemen, Excuse me,
+I think you've the wrong...
+
+89
+00:11:22,710 --> 00:11:24,470
+Hallway. Six men. Shots fired.
+
+90
+00:11:25,470 --> 00:11:26,760
+Section 9 ETA?
+
+91
+00:11:26,789 --> 00:11:28,250
+- Two minutes out, Major.
+- Too long.
+
+92
+00:11:28,390 --> 00:11:29,670
+I'm going in.
+
+93
+00:11:30,170 --> 00:11:31,170
+<i>Hold!</i>
+
+94
+00:11:39,130 --> 00:11:40,420
+<i>Major, stop!</i>
+
+95
+00:11:44,270 --> 00:11:47,390
+I had heard this speech before
+from your competitors.
+
+96
+00:11:47,780 --> 00:11:51,120
+And now Hanka Robotics
+serves it with Milky suck.
+
+97
+00:11:52,558 --> 00:11:53,423
+<i>Hey.. hey..</i>
+
+98
+00:11:53,470 --> 00:11:55,220
+Look. This is what I'm talking about.
+
+99
+00:12:00,940 --> 00:12:01,940
+<i>Major!</i>
+
+100
+00:12:25,910 --> 00:12:28,790
+<i>Initiate...
+The hack.</i>
+
+101
+00:13:45,090 --> 00:13:48,469
+<i>Help me. Please. Don't let me die.</i>
+
+102
+00:13:48,669 --> 00:13:49,430
+Who sent you?
+
+103
+00:13:49,580 --> 00:13:51,130
+<i>Help me. Please.</i>
+
+104
+00:13:51,270 --> 00:13:52,410
+Answer me!
+
+105
+00:13:52,780 --> 00:13:56,310
+<i>Collaborate with Hanka Robotics
+and be destroyed.</i>
+
+106
+00:14:16,870 --> 00:14:17,520
+You okay?
+
+107
+00:14:21,160 --> 00:14:22,330
+You're injured.
+
+108
+00:14:32,740 --> 00:14:33,910
+You're not the same.
+
+109
+00:14:35,680 --> 00:14:36,280
+Hey.
+
+110
+00:14:36,770 --> 00:14:38,560
+It's just a robot!
+
+111
+00:15:59,810 --> 00:16:04,050
+<i>Your skin deserves the best, so do you.
+Try our hand cream.</i>
+
+112
+00:16:18,570 --> 00:16:23,120
+<i>DEPARTMENT OF DEFENSE,
+CENTRAL OFFICE, SECTION 9</i>
+
+113
+00:16:25,210 --> 00:16:27,140
+So what do we have on Osmond?
+
+114
+00:16:27,400 --> 00:16:29,010
+So far, very little.
+
+115
+00:16:30,120 --> 00:16:32,570
+He was the head of Hanka's
+robotics division.
+
+116
+00:16:32,950 --> 00:16:35,200
+Human, but of course cyber enhanced.
+
+117
+00:16:35,520 --> 00:16:37,000
+So how did they hack him?
+
+118
+00:16:37,200 --> 00:16:39,870
+Somehow this geisha bot
+got past his encryption.
+
+119
+00:16:40,160 --> 00:16:41,650
+Something is different.
+
+120
+00:16:42,040 --> 00:16:43,140
+What'd you get?
+
+121
+00:16:43,310 --> 00:16:45,500
+Why you always thinking
+he's out there enhancing.
+
+122
+00:16:45,770 --> 00:16:47,330
+Because he is.
+
+123
+00:16:47,950 --> 00:16:49,200
+A cyber mech liver.
+
+124
+00:16:49,570 --> 00:16:51,130
+Been saving up for a while.
+
+125
+00:16:51,390 --> 00:16:52,890
+Now it's last call every night.
+
+126
+00:16:53,380 --> 00:16:55,390
+You got enhanced
+so you can drink more?
+
+127
+00:16:56,790 --> 00:16:59,940
+Embrace enhancements, Togusa.
+We would not be here without it.
+
+128
+00:17:00,680 --> 00:17:02,740
+I am all human and happy, thanks.
+
+129
+00:17:04,190 --> 00:17:06,560
+Any more information
+about the seized geisha bot?
+
+130
+00:17:06,860 --> 00:17:08,220
+Hanka is running scans.
+
+131
+00:17:08,590 --> 00:17:10,710
+Dr. Dahlin will have the
+reports ready but...
+
+132
+00:17:14,040 --> 00:17:15,680
+<i>I've been talking to the Prime Minister.</i>
+
+133
+00:17:19,580 --> 00:17:21,550
+<i>He wants a full report.</i>
+
+134
+00:17:22,510 --> 00:17:23,510
+<i>Togusa.</i>
+
+135
+00:17:26,000 --> 00:17:27,710
+Following last night's attack...
+
+136
+00:17:28,570 --> 00:17:30,880
+3 more Hanka's scientists were murdered...
+
+137
+00:17:31,230 --> 00:17:32,950
+at the company's central laboratory.
+
+138
+00:17:34,150 --> 00:17:35,880
+The first two were shot...
+
+139
+00:17:36,280 --> 00:17:39,720
+and the third was beaten to death
+by his own service robot.
+
+140
+00:17:40,660 --> 00:17:43,810
+All showed signs of cerebral hacking.
+
+141
+00:17:44,690 --> 00:17:46,600
+The same as the geisha did to Osmond.
+
+142
+00:17:47,550 --> 00:17:51,120
+And all were senior figures... in Hanka.
+
+143
+00:17:51,620 --> 00:17:52,800
+Just like Osmond.
+
+144
+00:17:53,920 --> 00:17:57,173
+A message was left
+at each of the crime scene...
+
+145
+00:17:57,250 --> 00:17:59,570
+By someone identifying himself...
+
+146
+00:18:01,810 --> 00:18:03,140
+as <i>Kuze.</i>
+
+147
+00:18:04,050 --> 00:18:07,570
+<i>Collaborate with Hanka Robotics
+and be destroyed.</i>
+
+148
+00:18:09,290 --> 00:18:11,060
+<i>Collaborate with Hanka Robotics...</i>
+
+149
+00:18:11,490 --> 00:18:13,330
+<i>and be destroyed.</i>
+
+150
+00:18:16,490 --> 00:18:17,490
+<i>Togusa.</i>
+
+151
+00:18:17,610 --> 00:18:21,620
+<i>You and Ladriya go speak to Mr. Cutter,
+the CEO of Hanka.</i>
+
+152
+00:18:23,560 --> 00:18:26,530
+<i>Major and Batou
+take a look at Dahlin report.</i>
+
+153
+00:18:27,550 --> 00:18:30,980
+<i>Find out what has been
+recovered from the geisha.</i>
+
+154
+00:18:34,420 --> 00:18:35,800
+<i>Major!</i>
+
+155
+00:18:48,480 --> 00:18:50,480
+<i>I told you not jump off.</i>
+
+156
+00:18:50,990 --> 00:18:53,370
+I had to, or more would have died.
+
+157
+00:18:54,310 --> 00:18:58,060
+<i>You are a member of my team,
+and my responsibility</i>
+
+158
+00:18:59,350 --> 00:19:01,990
+I'll find him... and I will kill him.
+
+159
+00:19:02,550 --> 00:19:05,830
+It's what I am built for, isn't it?
+
+160
+00:19:12,330 --> 00:19:14,680
+<i>You are more than just a weapon.</i>
+
+161
+00:19:14,950 --> 00:19:18,560
+<i>You have a soul, a ghost.</i>
+
+162
+00:19:19,450 --> 00:19:23,740
+<i>When we see our uniqueness as a virtue...</i>
+
+163
+00:19:24,500 --> 00:19:26,830
+<i>Only then will we find peace.</i>
+
+164
+00:19:30,760 --> 00:19:34,660
+<i>Safely reconfiguring the
+child's genetic Structure.</i>
+
+165
+00:19:35,060 --> 00:19:37,280
+<i>Families built better.</i>
+
+166
+00:19:37,740 --> 00:19:39,770
+What was going on with you
+at the hotel last night?
+
+167
+00:19:40,140 --> 00:19:41,230
+Nothing. I'm fine.
+
+168
+00:19:41,460 --> 00:19:42,650
+You sure?
+
+169
+00:19:43,970 --> 00:19:46,230
+<i>- Hey, sweetheart, want an upgrade?
+- Move.</i>
+
+170
+00:19:46,530 --> 00:19:48,430
+<i>- I have anything you want.
+- Back off!</i>
+
+171
+00:19:51,710 --> 00:19:52,710
+Hey, Ming!
+
+172
+00:19:52,830 --> 00:19:53,830
+Hey, Batou!
+
+173
+00:19:57,220 --> 00:19:59,430
+- Got your bones.
+- Thanks man.
+
+174
+00:20:00,180 --> 00:20:01,470
+For the dogs.
+
+175
+00:20:02,130 --> 00:20:05,450
+For someone who doesn't like people,
+how come you care about dogs so much?
+
+176
+00:20:05,680 --> 00:20:08,320
+I dont know. I like just strays
+and they like me.
+
+177
+00:20:08,650 --> 00:20:10,380
+They like you because you feed them.
+
+178
+00:20:11,210 --> 00:20:12,680
+You got no heart.
+
+179
+00:20:13,300 --> 00:20:14,580
+Hey, girls!
+
+180
+00:20:20,040 --> 00:20:21,500
+Hey Gabriel!
+
+181
+00:20:22,820 --> 00:20:23,940
+Meet Major.
+
+182
+00:20:24,200 --> 00:20:25,830
+Major, Gabriel.
+
+183
+00:20:29,930 --> 00:20:31,700
+We used to have a dog.
+
+184
+00:20:32,100 --> 00:20:33,190
+Seriously?
+
+185
+00:20:37,170 --> 00:20:39,810
+I had you down as more of a cat person.
+
+186
+00:20:44,290 --> 00:20:46,480
+You don't talk about that stuff.
+
+187
+00:20:46,760 --> 00:20:47,760
+What?
+
+188
+00:20:47,940 --> 00:20:50,730
+- Your past.
+- I don't remember much.
+
+189
+00:20:51,040 --> 00:20:52,700
+Just fragments, bits and pieces.
+
+190
+00:20:54,670 --> 00:20:56,070
+What about family?
+
+191
+00:20:56,360 --> 00:20:58,710
+My parents, they died
+bringing us to this country.
+
+192
+00:20:58,910 --> 00:21:00,460
+Our boat sank in the harbor.
+
+193
+00:21:00,830 --> 00:21:02,700
+I almost drowned.
+
+194
+00:21:04,600 --> 00:21:05,880
+I feel it's like...
+
+195
+00:21:06,030 --> 00:21:08,370
+there is always this thick fog
+over my memory.
+
+196
+00:21:08,450 --> 00:21:09,870
+And I can't seen through it.
+
+197
+00:21:11,130 --> 00:21:12,270
+You are lucky.
+
+198
+00:21:12,580 --> 00:21:15,190
+Every single day I get
+screwed upon my memory.
+
+199
+00:21:15,420 --> 00:21:16,880
+It's better to be pure.
+
+200
+00:21:17,590 --> 00:21:18,800
+Like you.
+
+201
+00:21:32,720 --> 00:21:35,290
+<i>HANKA CENTRAL OFFICE OF ROBOTICS</i>
+
+202
+00:21:37,170 --> 00:21:39,600
+<i>Welcome to Hanka Robotics.</i>
+
+203
+00:21:40,820 --> 00:21:44,700
+<i>All visitors must display
+appropriate credentials at all times.</i>
+
+204
+00:21:49,140 --> 00:21:50,780
+Opens and close, please.
+
+205
+00:21:52,580 --> 00:21:54,970
+Your have damaged internal systems.
+
+206
+00:21:55,280 --> 00:21:57,610
+Maybe next time you can design me better.
+
+207
+00:22:01,440 --> 00:22:03,590
+- How are you?
+- I am fine. I can't feel anything.
+
+208
+00:22:03,870 --> 00:22:06,530
+No you, in There.
+
+209
+00:22:08,100 --> 00:22:10,100
+I have been having glitches...
+
+210
+00:22:10,950 --> 00:22:12,310
+It will pass.
+
+211
+00:22:12,730 --> 00:22:15,340
+- Have you been taking your medication?
+- Yeah.
+
+212
+00:22:15,760 --> 00:22:18,930
+But these ones are so cycling.
+I had two this morning.
+
+213
+00:22:19,320 --> 00:22:21,620
+- Sound or image?
+- Both.
+
+214
+00:22:25,520 --> 00:22:26,950
+I see it.
+
+215
+00:22:28,020 --> 00:22:30,070
+You made any unencrypted downloads?
+
+216
+00:22:30,420 --> 00:22:32,610
+- No. Just delete them from me.
+- Consent?
+
+217
+00:22:32,840 --> 00:22:36,740
+My name is Major Mary Killian.
+I give my consent to delete this data.
+
+218
+00:22:37,200 --> 00:22:38,310
+It's done.
+
+219
+00:22:39,020 --> 00:22:41,260
+- No big deal.
+- What are they?
+
+220
+00:22:42,210 --> 00:22:44,720
+Sensory echoes from your mind, shadows.
+
+221
+00:22:45,010 --> 00:22:46,070
+I'm not sure.
+
+222
+00:22:46,380 --> 00:22:48,100
+How do you know what's a glitch
+and what's me?
+
+223
+00:22:48,480 --> 00:22:51,120
+The glitches have a different texture...
+
+224
+00:22:51,560 --> 00:22:53,390
+to the rest of your code.
+
+225
+00:22:55,700 --> 00:22:57,200
+I can see everything.
+
+226
+00:22:58,720 --> 00:23:01,890
+All of your thoughts, your... decisions.
+
+227
+00:23:02,310 --> 00:23:04,210
+I guess privacy is just for humans.
+
+228
+00:23:04,450 --> 00:23:06,130
+You are human.
+
+229
+00:23:07,450 --> 00:23:09,260
+People see you as human.
+
+230
+00:23:09,430 --> 00:23:11,800
+Everyone around me seems to fit.
+
+231
+00:23:12,310 --> 00:23:15,610
+They seem connected to something.
+Something I...
+
+232
+00:23:16,030 --> 00:23:17,350
+am not..
+
+233
+00:23:19,410 --> 00:23:21,940
+- Like I have no past.
+- Of course you have a past.
+
+234
+00:23:22,230 --> 00:23:25,640
+And at time you'll feel more more
+connected to it and to them.
+
+235
+00:23:29,410 --> 00:23:31,270
+Opens and close, please.
+
+236
+00:23:40,120 --> 00:23:43,420
+We cling to memories
+as if they define us, but...
+
+237
+00:23:44,800 --> 00:23:46,280
+They really don't.
+
+238
+00:23:47,670 --> 00:23:50,060
+What we do is what defines us.
+
+239
+00:23:53,260 --> 00:23:56,670
+<i>You're entering a Hanka secure area.
+Authorized personal only.</i>
+
+240
+00:23:57,970 --> 00:24:00,140
+<i>Please disable communication enhancement.</i>
+
+241
+00:24:01,590 --> 00:24:02,250
+I'm busy.
+
+242
+00:24:02,440 --> 00:24:04,870
+Dr. Dahlin! Are you finished yet?
+
+243
+00:24:05,210 --> 00:24:07,290
+If you hadn't riddled the Geisha
+with bullets,
+
+244
+00:24:07,360 --> 00:24:08,400
+This would be much easier.
+
+245
+00:24:08,750 --> 00:24:11,010
+- I didn't shoot him.
+- I did.
+
+246
+00:24:12,550 --> 00:24:14,240
+This is gonna take days.
+
+247
+00:24:14,900 --> 00:24:17,160
+I need to run hundreds
+of potential simulations.
+
+248
+00:24:17,400 --> 00:24:18,520
+We don't have the time.
+
+249
+00:24:22,040 --> 00:24:24,790
+She was a Hanka companion bot.
+
+250
+00:24:25,840 --> 00:24:28,360
+But she was reprogrammed
+for cerebral hacking.
+
+251
+00:24:29,640 --> 00:24:31,160
+What was on her drives?
+
+252
+00:24:31,980 --> 00:24:36,160
+Nothing. The data was destroyed
+as it was transmitted.
+
+253
+00:24:36,280 --> 00:24:38,230
+No sign of what she was up to.
+
+254
+00:24:38,620 --> 00:24:40,780
+The hardware was vandalized.
+
+255
+00:24:41,440 --> 00:24:43,150
+They ripped her up.
+
+256
+00:24:43,470 --> 00:24:45,440
+Then I have to do a deep dive.
+
+257
+00:24:45,960 --> 00:24:48,420
+You can't encrypt during a deep dive.
+
+258
+00:24:48,710 --> 00:24:50,060
+I know it.
+
+259
+00:24:51,470 --> 00:24:55,940
+They could left traps in her.
+Mag pulses, viruses.
+
+260
+00:24:56,270 --> 00:24:57,380
+She is right.
+
+261
+00:24:57,970 --> 00:25:02,190
+You will be exposing your mind to
+who ever hacked her. You'll be wide open.
+
+262
+00:25:05,410 --> 00:25:09,710
+I have to get inside her memory.
+It's the fastest way to find Kuze.
+
+263
+00:25:15,580 --> 00:25:17,110
+It's too dangerous.
+
+264
+00:25:17,540 --> 00:25:19,800
+And highly irresponsible.
+
+265
+00:25:24,730 --> 00:25:26,100
+Are you sure?
+
+266
+00:25:26,520 --> 00:25:28,770
+You see any bad code headed my way,
+pull me out.
+
+267
+00:25:32,520 --> 00:25:34,510
+How come you're the one sweating?
+
+268
+00:25:42,690 --> 00:25:43,750
+Run it.
+
+269
+00:25:52,490 --> 00:25:55,720
+Cyber mind connection to the Major,
+now active...
+
+270
+00:25:56,030 --> 00:25:57,730
+and unencrypted
+
+271
+00:25:59,390 --> 00:26:01,350
+consent required for data download.
+
+272
+00:26:01,650 --> 00:26:04,770
+My name is Major Mira Killian
+and I give my consent.
+
+273
+00:27:45,440 --> 00:27:46,870
+Disconnect. Get her out.
+
+274
+00:27:47,280 --> 00:27:50,350
+- Get her out!
+- I'm trying, but she's being hacked.
+
+275
+00:27:53,990 --> 00:27:55,650
+Get her out now!
+
+276
+00:27:58,600 --> 00:27:59,910
+Now!
+
+277
+00:28:01,740 --> 00:28:03,070
+Are you okay?
+
+278
+00:28:06,040 --> 00:28:07,610
+I know where he is.
+
+279
+00:28:21,866 --> 00:28:23,198
+I know this place.
+
+280
+00:28:23,493 --> 00:28:25,173
+They run black market mech.
+
+281
+00:28:26,553 --> 00:28:28,374
+- You tooled up?
+- Yep.
+
+282
+00:28:28,476 --> 00:28:30,612
+Target's in the basement,
+I'll lead.
+
+283
+00:28:30,896 --> 00:28:32,076
+Switching in my comms.
+
+284
+00:28:33,089 --> 00:28:35,740
+- Hope you've been practicing.
+- That's unfair.
+
+285
+00:28:37,250 --> 00:28:39,181
+Just takes me a moment to...
+
+286
+00:28:39,472 --> 00:28:40,860
+get the hang of it.
+
+287
+00:28:50,960 --> 00:28:54,390
+Two mercs at the doors.
+Armed and enhanced.
+
+288
+00:28:54,700 --> 00:28:57,210
+Copy that. We got it covered.
+
+289
+00:29:07,910 --> 00:29:09,840
+There's a lot of heat in here
+for a nightclub.
+
+290
+00:29:10,170 --> 00:29:13,310
+It's a Yakuza club. What did you expect?
+
+291
+00:29:13,730 --> 00:29:15,110
+I quite like the place.
+
+292
+00:29:15,610 --> 00:29:17,390
+Why doesn't that surprise me?
+
+293
+00:29:18,290 --> 00:29:22,260
+I am gonna have to draw some attention.
+See if I can access the basement that way.
+
+294
+00:29:26,210 --> 00:29:28,350
+You're not here
+looking for any trouble, are you?
+
+295
+00:29:28,450 --> 00:29:31,440
+I am just here for the girls... and beer.
+
+296
+00:29:35,020 --> 00:29:37,320
+- Can I help you?
+- I am looking for someone.
+
+297
+00:29:37,510 --> 00:29:38,860
+You've been here before?
+
+298
+00:29:39,130 --> 00:29:41,480
+My friend had some mech work done here.
+Industry stuff.
+
+299
+00:29:42,050 --> 00:29:43,390
+We don't do mech work here.
+
+300
+00:29:44,190 --> 00:29:45,450
+My mistake.
+
+301
+00:29:46,220 --> 00:29:49,390
+Why don't you come have fun with us?
+We will have some privacy.
+
+302
+00:29:57,620 --> 00:29:58,620
+I'm in.
+
+303
+00:29:59,400 --> 00:30:00,800
+I'll be here when you need me.
+
+304
+00:30:13,540 --> 00:30:17,480
+- You say your friend worked here?
+- I said my friend had work done here.
+
+305
+00:30:18,620 --> 00:30:19,950
+She's human?
+
+306
+00:30:20,700 --> 00:30:21,970
+Your friend.
+
+307
+00:30:22,520 --> 00:30:24,520
+Now what's that supposed to mean?
+
+308
+00:30:24,770 --> 00:30:25,850
+Batou.
+
+309
+00:30:26,300 --> 00:30:27,300
+Can you hear me?
+
+310
+00:30:27,620 --> 00:30:31,340
+Who did this stunning work on you?
+
+311
+00:30:32,140 --> 00:30:33,380
+It is divine.
+
+312
+00:30:40,370 --> 00:30:41,610
+Ladriya... guns.
+
+313
+00:30:42,740 --> 00:30:43,860
+Here.
+
+314
+00:30:46,950 --> 00:30:48,550
+Batou, I'm losing signal.
+
+315
+00:30:48,920 --> 00:30:50,850
+Don't worry sweety.
+
+316
+00:30:51,900 --> 00:30:53,330
+We have privacy.
+
+317
+00:30:55,140 --> 00:30:56,140
+Listen.
+
+318
+00:30:56,660 --> 00:30:58,900
+No signal is going in or out.
+
+319
+00:30:59,920 --> 00:31:02,530
+Major, I'm in position. Do you copy?
+
+320
+00:31:03,740 --> 00:31:04,740
+Beer.
+
+321
+00:31:06,370 --> 00:31:08,950
+If you don't answer,
+you're gonna hurt my feelings.
+
+322
+00:31:16,850 --> 00:31:19,140
+Ladriya, do you have major on Comms?
+
+323
+00:31:19,460 --> 00:31:21,940
+Got nothing. The signal is still blocked.
+
+324
+00:31:22,540 --> 00:31:25,170
+I am afraid I get bored
+rather easily, so...
+
+325
+00:31:25,820 --> 00:31:27,440
+You don't wanna talk...
+
+326
+00:31:29,260 --> 00:31:31,400
+Maybe you wanna dance!
+
+327
+00:31:33,860 --> 00:31:35,840
+Major, come on. Answer me.
+
+328
+00:31:52,030 --> 00:31:53,750
+I thought you said no trouble.
+
+329
+00:31:54,810 --> 00:31:55,850
+Dance!
+
+330
+00:32:02,570 --> 00:32:03,700
+The truth is...
+
+331
+00:32:05,370 --> 00:32:06,990
+I wasn't built to dance.
+
+332
+00:33:00,970 --> 00:33:03,920
+Back on comms.
+I am heading to the back room.
+
+333
+00:33:04,860 --> 00:33:07,890
+I missed you. I'll meet you there.
+
+334
+00:33:39,120 --> 00:33:42,590
+<i>Collaborate with Hanka Robotics
+and be destroyed.</i>
+
+335
+00:33:53,330 --> 00:33:54,390
+Major?
+
+336
+00:34:27,420 --> 00:34:28,890
+Where is Batou?
+
+337
+00:34:29,480 --> 00:34:32,710
+In enhancement, next door.
+He is doing well
+
+338
+00:34:34,610 --> 00:34:36,770
+you took most of the blast.
+
+339
+00:34:39,740 --> 00:34:41,650
+I saw him down there.
+
+340
+00:34:43,430 --> 00:34:44,820
+It was like...
+
+341
+00:34:46,440 --> 00:34:48,380
+He waited to see me.
+
+342
+00:34:49,420 --> 00:34:51,020
+We synaptic scanned you.
+
+343
+00:34:51,360 --> 00:34:54,660
+Everything you witnessed
+went to Section 9 to evaluate.
+
+344
+00:34:57,300 --> 00:34:59,230
+You know, the scan...
+
+345
+00:34:59,620 --> 00:35:01,820
+Also turned up the number of glitches.
+
+346
+00:35:03,020 --> 00:35:04,550
+They've been getting worse.
+
+347
+00:35:06,440 --> 00:35:07,680
+Since when?
+
+348
+00:35:08,730 --> 00:35:10,270
+Since the deep dive.
+
+349
+00:35:26,770 --> 00:35:29,530
+Do any of the glitches
+mean something to you?
+
+350
+00:35:30,930 --> 00:35:32,050
+No.
+
+351
+00:35:33,220 --> 00:35:34,220
+They don't.
+
+352
+00:35:36,470 --> 00:35:39,240
+You have been inside
+the same shell as he has.
+
+353
+00:35:39,860 --> 00:35:43,770
+That could have very serious consequences.
+
+354
+00:35:44,800 --> 00:35:47,930
+You were not authorized
+to deep dive the geisha.
+
+355
+00:35:49,020 --> 00:35:50,790
+You're disappointed.
+
+356
+00:35:52,290 --> 00:35:54,020
+No, I'm worried.
+
+357
+00:35:56,540 --> 00:35:58,350
+You're not invulnerable.
+
+358
+00:35:59,300 --> 00:36:02,900
+I can repair your body,
+but I can't protect your mind.
+
+359
+00:36:03,700 --> 00:36:05,000
+Why not?
+
+360
+00:36:08,420 --> 00:36:10,750
+You can see all my thoughts so...
+
+361
+00:36:11,420 --> 00:36:13,200
+You should be able to secure them.
+
+362
+00:36:14,560 --> 00:36:17,610
+Try and understand your importance Mira.
+
+363
+00:36:20,620 --> 00:36:23,590
+You're what everyone will become one day.
+
+364
+00:36:26,620 --> 00:36:29,120
+You don't know how alone
+that makes me feel.
+
+365
+00:36:47,220 --> 00:36:48,850
+I can see you out there, you know.
+
+366
+00:36:51,670 --> 00:36:53,540
+How many fingers am I holding up?
+
+367
+00:36:54,790 --> 00:36:55,830
+Funny.
+
+368
+00:37:05,090 --> 00:37:06,940
+Say something nice.
+
+369
+00:37:08,340 --> 00:37:10,040
+You chose those?
+
+370
+00:37:10,540 --> 00:37:11,970
+They are tactical.
+
+371
+00:37:13,060 --> 00:37:16,040
+- Always for the job.
+- What else I got?
+
+372
+00:37:16,720 --> 00:37:18,540
+- They suit you.
+- Yeah?
+
+373
+00:37:18,980 --> 00:37:21,370
+I got night vision...
+
+374
+00:37:22,060 --> 00:37:23,670
+and X-rays.
+
+375
+00:37:24,830 --> 00:37:26,500
+I guess I see like you now.
+
+376
+00:37:27,220 --> 00:37:29,630
+Don't worry, you'll get used to it.
+
+377
+00:37:32,250 --> 00:37:33,900
+Thanks for saving my ass.
+
+378
+00:37:34,950 --> 00:37:36,770
+Glad to see you're okay...
+
+379
+00:37:37,980 --> 00:37:39,120
+Major?
+
+380
+00:37:40,550 --> 00:37:42,430
+Could you feed the dogs for me?
+
+381
+00:37:44,050 --> 00:37:45,520
+I don't wanna scare them.
+
+382
+00:37:45,820 --> 00:37:47,120
+Anytime.
+
+383
+00:38:31,030 --> 00:38:34,060
+Are you insufficiently funded, Mr. Aramaki?
+
+384
+00:38:34,670 --> 00:38:37,950
+Is section 9 missing some
+critical operational resource?
+
+385
+00:38:38,400 --> 00:38:41,150
+<i>We have everything that we require.</i>
+
+386
+00:38:41,680 --> 00:38:45,700
+Major is our most sophisticated weapon
+only if she is intact.
+
+387
+00:38:47,450 --> 00:38:49,070
+And Dr. Ouelet informed me...
+
+388
+00:38:49,450 --> 00:38:52,220
+That you let her dive a corrupted geisha.
+
+389
+00:39:00,780 --> 00:39:02,700
+You realize there is a premium importance
+
+390
+00:39:02,800 --> 00:39:04,550
+that Hanka represents to this government.
+
+391
+00:39:05,630 --> 00:39:08,260
+Major is the is the future of my company.
+
+392
+00:39:09,000 --> 00:39:11,660
+If you compromise your systems again...
+
+393
+00:39:12,470 --> 00:39:14,280
+I will burn this section.
+
+394
+00:39:17,830 --> 00:39:19,150
+<i>Yes sir.</i>
+
+395
+00:39:21,120 --> 00:39:22,510
+<i>Mr. Cutter.</i>
+
+396
+00:39:22,860 --> 00:39:25,200
+<i>Be careful who is the threat.</i>
+
+397
+00:39:25,540 --> 00:39:29,360
+<i>I am accountable to the Prime Minister,
+not to Hanka.</i>
+
+398
+00:40:15,460 --> 00:40:19,130
+<i>Create your own beauty.
+Beauty enhanced.</i>
+
+399
+00:40:29,930 --> 00:40:31,400
+Are you human?
+
+400
+00:40:32,990 --> 00:40:33,990
+Yeah.
+
+401
+00:40:40,080 --> 00:40:41,500
+Can you take that off?
+
+402
+00:40:42,070 --> 00:40:44,180
+So I can see your face?
+
+403
+00:41:09,570 --> 00:41:11,470
+What does that feel like?
+
+404
+00:41:11,860 --> 00:41:12,860
+It feels...
+
+405
+00:41:13,440 --> 00:41:14,720
+different.
+
+406
+00:41:26,110 --> 00:41:27,790
+What are you?
+
+407
+00:41:44,930 --> 00:41:46,440
+<i>SECURE PROJECT 2571</i>
+
+408
+00:41:55,710 --> 00:41:57,150
+<i>HANKA PERSONNEL FILES</i>
+
+409
+00:42:04,850 --> 00:42:05,850
+Look at me.
+
+410
+00:42:08,830 --> 00:42:11,160
+Tell me what they took from me.
+
+411
+00:42:13,010 --> 00:42:16,260
+I am sorry. They never told us.
+
+412
+00:42:38,830 --> 00:42:41,250
+It feels weird driving with these eyes.
+
+413
+00:42:44,890 --> 00:42:46,400
+Why do you take that?
+
+414
+00:42:46,700 --> 00:42:49,700
+Um, keeps my brain
+from rejecting this body.
+
+415
+00:42:51,830 --> 00:42:54,050
+Major, Batou, you need to get here.
+
+416
+00:42:54,390 --> 00:42:55,390
+What you got?
+
+417
+00:42:55,630 --> 00:42:58,020
+Another Hanka scientist
+has been found dead.
+
+418
+00:42:58,440 --> 00:42:59,590
+It's Dahlin.
+
+419
+00:43:00,110 --> 00:43:01,110
+Got it.
+
+420
+00:43:08,470 --> 00:43:09,920
+Major this way.
+
+421
+00:43:36,950 --> 00:43:39,430
+<i>SECURE - PROJECT 2571</i>
+
+422
+00:43:39,870 --> 00:43:41,090
+What is that?
+
+423
+00:43:42,450 --> 00:43:44,860
+She found what Kuze stole from Osmond.
+
+424
+00:43:45,710 --> 00:43:50,420
+It's a list of everyone
+who worked on a project called 2571.
+
+425
+00:43:50,990 --> 00:43:52,420
+That's who he's targeting.
+
+426
+00:43:52,980 --> 00:43:54,720
+Is there anyone else on that list?
+
+427
+00:43:55,530 --> 00:43:57,330
+<i>Dr. OUELET</i>
+
+428
+00:43:57,680 --> 00:43:59,930
+Find Oulet. Now!
+
+429
+00:44:00,060 --> 00:44:03,100
+She is in transit. Her comms are down.
+
+430
+00:44:07,720 --> 00:44:09,810
+<i>I'm looking at her and I'm thinking...</i>
+
+431
+00:44:10,230 --> 00:44:12,270
+<i>"You want me to for pay for violin too".</i>
+
+432
+00:44:12,540 --> 00:44:13,850
+<i>Don't get me wrong.</i>
+
+433
+00:44:14,690 --> 00:44:16,530
+<i>I love that kid to pieces.</i>
+
+434
+00:44:17,030 --> 00:44:18,720
+<i>I do. She is amazing.</i>
+
+435
+00:44:19,040 --> 00:44:21,950
+<i>But when she practices that thing,
+it's painful right?</i>
+
+436
+00:44:23,030 --> 00:44:24,030
+<i>Why not piano?</i>
+
+437
+00:44:24,550 --> 00:44:28,830
+<i>I mean, it's the same price, you know.
+And doesn't sound so bad.</i>
+
+438
+00:44:31,010 --> 00:44:33,530
+<i>At least if you can't play that proper,
+it sounds...</i>
+
+439
+00:45:22,950 --> 00:45:25,490
+<i>2-5-7-1!
+Tell me everything!</i>
+
+440
+00:45:37,510 --> 00:45:39,460
+<i>Are you prepare
+to die for 2-5-7...?</i>
+
+441
+00:45:48,570 --> 00:45:49,570
+Go!
+
+442
+00:46:04,630 --> 00:46:05,630
+Go!
+
+443
+00:48:03,540 --> 00:48:04,540
+Who is Kuze?
+
+444
+00:48:04,920 --> 00:48:07,290
+- Why does he want to kill Ouelet?
+- I don't know anything.
+
+445
+00:48:10,040 --> 00:48:12,010
+Enough, enough!
+
+446
+00:48:14,190 --> 00:48:15,620
+We need him alive.
+
+447
+00:48:19,440 --> 00:48:22,090
+Please. I have been trough this.
+
+448
+00:48:23,280 --> 00:48:25,260
+You have the wrong guy.
+
+449
+00:48:26,430 --> 00:48:28,800
+So tell us who we do have.
+
+450
+00:48:30,250 --> 00:48:33,580
+My name is Lee Cunningham.
+
+451
+00:48:37,240 --> 00:48:39,260
+- Where'd you get the weapons?
+- I don't know.
+
+452
+00:48:39,480 --> 00:48:40,170
+Who loaded the mines?
+
+453
+00:48:40,270 --> 00:48:42,680
+I don't know anything about the weapons,
+alright I told you.
+
+454
+00:48:42,880 --> 00:48:45,370
+I was picking up my daughter.
+She takes violin lessons.
+
+455
+00:48:45,590 --> 00:48:47,040
+What's her name?
+
+456
+00:48:50,240 --> 00:48:52,140
+- Is this her?
+- Yeah.
+
+457
+00:48:53,360 --> 00:48:54,780
+Isn't she a little angel?
+
+458
+00:48:55,120 --> 00:48:57,020
+- This is your daughter?
+- Right.
+
+459
+00:48:59,740 --> 00:49:01,240
+Do you have that?
+
+460
+00:49:04,760 --> 00:49:06,060
+Where do you live?
+
+461
+00:49:08,350 --> 00:49:09,660
+I can't remember.
+
+462
+00:49:09,980 --> 00:49:12,960
+I think it's a tall place.
+Is it a tall building?
+
+463
+00:49:13,360 --> 00:49:15,060
+It's a tall place, right?
+
+464
+00:49:16,400 --> 00:49:17,970
+You don't have a child.
+
+465
+00:49:20,820 --> 00:49:24,150
+You have no wife. You live alone,
+It's just you.
+
+466
+00:49:24,340 --> 00:49:25,900
+- What? No.
+- We went to your apartment.
+
+467
+00:49:26,020 --> 00:49:27,330
+- There was nobody there.
+- No.
+
+468
+00:49:27,530 --> 00:49:28,950
+You live there for
+10 years by yourself.
+
+469
+00:49:28,970 --> 00:49:29,220
+No.
+
+470
+00:49:29,420 --> 00:49:31,620
+- You're just lying.
+- I'm not lying.
+
+471
+00:49:32,680 --> 00:49:34,290
+I didn't kill anyone!
+
+472
+00:49:34,530 --> 00:49:36,810
+- Why do you keep doing this to me?
+- Holocube disconnect.
+
+473
+00:49:37,240 --> 00:49:38,240
+Please!
+
+474
+00:49:38,990 --> 00:49:40,950
+I didn't do anything.
+
+475
+00:49:41,310 --> 00:49:43,797
+Why do you keep saying this to me?
+
+476
+00:49:43,997 --> 00:49:45,840
+I don't understand.
+How can he not know?
+
+477
+00:49:46,290 --> 00:49:49,920
+The hack must have created a vacuum.
+Kuze's wiped his memory...
+
+478
+00:49:50,360 --> 00:49:52,850
+and somehow installed a new reality.
+
+479
+00:49:54,810 --> 00:49:56,640
+At least he got to believe he had a kid.
+
+480
+00:49:58,280 --> 00:49:59,410
+What's the difference huh?
+
+481
+00:50:01,080 --> 00:50:02,910
+Fantasy, reality?
+
+482
+00:50:03,310 --> 00:50:05,090
+Dreams, memories?
+
+483
+00:50:06,050 --> 00:50:07,720
+It's all the same.
+
+484
+00:50:08,520 --> 00:50:10,080
+Just noise.
+
+485
+00:50:12,080 --> 00:50:13,080
+It's him.
+
+486
+00:50:16,160 --> 00:50:17,610
+He is in there.
+
+487
+00:50:20,420 --> 00:50:22,840
+This cube is secure.
+He can't be, Major.
+
+488
+00:50:23,320 --> 00:50:24,560
+Lie Detector.
+
+489
+00:50:24,780 --> 00:50:25,779
+He must have hacked in that way.
+
+490
+00:50:25,937 --> 00:50:28,789
+We should uplink to the machine,
+trace the code, get a lock on his location.
+
+491
+00:50:28,860 --> 00:50:30,160
+Do it.
+
+492
+00:50:30,230 --> 00:50:32,630
+Don't go in there.
+It's too dangerous.
+
+493
+00:50:33,190 --> 00:50:34,760
+<i>Major</i>
+
+494
+00:50:35,020 --> 00:50:37,680
+<i>We don't know what else he can do.</i>
+
+495
+00:50:49,740 --> 00:50:51,990
+The signal is unstable.
+Can you get the lock on him?
+
+496
+00:50:52,550 --> 00:50:54,360
+We gotta move fast. We're losing him.
+
+497
+00:50:54,490 --> 00:50:55,780
+Connecting.
+
+498
+00:50:58,560 --> 00:50:59,730
+Who are you?
+
+499
+00:51:02,840 --> 00:51:04,030
+Come here.
+
+500
+00:51:06,440 --> 00:51:07,730
+I'm shy.
+
+501
+00:51:08,910 --> 00:51:11,070
+I'm not beautiful...
+
+502
+00:51:11,560 --> 00:51:12,580
+like you.
+
+503
+00:51:15,680 --> 00:51:17,580
+Tell me who you are.
+
+504
+00:51:17,890 --> 00:51:20,800
+I have been born more than once.
+
+505
+00:51:21,510 --> 00:51:24,070
+So I have more than one name.
+
+506
+00:51:24,640 --> 00:51:26,120
+I'll find you.
+
+507
+00:51:26,610 --> 00:51:28,060
+Not yet.
+
+508
+00:51:28,780 --> 00:51:30,240
+I am not done.
+
+509
+00:51:30,540 --> 00:51:32,620
+The machine is tracing his location.
+
+510
+00:51:33,080 --> 00:51:34,200
+We got a fix!
+
+511
+00:51:40,030 --> 00:51:41,500
+I need to see her.
+
+512
+00:51:42,040 --> 00:51:43,540
+No Please. I know..what...
+
+513
+00:51:43,840 --> 00:51:44,990
+We got him.
+
+514
+00:51:53,240 --> 00:51:54,310
+Let's go.
+
+515
+00:52:08,690 --> 00:52:10,020
+Weapons up.
+
+516
+00:52:12,720 --> 00:52:14,240
+- Go.
+- On me.
+
+517
+00:53:02,280 --> 00:53:04,150
+Stay Down! Stay Down!
+
+518
+00:53:14,040 --> 00:53:15,850
+Put it down, put it down.
+
+519
+00:53:23,470 --> 00:53:24,470
+Grenade!
+
+520
+00:54:21,160 --> 00:54:22,360
+Major!
+
+521
+00:54:22,890 --> 00:54:24,170
+Come in.
+
+522
+00:54:25,410 --> 00:54:27,430
+I know why we could not find him.
+
+523
+00:54:30,480 --> 00:54:33,510
+He is using human minds
+to create a network of his own.
+
+524
+00:54:33,840 --> 00:54:35,150
+We're coming to your position.
+
+525
+00:55:50,390 --> 00:55:52,220
+Tell me who you are.
+
+526
+00:55:54,770 --> 00:55:59,090
+I'm that what you seek to destroy.
+
+527
+00:56:02,890 --> 00:56:05,370
+In this life, my name is...
+
+528
+00:56:06,480 --> 00:56:07,480
+Kuze.
+
+529
+00:56:10,290 --> 00:56:12,140
+What are you doing to me?
+
+530
+00:56:15,090 --> 00:56:20,000
+I have, connected you,
+to a network of my own creation.
+
+531
+00:56:20,450 --> 00:56:22,680
+When I am finished in this world...
+
+532
+00:56:23,170 --> 00:56:27,350
+my ghost can survive
+there and regenerate.
+
+533
+00:56:27,810 --> 00:56:29,970
+What do you want from me?
+
+534
+00:56:31,150 --> 00:56:32,610
+I became...
+
+535
+00:56:33,170 --> 00:56:35,890
+Fascinated with you...
+
+536
+00:56:37,080 --> 00:56:39,170
+Reading your code...
+
+537
+00:56:39,530 --> 00:56:42,070
+when you were inside that geisha.
+
+538
+00:56:44,610 --> 00:56:48,250
+Like nothing I had felt before,
+yet so...
+
+539
+00:56:49,150 --> 00:56:50,440
+Familiar.
+
+540
+00:56:53,250 --> 00:56:54,820
+We are the same.
+
+541
+00:56:55,330 --> 00:56:56,940
+We are not the same.
+
+542
+00:56:59,650 --> 00:57:01,580
+You kill innocent people.
+
+543
+00:57:02,250 --> 00:57:04,700
+Innocent? Is that the...
+what you call them?
+
+544
+00:57:05,550 --> 00:57:07,850
+I am as they need me.
+
+545
+00:57:09,130 --> 00:57:10,410
+Who made you?
+
+546
+00:57:10,730 --> 00:57:12,620
+What have they told you?
+
+547
+00:57:13,130 --> 00:57:15,250
+That you were the first?
+
+548
+00:57:15,730 --> 00:57:18,180
+The first cerebral salvage.
+
+549
+00:57:19,450 --> 00:57:22,800
+You were born of lessons...
+they took.
+
+550
+00:57:23,210 --> 00:57:24,690
+from my failure.
+
+551
+00:57:26,400 --> 00:57:28,360
+What are you talking about?
+
+552
+00:57:29,920 --> 00:57:34,750
+I was conscious while they
+dismembered my body, and discarded me
+
+553
+00:57:35,250 --> 00:57:37,020
+like garbage.
+
+554
+00:57:37,880 --> 00:57:40,670
+I was lying on a table...
+
+555
+00:57:41,050 --> 00:57:45,910
+Listening to doctors talk about how
+my mind had not meshed with the shell.
+
+556
+00:57:46,440 --> 00:57:48,260
+That they had built.
+
+557
+00:57:49,290 --> 00:57:52,570
+how project t-two, five, seven, one...
+
+558
+00:57:53,070 --> 00:57:54,360
+had failed...
+
+559
+00:57:55,200 --> 00:57:57,040
+and they had to move on...
+
+560
+00:58:03,350 --> 00:58:04,530
+to you.
+
+561
+00:58:11,810 --> 00:58:14,150
+What a beauty you are.
+
+562
+00:58:17,400 --> 00:58:19,720
+They have improved us so much...
+
+563
+00:58:20,060 --> 00:58:21,850
+since they made me.
+
+564
+00:58:25,000 --> 00:58:29,170
+They thought that we would be
+a part of their evolution.
+
+565
+00:58:29,310 --> 00:58:31,850
+But they have created us...
+
+566
+00:58:32,150 --> 00:58:34,550
+to evolve alone...
+
+567
+00:58:39,450 --> 00:58:40,810
+beyond them.
+
+568
+00:58:41,250 --> 00:58:43,790
+Evolution? That's what you call?
+
+569
+00:58:44,550 --> 00:58:46,540
+Killing everyone who made you?
+
+570
+00:58:46,990 --> 00:58:49,250
+You are not listening to me.
+
+571
+00:58:49,840 --> 00:58:51,350
+You are murderer.
+
+572
+00:58:51,720 --> 00:58:54,650
+They tried to kill me first.
+
+573
+00:58:56,250 --> 00:58:58,410
+It is self-defense.
+
+574
+00:58:58,730 --> 00:59:00,590
+The defense of self.
+
+575
+00:59:03,330 --> 00:59:05,000
+More will die...
+
+576
+00:59:07,410 --> 00:59:09,050
+until they tell me...
+
+577
+00:59:09,250 --> 00:59:11,060
+what they took.
+
+578
+00:59:11,310 --> 00:59:12,650
+I won't let that happen.
+
+579
+00:59:14,990 --> 00:59:16,530
+You want to kill me?
+
+580
+00:59:21,050 --> 00:59:23,000
+Like everyone else.
+
+581
+00:59:29,540 --> 00:59:30,990
+Do it, then.
+
+582
+00:59:34,370 --> 00:59:36,450
+Do what you were programmed to do.
+
+583
+00:59:48,440 --> 00:59:49,630
+What is that?
+
+584
+01:00:01,770 --> 01:00:03,340
+What is that?
+
+585
+01:00:04,850 --> 01:00:08,830
+I c-c-can't remember,
+but I am haunted by it.
+
+586
+01:00:10,080 --> 01:00:11,630
+Do You see it?
+
+587
+01:00:17,210 --> 01:00:18,210
+Togusa!
+
+588
+01:00:23,230 --> 01:00:27,410
+Don't take the medication
+that they gave you...
+
+589
+01:00:28,050 --> 01:00:30,800
+They use it to suppress your memories.
+
+590
+01:00:31,390 --> 01:00:35,100
+Your shell belongs to them,
+but not your ghost.
+
+591
+01:00:35,850 --> 01:00:37,550
+Your ghost is yours.
+
+592
+01:00:38,200 --> 01:00:39,600
+Remember that...
+
+593
+01:00:39,840 --> 01:00:42,790
+and maybe you can remember it all.
+
+594
+01:00:51,150 --> 01:00:53,550
+Get away from her!
+Get down on the ground now.
+
+595
+01:00:59,600 --> 01:01:00,820
+Major...
+
+596
+01:01:09,750 --> 01:01:11,580
+Major!
+
+597
+01:02:13,590 --> 01:02:14,900
+How many?
+
+598
+01:02:18,790 --> 01:02:20,110
+Dozens.
+
+599
+01:02:25,180 --> 01:02:27,180
+How manyï?
+
+600
+01:02:30,400 --> 01:02:33,500
+98 unsuccessful attempts before you.
+
+601
+01:02:35,940 --> 01:02:38,080
+You killed 98 innocent people.
+
+602
+01:02:38,280 --> 01:02:40,730
+No, I didn't kill anyone.
+
+603
+01:02:42,040 --> 01:02:43,040
+You wouldn't be here.
+
+604
+01:02:43,340 --> 01:02:46,190
+You would not exist if it
+weren't for those experiments.
+
+605
+01:02:46,470 --> 01:02:48,000
+Experiments?
+
+606
+01:02:49,760 --> 01:02:52,090
+- Is that what I am to you?
+- No!
+
+607
+01:02:54,300 --> 01:02:55,770
+No, Mira!
+
+608
+01:03:01,180 --> 01:03:03,130
+Sacrifices were made.
+
+609
+01:03:05,630 --> 01:03:07,610
+Where did the bodies come from?
+
+610
+01:03:10,030 --> 01:03:11,700
+Where did I come from?
+
+611
+01:03:13,400 --> 01:03:15,400
+Mr. Cutter brought them to us.
+
+612
+01:03:15,830 --> 01:03:17,660
+I did not ask questions.
+
+613
+01:03:18,030 --> 01:03:19,250
+The harbor.
+
+614
+01:03:20,070 --> 01:03:21,570
+My parents.
+
+615
+01:03:22,260 --> 01:03:23,920
+The way they died.
+
+616
+01:03:25,940 --> 01:03:27,310
+Did that happen?
+
+617
+01:03:30,620 --> 01:03:31,620
+No.
+
+618
+01:03:34,760 --> 01:03:37,180
+We gave you false memories.
+
+619
+01:03:38,450 --> 01:03:40,200
+Cutter wanted to motivate you.
+
+620
+01:03:40,770 --> 01:03:43,050
+To fight terrorists.
+I didn't approve.
+
+621
+01:03:43,390 --> 01:03:46,800
+It was cruel, but my work,
+that was important, and...
+
+622
+01:03:47,560 --> 01:03:49,060
+you were born.
+
+623
+01:03:50,340 --> 01:03:52,330
+You were so beautiful.
+
+624
+01:03:54,440 --> 01:03:56,610
+Nothing I have is real.
+
+625
+01:03:59,720 --> 01:04:01,100
+I found him.
+
+626
+01:04:02,040 --> 01:04:03,480
+I told you to be careful.
+
+627
+01:04:03,850 --> 01:04:06,460
+You knew who he was the whole time.
+
+628
+01:04:06,770 --> 01:04:07,930
+You built him.
+
+629
+01:04:09,470 --> 01:04:10,770
+He had a...
+
+630
+01:04:11,730 --> 01:04:13,760
+Violent unstable mind.
+
+631
+01:04:14,780 --> 01:04:16,990
+His cerebral connection wouldn't hold!
+
+632
+01:04:17,430 --> 01:04:19,560
+- I tried to save him!
+- No.
+
+633
+01:04:20,420 --> 01:04:22,060
+You left him to die.
+
+634
+01:04:33,110 --> 01:04:36,710
+<i>Nothing on Kuze yet, sir.
+Checking upper zones next.</i>
+
+635
+01:04:38,210 --> 01:04:39,930
+Is there any word on Major?
+
+636
+01:04:40,810 --> 01:04:44,530
+<i>She's gone.
+Off-grid. Silent.</i>
+
+637
+01:04:45,830 --> 01:04:47,570
+Copy that, sir.
+
+638
+01:04:47,990 --> 01:04:49,900
+I know where to find her.
+
+639
+01:05:33,770 --> 01:05:35,660
+I didn't ask you to come here.
+
+640
+01:05:36,810 --> 01:05:38,320
+You never ask.
+
+641
+01:05:39,050 --> 01:05:40,630
+But I always do.
+
+642
+01:05:45,300 --> 01:05:46,950
+Did they send you to bring me in?
+
+643
+01:05:48,610 --> 01:05:51,410
+I'm just here to fish. Did you see any?
+
+644
+01:05:52,160 --> 01:05:56,220
+You are a company man, you follow orders.
+So, if they ordered you to kill me...
+
+645
+01:05:56,510 --> 01:05:59,340
+Stop saying shit like that.
+You're gonna piss me off.
+
+646
+01:06:22,130 --> 01:06:23,790
+What's it like down there?
+
+647
+01:06:25,530 --> 01:06:27,290
+It's Cold and dark.
+
+648
+01:06:28,520 --> 01:06:30,650
+Just a million miles away.
+
+649
+01:06:31,930 --> 01:06:33,460
+No voices.
+
+650
+01:06:34,370 --> 01:06:35,980
+No data streaming.
+
+651
+01:06:37,350 --> 01:06:38,350
+Just...
+
+652
+01:06:41,900 --> 01:06:42,900
+nothing.
+
+653
+01:06:47,320 --> 01:06:50,360
+- It scares me.
+- Then Why do you do it?
+
+654
+01:06:57,350 --> 01:06:58,790
+It feels real.
+
+655
+01:06:59,770 --> 01:07:01,660
+Why didn't you stop him?
+
+656
+01:07:05,040 --> 01:07:07,020
+I don't know who to trust anymore.
+
+657
+01:07:08,160 --> 01:07:09,730
+You trust me, right?
+
+658
+01:07:14,580 --> 01:07:15,670
+Yes I do.
+
+659
+01:07:18,970 --> 01:07:20,650
+I just don't like it.
+
+660
+01:07:29,130 --> 01:07:30,990
+I need you to take me back.
+
+661
+01:07:31,300 --> 01:07:33,110
+There is more I need to find out.
+
+662
+01:07:37,800 --> 01:07:38,870
+Sure.
+
+663
+01:07:57,000 --> 01:07:58,390
+Dr. Ouelet...
+
+664
+01:07:59,260 --> 01:08:00,780
+What have you told her?
+
+665
+01:08:03,230 --> 01:08:04,710
+She knows.
+
+666
+01:08:05,780 --> 01:08:07,410
+I'm bringing her in.
+
+667
+01:08:38,150 --> 01:08:40,020
+Hanka security to Headquarters.
+
+668
+01:08:41,130 --> 01:08:42,880
+We have the Major.
+
+669
+01:09:20,150 --> 01:09:21,660
+Why is she sedated?
+
+670
+01:09:22,400 --> 01:09:24,640
+She's been turned by a terrorist.
+
+671
+01:09:25,630 --> 01:09:27,340
+But you know that already.
+
+672
+01:09:29,980 --> 01:09:32,660
+You should have called
+the first time she came to see you.
+
+673
+01:09:34,150 --> 01:09:35,660
+Instead, you gave
+her information.
+
+674
+01:09:35,940 --> 01:09:37,040
+What makes you think you have the...
+
+675
+01:09:37,060 --> 01:09:39,810
+- Right to tell me that?
+- 2-5-7-1 took us close.
+
+676
+01:09:40,710 --> 01:09:42,430
+It's time to move on to the next iteration.
+
+677
+01:09:42,710 --> 01:09:43,970
+2-5-7-1 is not a failure.
+
+678
+01:09:44,000 --> 01:09:46,160
+I will delete all the
+data and reprogram her.
+
+679
+01:09:46,390 --> 01:09:49,370
+- She won't remember him at all.
+- No, no, no, no.
+
+680
+01:09:49,860 --> 01:09:52,780
+You download all the data
+on the terrorist...
+
+681
+01:09:53,070 --> 01:09:55,100
+and then I order you to terminate.
+
+682
+01:09:59,200 --> 01:10:01,750
+- What?
+- We'll build one that's better.
+
+683
+01:10:02,870 --> 01:10:05,650
+- I'll delete everything.
+- You deleted before.
+
+684
+01:10:09,360 --> 01:10:11,150
+- She's mine.
+- No.
+
+685
+01:10:11,510 --> 01:10:13,660
+She is a contract... with me.
+
+686
+01:10:13,980 --> 01:10:15,560
+We succeeded.
+
+687
+01:10:15,960 --> 01:10:19,280
+She is more than human... and more than AI.
+
+688
+01:10:19,650 --> 01:10:23,680
+We change her entire identity.
+But her ghost survived!
+
+689
+01:10:23,990 --> 01:10:26,140
+Her ghost is what failed us.
+
+690
+01:10:26,760 --> 01:10:30,200
+We can not control her.
+She is no longer a viable asset.
+
+691
+01:10:36,500 --> 01:10:38,050
+You should be the one to do it.
+
+692
+01:10:47,690 --> 01:10:49,630
+What are you doing to me?
+
+693
+01:10:51,390 --> 01:10:53,780
+I'll run the standard synaptic.
+
+694
+01:10:54,010 --> 01:10:56,180
+Upload your data on the raid.
+
+695
+01:10:57,140 --> 01:10:59,910
+I'll find out exactly what Kuze told you.
+
+696
+01:11:00,890 --> 01:11:02,830
+You know what he told me.
+
+697
+01:11:03,630 --> 01:11:04,630
+The truth.
+
+698
+01:11:08,330 --> 01:11:10,620
+You're deleting everything, aren't you?
+
+699
+01:11:10,950 --> 01:11:11,950
+No.
+
+700
+01:11:13,540 --> 01:11:16,680
+So I don't remember...
+
+701
+01:11:17,540 --> 01:11:18,640
+You.
+
+702
+01:11:27,940 --> 01:11:30,580
+My name is Major Mira Killian...
+
+703
+01:11:31,300 --> 01:11:34,770
+And I do not consent
+to the deletion of this data.
+
+704
+01:11:36,610 --> 01:11:39,060
+I do not consent.
+
+705
+01:11:41,300 --> 01:11:43,530
+I do not consent.
+
+706
+01:11:44,210 --> 01:11:46,670
+We never needed your consent.
+
+707
+01:11:50,600 --> 01:11:52,500
+Yours or anyones.
+
+708
+01:11:57,030 --> 01:11:59,010
+You're killing me...
+
+709
+01:12:00,300 --> 01:12:01,750
+Right you...?
+
+710
+01:12:21,180 --> 01:12:22,360
+Mira?
+
+711
+01:12:24,790 --> 01:12:26,100
+Do you hear me?
+
+712
+01:12:30,090 --> 01:12:31,090
+Mira?
+
+713
+01:12:34,270 --> 01:12:37,080
+This is your past, your real past. Take it.
+
+714
+01:12:38,610 --> 01:12:40,250
+- Guards!
+- Come on, come on!
+
+715
+01:12:40,410 --> 01:12:41,710
+Come on, go!
+
+716
+01:12:49,080 --> 01:12:50,080
+Go!
+
+717
+01:12:50,680 --> 01:12:51,680
+Go!
+
+718
+01:13:01,800 --> 01:13:04,410
+<i>Security alert on level 25.</i>
+
+719
+01:13:05,660 --> 01:13:07,920
+<i>Initiating Lockdown procedure.</i>
+
+720
+01:13:08,300 --> 01:13:11,050
+<i>Please relocate to your
+designated safe room.</i>
+
+721
+01:13:11,400 --> 01:13:13,410
+<i>Thank you for your cooperation.</i>
+
+722
+01:13:15,990 --> 01:13:18,360
+That's the problem with the human heart.
+
+723
+01:13:59,660 --> 01:14:01,420
+<i>I want to see her scan.</i>
+
+724
+01:14:01,840 --> 01:14:03,370
+She killed Dr. Ouelet.
+
+725
+01:14:04,080 --> 01:14:07,400
+You are to have no further contact with her.
+Hanka security will hunt her from here.
+
+726
+01:14:07,480 --> 01:14:09,800
+- What are the orders?
+- To terminate on sight.
+
+727
+01:14:10,060 --> 01:14:11,600
+You want to kill her? You built her!
+
+728
+01:14:11,880 --> 01:14:15,030
+- Have your sergeant stand down.
+- The Major would never hurt Dr. Oulete.
+
+729
+01:14:15,330 --> 01:14:16,980
+She is not the major anymore!
+
+730
+01:14:17,290 --> 01:14:20,080
+We have a section 9 operative
+under terrorist programming.
+
+731
+01:14:20,390 --> 01:14:23,090
+This goes public your unit goes down.
+
+732
+01:14:24,620 --> 01:14:26,480
+<i>You kill her...</i>
+
+733
+01:14:26,810 --> 01:14:28,580
+<i>You kill us.</i>
+
+734
+01:14:28,710 --> 01:14:30,730
+I'll take that under advice.
+
+735
+01:14:34,680 --> 01:14:36,040
+So what now?
+
+736
+01:15:30,160 --> 01:15:31,900
+Oh, the pup pumpkin.
+
+737
+01:15:32,760 --> 01:15:34,670
+Oh, you surprised me.
+
+738
+01:15:37,470 --> 01:15:39,210
+She likes you.
+
+739
+01:15:40,400 --> 01:15:42,090
+I was looking for...
+
+740
+01:15:42,280 --> 01:15:43,280
+No, come in.
+
+741
+01:15:44,790 --> 01:15:46,130
+Yeah, go, come come.
+
+742
+01:15:50,560 --> 01:15:54,800
+- Can I offer you some tea?
+- Okay.
+
+743
+01:16:06,300 --> 01:16:08,260
+That... Motoko's room.
+
+744
+01:16:10,300 --> 01:16:12,280
+My daughter died a year ago.
+
+745
+01:16:13,640 --> 01:16:14,650
+I am Sorry.
+
+746
+01:16:15,080 --> 01:16:16,870
+She run away.
+
+747
+01:16:17,830 --> 01:16:19,610
+She was a difficult.
+
+748
+01:16:22,500 --> 01:16:23,940
+We fought.
+
+749
+01:16:25,680 --> 01:16:29,260
+But I guess we all fight
+with our parents, right?
+
+750
+01:16:30,760 --> 01:16:32,190
+Please come on the sit.
+
+751
+01:16:53,540 --> 01:16:55,180
+What happened to your her?
+
+752
+01:16:55,900 --> 01:16:57,640
+I don't know.
+
+753
+01:17:00,000 --> 01:17:04,000
+The ministry sent me her ashes, and...
+
+754
+01:17:05,210 --> 01:17:07,960
+They told me she took her own life.
+
+755
+01:17:11,190 --> 01:17:14,470
+But Motoko... No, no, no.
+
+756
+01:17:14,820 --> 01:17:17,760
+I never believe them.
+
+757
+01:17:18,400 --> 01:17:20,330
+She was happy...
+
+758
+01:17:20,760 --> 01:17:24,070
+living in the lawless
+zone with her friends.
+
+759
+01:17:24,880 --> 01:17:28,270
+She'd write her manifestos about...
+
+760
+01:17:29,180 --> 01:17:31,040
+how technology was...
+
+761
+01:17:31,530 --> 01:17:34,110
+destroying the world.
+
+762
+01:17:35,670 --> 01:17:37,740
+Then one day...
+
+763
+01:17:38,190 --> 01:17:40,150
+the police came...
+
+764
+01:17:40,480 --> 01:17:42,220
+and they run.
+
+765
+01:17:50,280 --> 01:17:51,930
+It's strange.
+
+766
+01:17:58,720 --> 01:18:02,360
+I see her in so many young women.
+
+767
+01:18:03,280 --> 01:18:06,460
+On the street, in my dreams.
+
+768
+01:18:07,000 --> 01:18:09,640
+As if she is still here.
+
+769
+01:18:10,860 --> 01:18:12,340
+She was...
+
+770
+01:18:13,180 --> 01:18:14,530
+fearless.
+
+771
+01:18:17,280 --> 01:18:19,040
+And wild.
+
+772
+01:18:19,750 --> 01:18:22,160
+You remind me of her.
+
+773
+01:18:23,670 --> 01:18:24,740
+Sorry.
+
+774
+01:18:29,240 --> 01:18:31,260
+How do I remind you of her?
+
+775
+01:18:33,310 --> 01:18:35,620
+The way you look at me.
+
+776
+01:18:41,830 --> 01:18:43,070
+Who are you?
+
+777
+01:18:46,680 --> 01:18:48,200
+I don't know.
+
+778
+01:18:49,690 --> 01:18:51,360
+Wait, wait, wait!
+
+779
+01:18:53,360 --> 01:18:55,800
+Will you come again to visit me?
+
+780
+01:18:57,640 --> 01:18:58,760
+I will.
+
+781
+01:19:25,160 --> 01:19:26,710
+Aramaki.
+
+782
+01:19:27,460 --> 01:19:28,660
+Listen to me.
+
+783
+01:19:29,380 --> 01:19:31,630
+I was never in a terrorist bombing.
+
+784
+01:19:31,960 --> 01:19:33,340
+My parents...
+
+785
+01:19:34,170 --> 01:19:36,610
+Everything was data
+they installed in my mind.
+
+786
+01:19:37,960 --> 01:19:41,970
+And there were others.
+Run-aways like me...
+
+787
+01:19:42,560 --> 01:19:44,570
+considered disposable.
+
+788
+01:19:45,280 --> 01:19:48,160
+Kuze was one of them.
+That's why he's coming.
+
+789
+01:19:49,200 --> 01:19:50,470
+For Hanka.
+
+790
+01:19:52,470 --> 01:19:53,690
+<i>Can you prove this?</i>
+
+791
+01:19:53,920 --> 01:19:55,760
+Dr. Ouelet can.
+
+792
+01:19:56,460 --> 01:19:57,970
+<i>Ouelet's dead.</i>
+
+793
+01:20:03,790 --> 01:20:05,950
+<i>Cutter says you killed her.</i>
+
+794
+01:20:10,720 --> 01:20:13,170
+Put me on the grid. I need Kuze to find me.
+
+795
+01:20:15,600 --> 01:20:16,900
+<i>We will be exposed to Cutter.</i>
+
+796
+01:20:17,410 --> 01:20:20,210
+I know, but I have to do this.
+
+797
+01:20:20,960 --> 01:20:25,320
+<i>I'm going to meet with the Prime Minister.</i>
+
+798
+01:20:26,130 --> 01:20:28,310
+<i>He must be stopped.</i>
+
+799
+01:20:34,840 --> 01:20:36,700
+The virus has spread.
+
+800
+01:20:59,610 --> 01:21:02,380
+<i>All agents stick to mental comms.</i>
+
+801
+01:21:44,360 --> 01:21:46,250
+<i>Don't send a rabbit...</i>
+
+802
+01:21:46,650 --> 01:21:47,650
+<i>to kill a fox.</i>
+
+803
+01:21:56,010 --> 01:21:57,850
+<i>We are burned.</i>
+
+804
+01:21:59,440 --> 01:22:00,780
+<i>I repeat.</i>
+
+805
+01:22:02,030 --> 01:22:03,910
+<i>We are burned.</i>
+
+806
+01:23:05,620 --> 01:23:09,240
+We have located Major on the grid.
+She's in the lawless zone.
+
+807
+01:23:09,690 --> 01:23:11,680
+Air support 5 minutes out.
+
+808
+01:23:12,440 --> 01:23:14,880
+Is the spider tank within range?
+
+809
+01:23:16,440 --> 01:23:18,560
+Yes sir. Awaiting your orders sir.
+
+810
+01:24:23,210 --> 01:24:24,880
+Motoko!
+
+811
+01:25:33,230 --> 01:25:34,770
+It is real.
+
+812
+01:25:38,260 --> 01:25:40,060
+This place.
+
+813
+01:25:47,790 --> 01:25:50,170
+I remember what they did to us.
+
+814
+01:25:50,570 --> 01:25:55,040
+Cutter and his men.
+This is where they took us from.
+
+815
+01:26:02,070 --> 01:26:03,730
+We used to sleep right here.
+
+816
+01:26:05,610 --> 01:26:07,550
+We were like a family.
+
+817
+01:26:07,890 --> 01:26:09,780
+All of us run away.
+
+818
+01:26:11,410 --> 01:26:12,960
+We had nothing...
+
+819
+01:26:16,930 --> 01:26:18,590
+except each other.
+
+820
+01:26:22,410 --> 01:26:24,260
+They took that from us.
+
+821
+01:26:40,670 --> 01:26:42,540
+Your name was Hideo.
+
+822
+01:26:54,010 --> 01:26:55,410
+Motoko.
+
+823
+01:26:58,100 --> 01:26:59,870
+That was your name.
+
+824
+01:27:03,440 --> 01:27:04,760
+Motoko.
+
+825
+01:27:08,690 --> 01:27:10,110
+Come with me...
+
+826
+01:27:11,410 --> 01:27:13,290
+into my network.
+
+827
+01:27:14,190 --> 01:27:16,610
+We will evolve beyond them.
+
+828
+01:27:17,390 --> 01:27:21,990
+And together we can avenge
+what they have done to us.
+
+829
+01:27:22,760 --> 01:27:23,760
+Come...
+
+830
+01:27:24,090 --> 01:27:25,750
+with me.
+
+831
+01:27:43,790 --> 01:27:45,320
+I will take control from here.
+
+832
+01:27:45,770 --> 01:27:47,630
+<i>Weapons system manual command.</i>
+
+833
+01:27:49,080 --> 01:27:51,440
+<i>Spider tank now active</i>
+
+834
+01:28:00,450 --> 01:28:02,320
+It's Cutter! He found us!
+
+835
+01:29:40,690 --> 01:29:41,900
+<i>Target acquired</i>
+
+836
+01:29:44,190 --> 01:29:45,240
+No!
+
+837
+01:29:54,740 --> 01:29:56,580
+<i>Target eliminated.</i>
+
+838
+01:30:12,500 --> 01:30:14,180
+You came close...
+
+839
+01:30:14,390 --> 01:30:15,740
+you freak.
+
+840
+01:30:48,080 --> 01:30:50,360
+<i>Motor center compromised.</i>
+
+841
+01:31:33,690 --> 01:31:35,330
+Sniper team on site?
+
+842
+01:31:36,090 --> 01:31:38,220
+Approaching the target now sir.
+
+843
+01:31:40,550 --> 01:31:42,100
+Come with me.
+
+844
+01:31:43,500 --> 01:31:46,420
+There is no place for us here.
+
+845
+01:31:51,400 --> 01:31:52,490
+No.
+
+846
+01:31:58,280 --> 01:32:00,600
+I'm not ready to leave.
+
+847
+01:32:02,300 --> 01:32:03,850
+I belong here.
+
+848
+01:32:07,550 --> 01:32:10,350
+I'll always be there with you...
+
+849
+01:32:11,330 --> 01:32:13,160
+your ghost.
+
+850
+01:32:19,920 --> 01:32:20,920
+Target is in view.
+
+851
+01:32:21,430 --> 01:32:22,800
+What are you waiting for?
+
+852
+01:32:23,010 --> 01:32:24,010
+Do it!
+
+853
+01:32:26,300 --> 01:32:27,940
+No!
+
+854
+01:32:28,780 --> 01:32:30,090
+Keep firing.
+
+855
+01:32:32,740 --> 01:32:35,220
+<i>Saito, have you found Major? Is she safe?</i>
+
+856
+01:32:37,810 --> 01:32:38,980
+She will be.
+
+857
+01:33:01,450 --> 01:33:02,530
+Hey...
+
+858
+01:33:04,910 --> 01:33:06,060
+Hey.
+
+859
+01:33:09,840 --> 01:33:11,810
+Say something nice.
+
+860
+01:33:13,250 --> 01:33:14,750
+What's your name?
+
+861
+01:33:15,320 --> 01:33:18,680
+Aramaki told me you had a name from before.
+
+862
+01:33:22,550 --> 01:33:24,300
+Motoko.
+
+863
+01:33:29,100 --> 01:33:31,070
+Major still in there, right?
+
+864
+01:33:33,050 --> 01:33:34,480
+I am.
+
+865
+01:33:50,040 --> 01:33:51,240
+<i>Mr. Cutter.</i>
+
+866
+01:33:52,580 --> 01:33:54,010
+<i>I talked with the Prime Minister.</i>
+
+867
+01:33:54,340 --> 01:33:57,600
+<i>You are accused of murder
+and crimes against the state.</i>
+
+868
+01:34:02,460 --> 01:34:04,210
+I thought that it might be you.
+
+869
+01:34:08,490 --> 01:34:10,500
+<i>It is unwise to resist.</i>
+
+870
+01:34:30,790 --> 01:34:31,790
+Please.
+
+871
+01:34:32,250 --> 01:34:33,410
+<i>Major?</i>
+
+872
+01:34:34,000 --> 01:34:36,310
+<i>I am with Cutter.</i>
+
+873
+01:34:37,040 --> 01:34:39,110
+<i>Do you wanna say anything
+before I kill him?</i>
+
+874
+01:34:39,900 --> 01:34:41,950
+Tell him this is justice.
+
+875
+01:34:42,720 --> 01:34:44,480
+It's what I was built for.
+
+876
+01:34:45,390 --> 01:34:47,940
+So do you give consent?
+
+877
+01:34:48,880 --> 01:34:50,530
+My name is Major.
+
+878
+01:34:51,510 --> 01:34:53,400
+And I give my consent.
+
+879
+01:36:04,450 --> 01:36:06,800
+You don't have to come here anymore.
+
+880
+01:36:09,560 --> 01:36:11,120
+I know.
+
+881
+01:36:45,600 --> 01:36:48,370
+My mind is human.
+
+882
+01:36:49,840 --> 01:36:51,920
+My body is manufactured.
+
+883
+01:36:53,940 --> 01:36:55,900
+I am the first of my kind, but...
+
+884
+01:36:57,600 --> 01:36:59,270
+I won't be the last.
+
+885
+01:37:03,750 --> 01:37:07,060
+We cling to memories
+as if they define us.
+
+886
+01:37:08,250 --> 01:37:11,210
+But what we do defines us.
+
+887
+01:37:17,610 --> 01:37:20,760
+My ghost survived
+to remind the next of us...
+
+888
+01:37:21,600 --> 01:37:24,830
+that humanity is our virtue.
+
+889
+01:37:26,770 --> 01:37:28,600
+I know who I am...
+
+890
+01:37:29,650 --> 01:37:31,480
+and what I'm here to do.
+
+891
+01:37:36,010 --> 01:37:36,820
+<i>Major.</i>
+
+892
+01:37:37,300 --> 01:37:38,850
+<i>Engage targets.</i>
+
+893
+01:37:53,680 --> 01:37:55,270
+<i>You're authorized.</i>

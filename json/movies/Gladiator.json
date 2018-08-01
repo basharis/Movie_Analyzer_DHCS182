@@ -1,0 +1,41 @@
+{
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "runtime": [
+        "155"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.::Chris \"Morphy\" Terry",
+        "Commodus takes power and strips rank from Maximus, one of the favored generals of his predecessor and father, Emperor Marcus Aurelius, the great stoical philosopher. Maximus is then relegated to fighting to the death in the gladiator arenas.::Jwelch5742",
+        "In 180 A.D. Rome, the weary and dying emperor, Marcus Aurelius, names his loyal and triumphant general, Maximus Decimus Meridius, his successor and protector of Rome, much to the dismay of his haughty and unbalanced son, Commodus. But, instead, death and entrapment await, as the embittered and blind with rage rival rewards Rome's hero with an order for his execution, only to wind up as a slave to the former gladiator, Proximo. From the vast deserts of North Africa, a new Maximo will rise as a gladiator, hacking and slashing his way through all the way up to Mother Rome and the unsuspecting dictator, Commodus. But will the popular general ever find peace in a long-awaited retribution?::Nick Riganas",
+        "In Gladiator, victorious general Maximus Decimus Meridias has been named keeper of Rome and its empire by dying emperor Marcus Aurelius, so that rule might pass from the Caesars back to the people and Senate. Marcus' neglected and power-hungry son, Commodus, has other ideas, however. Escaping an ordered execution, Maximus hurries back to his home in Spain, too late to save his wife and son from the same order. Taken into slavery and trained as a gladiator by Proximo, Maximus lives only that he might someday take his revenge and fulfill the dying wish of his emperor. The time soon comes when Proximo's troupe is called to Rome to participate in a marathon of gladiator games held at the behest of the new emperor, Commodus. Once in Rome, Maximus wastes no time in making his presence known, and is soon involved in a plot to overthrow the emperor with his former-love Lucilla, Commodus' sister, after whom he lusts, and also the widowed mother of Lucius, heir to the empire after his uncle, and democratic-minded senator, Gracchus.::Thalya",
+        "A dying Marcus Aurelius plans to name his loyal and brave General Maximus as his successor in order to restore the power of the Roman Senate. However, his power-hungry, jealous son Commodus learns of the plan, murders Marcus Aurelius, and plans to execute Maximus in order to secure his claim to the throne. Maximus escapes execution, but is sold into slavery and is forced to become a gladiator. Eventually, Maximus and his fellow gladiators are sent to Rome to perform for Commodus. Through his bravery he wins over the masses and reveals his true identity, much to the chagrin of Commodus. Can Maximus use his newfound popularity to avenge Marcus Aurelius' death, or will Commodus be able to keep the throne?::<jgp3553@excite.com>",
+        "When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.588647701226911,
+        "linguistic_difficulty_percentage": 0.1348254011055683,
+        "words_per_minute": 47,
+        "common_words": {
+            "maximus": 152,
+            "kill": 78,
+            "rome": 51,
+            "father": 42,
+            "emperor": 36,
+            "caesar": 35,
+            "spaniard": 35,
+            "wa": 31,
+            "man": 28,
+            "general": 27
+        }
+    }
+}

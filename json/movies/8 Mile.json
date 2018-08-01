@@ -1,0 +1,35 @@
+{
+    "title": "8 Mile",
+    "year": 2002,
+    "genres": [
+        "Drama",
+        "Music"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 7.1,
+    "plot": [
+        "A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.::KiltsMcGee"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 4.68335076848797,
+        "linguistic_difficulty_percentage": 0.02414098334272149,
+        "words_per_minute": 112,
+        "common_words": {
+            "man": 165,
+            "get": 123,
+            "got": 108,
+            "come": 108,
+            "fuck": 107,
+            "shit": 99,
+            "know": 83,
+            "yeah": 82,
+            "yo": 73,
+            "rabbit": 68
+        }
+    }
+}

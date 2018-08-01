@@ -1,0 +1,42 @@
+{
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "107"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Malcom Crowe (Bruce Willis)is a child psychologist who receives an award on the same night that he is visited by a very unhappy ex-patient. After this encounter, Crowe takes on the task of curing a young boy with the same ills as the ex-patient (Donnie Wahlberg) . This boy \"sees dead people\". Crowe spends a lot of time with the boy much to the dismay of his wife (Olivia Williams). Cole's mom (Toni Collette) is at her wit's end with what to do about her son's increasing problems. Crowe is the boy's only hope.::Jeff Mellinger <jmell@uclink4.berkeley.edu>",
+        "Malcolm Crowe (Bruce Willis) is a successful child psychiatrist who takes on the task to help a terrified boy (Haley Joel Osment) who seems to be plagued by visions of ghosts. But as his relationship with the boy deepens, he learns some very disturbing truths about the boy's visions.::marcellbulow-211-984417",
+        "Child psychologist Malcom Crowe (Bruce Willis)is one night visited by an ex-patient named Vincent Grey (Donnie Wahlberg) who is not just angry, but enraged. He wounds Crowe, then kills himself. A few months later Crowe is visited by a 9-year old boy named Cole (Haley Joel Osment). He sees dead people who do not know they are dead. Because of this, he is called a freak in school. Crowe, at first thinks he is seeing things, but after spending a lot of time with Cole (much to his wife's (Olivia Williams) dismay), he discovers Cole may be seeing dead people after all.::neo101",
+        "Child psychiatrist Malcolm Crowe (Bruce Willis) is confronted one night by his former patient Vincent Gray (Donnie Wahlberg) who he failed to help. After Vincent shoots Crowe in the stomach and kills himself, Crowe can't stop thinking about it. A few months later he is hired to help a troubled boy named Cole Sear (Haley Joel Osment), who has many of the same problems Vincent had. Crowe sees a chance to redeem himself, but doubts his ability to reach the boy, particularly when Cole claims to see ghosts who don't know they're dead.::rmlohner",
+        "A boy who communicates with spirits seeks the help of a disheartened child psychologist.::Mystic80"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Latin",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.1250461084470675,
+        "linguistic_difficulty_percentage": 0.018443378827001106,
+        "words_per_minute": 50,
+        "common_words": {
+            "l": 267,
+            "know": 54,
+            "like": 45,
+            "think": 40,
+            "want": 37,
+            "cole": 33,
+            "ok": 32,
+            "lt": 30,
+            "wa": 28,
+            "oh": 27
+        }
+    }
+}

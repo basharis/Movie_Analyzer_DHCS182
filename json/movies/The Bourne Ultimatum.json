@@ -1,0 +1,44 @@
+{
+    "title": "The Bourne Ultimatum",
+    "year": 2007,
+    "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "115"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Bourne is once again brought out of hiding, this time inadvertently by London-based reporter Simon Ross who is trying to unveil Operation Blackbriar--an upgrade to Project Treadstone--in a series of newspaper columns. Bourne sets up a meeting with Ross and realizes instantly they're being scanned. Information from the reporter stirs a new set of memories, and Bourne must finally, ultimately, uncover his dark past whilst dodging The Company's best efforts in trying to eradicate him.::Corey Hatch",
+        "After being recovered from the sea, and after losing the one he loves, Jason Bourne is one more step closer to finding out how David Webb became Jason Bourne. Whilst Pamela Landy has decided to leave Bourne alone, CIA Deputy Director Noah Vosen has other plans. He believes that Bourne is still dangerous and must be eliminated, before he finds out his true identity and takes the CIA down with him.::Film_Fan",
+        "Bourne is once again brought out of hiding, Jason Bourne is now hunted by the people who made him what he is--legendary assassin. Having lost his memory and the one person he loved, he is undeterred by the barrage of bullets and a new generation of highly-trained killers. Bourne has only one objective: to go back to the beginning and find out who he was.::Anthony Pereyra {hypersonic91@yahoo.com}",
+        "When Jason Bourne contacts the British reporter of The Guardian Simon Ross that is researching the Operation Blackbriar that superseded the Project Treadstone to find out a clue to lead to his true identity, he is chased by CIA Deputy Director Noah Vosen, who wants to eliminate him. Jason is chased in Moscow, Paris, Madrid, London and Tangier, and while fighting to survive, he is supported by Nicky Parsons and Pamela Landy.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.::Skip4591"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Arabic",
+            "Russian",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.3375571981696586,
+        "linguistic_difficulty_percentage": 0.0703977472720873,
+        "words_per_minute": 49,
+        "common_words": {
+            "bourne": 54,
+            "sir": 50,
+            "get": 40,
+            "right": 39,
+            "wa": 37,
+            "want": 32,
+            "know": 32,
+            "daniels": 26,
+            "go": 24,
+            "one": 23
+        }
+    }
+}

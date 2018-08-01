@@ -1,0 +1,39 @@
+{
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "genres": [
+        "Comedy",
+        "Music"
+    ],
+    "runtime": [
+        "82"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "In 1982 legendary British heavy metal band Spinal Tap attempt an American comeback tour accompanied by a fan who is also a film-maker. The resulting documentary, interspersed with powerful performances of Tap's pivotal music and profound lyrics, candidly follows a rock group heading towards crisis, culminating in the infamous affair of the eighteen-inch-high Stonehenge stage prop.::Jeremy Perkins <jwp@aber.ac.uk>",
+        "British heavy metal band Spinal Tap embarks on their biggest tour in the US to date to promote their new album \"Smell The Glove\". The tour is so big that it's attracted the attention of documentary filmmaker Marti DeBergi, who decides to make a movie about Spinal Taps' trek across America. But as the documentary goes along, Spinal Tap sees their audiences dwindle from selling out huge arenas to going to play at charity benefits, and eventually playing private parties where no one pays attention to their music. Their new album drops and it's decently reviewed by critics, but the record stores have a huge problem with the sexist overtones of the album's cover, causing a loss in sales. However, a series of incidents that constantly shoot themselves in the foot - whether it's a minuscule Stonehenge monument, a stage prop malfunction, or a simple two word review of an album - keep preventing the band from enjoying the success they deserve. But how long can they keep playing to 11? And will they find the audience that suits them?::halo1k",
+        "Director Rob Reiner (as Marti DiBergi) follows the fictional British rock group Spinal Tap on their latest tour in this mockumentary. The famed band, with a dozen or more studio album, have a lot to deal with. They clearly aren't as popular as they once were and face playing before sparse crowds in smaller venues. They also have to deal with canceled dates (not to worry, their manager says when they lean their gig in Boston has been canceled, it's not a big college town), arguments about their latest album cover and the arrival of one of the band members' girlfriends who would like to play a role in managing the band. All in all, not a successful tour.::garykmcd",
+        "Marty DeBergi is a film-maker who decides to make a documentary, a rockumentary actually, about the world's loudest band, the British heavy metal group Spinal Tap. The movie is in fact a biting satire and spoof of the whole rock and roll scene that passes itself off as a real documentary of a real band. Hilarious behind-the-scenes footage is combined with faux-concert clips to breathe life into the imaginary group.::Greg Bole <bole@life.bio.sunysb.edu>",
+        "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.::Gary Keuma"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.3450340359222503,
+        "linguistic_difficulty_percentage": 0.03280570819322562,
+        "words_per_minute": 148,
+        "common_words": {
+            "know": 132,
+            "david": 98,
+            "yeah": 85,
+            "right": 83,
+            "wa": 80,
+            "well": 72,
+            "like": 69,
+            "got": 67,
+            "mean": 61,
+            "one": 53
+        }
+    }
+}

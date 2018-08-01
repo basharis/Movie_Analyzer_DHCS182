@@ -1,0 +1,38 @@
+{
+    "title": "Battleship Potemkin",
+    "year": 1925,
+    "genres": [
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "75"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Based on the historical events the movie tells the story of a riot at the battleship Potemkin. What started as a protest strike when the crew was given rotten meat for dinner ended in a riot. The sailors raised the red flag and tried to ignite the revolution in their home port Odessa.::Konstantin Dlutskii <ked@falcon.cc.ukans.edu>",
+        "1905. There is a general feeling of revolution amongst the Russian populace against the Imperial rulers. This feeling is slow to reach the crew of the battleship, Potemkin. However, the crew eventually does rebel against their Imperial ruled officers for what they see as the poor conditions aboard, namely the provision of maggot infested rotting meat as their food. This mini-revolution on board leads to a confrontation between the officers and crew. News of the result of this confrontation hits the streets of Odessa as the Potemkin sails into port. The fight on board the Potemkin makes its way to the streets of Odessa as civilians want to show their support for their brothers on board. This situation leads to further actions by the Imperial army, both against the Russian civilians in Odessa as well as against the Potemkin crew.::Huggo",
+        "Based on actual events that occurred at the port of Odessa in 1905, the crew of the battleship Potemkin mutiny after yet again being served rotten food. At the time, there was growing opposition to Imperialist rule and a mini revolution was soon underway. The revolt was harshly put down by government troops with the shooting of civilians - including women and children - on the Odessa Steps.::garykmcd",
+        "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "Russian"
+        ],
+        "adult_language_percentage": 3.2873806998939554,
+        "linguistic_difficulty_percentage": 0.4241781548250266,
+        "words_per_minute": 12,
+        "common_words": {
+            "film": 9,
+            "squadron": 9,
+            "battleship": 8,
+            "vakulinchuk": 8,
+            "odessa": 8,
+            "one": 6,
+            "wa": 6,
+            "shoot": 6,
+            "part": 5,
+            "sailor": 5
+        }
+    }
+}

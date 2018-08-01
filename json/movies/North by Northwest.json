@@ -1,0 +1,39 @@
+{
+    "title": "North by Northwest",
+    "year": 1959,
+    "genres": [
+        "Adventure",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "136"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Madison Avenue advertising man Roger Thornhill finds himself thrust into the world of spies when he is mistaken for a man by the name of George Kaplan. Foreign spy Philip Vandamm and his henchman Leonard try to eliminate him but when Thornhill tries to make sense of the case, he is framed for murder. Now on the run from the police, he manages to board the 20th Century Limited bound for Chicago where he meets a beautiful blond, Eve Kendall, who helps him to evade the authorities. His world is turned upside down yet again when he learns that Eve isn't the innocent bystander he thought she was. Not all is as it seems however, leading to a dramatic rescue and escape at the top of Mt. Rushmore.::garykmcd",
+        "Middle-aged Madison Avenue advertising executive Roger O. Thornhill is mistaken for a government agent by a gang of spies. He gets involved in a series of misadventures and is pursued across the States by both the spies and the government whilst being helped by a beautiful blonde.::Col Needham <col@imdb.com>",
+        "New York advertising executive Roger Thornhill is kidnapped by a gang of spies led by Philip Vandamm, who believe Thornhill is CIA agent George Kaplan. Thornhill escapes, but must find Kaplan in order to clear himself of a murder it is believed he committed. Following Kaplan to Chicago as a fugitive from justice, Thornhill is helped by beautiful Eve Kendall. In Chicago, she delivers a message to Kaplan that almost costs Thornhill his life when he is chased across a cornfield by a crop-dusting plane.::filmfactsman",
+        "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.7415445831072527,
+        "linguistic_difficulty_percentage": 0.1266051727256285,
+        "words_per_minute": 81,
+        "common_words": {
+            "mr": 79,
+            "yes": 78,
+            "kaplan": 72,
+            "know": 71,
+            "well": 68,
+            "right": 68,
+            "oh": 61,
+            "come": 57,
+            "get": 51,
+            "go": 48
+        }
+    }
+}

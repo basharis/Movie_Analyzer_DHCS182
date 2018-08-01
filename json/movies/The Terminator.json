@@ -1,0 +1,41 @@
+{
+    "title": "The Terminator",
+    "year": 1984,
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "107"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A cyborg is sent from the future on a deadly mission. He has to kill Sarah Connor, a young woman whose life will have a great significance in years to come. Sarah has only one protector - Kyle Reese - also sent from the future. The Terminator uses his exceptional intelligence and strength to find Sarah, but is there any way to stop the seemingly indestructible cyborg ?::Colin Tinto <cst@imdb.com>",
+        "In the future, Skynet, a computer system fights a losing war against the humans who built it and who it nearly exterminated. Just before being destroyed, Skynet sends a Terminator back in time to kill Sarah, the mother to be of John Connor, the Leader of the human resistance. The terminator can pass for human, is nearly indestructible, and has only one mission, killing Sarah Connor. One soldier is sent back to protect her from the killing machine. He must find Sarah before the Terminator can carry out it's mission.::John Vogel <jlvogel@comcast.net>",
+        "In the year 2029, a computer called Skynet is fighting against a human resistance, after having nearly destroyed the rest of humanity in 1997. Skynet has found a way to send some of it's warriors, called Terminators, back in time. This is the story of the Terminator sent to kill the resistance leader's mother in 1984, before she gives birth. The resistance sends a warrior named Kyle Reese back to 1984 to protect the young woman. The question is, can Sarah Connor survive long enough to have her child so that history remains on track?",
+        "A cyborg assassin called \"The Terminator\" is sent back through time to 1984 to kill the seemingly innocent Sarah Connor-a woman whose unborn son will lead the human race to victory in a bitter future war with a race of machines. If the Terminator succeeds, mankind is doomed. Sarah's only hope is a soldier from that post-apocalyptic war, who has chased the Terminator back through time. The future of the human race depends on which one finds her first...::Ed Martin <Yeti67@bookham.demon.co.uk>",
+        "A machine that looks human is sent back in time to the late 20th century. His mission is to kill Sarah Connor and her unborn son, John Connor. Doing so would result in having John's entire existence destroyed so he won't exist to help the humans fight a war against the machines. Kyle Reese, one of the soldiers in this war, has been sent back in time to stop the Terminator.::Ricky Steck (rickysteck@sbcglobal.net)",
+        "A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.::Daniel Williamson"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 2.4070021881838075,
+        "linguistic_difficulty_percentage": 0.02735229759299781,
+        "words_per_minute": 34,
+        "common_words": {
+            "get": 29,
+            "sarah": 29,
+            "go": 22,
+            "wa": 22,
+            "right": 21,
+            "got": 21,
+            "come": 18,
+            "connor": 18,
+            "know": 17,
+            "one": 16
+        }
+    }
+}

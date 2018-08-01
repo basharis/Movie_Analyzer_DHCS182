@@ -1,0 +1,42 @@
+{
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "149"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "On the occasion of his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?::Twentieth Century Fox",
+        "Nick Dunne, a small town guy who made good in the big city as a magazine writer blames the recession and the loss of his job for the decline of his marriage to his intellectually superior wife with a substantial trust fund. Questions of his motives and character begin to arise after his wife's disappearance on the morning of their fifth anniversary. As the search for his missing wife plays out over the ensuing days, guilty suspicions are fueled into a national frenzy by the media circus camped outside his house. Is this idyllic, everyman truly capable of murdering his wife?::MalcolmJTaylor",
+        "Nick and Amy Dunne are a couple living in a small town in Missouri. Nick calls the authorities when she goes missing but something is off about his behavior. Is he hiding something? Is he sad or distraught enough? While the police continue their investigation, Nick is battling a media frenzy and the people who believe his innocence is dwindling by the minute.::Angela Thomas",
+        "A Missouri couple had a great life in their house with no kid, but it all changed when their 5th wedding anniversary occurs. Nick, the husband now realizes that his wife, Amy has gone missing. He calls the local authorities for reporting the situation. Along with the time and the local searching program, the progress becoming blurred between Nick's version of the story or the new investigation result - that Nick suspected of killing his wife. Now, Nick struggles for convincing the media, telling them if he didn't kill his wife, and probe the cryptic clues from his own wife.::Gusde",
+        "A husband and wife have a normal life until one day when his wife disappears. During the course of the investigation the case gets murkier and the husband becomes the prime suspect. Is he responsible for the disappearance? Or is he innocent? Only time will tell.::Keith Francis",
+        "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.::mystic80"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.9905465681379402,
+        "linguistic_difficulty_percentage": 0.08654550296251914,
+        "words_per_minute": 100,
+        "common_words": {
+            "amy": 116,
+            "wa": 104,
+            "know": 101,
+            "nick": 99,
+            "like": 69,
+            "go": 68,
+            "wife": 67,
+            "got": 56,
+            "right": 54,
+            "would": 51
+        }
+    }
+}

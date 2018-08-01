@@ -1,0 +1,38 @@
+{
+    "title": "Nosferatu the Vampyre",
+    "year": 1979,
+    "genres": [
+        "Horror"
+    ],
+    "runtime": [
+        "107"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "Jonathan Harker is sent away to Count Dracula's castle to sell him a house in Wismar where Jonathan lives. But Count Dracula is a vampire, an undead ghoul living off of men's blood. Inspired by a photograph of Lucy Harker, Jonathan's wife, Dracula moves to Wismar, bringing with him death and plague... An unusually contemplative version of Dracula, in which the vampire bears the curse of not being able to get old and die.::Yepok",
+        "In Wismar, Germany, Lucy and the real state agent Jonathan Harker is a happily married couple. Jonathan's boss Renfield sends him to Transylvania to sell an old house in Wismar to Count Dracula. Jonathan is advised by the locals of a village to return since the count is a vampire, but he does not give up of his intent. Jonathan visits Count Dracula and when he sees the photograph of Lucy, he immediately buys the real estate. He drinks the blood of Jonathan and navigates to Wismar, carrying coffins with the soil of his land, rats and plague in the ship. Along the voyage, Count Dracula kills the crew-members and a ghost vessel arrives in Wismar. Meanwhile Jonathan rides to his homeland to save Lucy from the vampire.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Count Dracula moves from Transylvania to Wismar, spreading the Black Plague across the land. Only a woman pure of heart can bring an end to his reign of horror.::anonymous"
+    ],
+    "language": {
+        "id": [
+            "German",
+            "English",
+            "Romany"
+        ],
+        "adult_language_percentage": 2.288218111002921,
+        "linguistic_difficulty_percentage": 0.1460564751703992,
+        "words_per_minute": 19,
+        "common_words": {
+            "know": 12,
+            "ha": 12,
+            "must": 11,
+            "yes": 11,
+            "lucy": 11,
+            "one": 10,
+            "go": 9,
+            "night": 8,
+            "death": 8,
+            "time": 8
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "The Big Sleep",
+    "year": 1946,
+    "genres": [
+        "Crime",
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "114"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "The Big Sleep is the story of a private investigator, named Philip Marlowe, hired by a wealthy general to find out and stop his youngest daughter, Carmen, from being blackmailed about her gambling debts; things almost immediately unravel and blow up from here, as Marlowe finds himself deep within a web of love triangles, blackmail, murder, gambling, and organized crime. Marlowe, with the help of the General's eldest daughter, Vivian, skillfully plot to free the family from this web and trap the main man behind much of this mischief, Eddie, to meet his end at the hands of his own henchmen.::Alec",
+        "Private detective Philip Marlowe is hired by old General Sternwood to stop a blackmail attempt concerning his youngest daughter Carmen. Marlowe tails the blackmailer Geiger to his house at Laverne Terrace. Suddenly he hears a shot and sees some men rushing out to their cars. He breaks into the house, and finds Carmel drugged in a chair, with Geiger's dead body at her feet. An empty camera proves that a photo has been taken of her and the corpse, probably intended for further blackmailing. A series of clues lead Marlowe to various persons involved in gambling. Wherever he finds them, he also finds Sternwood's oldest daughter, Vivian Rutledge, a divorced beauty. She and Marlowe fall in love with each other, although she continues double-crossing him. When Marlowe's investigations lead him to the casino owner Eddie Mars, the situation becomes very dangerous. Everyone, including the district attorney, advises Marlowe to stop the investigation, but he is stubborn. Eddie Mars has a lot of henchmen, who do the dirty jobs for him, including murder. But Marlowe decides to set up a trap for Mars himself.::Maths Jesperson {maths.jesperson1@comhem.se}",
+        "Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9143581386927394,
+        "linguistic_difficulty_percentage": 0.027159152634437803,
+        "words_per_minute": 96,
+        "common_words": {
+            "wa": 95,
+            "got": 81,
+            "know": 76,
+            "like": 73,
+            "get": 70,
+            "want": 62,
+            "right": 57,
+            "geiger": 51,
+            "see": 48,
+            "come": 41
+        }
+    }
+}

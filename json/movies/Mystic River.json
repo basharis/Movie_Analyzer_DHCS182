@@ -1,0 +1,41 @@
+{
+    "title": "Mystic River",
+    "year": 2003,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "138"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "In the summer of 1975 in a neighborhood in Boston, 3 kids, Dave Boyle and two of his friends, Jimmy and Sean, are playing on the sidewalk when Dave gets abducted by two men and endures several days of sexual abuse. Eventually, Dave escapes traumatized throughout adulthood. Jimmy is an ex-con and a father of three, whose daughter Katie, is found dead and Dave becomes the number one suspect. Sean is a homicide detective, investigating Katie's murder, ends up finding himself faced with past and present demons as more is uncovered about Katie's murder. Learning Katie had a boyfriend, ballistics later turn up a gun belonging to the father, which then puts her boyfriend as the suspect. Will Sean find out who killed Katie? Will Jimmy make it through the investigation? And will Dave ever find out what really happened when he was abducted?::michigans_finest",
+        "Childhood friends Jimmy Markum, Sean Devine and Dave Boyle reunite following the death of Jimmy's oldest daughter, Katie. Sean's a police detective on the case, gathering difficult and disturbing evidence; he's also tasked with handling Jimmy's rage and need for retribution.::mmg",
+        "During a summer in 1975, Dave Boyle and two friends, Jimmy and Sean, are playing on a sidewalk in Boston when Dave is abducted by two men and subjected to sexual abuse over a period of several days. Eventually escaping, but haunted into adulthood by his trauma, Dave becomes a primary suspect when Jimmy's daughter, Katie, is found murdered. Sean, assigned to investigate the crime, finds himself facing both demons from the past and demons in the present as the circumstances surrounding Katie's death are uncovered.::J. Lake",
+        "Summer, 1975: in a tight blue-collar Boston neighborhood, three kids are playing when one is abducted and sexually abused for several days. Jump ahead: the victim, Dave, is haunted by memories and protective of his own son. Jimmy's an ex-con, father of three. Sean is a homicide detective, estranged from his pregnant wife. When Jimmy's teen daughter dies, Sean investigates, Dave's a suspect, and Jimmy vows to find the killer before the cops. The dead girl has a boyfriend whose long-missing father has a history with Jimmy. The boyfriend's a suspect, and when ballistics turns up a link to a gun owned by the young man's father, the case breaks. In the background, wives move events along.::<jhailey@hotmail.com>",
+        "The lives of three men who were childhood friends are shattered when one of them has a family tragedy.::monkeykingma"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.798459563543004,
+        "linguistic_difficulty_percentage": 0.04278990158322636,
+        "words_per_minute": 84,
+        "common_words": {
+            "wa": 126,
+            "yeah": 92,
+            "dave": 85,
+            "know": 82,
+            "like": 61,
+            "got": 60,
+            "get": 58,
+            "katie": 57,
+            "right": 55,
+            "car": 51
+        }
+    }
+}

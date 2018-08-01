@@ -1,0 +1,45 @@
+{
+    "title": "Patton",
+    "year": 1970,
+    "genres": [
+        "Biography",
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "172"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Europe and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and tendency toward insubordination, faults that would prevent him from becoming the lead American general in the Normandy Invasion as well as to his being relieved as Occupation Commander of Germany.::Anthony Hughes <husnock31@hotmail.com>",
+        "Biopic of the famed - many would say infamous - World War II General George S. Patton, Jr. The story begins in North Africa with his appointment as the commanding general of II Corps soon after their devastating defeat at the hands of Rommel's Afrika Korps at Kasserine Pass. After leading II Corps during the invasion of Sicily, Patton faced one of his severest tests when, after slapping a hospitalized soldier suffering from battle fatigue, he is reprimanded and forced to publicly apologize. It and other faux pas ultimately leads to Patton being relieved and not being assigned to command again until several months after D-Day where he takes charge of the U.S. Third Army. Patton is portrayed as a prima donna and a hardened no-nonsense commander whose main objective is always to win - regardless of the cost which in these circumstances was mostly in the form of human lives.::garykmcd",
+        "Biography of controversial World War II hero General George S. Patton. The film covers his wartime activities and accomplishments, beginning with his entry into the North African campaign and ending with his removal from command after his outspoken criticism of US post-war military strategy.::Jwelch5742",
+        "The story of General George S. Patton, Jr. during World War II. His battlefield genius garners him fear and respect from the Germans, and resentment and misunderstanding from the Allies. A military historian and poet, he believes he was a warrior in many past lives, and that he is destined for something great during this life, but his stubbornness and controversial methods nearly prevent the fulfillment of that destiny.::Jeff Hansen <jmh@umich.edu>",
+        "The World War II phase of the career of the controversial American general, George S. Patton.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "French",
+            "Russian",
+            "Arabic",
+            "Italian"
+        ],
+        "adult_language_percentage": 2.540640513968656,
+        "linguistic_difficulty_percentage": 0.06813978389954249,
+        "words_per_minute": 59,
+        "common_words": {
+            "sir": 87,
+            "general": 75,
+            "get": 57,
+            "know": 53,
+            "want": 43,
+            "george": 42,
+            "going": 38,
+            "wa": 36,
+            "good": 36,
+            "army": 33
+        }
+    }
+}

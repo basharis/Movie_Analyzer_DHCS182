@@ -1,0 +1,42 @@
+{
+    "title": "The Wild Bunch",
+    "year": 1969,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Western"
+    ],
+    "runtime": [
+        "135"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "It's 1913, and the \"traditional\" American West is dying. Among the inhabitants of this dying era are an outlaw gang called \"The Wild Bunch.\" After a failed railroad office robbery, the gang heads to Mexico to do one last job. Seeing their times and lives drifting away in the newly formed world of the 20th century, the gang takes the job and ends up in a brutally violent last stand against their enemies deemed to be corrupt, in a small Mexican town ruled by a ruthless general.::blazesnakes9",
+        "Outlaws on the Mexican-U.S. frontier face the march of progress, the Mexican army, and a gang of bounty hunters led by a former member while they plan a robbery of a U.S. army train. No one is innocent in this gritty tale of of desperation against changing times. Pump shotguns, machine guns, and automobiles mix with horses and Winchesters in this ultra-violent Western.::Keith Loh <loh@sfu.ca>",
+        "A few months before World War I, an aging band of outlaws led by Pike Bishop rob a Texas railroad office intent on using the money to retire. When the robbery goes wrong, the gang is forced to flee to Mexico with Pike's reformed ex-partner, Deke Thornton, in hot pursuit. With nothing to show for the failed robbery, Pike's gang agrees to steal a shipment of guns for General Mapache to restore their fortunes. With Thornton closing in, and their association with the evil Juerta trying their conscience, Pike and his gang prepare for their lawless past to catch up with them.::Ronos",
+        "After a botched robbery attempt in Texas, Pike Bishop and his gang head south across the Rio Grande and into Mexico. They are being pursued by Deke Thornton and his men, made up of bounty hunters. They had been hired by the railroad to stop Bishop and his gang from robbing the rail depot and now have 30 days to track them down and kill them. Bishop and his men plan to spend only a short time in Mexico and then cross back into Texas to continue plying their trade. Their stay is lengthened however when they meet a violent Mexican general who wants them to rob a U.S. train carrying arms. They do so, but it leads to a violent and bloody final confrontation.::garykmcd",
+        "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.::<jgp3553@excite.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish",
+            "German"
+        ],
+        "adult_language_percentage": 3.5277734798081384,
+        "linguistic_difficulty_percentage": 0.07736345350456444,
+        "words_per_minute": 47,
+        "common_words": {
+            "get": 59,
+            "hell": 40,
+            "go": 39,
+            "got": 39,
+            "like": 33,
+            "let": 33,
+            "one": 32,
+            "u": 32,
+            "damn": 31,
+            "come": 30
+        }
+    }
+}

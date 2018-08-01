@@ -1,0 +1,41 @@
+{
+    "title": "Song of the Sea",
+    "year": 2014,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "93"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Saoirse is a child who is the last of the selkies, women in Irish and Scottish legends who transform from seals into people. She escapes from her grandmother's home to journey to the sea and free fairy creatures trapped in the modern world.::Anonymous",
+        "Ben and his younger sister Saoirse live with their father Conor in an isolated lighthouse. Their mother died six years ago while giving birth to Saoirse. Unable to talk, Saoirse is starting to show special powers and sea creatures seem to respect her, indicating that she is no normal little girl.::grantss",
+        "Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.::ReptilePatrol"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Irish"
+        ],
+        "adult_language_percentage": 0.7378372146645147,
+        "linguistic_difficulty_percentage": 0.023057412958266084,
+        "words_per_minute": 46,
+        "common_words": {
+            "saoirse": 53,
+            "selkie": 34,
+            "come": 33,
+            "cu": 31,
+            "ben": 30,
+            "oh": 27,
+            "know": 27,
+            "dad": 26,
+            "get": 26,
+            "coat": 25
+        }
+    }
+}

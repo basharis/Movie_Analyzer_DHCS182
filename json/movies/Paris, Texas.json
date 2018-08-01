@@ -1,0 +1,39 @@
+{
+    "title": "Paris, Texas",
+    "year": 1984,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "145"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "A man wanders out of the desert after a four year absence. His brother finds him, and together they return to L.A. to reunite the man with his young son. Soon after, he and the boy set out to locate the mother of the child, who left shortly after the man disappeared.::Ed Sutton <esutton@mindspring.com>",
+        "After an absence of 4 years, Travis Henderson suddenly reappears in a deserted part of south Texas. His brother Walt fetches him and he is soon reunited with his son Hunter. He can't really explain why he's been away or why he's suddenly reappeared. Walt has been raising Travis' son Hunter and it takes a while for the two of them to get reacquainted. They eventually set off together to find Jane, Travis' wife and Hunter's mother. She is found working in a peep show in Houston but a happy family reunion isn't in the cards.::garykmcd",
+        "A man stumbles out of the desert in southern Texas. He appears to be mute, and doesn't respond to questions. The hospital he ends up in calls his brother in California, who comes to take him back to LA. His brother hasn't seen him in four years. What caused him to be catatonic and wandering around in the desert?::grantss",
+        "Four years after he disappeared without a trace, Travis Henderson reemerges in the small US border town of Terlingua, Texas, where his Los Angeles residing brother Walt Henderson must retrieve him. Travis, looking a little worse for wear, is initially mum about everything that has happened in his life in the intervening years, especially why he and his wife, Jane Henderson, individually abandoned their lives and their marriage which resulted in who was their then four year old son Hunter Henderson being dropped off with Walt and his wife, Anne Henderson. Believing that Travis and Jane had both since died, Walt and Anne have raised Hunter as their own, he who does not generally remember either of his biological parents. Travis' return is thus bittersweet for Walt and Anne who have to decide what to do about Hunter and his relationship with his biological father, which nonetheless is strained in Hunter not really knowing Travis. Travis' return is not by accident as it is just the next step in he reconciling his life with regard to Hunter which involves his want to go to Paris, Texas, where he has purchased some property. But that reconciliation takes a turn when Anne divulges some information to him, which leads to a trip to Houston to make that reconciliation perhaps not more holistic but just in Travis' mind.::Huggo",
+        "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 0.6943567731347052,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 54,
+        "common_words": {
+            "wa": 74,
+            "know": 61,
+            "yeah": 55,
+            "well": 53,
+            "like": 49,
+            "see": 46,
+            "travis": 46,
+            "hunter": 46,
+            "want": 44,
+            "get": 43
+        }
+    }
+}

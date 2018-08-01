@@ -1,0 +1,40 @@
+{
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "runtime": [
+        "121"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "1994. In Rwanda, the classification of the native population into Hutus and Tutsis, arbitrarily done by the colonial Belgians, is now ingrained within Rwandan mentality despite the Rwandan independence. Despite the Belgians having placed the Tutsis in a higher position during the Belgian rule, they have placed the majority Hutus in power after independence. Paul Rusesabagina, a Hutu married to a Tutsi, Tatiana Rusesabagina, is the House Manager of the Hotel Des Milles Collines in Kigali. The Milles Collines, owned by Sabena (the national airline of Belgium), is a four-star hotel catering primarily to wealthy white westerners. Paul, who knows how to work the system to run the hotel effectively for its guests and for Sabena, is proud that most of the Caucasians who he meets in this professional capacity treat him with respect. After a specific incident, the relative calm between the Tutsi guerrillas and government-backed Hutu militia takes a turn. Paul's thought that the native population as a whole who are not directly involved in the conflict will be protected as the UN peacekeeping forces and thus the world is watching doesn't happen as the western world largely evacuates from Rwanda and abandons the natives. Such begins what will become a genocide of the Tutsi population. Paul, who is able to get his immediate family to the hotel which is still largely seen as a place of sanctuary, will have to use the considerable skills he has used to run the hotel as well as he has instead to keep himself, his family and any others taking refuge at the hotel alive, whether they be Hutu or Tutsi. Meanwhile, Colonel Oliver, a Canadian heading the UN peacekeeping forces, and Pat Archer with the Red Cross do what they can to assist Paul and to get people to safety first to the hotel then out of the country, while field journalists, like photographer Jack Daglish, try to bring the genocide back into the global media to have the world once again care about what is going on.::Huggo",
+        "During 1994, some of the worst atrocities in the history of mankind took place in the country of Rwanda--and in an era of high-speed communication and round the clock news, the events went almost unnoticed by the rest of the world. In only three months, one million people were brutally murdered. In the face of these unspeakable actions, inspired by his love for his family, an ordinary man summons extraordinary courage to save the lives of over a thousand helpless refugees, by granting them shelter in the hotel he manages.::Sujit R. Varma",
+        "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.::Bastian Lind"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 1.2162162162162162,
+        "linguistic_difficulty_percentage": 0.010395010395010396,
+        "words_per_minute": 79,
+        "common_words": {
+            "please": 105,
+            "paul": 93,
+            "sir": 92,
+            "go": 86,
+            "get": 82,
+            "yes": 71,
+            "come": 67,
+            "u": 66,
+            "thank": 51,
+            "let": 48
+        }
+    }
+}

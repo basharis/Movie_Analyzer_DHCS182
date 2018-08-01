@@ -1,0 +1,42 @@
+{
+    "title": "The Martian",
+    "year": 2015,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "144"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.::20th Century Fox",
+        "During their mission in Mars, a team of astronauts is hit by an unpredicted storm and have to abort their mission and leave for Earth. During the evacuation one of the crew members, Mark Watney, is hit by a projectile due to the storm and is thrown away. The crew is forced to leave him thinking he died due to rupture in his space suit. However Mark survives and now has to find ingenious ways to make it till the next scheduled Mars mission fours years later with the remaining meagre supplies. Being a botanist he manages to cultivate food and survives by scavenging parts of previous missions. NASA soon learns about him and attempts a daring and dangerous mission to bring him back. Will they succeed in bringing him back alive? Only time will tell.::Keith Francis",
+        "A team of astronauts are on Mars. When a storm hits the team tries to get off the planet but the line gets cut and Mark Watney is blown away. The sensors detect no life signs so they assume Watney is dead. But in actuality his sensor was damaged. He proceeds to the habitat and sets himself up. He knows that it'll be at least three years till the next mission arrives and he has no means to communicate and his supplies will only last a year. So he tries to make more. On Earth the Mars Mission Director wants to mount a mission to bring back Watney's remains so he has the satellites check out the surface of Mars and they discover that Watney is alive. So they have to figure out how to help him. Eventually Watney finds a way to communicate with Earth. And NASA needs to decide whether to tell the crew he's still alive but they're on their way back.::rcs0411@yahoo.com",
+        "During a storm in Mars, the astronaut Mark Watney is hit by an antenna and presumed dead by his captain and crew that cannot find him. Captain Melissa Lewis seeks him out and decides to departure with her crew. However, he has survived and finds that was left behind short of supplies and without communication to Earth. Mark is botanic and uses his knowledge to plant potatoes in a green house he has prepared. Meanwhile in NASA the scientists find that Mark is alive and try at any cost to bring him back to Earth. Will they succeed?::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "After a massive storm forces his crew to leave the planet, an astronaut, Mark Watney (played by Matt Damon), is marooned on Mars, and presumed dead. Figuring that it would be at least four years until someone can rescue him, he sets out, though often ingenious means, to survive..::grantss",
+        "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Mandarin"
+        ],
+        "adult_language_percentage": 1.1794770984863379,
+        "linguistic_difficulty_percentage": 0.12777668566935327,
+        "words_per_minute": 70,
+        "common_words": {
+            "get": 56,
+            "go": 56,
+            "know": 47,
+            "gonna": 45,
+            "right": 43,
+            "mark": 40,
+            "yeah": 39,
+            "okay": 39,
+            "need": 38,
+            "watney": 37
+        }
+    }
+}

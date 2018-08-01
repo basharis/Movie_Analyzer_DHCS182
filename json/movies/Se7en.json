@@ -1,0 +1,41 @@
+{
+    "title": "Se7en",
+    "year": 1995,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "127"
+    ],
+    "rating": 8.6,
+    "plot": [
+        "A film about two homicide detectives' (Morgan Freeman and Brad Pitt) desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...::Mark Fleetwood <mfleetwo@mail.coin.missouri.edu>",
+        "Taking place in a nameless city, Se7en follows the story of two homicide detectives tracking down a sadistic serial killer (Kevin Spacey) who chooses his victims according to the seven deadly sins. Brad Pitt stars as Detective David Mills, a hopeful but naive rookie who finds himself partnered with veteran Detective William Somerset (Morgan Freeman). Together they trace the killer's every step, witnessing the aftermath of his horrific crimes one by one as the victims pile up in rapid succession, all the while moving closer to a gruesome fate neither of them could have predicted.::David Foyer",
+        "Two police detectives - one, Somerset, about to retire and the other, Mills, just transferred into the precinct - investigate the murder of an obese man. On his wall was written the word \"Gluttony\". Then they are alerted to the murder of a lawyer. On his floor was written the word \"Greed\". Somerset suspects that the murders were the work of the same man, a man murdering people who have committed the seven deadly sins.::grantss",
+        "This thriller portrays the exploits of a deranged serial killer. His twisted agenda involves choosing seven victims who represent egregious examples of transgressions of each of the Seven Deadly Sins. He then views himself as akin to the Sword of God, handing out horrific punishment to these sinners. Two cops, an experienced veteran of the streets (Morgan Freeman) who is about to retire and the ambitious young homicide detective (Brad Pitt) hired to replace him, team up to capture the perpetrator of these gruesome killings. Unfortunately, they too become ensnared in his diabolical plan....::Tad Dibbern <DIBBERN_D@a1.mscf.upenn.edu>",
+        "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.::Sue Totman <TYWM96B@prodigy.com> assmn316"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 3.2015065913371,
+        "linguistic_difficulty_percentage": 0.12947269303201508,
+        "words_per_minute": 66,
+        "common_words": {
+            "get": 58,
+            "wa": 55,
+            "know": 48,
+            "got": 47,
+            "like": 40,
+            "want": 33,
+            "go": 32,
+            "right": 32,
+            "fucking": 32,
+            "yeah": 30
+        }
+    }
+}

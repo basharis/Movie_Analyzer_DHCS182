@@ -1,0 +1,41 @@
+{
+    "title": "Terminator 2",
+    "year": 1991,
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "137"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "Over 10 years have passed since the first cyborg called The Terminator tried to kill Sarah Connor and her unborn son, John Connor. John Connor, the future leader of the human resistance, is now a healthy young boy. However another Terminator is sent back through time called the T-1000, which is more advanced and more powerful than its predecessor. The Mission: to kill John Connor when he's still a child. However, Sarah and John do not have to face this threat of a Terminator alone. Another Terminator is also sent back through time. The mission: to protect John and Sarah Connor at all costs. The battle for tomorrow has begun...::Eric ggg",
+        "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.::Colin Tinto <cst@imdb.com>",
+        "Sequel to Terminator. Skynet, the 21st century computer waging a losing war on humans sends a second terminator back in time to destroy the leader of the human resistance while he is still a boy. His mother is the only one who knows of the existence of the Terminators, human-like robots that exist only to kill and are nearly indestructible, and Sarah, the boy's mother is currently in a state mental hospital because of her 'delusions'. A second protector is sent back to the past by the Human resistance to protect John Connor, their future leader, at all costs.::John Vogel <jlvogel@comcast.net>",
+        "It has been about 10 long years since a Terminator failed to kill Sarah Connor and her unborn son, John. Now, Skynet has sent back another Terminator. This one being more advanced than the last one. John Connor, who is now about ten years old, is the target. The future John sends back a replica of the Terminator that tried to kill him back in time to 1994. It's Terminator vs. Terminator.::Ricky Steck (rickysteck@sbcglobal.net)",
+        "In the last movie a cyborg was sent from the future to kill Sarah Connor, but he failed. Now a much more powerful one sent from the future to kill Sarah's son - John Connor, the leader of the future rebels. A terminator was send from the future once more, but this time to protect Connor. The only problem is that the terminator who was send to kill Connor is much more powerful and clever than the one who was send to protect him. Moreover, none can help Connor, since they do not believe in robots. Now Connor and his protector has no choice but to survive on their own.::rsilberman",
+        "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.::PaulRichard"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 2.877316857899382,
+        "linguistic_difficulty_percentage": 0.1059135039717564,
+        "words_per_minute": 41,
+        "common_words": {
+            "go": 67,
+            "get": 65,
+            "come": 47,
+            "right": 45,
+            "john": 41,
+            "know": 40,
+            "mom": 38,
+            "wa": 31,
+            "okay": 29,
+            "let": 27
+        }
+    }
+}

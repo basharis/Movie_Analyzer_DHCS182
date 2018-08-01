@@ -1,0 +1,41 @@
+{
+    "title": "The Truman Show",
+    "year": 1998,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "103"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In this movie, Truman is a man whose life is a fake one... The place he lives is in fact a big studio with hidden cameras everywhere, and all his friends and people around him, are actors who play their roles in the most popular TV-series in the world: The Truman Show. Truman thinks that he is an ordinary man with an ordinary life and has no idea about how he is exploited. Until one day... he finds out everything. Will he react?::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "Truman Burbank lives a happy life. However, what he doesn't know is that his life is actually the focus of a reality TV show aired since his birth, that he's the star, his hometown is a giant set piece, and everyone around him is an actor going by a script.::Skip4591",
+        "Truman Burbank is a normal man, living in a normal town. He grew up to be a desk clerk for a insurance company, living an ordinary life, having an ordinary wife, an ordinary neighbour and an ordinary bud, who pops in from time to time with a sixpack. But Truman is not happy with his life. He wants to see the world. He wants to get away from his happy-happy, ever tidy, nice'n'shiny little island town at the seaside. In reality, Truman was an unwanted pregnancy. His \"father\", Christof, a reckless TV-Producer whom he never met, made up the Truman Show - the greatest show on earth - a show in which life is live. So, everyone around poor Truman is an actor with a little headphone in the ear. One day, Truman accidentally bumps into a catering area backstage and gets pretty suspicious. His plan now is: Pretend to be sleeping and steal away...::Julian Reischl <julianreischl@mac.com>",
+        "Truman Burbankis happy with his life. He is a successful business man, he has a nice wife and many friends. However, Truman finds his life is getting very repetitive. Actually every moment of his life is being filmed, being watched by millions, and that his world is limited in a small Hollywood film set. Truman decides to follow his discovery no matter how hard and how much it pains him.::Christian",
+        "He's the star of the show--but he doesn't know. Truman Burbank is a man whose life is a nonstop TV show. Truman doesn't realize that his quaint hometown is a giant studio set run by a visionary producer/director/creator, that folks living and working there are Hollywood actors, that even his incessantly bubbly wife is a contract player. Gradually, Truman gets wise. And what he does about his discovery will have you laughing, crying and cheering.::Robert Lynch <docrlynch@yahoo.com>",
+        "An insurance salesman/adjuster discovers his entire life is actually a television show.::BCDavis <wdavis@netins.net>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.8750698194004841,
+        "linguistic_difficulty_percentage": 0.05585552038726494,
+        "words_per_minute": 52,
+        "common_words": {
+            "truman": 71,
+            "go": 42,
+            "wa": 29,
+            "know": 28,
+            "get": 27,
+            "got": 26,
+            "good": 24,
+            "let": 23,
+            "like": 23,
+            "one": 21
+        }
+    }
+}

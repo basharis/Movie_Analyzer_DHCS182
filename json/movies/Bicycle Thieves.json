@@ -1,0 +1,38 @@
+{
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "89"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Ricci, an unemployed man in the depressed post-WWII economy of Italy, gets at last a good job - for which he needs a bike - hanging up posters. But soon his bicycle is stolen. He and his son walk the streets of Rome, looking for the bicycle. Ricci finally manages to locate the thief but with no proof, he has to abandon his cause. But he and his son know perfectly well that without a bike, Ricci won't be able to keep his job.::jolusoma",
+        "The unemployment rate is high in postwar Italy. Antonio Ricci has been workless for two years, when he at last is offered a job as a poster. There is only one condition: he must have a bike of his own. At the moment his bicycle is at the pawn-shop, but Antonio's wife Maria says they can pawn their six sheets instead. The first day at work Antonio's bicycle is stolen. A friend offers to help him search for it the next morning at Piazza Vittorio, where the street vendors sell stolen bikes. The search is unsuccessful, but Antonio and his little son Bruno don't give up. They continue to the market at Porta Portese, where Antonio happens to see the thief talking to an elderly man. As he cannot catch the thief, he instead pursues the old man, who goes into a church, where he disappears during the mass. The third time Antonio happens to see the thief, he succeeds to pursue him to his dwelling-place. A local policeman believes Antonio's story about the theft, but as he cannot find the stolen bike in the apartment, the case is dismissed. Driven into utterly despair Antonio and Bruno walk back home - back to unemployment.::Maths Jesperson {maths.jesperson1@comhem.se}",
+        "During the hard years of poverty in post-World-War-II Rome, Antonio, a poor working-class man of a wife and a little son, is finally offered a modest job as a bill-poster with his own bicycle; a bicycle like the one Antonio was already forced to pawn. As a result, his wife, Maria, pawns the family's bed linen to redeem their bicycle, unfortunately, however, on Antonio's first day of work, the prized possession is stolen. Desperate, the ill-fated father and his boy, Bruno, will scour Rome's bustling streets on a gloomy Sunday to find the vital bicycle, but undoubtedly, this is an impossible task. Will Antonio ever get his job back?::Nick Riganas",
+        "Antonio Ricci is only one of several men who regularly stand outside his local municipal employment office in Rome every morning hoping that there is work available, it doled out on a qualification basis. This morning, he is told there is a job for him starting tomorrow hanging posters around the city. In getting the job, he tells a white lie in that he has a bicycle, a bicycle which is a requirement for the work. In actuality, he pawned his bicycle to put food on the table for himself, his wife Maria, and their two young children. At some sacrifice, he and Maria sell some of their possessions so that Antonio can get his bicycle out of hawk. They believe it is worth it as the return in employment salary and overtime far exceeds the initial capital outlay in getting the bicycle back. On Antonio's first working day, his bicycle is stolen as he is on his ladder hanging a poster. With little help from the police who tell him all they can do is keep the bicycle's serial number on file in case it does show up, Antonio, with his friends and his older son, adolescent Bruno, by his side, go on what seems like a futile mission to locate the bicycle, which could now be anywhere in Rome. But as Antonio views the bicycle as his and his family's means of survival, he will grasp at any straw to locate the bicycle and/or the thief, who he did see, and perhaps take desperate measures in these desperate times.::Huggo",
+        "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it."
+    ],
+    "language": {
+        "id": [
+            "Italian"
+        ],
+        "adult_language_percentage": 0.8922596475574393,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 50,
+        "common_words": {
+            "go": 54,
+            "get": 38,
+            "come": 37,
+            "look": 29,
+            "right": 25,
+            "let": 25,
+            "see": 23,
+            "find": 23,
+            "got": 22,
+            "one": 21
+        }
+    }
+}

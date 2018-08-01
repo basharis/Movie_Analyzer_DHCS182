@@ -1,0 +1,41 @@
+{
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "115"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "THREE BILLBOARDS OUTSIDE EBBING, MISSOURI is a darkly comic drama from Academy Award nominee Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Academy Award winner Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.::Fox Searchlight Pictures",
+        "In an effort to track down who raped and murdered her daughter, Mildred Hayes has three billboards erected outside her town of Ebbing, Missouri. They accuse the Sheriff of doing nothing to catch the killer. This causes a largely adverse, and diverse, reaction amongst the town's folk, not least of all the sheriff's deputy, the hot-headed, irascible Jason Dixon.::grantss",
+        "It's been already seven months since her daughter's hideous murder, and the divorced mother, Mildred Hayes, is still grieving, refusing to come to terms with her loss. In Mildred's case, nothing seems to be able to take away the gut-wrenching pain only a mother feels when she loses a child; however, in one of those spur-of-the-moment decisions, the plucky parent will rent three derelict billboards on the outskirts of her town, Ebbing, to declare war against the local police for failing to find the killer. No one is spared in this brave crusade, not even the ailing police chief, Willoughby, as Mildred's bold black-on-red statements demand answers and the culprit's head on a platter. Just how far is Mildred willing to go to appease her rage?::Nick Riganas",
+        "The story takes place entirely in the small town of Ebbing, Missouri, where a girl was raped and murdered a few months ago. The mother, Mildred Hayes, believes that the local police did nothing to find the killer, so she rents three billboards in order to challenge them to search deeper. This leads to many complex situations that involve tragedy, anger, hate, love, redemption and broken characters.::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "A mother (Frances McDormand) decides to rent three billboards outside her home town to make a wake-up call to the authorities to solve her daughter (Kathryn Newton)'s rape and murder, and to find the guy. After that, nothing will be like the same on the small town of Ebbing, Missouri.::Ivo Byrt",
+        "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.::Fox Searchlight Pictures"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 3.623104525986804,
+        "linguistic_difficulty_percentage": 0.12732955203148513,
+        "words_per_minute": 75,
+        "common_words": {
+            "know": 88,
+            "wa": 72,
+            "got": 52,
+            "right": 50,
+            "fucking": 50,
+            "yeah": 40,
+            "gonna": 38,
+            "say": 36,
+            "think": 35,
+            "billboard": 34
+        }
+    }
+}

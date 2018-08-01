@@ -1,0 +1,39 @@
+{
+    "title": "Deadpool 2",
+    "year": 2018,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "119"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "After losing the love of his life, 4th wall-breaking mercenary Wade Wilson aka Deadpool (Ryan Reynolds) must protect Russel (Julian Dennison) must assemble a team of mutants and protect Russel from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future and Deadpool must learn the most important lesson of all, to be part of a family again.",
+        "After surviving a near fatal bovine attack, a disfigured cafeteria chef (Wade Wilson) struggles to fulfill his dream of becoming Mayberry's hottest bartender while also learning to cope with his lost sense of taste. Searching to regain his spice for life, as well as a flux capacitor, Wade must battle ninjas, the Yakuza, and a pack of sexually aggressive canines, as he journeys around the world to discover the importance of family, friendship, and flavor - finding a new taste for adventure and earning the coveted coffee mug title of World's Best Lover.::Twentieth Century Fox",
+        "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.::Don Draper 101"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 3.933791917454858,
+        "linguistic_difficulty_percentage": 0.09673258813413585,
+        "words_per_minute": 78,
+        "common_words": {
+            "go": 55,
+            "like": 52,
+            "get": 52,
+            "wa": 50,
+            "gonna": 45,
+            "know": 45,
+            "one": 41,
+            "right": 41,
+            "fuck": 38,
+            "say": 36
+        }
+    }
+}

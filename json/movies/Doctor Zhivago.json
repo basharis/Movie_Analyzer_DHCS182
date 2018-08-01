@@ -1,0 +1,42 @@
+{
+    "title": "Doctor Zhivago",
+    "year": 1965,
+    "genres": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "runtime": [
+        "197"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "During the Russian Revolution, Yuri Zhivago, is a young doctor who has been raised by his aunt and uncle following his father's suicide. Yuri falls in love with beautiful Lara Guishar, who has been having an affair with her mother's lover, Victor Komarovsky, an unscrupulous businessman. Yuri, however, ends up marrying his cousin, Tonya. But when he and Lara meet again years later, the spark of love reignites.::Jwelch5742",
+        "Lara inspires lechery in Komarovsky (her mother's lover who is a master at surviving whoever runs Russia) and can't compete with passion for the revolution of the man she marries, Pasha. Her true love is Zhivago who also loves his wife. Lara is the one who inspires poetry. The story is narrated by Zhivago's half brother Yevgraf, who has made his career in the Soviet Army. At the beginning of the film he is about to meet a young woman he believes may be the long lost daughter of Lara and Zhivago.::Dale O'Connor <daleoc@interaccess.com>",
+        "Set just before and in the years following the Bolshevik Revolution in Russia, the filme follows the life of Zhivago as he marries, raises a family, has his life totally disrupted by first World War One, and then by the Revolution. Shown against the Epic of a world turned on its head, his life and freedom are torn from him as the new society makes demands.::John Vogel <jlvogel@comcast.net>",
+        "A Russian epic, the movie traces the life of surgeon-poet Yury Zhivago before and during the Russian Revolution. Married to an upper-class girl who is devoted to him, yet in love with an unfortunate woman who becomes his muse, Zhivago is torn between fidelity and passion. Sympathetic with the revolution but shaken by the wars and purges, he struggles to retain his individualism as a humanist amid the spirit of collectivism.::<dapao@hotvoice.com>",
+        "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during the First World War and then the October Revolution.::LVJeff"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Russian",
+            "French"
+        ],
+        "adult_language_percentage": 0.8489146787019128,
+        "linguistic_difficulty_percentage": 0.16118633139909735,
+        "words_per_minute": 47,
+        "common_words": {
+            "yes": 97,
+            "wa": 82,
+            "know": 71,
+            "yuri": 58,
+            "good": 49,
+            "come": 44,
+            "get": 39,
+            "comrade": 38,
+            "think": 38,
+            "lara": 32
+        }
+    }
+}

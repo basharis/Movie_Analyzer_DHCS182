@@ -1,0 +1,40 @@
+{
+    "title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Mystery"
+    ],
+    "runtime": [
+        "153"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "In the sixth year at Hogwarts School of Witchcraft, and in both wizard and muggle worlds Lord Voldemort and his henchmen are increasingly active. With vacancies to fill at Hogwarts, Professor Dumbledore persuades Horace Slughorn, back from retirement to become the potions teacher, while Professor Snape receives long awaited news. Harry Potter, together with Dumbledore, must face treacherous tasks to defeat his evil nemesis.::IMDb Editors",
+        "Lord Voldemort's forces are causing havoc both in the Wizarding and Muggle societies. Harry Potter is in his 6th year at Hogwarts and taking private lessons with Professor Dumbledore to found out what might be the Dark Lords only weakness. But hormones in Harry's body are changing extremely fast as he starts to fall in love with Ginny Weasley. What is Voldemort's Weakness? Will Harry Express His Feelings Towards Ginny? And Most Importantly, Who Kills Dumbledore?",
+        "In Harry Potter's sixth year at Hogwarts School of Witchcraft, Harry finds a book marked mysteriously, \"This book is the property of the Half Blood Prince,\" which helps him excel at Potions class and teaches him a few dark and dangerous ones along the way. Meanwhile, Harry is taking private lessons with Dumbledore in order to find out about Voldemort's past so they can find out what might his only weakness.::heather",
+        "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.::Tomius J. Barnard"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9684972328650489,
+        "linguistic_difficulty_percentage": 0.10642826734780758,
+        "words_per_minute": 61,
+        "common_words": {
+            "wa": 87,
+            "know": 77,
+            "harry": 73,
+            "sir": 57,
+            "one": 51,
+            "well": 47,
+            "think": 45,
+            "like": 38,
+            "professor": 36,
+            "oh": 35
+        }
+    }
+}

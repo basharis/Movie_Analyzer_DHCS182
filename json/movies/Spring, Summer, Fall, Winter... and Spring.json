@@ -1,0 +1,38 @@
+{
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "year": 2003,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "103"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In the midst of the Korean wilderness, a Buddhist master patiently raises a young boy to grow up in wisdom and compassion, through experience and endless exercises. Once the pupil discovers his sexual lust, he seems lost to contemplative life and follows his first love, but soon fails to adapt to the modern world, gets in jail for a crime of passion and returns to the master in search of spiritual redemption and reconciliation with karma, at a high price of physical catharsis...::KGF Vissers",
+        "A Buddhist monk lives in a temple in the middle of a lake. He is training a child to be a monk. We see the transitions the younger monk goes through as he ages, his discoveries, trials and tribulations, temptations, sins, punishments and atonements.::grantss",
+        "A young boy lives in a small floating temple on a beautiful lake, together with an elderly master who teaches him the ways of the Buddha. Years later the boy, now a young man, experiences his sexual awakening with a girl who has come to the temple to be healed by the master. The youth runs away to the outside world but his lust turns his life into hell, so he returns to the lake temple to find spiritual enlightenment.::Markku Kuoppam\u00e4ki",
+        "A boy is raised by a Buddhist monk on an isolated floating temple where the years pass like the seasons.::arnalp"
+    ],
+    "language": {
+        "id": [
+            "Korean"
+        ],
+        "adult_language_percentage": 1.8005540166204987,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 7,
+        "common_words": {
+            "master": 15,
+            "yes": 9,
+            "go": 8,
+            "one": 7,
+            "look": 5,
+            "wa": 5,
+            "spring": 4,
+            "let": 4,
+            "come": 4,
+            "snake": 4
+        }
+    }
+}

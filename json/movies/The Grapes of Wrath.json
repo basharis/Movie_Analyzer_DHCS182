@@ -1,0 +1,37 @@
+{
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "genres": [
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "129"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "The Joad clan, introduced to the world in John Steinbeck's iconic novel, is looking for a better life in California. After their drought-ridden farm is seized by the bank, the family -- led by just-paroled son Tom -- loads up a truck and heads West. On the road, beset by hardships, the Joads meet dozens of other families making the same trek and holding onto the same dream. Once in California, however, the Joads soon realize that the promised land isn't quite what they hoped.::Jwelch5742",
+        "Tom Joad returns to his home after a jail sentence to find his family kicked off their farm due to foreclosure. He catches up with them on his uncle's farm and joins them the next day as they head for California and a new life - Hopefully.::Colin Tinto <cst@imdb.com>",
+        "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9314765286359864,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 84,
+        "common_words": {
+            "get": 116,
+            "got": 107,
+            "like": 76,
+            "wa": 67,
+            "come": 67,
+            "know": 64,
+            "go": 63,
+            "right": 62,
+            "going": 60,
+            "well": 57
+        }
+    }
+}

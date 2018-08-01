@@ -1,0 +1,39 @@
+{
+    "title": "Room",
+    "year": 2015,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "118"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "ROOM tells the extraordinary story of Jack, a spirited 5-year-old who is looked after by his loving and devoted mother. Like any good mother, Ma dedicates herself to keeping Jack happy and safe, nurturing him with warmth and love and doing typical things like playing games and telling stories. Their life, however, is anything but typical--they are trapped--confined to a 10-by-10-foot space that Ma has euphemistically named Room. Ma has created a whole universe for Jack within Room, and she will stop at nothing to ensure that, even in this treacherous environment, Jack is able to live a complete and fulfilling life. But as Jack's curiosity about their situation grows, and Ma's resilience reaches its breaking point, they enact a risky plan to escape, ultimately bringing them face-to-face with what may turn out to be the scariest thing yet: the real world.::A24",
+        "Five year old Jack's entire life consists of his Ma and whatever he has where they live, Room. Room is an approximate ten by ten by ten foot cubed structure, out of which he's never been. Seven years ago, Ma - Joy Newsome, the daughter of Bob and Nancy Newsome - was abducted by \"Old Nick\", the man who is keeping them captive in Room, which is really a tool shed in his back yard, the shed's only door secured by a number coded keypad, the code which only Old Nick knows. They are dependent on Old Nick for their basic necessities, such as food, water, clothes and utilities. Whenever Old Nick does stay for extended visits in Room, Ma will not let Jack see him or visa versa, Jack who is supposed to hide \"asleep\" in the wardrobe. Old Nick has no desire to see his biological offspring anyway. To shield him from anything that is happening to them, Ma has told Jack that the two of them and Old Nick are the only real things, and that what Jack reads about in books or sees on television are all not real. Jack believes that Old Nick gets their food by magic from television. The only exposure they have to natural light is a skylight at the top of Room, out of which they can only see sky. Joy knows she can't kill Old Nick because they would still be locked in Room. Joy tried to escape only once before Jack was born, that attempt which failed and which resulted in her not having tried again... until now. She has made this decision to try to escape partly due to Jack's age where he can now understand things better, and an incident which showed Joy what were to happen if something truly did happen to Old Nick with them locked inside. If they are able to escape, not only would Jack be required to adjust to a life and a world he may have no comprehension about, but Joy may find that the outside world is much more difficult to adjust to than she imagines, and not only because of the changes to outside in seven years.::Huggo",
+        "A mother, Joy, and her five-year old son, Jack, are held captive in a one-room shed. She was abducted by a stranger, Nick, and has been there for seven years. Jack was born there and the room is his entire world. Then one day they escape and get to live normal lives. For Jack, the world he now is confronted by is a very foreign place.::grantss",
+        "A mother and her 5 year old son, who have been held captive for 7 years, finally escape and gain freedom from their captor, but escape to a dramatic homecoming and have to deal with the pressures of the real world in this powerful and suspenseful Drama.::Anonomys",
+        "A mother and her son escape from a room in which they have endured imprisonment for the entirety of her son's life. Upon breaking free from its confines; they experience a dramatic homecoming, provoking insight into the depths of imagination and the extent of a mother's love.",
+        "A young boy is raised within the confines of a small shed.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9029649595687331,
+        "linguistic_difficulty_percentage": 0.013477088948787063,
+        "words_per_minute": 62,
+        "common_words": {
+            "okay": 110,
+            "jack": 95,
+            "yeah": 56,
+            "know": 53,
+            "come": 51,
+            "wa": 43,
+            "good": 42,
+            "get": 39,
+            "gonna": 37,
+            "real": 37
+        }
+    }
+}

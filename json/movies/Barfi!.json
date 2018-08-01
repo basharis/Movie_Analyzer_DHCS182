@@ -1,0 +1,38 @@
+{
+    "title": "Barfi!",
+    "year": 2012,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "151"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Set in the 1970s in a pretty corner of India, Barfi! is the story of three young people who learn that love can neither be defined nor contained by society's norms of normal and abnormal. Barfi, a hearing and speech impaired boy falls in love with Shruti. In spite of her deep affection for Barfii, Shruti gives into societal and parental pressure to marry a 'normal' man and lead a 'normal' life. Many years later their paths cross once again when Barfi, now in love with Jhilmil, is on the run from the police. Barfi is desperately seeking Jhilmil, who has gone missing. Shruti's realization that Jhilmil is autistic makes her recognize that true love is really blind. Caught in a cat and mouse game, in the search for the girl Barfi loves, Shruti realizes that she is still in love with him. She must now choose between her happiness and Barfi! stars three of India's most loved young stars, all essaying roles of a lifetime. The uber cool Ranbir Kapoor plays the lead role of Barfi!, the very talented Priyanka Chopra takes on the challenge of playing Jhilmil and South star Ileana makes her Hindi debut as Shruti. This season, don't worry, be Barfi!::Mohijit Mukerjee",
+        "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.::Mohijit Mukerjee"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 0.9239297813366184,
+        "linguistic_difficulty_percentage": 0.030797659377887282,
+        "words_per_minute": 21,
+        "common_words": {
+            "barfi": 56,
+            "wa": 47,
+            "jhilmil": 44,
+            "love": 31,
+            "go": 17,
+            "know": 16,
+            "please": 14,
+            "away": 13,
+            "get": 13,
+            "would": 13
+        }
+    }
+}

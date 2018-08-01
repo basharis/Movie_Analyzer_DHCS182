@@ -1,0 +1,19 @@
+{
+    "authors": "Tamir Eyal, Shahar Bashari",
+    "num_of_movies_in_db": 356,
+    "latest_movie_added": {
+        "name": "Stargate",
+        "time": "2018-07-30 16:02:30.910643"
+    },
+    "latest_update_lists": {
+        "top": "2018-07-30 11:40:41.815671",
+        "similar": "2018-07-29 22:34:50.549317",
+        "movie_info": "2018-07-28 16:15:22.321479",
+        "avg": "2018-07-30 11:39:42.311995"
+    },
+    "avg_score": {
+        "dirty_lang": 1.7309344944258396,
+        "complex_lang": 0.07805554623624386,
+        "words_per_minute": 68.05128205128206
+    }
+}

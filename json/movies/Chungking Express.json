@@ -1,0 +1,43 @@
+{
+    "title": "Chungking Express",
+    "year": 1994,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Wong Kar-Wai's movie about two love-struck cops is filmed in impressionistic splashes of motion and color. The first half deals with Cop 223, who has broken up with his girlfriend of five years. He purchases a tin of pineapples with an expiration date of May 1 each day for a month. By the end of that time, he feels that he will either be rejoined with his love or that it too will have expired forever. The second half shows Cop 663 dealing with his breakup with his flight attendant girlfriend. He talks to his apartment furnishings until he meets a new girl at a local lunch counter.::Tad Dibbern <DIBBERN_D@a1.mscf.upenn.edu>",
+        "Two individual stories of lovelorn Hong Kong police officers are told against the backdrop of the bustling but often lonely concrete jungle that is the city, the two stories loosely tied by the same western fast food stall in the Chungking Mansions they routinely frequent. In the first story, He Qiwu, badge number 223, is a plainclothes officer. On April 1, 1994, May, his girlfriend of five years, breaks up with him. He goes through a daily ritual to deal with the news, he hoping the break up is a joke seeing as to the day she tells him. That ritual will end on May 1 - his twenty-fifth birthday - which if she does not return to him by then, he will come to the conclusion that it is not a joke and try to move on without her. The day of his birthday is altered not by May's return, but by his encounter with an Asian woman wearing a trench coat and a blond wig, to who he is instantly attracted, not knowing that she has had a difficult day in her \"job\" as a drug smuggler. In the second story, Officer 663, a beat cop, has routinely ordered a chef salad at the stall for his girlfriend, a flight attendant he met on a flight she was working. After they embarked on a relationship, he thought she would be the one. However, she breaking up with him coincides with a young woman, the owner's cousin, starting her temporary employment at the stall, she who has a penchant for listening to The Mamas and the Papas' \"California Dreamin'\" very loudly. As she and the others working at the stall quietly follow 663 dealing with the break-up, 663 may be too distraught to notice that she might like to take the flight attendant's place in his life, she who is able to insinuate herself in his life in ways he may not fully comprehend. She takes the tact that she does as being in the same position he is with the flight attendant.::Huggo",
+        "Two stories, two lovelorn cops, two objects of desire: one a big-time heroin dealer in deep trouble with her boss after the cargo disappears, the other a seriously flaky take-out waitress who inadvertently gets hold of the keys to her admirer's apartment, all shot in a breathless kaleidoscope of color and hand-held camera work to create a mesmerizing portrait of Hong Kong in the 1990s.::Michael Brooke <michael@everyman.demon.co.uk>",
+        "Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "Cantonese",
+            "English",
+            "Japanese",
+            "Hindi",
+            "Mandarin"
+        ],
+        "adult_language_percentage": 0.5346350534635054,
+        "linguistic_difficulty_percentage": 0.023245002324500233,
+        "words_per_minute": 42,
+        "common_words": {
+            "like": 33,
+            "get": 28,
+            "may": 26,
+            "want": 26,
+            "go": 26,
+            "know": 22,
+            "wa": 20,
+            "never": 18,
+            "one": 17,
+            "right": 16
+        }
+    }
+}

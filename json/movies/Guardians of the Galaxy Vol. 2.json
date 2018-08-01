@@ -1,0 +1,39 @@
+{
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "136"
+    ],
+    "rating": 7.7,
+    "plot": [
+        "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader Star Lord (Chris Pratt) uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find that they are up against a devastating new menace who is out to rule the galaxy.::Blazer346",
+        "The Guardians of the Galaxy are hired by the leader of the well-planned Sovereign race Ayesha to destroy a monster to protect their valuable batteries. Peter Quill, Gamora, Drax, Rocket and Baby Groot defeat the monster and receive the notorious Nebula, who is Gamora estranged sister, as previously agreed to receive the bounty offered for her. However Rocket steals a couple of batteries and their spacecraft is attacked by the Ayesha and Sovereign. Out of the blue, the Sovereign fleet is destroyed by a mysterious ship and the Guardians crash on a planet. Soon they learn that the ship that helped them is owned by Ego, who claims to be Quill's father and invites Quill to visit his planet. He goes with Gamora and Drax while Rocket fix their space craft with Baby Groot and Nebula cuffed to debris. They head to the planet and Gamora and Drax Befriend the empathetic Mantis while Quill learns from the celestial Ego that he has powerful abilities. Meanwhile Ayesha hires the outcast Ravager Yondu Udonta, who raised Quill, to hunt down the Guardians for them.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "After stealing some extremely valuable batteries from a snooty high priestess, the Guardians crash on a planet where they meet Ego, a man who claims to be Quill's father. They go with Ego to his home planet, were he tells them that he is a god, meaning Quill is too. Although Ego's planet seems like a paradise to Quill, Gamora is uneasy and when she goes to investigate, she discovers Ego's greatest secret...::Rue",
+        "The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.9163381515549713,
+        "linguistic_difficulty_percentage": 0.3504161191414805,
+        "words_per_minute": 67,
+        "common_words": {
+            "wa": 61,
+            "know": 53,
+            "one": 45,
+            "like": 44,
+            "would": 36,
+            "get": 35,
+            "need": 32,
+            "u": 31,
+            "love": 30,
+            "gonna": 30
+        }
+    }
+}

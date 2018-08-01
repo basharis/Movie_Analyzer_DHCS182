@@ -1,0 +1,41 @@
+{
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "136"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Protagonist Alex DeLarge is an \"ultraviolent\" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder and rape. While in prison, Alex learns of an experimental program in which convicts are programmed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the mean streets of Britain that he had a hand in creating.::Nikki Carlyle",
+        "In a near-futuristic society, late teen Alex DeLarge is the leader of a gang of thugs - his \"droogs\" - who commit acts of ultra-violence, often with sexual components, without any regard for their victims, and purely because it strikes their collective fancies. These acts are largely fueled by drug use. In addition, Alex is a lover of music, especially that of Ludwig van Beethoven, which, when he listens to it during these acts, intensifies his pleasure, and in turn inspires him to commit further such acts. He does not tolerate any challenge to his leadership by his droogs. Although the authorities in general know of Alex's delinquency, they have so far been unable to catch him in the act of his crimes, until one night after a sexual assault of an older woman. Alex and Alex alone is charged, convicted and incarcerated. But Alex sees what he believes is an easy way out when the government looks for subjects to participate in a new rehabilitation therapy, the end result being release from prison after the two week therapy. The therapy ends up having consequences that Alex did not envision. The questions become how Alex will function, and how others will act toward him in his changed state.::Huggo",
+        "Alex DeLarge leads a gang of \"droogs\" that go around at night and commit crimes and ultra violence, but he soon gets caught and has to serve 14 years in prison, yet 2 years later Alex volunteers to go with a new expiriment called The \"Ludavico Technique\" which will cancel his prison sentence and release him as he would be cured from violent acts, but has no idea what troubles he will face now.",
+        "In the future, the violent and psychopath delinquent Alex, leader of a gang of ultra-violent criminal teenagers who kill, steal and rape, falls into the hands of the police. Arrested, he receives the option to participate in a program developed by the government that can reduce his time in jail. Alex turns guinea pig for experiments intended to curb the destructive impulses of men and solve the society's crime problems, but ends up becoming powerless to deal with the violence that surrounds him.::MadMovieManiac",
+        "In a futuristic Britain, a gang of teenagers go on the rampage every night, beating and raping helpless victims. After one of the boys quells an uprising in the gang, they knock him out and leave him for the police to find. He agrees to try \"aversion therapy\" to shorten his jail sentence. When he is eventually released, he hates violence, but the rest of his gang members are still after him.::Colin Tinto <cst@imdb.com>",
+        "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.::Will S"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.466813348001467,
+        "linguistic_difficulty_percentage": 0.03667033370003667,
+        "words_per_minute": 40,
+        "common_words": {
+            "wa": 62,
+            "sir": 43,
+            "like": 40,
+            "good": 38,
+            "right": 30,
+            "see": 26,
+            "get": 19,
+            "boy": 18,
+            "much": 17,
+            "know": 17
+        }
+    }
+}

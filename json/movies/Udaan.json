@@ -1,0 +1,36 @@
+{
+    "title": "Udaan",
+    "year": 2010,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "134"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "After being abandoned for eight straight years in boarding school, Rohan returns to the small industrial town of Jamshedpur and finds himself closeted with an authoritarian father and a younger half brother who he didn't even know existed. Forced to work in his father's steel factory and study engineering against his wishes, he strives to forge his own life out of his given circumstances and pursue his dream of being a writer.::Anonymous",
+        "16-year old aspiring poet/writer, Rohan Singh gets expelled from Shimla's prestigious Bishop Cotton School, and is sent home to Jamshedpur, where his furious widowed father, Bhairav, who had not visited him for 8 years, instructs him to work at their family business until lunch-time, and then attend engineering college. He also finds out that his father had re-married, is again a widower, and has a school-going son, Arjun; and he reluctantly attempts to fit in his father's plans. Things take a turn for the worst after Rohan gets arrested, and Arjun gets hospitalized.::rAjOo (gunwanti@hotmail.com)",
+        "Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.::rAjOo (gunwanti@hotmail.com)"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 1.6980860555475608,
+        "linguistic_difficulty_percentage": 0.04317167937832782,
+        "words_per_minute": 51,
+        "common_words": {
+            "l": 232,
+            "go": 42,
+            "come": 39,
+            "get": 39,
+            "wa": 37,
+            "know": 35,
+            "like": 34,
+            "sir": 33,
+            "yes": 31,
+            "fatso": 28
+        }
+    }
+}

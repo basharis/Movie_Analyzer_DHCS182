@@ -1,0 +1,38 @@
+{
+    "title": "Raging Bull",
+    "year": 1980,
+    "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "runtime": [
+        "129"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life, he winds up in the ring alone.::alfiehitchie",
+        "The story of middleweight boxing champion Jake LaMotta, famously dubbed, \"The Raging Bull\" and \"The Bronx Bull\". Martin Scorsese's \"Raging Bull\" chronicles two decades of his life, and how the violence inside the ring was only an extension of his violence and temper outside of it.::Liam Alexander",
+        "The life of boxer Jake LaMotta, as the violence and temper that leads him to the top in the ring destroys his life outside of it.::bdsproductons"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.918086209450452,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 104,
+        "common_words": {
+            "come": 141,
+            "right": 131,
+            "get": 105,
+            "gonna": 98,
+            "ya": 92,
+            "know": 89,
+            "go": 85,
+            "yeah": 65,
+            "fuckin": 64,
+            "like": 61
+        }
+    }
+}

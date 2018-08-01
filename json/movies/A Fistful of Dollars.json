@@ -1,0 +1,37 @@
+{
+    "title": "A Fistful of Dollars",
+    "year": 1964,
+    "genres": [
+        "Western"
+    ],
+    "runtime": [
+        "99"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "An anonymous, but deadly man rides into a town torn by war between two factions, the Baxters and the Rojo's. Instead of fleeing or dying, as most other would do, the man schemes to play the two sides off each other, getting rich in the bargain.::Andrew Hyatt <dres@uiuc.edu>",
+        "A drifter gunman arrives in the Mexican village of San Miguel at the border of United States of America, and befriends the owner of the local bar Silvanito. The stranger discovers that the town is dominated by two gangster lords: John Baxter and the cruel Ram\u00f3n Rojo. When the stranger kills four men of the Baxter's gang, he is hired by Ram\u00f3n's brother Esteban Rojo to join their gang. However, the stranger decides to work for both sides, playing one side off against the other.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.::<jgp3553@excite.com>"
+    ],
+    "language": {
+        "id": [
+            "Italian",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.99127631329414,
+        "linguistic_difficulty_percentage": 0.037929072634174096,
+        "words_per_minute": 53,
+        "common_words": {
+            "get": 56,
+            "like": 36,
+            "go": 29,
+            "want": 29,
+            "ramon": 29,
+            "one": 27,
+            "right": 25,
+            "see": 24,
+            "wa": 23,
+            "baxters": 22
+        }
+    }
+}

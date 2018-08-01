@@ -1,0 +1,39 @@
+{
+    "title": "Kahaani",
+    "year": 2012,
+    "genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "122"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Kolkata is abuzz with the preparations for the annual Durga Puja festival, as seven months pregnant Vidya Bagchi steps off the airplane from London. Her first stop is the local police station to file a missing person report. Weeks ago, her husband Arnab arrived in India for a job assignment. The first two weeks, they talked daily on the phone, and then without explanation, his calls stopped. Everywhere Vidya turns, no one can remember Arnab. There is no trace of him at the guest house or his workplace. But Vidya will not give up her search. Somewhere in Kolkata she will discover the dangerous truth.::L. Hamre",
+        "two years ago a gas attack at Kolkata metro station killed many people on board.Vidya Bagchi a pregnant women arrives in Kolkata in search of her missing husband Arnab Bagchi during Durga Pooja Festival.Rana a police officer provides her help all the way.Vidya claims that Arnab was on an NDC (National Data Center) assignment in Kolkata but NDC claims that there was no such person employed by NDC. Agnes D'Mello human resources officer of NDC claims that her Arnab resembles to their former employee Milind Damji .But she gets killed by a psycho contract killer Bob Biswas before she could provide more details.Bob frequently follows Vidya in order to kill her.Intelligence officer Khan arrives in Kolkata and tells Vidya to be away from Milind as he was responsible for Gas attack in Kolkata metro 2 years back.Vidya believes that Aranb's resembles to Milind might have left him in trouble.Vidya continues's her search with Rana which leads to more twist with unexpected situations.::alex.mjacko@gmail.com",
+        "A pregnant woman's search for her missing husband takes her from London to Kolkata, but everyone she questions denies having ever met him.::L. Hamre"
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "Bengali",
+            "English"
+        ],
+        "adult_language_percentage": 0.7235017484625588,
+        "linguistic_difficulty_percentage": 0.048233449897503916,
+        "words_per_minute": 67,
+        "common_words": {
+            "milan": 106,
+            "bagchi": 100,
+            "yes": 69,
+            "mrs": 69,
+            "sir": 68,
+            "wa": 62,
+            "come": 54,
+            "go": 52,
+            "arnab": 52,
+            "damji": 48
+        }
+    }
+}

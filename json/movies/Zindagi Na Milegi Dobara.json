@@ -1,0 +1,39 @@
+{
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "155"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Three friends decide to turn their fantasy vacation into reality after one of their number becomes engaged.::L. Hamre"
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "Japanese",
+            "Spanish",
+            "English"
+        ],
+        "adult_language_percentage": 1.0025062656641603,
+        "linguistic_difficulty_percentage": 0.045568466621098196,
+        "words_per_minute": 28,
+        "common_words": {
+            "wa": 26,
+            "know": 25,
+            "life": 23,
+            "okay": 21,
+            "come": 21,
+            "say": 20,
+            "kabir": 20,
+            "get": 19,
+            "man": 17,
+            "let": 17
+        }
+    }
+}

@@ -1,0 +1,900 @@
+{6350}{6405}Evening, handsome.
+{6406}{6494}- Hey, Lucille. How you doing?|- Okay.
+{6495}{6562}- Evening, Hank.|- Hey, Betty. How's your mama now?
+{6563}{6641}She's good.
+{6794}{6874}Here you go.
+{7067}{7159}So, how you been?
+{7168}{7283}- Pretty good. You?|- Pretty good.
+{7284}{7353}How's Sonny?
+{7354}{7464}He's all right, I guess.
+{7678}{7747}- Vera, how you doing?|- I'm good. How are you?
+{7748}{7788}I'm good.
+{7789}{7844}Here.
+{7845}{7909}Sorry.
+{7910}{7982}- You want a drink?|- Oh, yeah. Thanks, hon.
+{7983}{8063}Wild Turkey.
+{8248}{8426}- Now, I'm sore, so go easy, darling.|- Yes, ma'am.
+{9349}{9391}Bye.
+{9392}{9448}- Thanks, Vera.|- You're welcome.
+{9449}{9511}Yeah.
+{9963}{10048}What's the matter, hon? You look so sad.
+{10049}{10139}I'm fine. Hey...
+{10168}{10296}You wanna get something to eat?
+{10335}{10463}- Talk?|- You take care, Sonny.
+{11064}{11147}Morning, Pop.
+{11164}{11319}This shit's cold. I'm|gonna get some more.
+{12174}{12289}What the hell|those niggers doing out there?
+{12290}{12405}I said something to|you. Did you hear me?
+{12406}{12439}Yeah.
+{12440}{12499}Damn porch monkeys.
+{12500}{12577}Be moving in here soon.
+{12578}{12635}Sitting next to me.
+{12636}{12724}Watching my TV.
+{12740}{12830}There was a time|when they knew their place.
+{12831}{12971}Wasn't none of this mixing going on.
+{13076}{13229}Your mother, she hated|them niggers, too.
+{13433}{13529}Tell them to get the|hell off my property.
+{13530}{13588}- You put that thing down.|- We came by to see Sonny.
+{13589}{13639}I don't give a damn|who you come by to see.
+{13640}{13684}Get them out of here right now.
+{13685}{13776}Tell them. They're your buddies.|Tell them to get out of here.
+{13777}{13922}Well, what are you standing there for?
+{14120}{14245}You watch your ass, all right?
+{14388}{14467}We'll include a 11/2-pound bread machine|at no extra cost to you...
+{14468}{14524}- You got everything you need?|- Yep.
+{14525}{14590}...only while supplies|last, so stay tuned.
+{14591}{14638}Now, let's join...
+{14639}{14711}- Be careful walking around.|- Yeah, yeah.
+{14712}{14777}...as he teaches us|the secrets of losing weight,
+{14778}{14955}being young and fighting|disease with fresh juices.
+{15115}{15187}You see these two boys here?
+{15188}{15256}They're my sons.
+{15257}{15291}They were on my property.
+{15292}{15341}Ain't no need to be|scaring no little boys.
+{15342}{15386}They ain't coming to hurt you.
+{15387}{15479}Ain't no need to be letting off no shotgun|to tell them to leave, either.
+{15480}{15531}You understand?
+{15532}{15616}Well, then keep them off my property.
+{15617}{15670}They're friends of your son, okay?
+{15671}{15696}He invited them here.
+{15697}{15773}They ain't trespassing,|they ain't hurting nobody.
+{15774}{15911}Next time you wanna play cowboy,|I'm over here all the time.
+{15912}{15972}- Well, you keep them off my property.|- I think you heard me, sir.
+{15973}{16073}Yeah, well, I think you heard me, too.|All right?
+{16074}{16184}Come on, boys. Let's go.
+{16531}{16593}Shit.
+{16660}{16707}- You all right, Dappa?|- Yeah, I'm all right.
+{16708}{16756}- You sure?|- Yeah. It was loose.
+{16757}{16819}Yeah?
+{16840}{16903}Do you see what you did, Sonny?
+{16904}{16963}Yeah, I'm sorry. It was my mistake.
+{16964}{17052}- Yeah, it was.|- It won't happen next time.
+{17053}{17223}Let's just keep going|till we get it right, huh?
+{17347}{17433}That's none of your goddamn business.
+{17434}{17499}No, I'm surprised|you talking like that to me,
+{17500}{17531}you being a woman and all.
+{17532}{17588}I'm a liberated woman.
+{17589}{17615}Better watch out, Georgia Ann.
+{17616}{17667}Tommy's gonna sue you|for sexual harassment.
+{17668}{17771}Oh, that's all right.
+{17815}{17893}Booter, how you doing?
+{17894}{18058}- Just give me the $2.50, Sonny.|- I got it, Booter.
+{18059}{18187}- You keep the rest of it.|- Thanks, Mr. Grotowski.
+{18188}{18308}Just like I said, no more|mistakes, all right?
+{18309}{18366}I wanna make damn sure|nobody makes any mistakes,
+{18367}{18455}especially you.
+{18476}{18676}So when it gets time for us to do it,|you know, you can't mess up.
+{18677}{18802}That goes for me, too,|and the rest of them.
+{18803}{18929}You ain't no different than us.|You can't screw it up.
+{18930}{19019}- That's Hank's boy.|- You think it's in the genes?
+{19020}{19090}Yeah, but he is a boy.
+{19091}{19139}He will be a man tomorrow.
+{19140}{19254}In England, they go as far|as to give the guy a party the night before.
+{19255}{19385}They call it the Monster's Ball.
+{19423}{19487}They don't want no lawyer, no preacher,|or anything like that around,
+{19488}{19598}so it's just you and me.
+{19623}{19671}Like I said,|we can't think about what he did
+{19672}{19892}or anything else about him.|It's a job. We have to do our job right.
+{21075}{21171}I've been drawing a lot. What about you?
+{21172}{21235}Yeah.
+{21257}{21379}Look here. We ain't got a lot of time.
+{21380}{21513}I'm gonna give you all my drawings|and all my clothes.
+{21514}{21659}When you get older, they may fit you,|and you may want to wear them.
+{21660}{21763}- I'm not gonna see you again after this?|- No.
+{21764}{21824}Why?
+{21860}{21896}'Cause I'm a bad man.
+{21897}{21947}Who says?
+{21948}{22010}I do.
+{22043}{22160}- But I want you to know something.|- What?
+{22161}{22202}You ain't me.
+{22203}{22319}- Yes, I am.|- No, you're not.
+{22320}{22397}You're everything that's good about me.
+{22398}{22489}You're the best of what I am,|that's what you are.
+{22490}{22658}This man you see sitting here today,|you ain't.
+{22723}{22795}Hey, baby. You look nice today.
+{22796}{22899}You always look nice.
+{22904}{22972}Tyrell, tell your daddy|what you won at school.
+{22973}{23016}Oh, yeah, right.
+{23017}{23097}My drawing is gonna be used|on the school magazine cover.
+{23098}{23152}- You know what I did?|- What'd you do?
+{23153}{23247}Go on. Just tell him.|Don't be playing no guessing game.
+{23248}{23418}I made a picture of you,|sitting alone, in jail.
+{23474}{23568}Theme was solitude.
+{23569}{23683}Way to go, Ty. Way to|go. Put it there, boy.
+{23684}{23764}Not too bad.
+{23960}{24051}What's going on with the car?
+{24052}{24121}It's leaking radiator fluid.
+{24122}{24221}You need to take it in right away.|Have them check the hoses.
+{24222}{24387}That car get too hot,|you gonna be in trouble.
+{24452}{24515}The house?
+{24516}{24566}I'm losing it.
+{24567}{24672}I can't afford to make the payments|no more.
+{24673}{24748}Not no more.
+{24749}{24839}I'm sorry, baby.
+{24948}{24995}Ty, let me and your|mama talk for a second.
+{24996}{25058}Okay.
+{25234}{25314}Come on now.
+{25329}{25443}Only reason I'm here|so you could say goodbye to your son.
+{25444}{25474}Okay.
+{25475}{25601}I been coming here|for damn near 11 years, Lawrence,
+{25602}{25664}and I'm tired.
+{25665}{25744}I'm tired of coming here.
+{25745}{25863}- Time.|- Come on, so soon?
+{25972}{26097}Well, I gotta get going, baby.
+{26338}{26393}It's time for me to go, Ty.
+{26394}{26468}I'm gonna call you.|You wait by the phone, okay?
+{26469}{26569}Come on now.|Come on, Ty, you gotta let go. Come on.
+{26570}{26660}Come on, Tyrell.
+{26703}{26796}For every time I hurt you, I'm sorry.
+{26797}{26867}Come on.
+{26883}{26938}Ma'am, let's go.
+{26939}{27008}Let's go.
+{27009}{27071}Ma'am, let's go.
+{27072}{27229}I know my way out of|here. Come on, Tyrell.
+{27464}{27517}Well, he don't have|any outstanding appeals,
+{27518}{27638}so, looks like|we're definitely going to do it tonight.
+{27639}{27674}Everybody okay?
+{27675}{27791}- You all right, Georgia Ann?|- I'm okay.
+{27792}{27888}- Dappa, is that hood ready?|- Yeah. Yeah, it's fixed and ready to go.
+{27889}{27940}All right.
+{27941}{28001}Anybody got anything to say?
+{28002}{28123}- Tommy.|- He likes to draw. It calms him down.
+{28124}{28201}Draw. Okay.
+{28203}{28279}Phil, will you make sure he's got|whatever it is he needs to draw with?
+{28280}{28353}Yes, sir.
+{28357}{28439}All right.|Tommy, why don't you lead us in a prayer?
+{28440}{28503}Okay.
+{28576}{28658}Open cell 13!
+{28736}{28782}I'm here for your stuff, man.
+{28783}{28879}"Now know I that the Lord|saveth his anointed.
+{28880}{29115}"He will hear him in his holy heaven|with the saving strength of his right hand."
+{29116}{29203}- Be careful with this.|- Don't worry about it, man.
+{29204}{29277}Close 13!
+{29316}{29363}Worry's all I got.
+{29364}{29445}"...trust in chariots, some in horses,
+{29446}{29531}"but we will remember|the name of the Lord our God.
+{29532}{29646}"They are brought down and fallen,|but we are risen and stand upright.
+{29647}{29727}"Save, Lord, let the king|hear us when we call."
+{29728}{29831}Sky surfing is when you skydive|with a board attached to your feet
+{29832}{29875}and try to do different maneuvers.
+{29876}{29937}A camera flyer flies with a camera
+{29938}{30004}on top of their helmet,|filming the sky surfer,
+{30005}{30078}and flies interactively with the sky surfer,|capturing the moves.
+{30079}{30239}My camera flyer|is my husband Craig O'Brien.
+{30256}{30331}Now, I'm gonna put|these on nice and loose.
+{30332}{30379}Everything gonna be okay, right?
+{30380}{30453}Yes, sir.
+{30574}{30649}What about my last phone call?
+{30650}{30752}Warden says it's a bad idea.
+{30753}{30833}Turn around.
+{30909}{31011}Think maybe he could call my son|and tell him that I tried?
+{31012}{31078}I don't think so.
+{31079}{31142}Okay.
+{31176}{31246}Open 13!
+{31535}{31590}Our free fall is usually|around 60 seconds,
+{31591}{31720}and the normal altitude that|we jump from is 12,500 feet.
+{31721}{31794}Let's go.
+{31863}{31936}Close 13!
+{32104}{32210}...starting to feel a little cramped|by your present surroundings?
+{32211}{32269}Maybe it's time to expand your horizons.
+{32270}{32330}Maybe it's time to think about Re/Max.
+{32331}{32406}Re/Max and associates lead|the real estate industry...
+{32407}{32490}I'm gonna be right|back. Stay right there.
+{32491}{32569}Re/Max can help you find a new home|that meets all your needs.
+{32570}{32668}While selling your current house to|someone who'll find it absolutely perfect...
+{32669}{32728}If you're looking for results,|look for Re/Max.
+{32729}{32854}Nobody sells more real estate.
+{33369}{33492}Where's my paper and pencil?|It's my right to have my paper and pencil.
+{33493}{33525}I know it.
+{33526}{33578}Your paper and pencil's on the way.
+{33579}{33677}I promise you this.
+{34075}{34135}Hey.
+{34621}{34696}Thank you.
+{34714}{34801}You're welcome.
+{36225}{36330}Here you go, Lawrence.
+{36365}{36447}Is that done?
+{36503}{36578}Let's see.
+{36588}{36721}Wow. That's nice. That's real nice.
+{36722}{36814}I don't look this good in person.
+{36815}{36917}- Thank you.|- You're welcome.
+{36918}{37006}You're welcome.
+{37119}{37180}You all right, Lawrence?
+{37181}{37239}Sonny.
+{37240}{37360}- Just you breathe.|- Sonny.
+{37389}{37434}Sonny, sit down.
+{37435}{37515}Sonny, I said sit down.
+{37516}{37589}Sit down.
+{37590}{37660}Come on.
+{37763}{37819}Come on, Lawrence.|Come on, buddy. Come on, buddy.
+{37820}{37919}Let's go. It's all right.|It's all right. Just let go. Let go.
+{37920}{38093}Let go. It's all right.|Let go. Come on. Come on.
+{38346}{38446}I've always believed that a portrait
+{38447}{38503}captures a person
+{38504}{38627}far better than a photograph.
+{38688}{38881}It truly takes a human being|to really see a human being.
+{39231}{39273}Wait a minute.
+{39274}{39349}Come here.
+{39574}{39647}What the hell is this, Tyrell?
+{39648}{39709}What'd I tell you|about eating this shit?
+{39710}{39759}Didn't I tell you don't|be eating that shit?
+{39760}{39819}Look at this! Look at all this fat!
+{39820}{39867}This fat, fat ass!
+{39868}{39983}Look at all this nasty|fat! Where they at?
+{39984}{40025}Look at all this candy.
+{40026}{40090}You ain't gonna eat all this candy!|You crazy?
+{40091}{40145}Look at this room. It's a mess.
+{40146}{40179}Why is it a mess, Tyrell?
+{40180}{40255}'Cause a fat little|piggy lives in this room!
+{40256}{40308}Get your fat ass on this scale.
+{40309}{40389}Get on the scale!|What does it say? What's it say?
+{40390}{40472}- 189.|- 189.
+{40478}{40590}You ain't lost no weight!
+{40764}{40879}Come on. Come on. Come on.
+{40883}{41025}Let's go wait for your daddy to call.
+{43066}{43099}It is ordered and adjudged
+{43100}{43140}that the judgment|pronounced and set forth
+{43141}{43201}in this order sentencing|the defendant to death
+{43202}{43282}in the manner and by the authorities|as provided by statute
+{43283}{43410}shall be executed at this time.
+{45239}{45434}Lawrence Musgrove, do you have anything|you'd like to say?
+{45553}{45643}Push the button.
+{47397}{47503}Hey. You know what you did?|Do you know what you did?
+{47504}{47600}Are you listening to me?|Do you know what you did?
+{47601}{47679}Do you know what you did?|You fucked him up!
+{47680}{47725}You fucked up that man's last walk!
+{47726}{47797}How would you like it|if somebody fucked up your last walk?
+{47798}{47907}You're like a goddamn woman.|You're like your fucking mother!
+{47908}{47970}You shouldn't have done that,|you son of a bitch!
+{47971}{48034}Get up, you fucking pussy! Come here!
+{48035}{48137}You are a piece of fucking shit!|Do you understand me?
+{48138}{48177}Hey, hey! Hold on, hold on.
+{48178}{48228}Get off me!
+{48229}{48318}Get your fucking hands off me,|you fucking nigger!
+{48319}{48358}Hank! Hank!
+{48359}{48464}- Hank, this ain't you.|- This is me, Phil. This is me!
+{48465}{48527}And I'm the man|who could have your goddamn job!
+{48528}{48627}Don't you ever let me catch you|touching anybody that outranks you again!
+{48628}{48678}- Do you understand me?|- Yes, sir!
+{48679}{48738}- Hank...|- Yes, sir.
+{48739}{48787}- I don't wanna hear it out of you.|- I just keep the peace.
+{48788}{48943}- You piece of shit! Piece of shit!|- Hey.
+{48947}{49035}You got... bleeding.
+{49036}{49101}Sonny.
+{49738}{49782}All right. Let's move. Get up.
+{49783}{49850}You get out of|my goddamn house right now.
+{49851}{49944}Hey! You get out!
+{49948}{50018}Come on!
+{50047}{50149}You lousy piece of shit.
+{50150}{50187}Get up.
+{50188}{50277}What you gonna do? Huh?
+{50278}{50373}What you gonna do?
+{50428}{50495}See? How do you like that, huh?
+{50496}{50678}Huh? Come on! Are you a tough guy now?|Are you tough?
+{50708}{50772}Say something.
+{50773}{50858}Say something!
+{51176}{51244}Get up.
+{51452}{51532}You hate me?
+{51725}{51800}Answer me.
+{51858}{51922}You hate me, don't you?
+{51923}{52015}Yeah, I hate you.
+{52046}{52126}I always did.
+{52127}{52240}Well, I always loved you.
+{52425}{52530}Give me them scissors.
+{52976}{53038}Here.
+{53258}{53307}Hold up, wait a minute.
+{53308}{53463}- Where you going?|- I wanna put these up.
+{55558}{55685}- How much?|- That'll be $2.85.
+{56110}{56164}Hey, Billy. Moving as|fast as I can, man.
+{56165}{56223}Let me just get this dress on,|and I'm gonna be right out there.
+{56224}{56281}- You don't need to get dressed.|- Damn car's still acting up.
+{56282}{56324}Leticia, listen. It's not just your car.
+{56325}{56355}You've been late every day this week.
+{56356}{56399}Billy, I've been trying to get here.
+{56400}{56455}I need this money.|I'm gonna lose my house.
+{56456}{56539}Look, why don't you go home, relax,|take some time off, you know?
+{56540}{56581}You shouldn't be here right now, anyway.
+{56582}{56659}I know that. That's why|you should've had gave me the week off.
+{56660}{56706}With some pay.
+{56707}{56857}Hell, Leticia, I already got a new girl.
+{57268}{57331}Hank?
+{57340}{57383}Let's just get this over with quick.
+{57384}{57455}Is there a passage|you would like me to read?
+{57456}{57507}No.
+{57508}{57681}All I want to hear|is that dirt hitting that box.
+{57726}{57806}He was weak.
+{57931}{57961}You can say a little something, though,
+{57962}{58117}if you want to, once|we've covered him up.
+{59972}{60011}- How you doing?|- All right.
+{60012}{60127}- You want to see a menu?|- No, that's all right. I know what I want.
+{60128}{60198}Okay, what you gonna have?
+{60199}{60330}A bowl of chocolate ice cream|and a cup of coffee.
+{60331}{60478}- Coffee. Black, sugar, cream?|- No, black.
+{60479}{60602}- That's it. Yeah.|- That it?
+{60876}{60938}Hey, Vera, it's Hank.
+{60939}{61026}Is it too late?
+{61037}{61151}Okay, chocolate ice cream. Here you go.
+{61152}{61255}I'm gonna... I'm gonna need|a plastic spoon for the ice cream.
+{61256}{61317}Oh! Goddamn!
+{61318}{61365}I'm sorry about that.
+{61366}{61459}- It's all right.|- Shit! I didn't mean to do that. I'm sorry.
+{61460}{61536}- Bring me some napkins or something.|- Okay. I'm sorry about that.
+{61537}{61563}It's all right.
+{61564}{61606}- And you said a what?|- Plastic spoon.
+{61607}{61694}Okay, I'll get it.
+{61695}{61872}- Where's Lucille?|- I'm trying to fill in for her.
+{62176}{62303}- I'm ready to pay this.|- Yep.
+{62501}{62687}- What's the deal there?|- I don't know. I just over-rang this thing.
+{62688}{62715}If you can't get that thing open,
+{62716}{62807}just tell me how much it is,|and I'll pay you for it.
+{62808}{62873}$3.92.
+{62898}{63006}There's $4.00. You keep the change.
+{63007}{63060}Thanks.
+{63061}{63153}Hey, cowboy.|Feel like some late-night pussy?
+{63154}{63202}Guess so.
+{63203}{63255}Haven't seen you in a while.
+{63256}{63322}Yeah, well...
+{63323}{63405}I ain't been feeling too good.
+{63406}{63592}Busy, a lot of things.|This and that and the other, you know?
+{63593}{63619}How you been?
+{63620}{63720}- All right.|- Good.
+{63849}{63939}So, how's Sonny?
+{64078}{64132}I can't do this tonight, Vera.
+{64133}{64258}- Are you sure, hon?|- No, not tonight. I'm sorry.
+{64259}{64364}No need to be sorry.|Let's just do it some other time.
+{64365}{64440}All right.
+{64504}{64659}- You can keep that money.|- I'm going to.
+{64668}{64733}Adios.
+{67454}{67531}- Have a seat, Hank.|- Thank you, sir.
+{67532}{67597}I appreciate you seeing me.
+{67598}{67651}What brings you here, Hank?
+{67652}{67721}Sir, I'm resigning.
+{67722}{67916}And, I wanted to come by|and tell you personally, you know?
+{67917}{68027}I appreciate that, Hank.
+{68064}{68160}Why don't we wait a few weeks|before we submit the paperwork?
+{68161}{68219}That wouldn't do anybody any good|to wait on that, though.
+{68220}{68318}I've got my mind made up.
+{68319}{68389}All right.
+{68390}{68492}We're gonna miss you.
+{68593}{68711}I brought my badge in and...
+{68712}{68769}Why don't you keep it?
+{68770}{68885}I ain't got no use for it.
+{69496}{69594}There you are, Pop.
+{69691}{69798}We got each other, Son.
+{69825}{69945}- Remember that.|- Yes, sir.
+{70120}{70210}I quit the team.
+{70479}{70576}That was a mistake.
+{70708}{70813}I can't do it anymore.
+{70831}{70969}You're reminding me of your mother.
+{70996}{71102}I guess that's bad, right?
+{71103}{71191}Your mother wasn't shit.
+{71192}{71294}That woman failed me.
+{71362}{71484}I got more pussy after|she killed herself
+{71485}{71640}than I did when she|was living as my wife.
+{71702}{71829}The point is... she quit on me.
+{71854}{71959}You're doing the same.
+{72004}{72084}God damn it!
+{72100}{72184}Let's go. Hand me my purse.
+{72185}{72224}Come on. Get out.
+{72225}{72373}- Mama, what's wrong?|- We got to walk.
+{72876}{72947}Boy, get out that street!
+{72948}{73000}Get yourself killed. Get over here.
+{73001}{73124}Don't do that. Don't do that.
+{73143}{73197}Oh, this?|I'm telling you, this is a jim-dandy.
+{73198}{73233}This is just what I'm looking for.
+{73234}{73260}And at the same time,
+{73261}{73327}it's the most expensive one|I've come across, you know?
+{73328}{73407}But if you're willing to|talk on price under...
+{73408}{73451}- We put quite a bit of work in it.|- I bet you did.
+{73452}{73501}We can talk about it.
+{73502}{73550}You know what?|Let me think it over. You got my number.
+{73551}{73594}- Sure, I got yours.|- All right.
+{73595}{73631}- It was a pleasure.|- Sure.
+{73632}{73667}- Nice seeing you.|- I'll be talking to you.
+{73668}{73788}- You, too.|- Okay, see you.
+{74018}{74121}Come on, T. Let's go.
+{74148}{74186}That's what you think|your mama look like?
+{74187}{74222}Yeah, sort of.
+{74223}{74266}- See you tomorrow morning?|- Yeah, see you.
+{74267}{74294}You, too, young man.
+{74295}{74387}- Bye.|- Bye-bye.
+{75085}{75201}Come on, T! Come on! Get up!
+{75202}{75299}Come on, T! Get up!
+{75341}{75413}Help me! Wait!
+{75414}{75476}Wait!
+{75503}{75556}Come back here!
+{75557}{75627}Help us!
+{75657}{75715}Come help us!
+{75716}{75786}Help us!
+{76110}{76206}T, wake up, baby. Wake up.
+{76207}{76260}He was hit... He was hit by a car.
+{76261}{76291}Calm down. Calm down.
+{76292}{76348}We gotta get him to|a hospital right now!
+{76349}{76424}Right now!
+{77145}{77183}Hey, y'all,|we're gonna need a gurney out here.
+{77184}{77246}- There's a kid. I think it's pretty bad.|- Gurney!
+{77247}{77397}We're gonna, we're gonna need some help.
+{77518}{77559}Are you the boy's mother?
+{77560}{77655}Please, follow me.
+{77660}{77734}Is that your boy?
+{77735}{77766}- No.|- No?
+{77767}{77841}What happened to him?
+{77842}{77883}I think he got hit by a car.
+{77884}{77927}That was his mother, went through there.
+{77928}{77996}- She said he was hit by a car.|- Hit and run?
+{77997}{78047}Like I said, I don't|know. I picked them up...
+{78048}{78135}Listen, I need to file a police report|if it was a hit and run.
+{78136}{78172}Well, shit, I don't|even know the people.
+{78173}{78199}I wouldn't know what to write.
+{78200}{78234}I wouldn't know the|first thing about it.
+{78235}{78302}Just stay, tell the police what you did,|what you saw.
+{78303}{78443}It'll take you 5 minutes. I promise.
+{78787}{78879}Wait! Wait! Wait!
+{79092}{79179}That's my baby!
+{79188}{79275}That's my baby!
+{79282}{79336}I know you're not supposed|to move people and everything,
+{79337}{79399}but, shit, I didn't|know what else to do.
+{79400}{79551}I mean, the boy was laying there,|and the woman was hysterical.
+{79552}{79579}I just did the best I could do.
+{79580}{79621}I just thought I'd better|lug him in the car
+{79622}{79686}and get on to here as quick as I could,|so that's what I did.
+{79687}{79770}All right. Well, you did a good job.
+{79771}{79867}- So you were just passing by?|- Yeah, I was just passing by.
+{79868}{79962}I don't know that lady at all.
+{79963}{80027}I'm gonna give you my card.
+{80028}{80062}We're gonna do a follow-up...
+{80063}{80111}If we get anything, okay?
+{80112}{80163}And we might call you as well|if we need to.
+{80164}{80204}- That's all right.|- That'd be all right?
+{80205}{80271}- Whatever you need me to do.|- I got your number right there.
+{80272}{80347}All right.
+{80382}{80464}Is that it? Can I go?
+{80465}{80548}Yeah. Thanks.
+{80635}{80702}That boy make it all right?
+{80703}{80783}No. He died.
+{81425}{81502}Mrs. Musgrove,|I'm gonna give you my card,
+{81503}{81537}and you feel free to call me
+{81538}{81631}anytime that you can remember|anything about this, okay?
+{81632}{81666}And I am so sorry.
+{81667}{81775}Ma'am, could you get me something|to clean that off?
+{81776}{81893}That's my... That's my bag.
+{81930}{81999}Let me go.
+{82000}{82092}- Here's your purse.|- He gone. My baby.
+{82093}{82147}Yes, ma'am.
+{82148}{82240}He gone. He gone.
+{82316}{82411}You gonna take her home, ain't you?
+{82412}{82504}I don't really know her.
+{82505}{82574}- I'll take her home.|- I think that's a good idea.
+{82575}{82675}Yeah, I'll take her.
+{82817}{82887}Could you do me a favor|and throw that away for me?
+{82888}{82926}- Yes, sir.|- I'd appreciate that.
+{82927}{83019}Take care, ma'am.
+{83343}{83455}Now, where do you live, hon?
+{83456}{83587}Ma'am, you're gonna have to tell me|where you live.
+{83588}{83656}Now, I'm gonna go in your purse.|I'm just letting you know.
+{83657}{83877}I'm going in your purse|to try to find an address on you, all right?
+{84670}{84716}You probably ought to call|some of your kin people
+{84717}{84857}or one of your friends or something.
+{84964}{85034}I'm gonna have to go.
+{85035}{85098}You gonna be all right?
+{85099}{85247}Police told me to call the coroner's office|in the morning.
+{85248}{85299}I'm sorry?
+{85300}{85374}They told me to call|the coroner's office.
+{85375}{85475}Said they gonna do an autopsy.
+{85476}{85575}I don't know|why they gonna do an autopsy.
+{85576}{85676}He was hit by a car.
+{85770}{85872}Well, I imagine it'll help them find out|who did it.
+{85873}{85957}You really believe they gonna do that?
+{85958}{86059}I believe they'll try their best, I do.
+{86060}{86227}He's a black kid.|You think they gonna do that?
+{86368}{86565}Here's your bag.|I'm just gonna leave it on the floor here.
+{86625}{86713}I'm real sorry.
+{87829}{87875}Mr. Grotowski?
+{87876}{87977}Just wanted to say sorry about Sonny.|We liked him a lot.
+{87978}{88070}We feel bad, sir.
+{88124}{88191}Which one of y'all is Willie,|and which one of you's Harry?
+{88192}{88317}This is Willie. That's Darryl.
+{88339}{88469}I'll see you. I appreciate that.
+{88759}{88893}I'm going over to the cafe.|Do you want me to give you a ride?
+{88894}{88951}Sure you don't mind?
+{88952}{89069}I'm going that way, anyway.
+{89344}{89437}Is this music all right with you?
+{89438}{89569}- 'Cause I can change it.|- No, it's cool.
+{89570}{89635}You ain't got a car?
+{89636}{89687}It's broke.
+{89688}{89821}I'm saving to get me another one.
+{90028}{90105}$8.64. Thank you.
+{90106}{90160}Thank you.
+{90161}{90224}You have a good shift, okay?
+{90225}{90292}Thanks.
+{90342}{90417}Thank you.
+{91128}{91182}Hey, Pop.
+{91183}{91272}- Lookie here.|- What are those for?
+{91273}{91359}I bought a gas station.
+{91360}{91438}That right?
+{91487}{91637}It's all bought and paid for. We own it.
+{91645}{91703}Don't say "we."
+{91704}{91764}You own it.
+{91765}{91849}I didn't buy it.
+{91850}{91890}Yeah, well...
+{91891}{91976}I wouldn't have bought no gas station.
+{91977}{92062}Is that right?
+{92107}{92177}I would've stuck to what I knew best.
+{92178}{92305}- What's that?|- Corrections Officer.
+{92306}{92357}Right.
+{92358}{92496}Well, I ain't a Corrections Officer no more.|I'm a gas station owner.
+{92497}{92573}I already made the deal.|It's too late, Pop.
+{92574}{92651}- You want me to fix you something?|- No.
+{92652}{92737}Suit yourself.
+{92799}{92859}Hey.
+{93308}{93390}There you go.
+{93392}{93453}How you doing?
+{93454}{93502}I'm all right.
+{93503}{93546}Tired.
+{93547}{93645}- You gonna eat something?|- Chocolate ice cream.
+{93646}{93731}Plastic spoon.
+{93739}{93816}You got it.
+{93873}{93948}Thank you.
+{93988}{94068}Are you set?
+{94076}{94186}About time for you to get off, isn't it?
+{94187}{94275}Did you want me to give you a ride?
+{94276}{94371}No. I...|I wouldn't think to ask you to do that.
+{94372}{94490}It's right on the way home.
+{94545}{94653}- Sure you don't mind?|- No, I'd be happy to.
+{94654}{94716}Okay.
+{94753}{94831}- The one on Prospect Street.|- Clement's?
+{94832}{94890}- Yeah, Clement's.|- You bought Clement's?
+{94891}{94931}Yeah.
+{94932}{95018}I know Clement. Can't stand that man.
+{95019}{95075}Well, he ain't gonna|be running it. I am.
+{95076}{95131}Well, that's good.
+{95132}{95197}Thanks for the ride.
+{95198}{95311}Can I ask you a question?
+{95348}{95443}Why did you help me?
+{95444}{95477}What do you mean?
+{95478}{95535}When you took me and my baby|to the hospital,
+{95536}{95631}why'd you do that?
+{95734}{95802}I don't know. I guess...
+{95803}{95876}I just...
+{95900}{96053}You know, doing the|right thing, I guess.
+{96162}{96242}My son died.
+{96288}{96353}And...
+{96404}{96459}Well, he...
+{96460}{96560}He died, and then...
+{96583}{96710}I never was a very good father.
+{96796}{96891}He was a good kid.
+{96954}{97075}I guess that somehow I just...
+{97076}{97128}When I seen|what you're going through there,
+{97129}{97183}it made me think about something,
+{97184}{97307}or it reminded me of something,|I don't know.
+{97308}{97473}You know when you feel|like you can't breathe?
+{97653}{97764}And, you can't get out to...
+{97765}{97813}From inside yourself, you know?
+{97814}{97881}Really.
+{98055}{98172}Do you want to come inside?
+{98218}{98323}I like these curtains.
+{98352}{98434}I got these here curtains on credit.
+{98435}{98592}I never heard of anybody getting curtains|on credit before, that I know of.
+{98593}{98672}What you think? They|cute. Ain't they cute?
+{98673}{98739}I love these curtains.
+{98740}{98799}They're good and red, all right.
+{98800}{98851}I got...
+{98852}{98968}I got these curtains|right here on credit,
+{98969}{99042}and the man told me
+{99043}{99101}that I really|wasn't supposed to get this deal.
+{99102}{99141}But I think he kind of liked me,
+{99142}{99231}and he told me I could have these curtains|on credit.
+{99232}{99271}I said, "Hey, what the hell?
+{99272}{99326}"Some red curtains|would be great for my place."
+{99327}{99429}So I said, "Hey, I'll take it."|So I got me some red curtains.
+{99430}{99537}Damn straight, huh? Just...
+{99538}{99597}Boy, you sure suck that whiskey down,|don't you?
+{99598}{99713}I mean... Lord have mercy.
+{99726}{99807}My husband used to love him
+{99808}{99903}some Jack Daniels.
+{99909}{100072}Well, like I said, it's...|Yeah, it's a good drink.
+{100073}{100121}You wait right here.|I'm gonna show you something.
+{100122}{100185}Okay.
+{100208}{100295}Sit right here.
+{100446}{100499}What you got there, some kind of a,
+{100500}{100559}some kind of an annual,|a school annual or something?
+{100560}{100601}No. These...
+{100602}{100717}These pictures right here.
+{100724}{100855}These are my husband's drawings|right here.
+{100856}{100887}Lawrence.
+{100888}{101003}My husband, he drew those.
+{101083}{101230}He got himself electrocuted|over there in Jackson.
+{101231}{101323}He got himself...
+{101380}{101540}These right here, these|are my son Tyrell's.
+{101550}{101602}He drew these.
+{101603}{101757}- He drew all of these right here.|- Yeah.
+{101758}{101842}Got his talent from the old man, then,|I guess.
+{101843}{101871}Didn't he?
+{101872}{101935}That's the only thing|that Negro ever gave that boy,
+{101936}{101982}was some drawing.
+{101983}{102037}Taught him how to draw.
+{102038}{102116}- It runs in families, things like that.|- Yeah.
+{102117}{102209}You know, he's...
+{102230}{102330}He was a good kid, you know?|He was a really good kid.
+{102331}{102380}He was so good.
+{102381}{102491}He was... He really loved me.
+{102492}{102634}- He really loved me.|- I understand.
+{102656}{102741}He was so fat.
+{102746}{102856}He was so fat, he wouldn't...
+{102857}{102943}I don't care what I brought in this house,|he'd just eat it up.
+{102944}{102995}I don't care what it|was I brought in here.
+{102996}{103039}I bring some Popeyes Chicken,
+{103040}{103097}that boy eat the whole thing|before I even get a chance
+{103098}{103128}to get me a bite of the chicken...
+{103129}{103246}He'd just eat it up! He|would eat his ass off!
+{103247}{103372}You ain't never seen nobody eat like...
+{103373}{103455}He would eat candy and gumballs.
+{103456}{103513}He made me take him over up there|to the super Kmart...
+{103514}{103539}Yeah?
+{103540}{103594}...and he put them quarters|in that gumball machine.
+{103595}{103627}Yeah.
+{103628}{103718}He had to wait till he get the red gumball.|He had...
+{103719}{103842}He always had to get the red gumball.
+{103843}{103963}He sounds like a character, I guess.
+{103964}{104177}He'd get that red gumball,|and he'd just eat on that red gumball.
+{104313}{104356}I was a good mother.
+{104357}{104471}I did every single|thing I can think to do.
+{104472}{104579}I was really good. I was really good.|I was a good mother.
+{104580}{104668}I was a really good mom.
+{104669}{104711}I didn't want him to be fat like that.
+{104712}{104765}I did not want my baby|to be fat like that,
+{104766}{104824}'cause I know, a black man in America,
+{104825}{104939}you can't be like|that, and I tried to...
+{104940}{105019}I was just trying to tell him|you can't be like that.
+{105020}{105095}You can't be like that in America|and a black man.
+{105096}{105179}I was just...
+{105217}{105319}I'm not sure...|I'm not sure what you want me to do.
+{105320}{105377}I want... You know what I want.
+{105378}{105475}I want you to make me feel better.|I want you to make me feel better.
+{105476}{105543}I want you to make me feel better.
+{105544}{105664}I want you to make me feel good.|Just make me feel good.
+{105665}{105719}I just want you to make me feel good.
+{105720}{105830}Can you make me feel good?|Can you make me feel good?
+{105831}{105916}Can you make me feel good?
+{105917}{105999}Can you make me feel good?
+{106000}{106088}- Feel good! Make me feel good!|- I'll help you feel good.
+{106089}{106131}Just make me feel good.
+{106132}{106362}Just make me feel good.|I want... I want to feel good. I want to feel...
+{107768}{107905}Fill me up. Fill me up. Fill me up.
+{108680}{108758}Oh, my God.
+{108928}{109020}Fill me. Fill me.
+{110994}{111072}I felt you.
+{111092}{111230}I needed you. I needed you so much.
+{111264}{111347}I needed you so much.
+{111348}{111485}I haven't felt anything in so long.
+{111514}{111617}Thank you. Thank you.
+{112908}{112980}You okay?
+{113057}{113087}Me getting sick back there
+{113088}{113258}doesn't have anything|to do with you, all right?
+{113439}{113499}Pop?
+{113560}{113632}Hey, Pop?
+{113636}{113749}I'm in the damn bathroom!
+{113793}{113830}What the hell happened to you?
+{113831}{113931}Twisted my ankle trying to take a bath.
+{113932}{114072}Dadgummit, I told you to be careful.
+{114098}{114168}- Shit.|- Oh, goddamn.
+{114169}{114261}Wiggle your toes.
+{114329}{114454}- You feel that? Yeah.|- Yeah?
+{114500}{114549}I'm sinking.
+{114550}{114690}- What are you talking about?|- I ain't worth shit.
+{114691}{114769}- You stop that.|- I can't clean myself.
+{114770}{114850}Can't walk to the|kitchen without falling.
+{114851}{114978}Can't get to the phone|before it stops ringing.
+{114979}{115095}I don't feel like a man anymore.
+{115096}{115163}You're a man, Pop.
+{115164}{115327}Can't even remember|what a woman smells like.
+{115852}{115922}- What, baby?|- There's a man.
+{115923}{115975}Where?
+{115976}{116031}All right.
+{116032}{116107}Thank you.
+{116122}{116157}How you doing?
+{116158}{116273}- Hey, how you doing?|- All right.
+{116274}{116339}What can I do for you?
+{116340}{116453}I got this '89 Comanche out there,
+{116454}{116511}and it needs a lube job|and points and plugs,
+{116512}{116609}and I was kind of wondering|if you could work on it for me.
+{116610}{116679}Yeah. Well, when...|When do you need it by?
+{116680}{116763}Just quick as you can, really.
+{116764}{116802}Maggie.
+{116803}{116924}Leave that alone, baby. Put that down.
+{116925}{116970}Yeah.
+{116971}{117042}I can get that to you|about tomorrow afternoon,
+{117043}{117114}late tomorrow night.
+{117115}{117191}I'd appreciate it.
+{117192}{117243}Maybe those boys of yours can...
+{117244}{117289}If they're not doing anything,|if they're not busy,
+{117290}{117362}you know, they could wash it|and wax it and everything.
+{117363}{117463}- I'm selling it.|- All right.
+{117464}{117518}Yeah, I'll ask them.|You know, tell them about it.
+{117519}{117625}I'm sure they won't mind.
+{117626}{117721}I can't take this.
+{117744}{117807}It was my son's. It'd mean a lot to him.
+{117808}{117839}I'm sure he'd want it that way,
+{117840}{117887}want somebody to have it|to get some use out of it.
+{117888}{117964}Well, I ain't saying I don't want it.
+{117965}{118043}I just can't take it.
+{118044}{118254}Well, I want you to have it. I really do.|It'd mean a lot to me.
+{118271}{118406}Let's just take it for a little spin.
+{118407}{118477}Come on.
+{118496}{118547}I ain't even got my shoes on.
+{118548}{118692}That's all right. We won't go far.|Let's go. Come on.
+{118693}{118803}Let's see how it drives.
+{118985}{119132}- What the hell is this?|- Stick shift.
+{119731}{119797}All right, then.
+{119798}{119825}Here's the insurance and title,
+{119826}{119871}all that kind of thing,|and all the papers you'll need.
+{119872}{119905}- It's all set.|- Okay.
+{119906}{119995}Listen, I'd sure like to|see you tonight, so...
+{119996}{120101}- Well, we should do it.|- Yeah? Is that all right?
+{120102}{120164}Okay.
+{120267}{120412}- I'll see you later.|- Okay. See you.
+{123868}{123931}Hank?
+{123962}{123997}That's good. Right there.
+{123998}{124063}Hello?
+{124067}{124130}Hank!
+{124160}{124243}It's Leticia.
+{124348}{124456}I'm coming on in, Hank.
+{124563}{124626}Hank?
+{124628}{124708}Who are you?
+{124744}{124820}You just walked in my house?
+{124821}{124856}My bad.
+{124857}{124893}I thought...
+{124894}{124983}Hank? You looking for Hank?
+{124984}{125071}Yes. Is he here?
+{125072}{125136}Who are you?
+{125137}{125263}My name is Leticia Musgrove, and...
+{125264}{125379}Me and Hank is... friends.
+{125424}{125496}Musgrove?
+{125578}{125661}Please, little darling,
+{125662}{125735}have you got a cigarette?
+{125736}{125791}Yeah.
+{125792}{125975}But it look to me|like you don't really need to be smoking.
+{125976}{126091}Come on. Have you got one?
+{126453}{126518}Match?
+{126776}{126868}So, is Hank here?
+{126900}{126972}Yeah, yeah. He'll be back shortly.
+{126973}{127076}I'm Buck, his father.
+{127085}{127146}That for Hank?
+{127147}{127242}Yeah. It's a gift.
+{127287}{127387}I'll see he gets it.
+{127716}{127779}Damn.
+{127888}{128062}Hank must've done something right|to deserve a fine hat like this.
+{128063}{128098}Guess he did.
+{128099}{128263}In my prime,|I had a thing for nigger juice myself.
+{128264}{128337}Hank just like his daddy.
+{128338}{128483}He ain't a man till he split dark oak.
+{128840}{128955}Hey, Leticia. Hang on. Where you going?
+{128956}{129042}Hey, where you going? What happened?
+{129043}{129078}- I met your daddy.|- Listen, listen...
+{129079}{129140}- Just get out and talk to me...|- Get off me. Get your hands off me, Hank.
+{129141}{129191}You at least gotta give me a chance,|whatever he did.
+{129192}{129236}It don't matter a|whole lot, do it, Hank?
+{129237}{129277}Please, give me a chance|to prove to you...
+{129278}{129418}- Get off me!|- You're just gonna...
+{129788}{129842}We're family.
+{129843}{129971}I'm your father. Remember that.
+{129998}{130060}Hank?
+{130094}{130194}What's your problem?
+{130256}{130300}I believe that's it. There you go.
+{130301}{130351}Thank you.
+{130352}{130404}I didn't date that thing there|at the bottom line.
+{130405}{130471}- I didn't know if...|- No problem.
+{130472}{130609}Anything below that line, I didn't do.
+{130610}{130693}Now, you will take good care of him,|won't you?
+{130694}{130761}Oh, yes.
+{130762}{130827}Because...
+{130828}{130903}Well, I want him to go out in peace.
+{130904}{131024}You must love him very much.
+{131043}{131106}No, I don't.
+{131107}{131244}But he's my father, so there it is.
+{131683}{131780}They said they were going to get you|a television set tomorrow.
+{131781}{131861}Finally getting rid of me, huh?
+{131862}{131918}They're gonna take care of you.
+{131919}{131964}There's a telephone|down at the end of the hall.
+{131965}{132006}You can call me.
+{132007}{132064}This is it.
+{132065}{132143}I guess so.
+{132159}{132234}I'm stuck.
+{132248}{132318}Me, too.
+{132357}{132461}I don't want to go out like this.
+{132462}{132542}Me, neither.
+{132618}{132701}Goodbye, Pop.
+{134039}{134102}What?
+{134145}{134255}- Do you want your car back?|- No, I don't want the car back.
+{134256}{134310}I meant for you to keep that.
+{134311}{134351}What?
+{134352}{134492}I just wanted you to know|that I sent him away.
+{134493}{134562}Well, I ain't got time to talk.
+{134563}{134678}Well, I wish you would talk to me.
+{134679}{134782}Y'all ready to order?
+{135522}{135589}- How you doing, Ryrus?|- Hey. How are you?
+{135590}{135703}- I'm all right.|- Who Leticia?
+{135704}{135789}My girlfriend.
+{135857}{135898}Sheriff's Department.
+{135899}{135964}Hello?
+{136260}{136325}- Who's knocking on my door?|- It's the Sheriff's Department.
+{136326}{136371}Time to go, lady.
+{136372}{136418}- No, no. Wait, wait, wait, wait, wait.|- It's time to go.
+{136419}{136494}- No. Here, here, here.|- No, no. I don't take anything.
+{136495}{136542}You have to settle up with your landlord,|then I go away.
+{136543}{136575}I got the money. Here's the money.
+{136576}{136632}Ma'am, I suggest you get fully dressed.
+{136633}{136676}- Just give me a day.|- I'm going to put you out.
+{136677}{136751}- Nah, you ain't putting me out.|- No, no.
+{136752}{136927}I about got the money.|I'm just still saving it...
+{138402}{138486}I painted the ceiling and the wall|and just fixed it up a little bit.
+{138487}{138579}I figured that I ought to.
+{138580}{138699}I'll move your stuff in,|so you don't have to worry with it.
+{138700}{138736}So...
+{138737}{138806}You know, I'm going to go into the kitchen|and get a thing or two,
+{138807}{138835}so if you just want to...
+{138836}{138919}Really, just, you know, relax,|make yourself comfortable,
+{138920}{139050}whatever you want to do with it.
+{140127}{140166}This Tyrell's.
+{140167}{140304}I thought I'd put it up there.|That's my boy's room.
+{140305}{140407}- So...|- All right. Here.
+{140408}{140530}You can go up if you want to.
+{140608}{140659}Can I look at these?
+{140660}{140748}Yeah. Go ahead.
+{140880}{140987}That's him right there.
+{141015}{141088}He don't look like you.
+{141089}{141202}He got his mother in him.
+{141472}{141543}I don't mind sleeping across the hall there|if you want me to.
+{141544}{141600}I mean,|maybe you should sleep by yourself.
+{141601}{141740}No. I wouldn't feel good|if you left me in here all by myself.
+{141741}{141869}I just want you to be|comfortable in here.
+{141870}{142005}I want you to be comfortable, too.
+{142552}{142642}I want to take care of you.
+{142643}{142693}Good.
+{142694}{142849}Because I really need|to be taken care of.
+{143672}{143762}Can I touch you?
+{143824}{143896}You sure?
+{145352}{145447}Did you feel that?
+{145456}{145528}Oh, yeah.
+{145728}{145810}It felt good?
+{145892}{145955}Yeah.
+{146043}{146148}I didn't hurt you or anything?
+{146149}{146244}Not in no bad way.
+{146605}{146667}What?
+{146708}{146803}Nothing. I just...
+{146843}{146993}I'm gonna go out and buy some ice cream.
+{147002}{147087}- Now?|- Yeah.
+{147116}{147216}It just feels right.
+{147306}{147398}- Okay.|- Well...
+{147446}{147549}- Can you buy me some?|- Yeah.
+{147550}{147647}What kind you want?
+{147649}{147724}Chocolate.
+{152194}{152247}Hey.
+{152248}{152378}I bought some chocolate ice cream.
+{152379}{152461}Are you okay?
+{152503}{152575}You sure?
+{152700}{152803}You look real pretty.
+{152804}{152900}Let's go down to the steps. You want to?
+{152901}{152973}Let's go.
+{155076}{155164}I went by our station on the way home.
+{155165}{155255}I like the sign.
+{155616}{155749}I think we're gonna be all right.

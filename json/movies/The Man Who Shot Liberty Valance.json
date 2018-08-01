@@ -1,0 +1,37 @@
+{
+    "title": "The Man Who Shot Liberty Valance",
+    "year": 1962,
+    "genres": [
+        "Drama",
+        "Western"
+    ],
+    "runtime": [
+        "123"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "When Senator Ransom Stoddard returns home to Shinbone for the funeral of Tom Doniphon, he recounts to a local newspaper editor the story behind it all. He had come to town many years before, a lawyer by profession. The stage was robbed on its way in by the local ruffian, Liberty Valance, and Stoddard has nothing to his name left save a few law books. He gets a job in the kitchen at the Ericson's restaurant and there meets his future wife, Hallie. The territory is vying for Statehood and Stoddard is selected as a representative over Valance, who continues terrorizing the town. When he destroys the local newspaper office and attacks the editor, Stoddard calls him out, though the conclusion is not quite as straightforward as legend would have it.::garykmcd",
+        "Senator Ranse Stoddard returns to the city of Shinbone in the Wild West, to go to the funeral of his friend, Tom Doniphon. To a journalist, who's wondering what the senator is doing in Shinbone, he tells how his career started as \"the man who shot Liberty Valance\". As a lawyer he came to Shinbone to bring law and order to the west by means of law books. When the stagecoach is held up by outlaws, he is savagely beaten by Liberty Valance. He survives the attack and is nursed by his future wife, Hallie. Hallie is being wooed by a local rancher, Tom Doniphon. Ranse teaches the people of Shinbone to read and write, all the while trying to find a way of bringing Valance to justice. He finally takes up a gun and faces Valance in a menacing shootout...::Tony Kessen <rhkessen@cs.vu.nl>",
+        "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.167076167076167,
+        "linguistic_difficulty_percentage": 0.2457002457002457,
+        "words_per_minute": 66,
+        "common_words": {
+            "mr": 56,
+            "right": 56,
+            "get": 52,
+            "hallie": 50,
+            "liberty": 47,
+            "valance": 41,
+            "go": 40,
+            "tom": 40,
+            "man": 39,
+            "come": 38
+        }
+    }
+}

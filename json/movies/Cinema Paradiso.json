@@ -1,0 +1,36 @@
+{
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "155"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "A boy who grew up in a native Sicilian Village returns home as a famous director after receiving news about the death of an old friend. Told in a flashback, Salvatore reminiscences about his childhood and his relationship with Alfredo, a projectionist at Cinema Paradiso. Under the fatherly influence of Alfredo, Salvatore fell in love with film making, with the duo spending many hours discussing about films and Alfredo painstakingly teaching Salvatore the skills that became a stepping stone for the young boy into the world of film making. The film brings the audience through the changes in cinema and the dying trade of traditional film making, editing and screening. It also explores a young boy's dream of leaving his little town to foray into the world outside.::Clarisse P.",
+        "A man receives news from his aging mother in a little town that someone he once knew has passed away. A beautiful story unfolds about the man's childhood friendship with an old man who was the projectionist at the local theater. Their bond was one that contained many highlights and tragedies, and shaped the way for a young boy to grow and move out of his rundown village to pursue a dream.::Tam Bui <tbui@bjt.net>",
+        "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist."
+    ],
+    "language": {
+        "id": [
+            "Italian"
+        ],
+        "adult_language_percentage": 1.1471518987341773,
+        "linguistic_difficulty_percentage": 0.03955696202531646,
+        "words_per_minute": 48,
+        "common_words": {
+            "know": 51,
+            "come": 51,
+            "wa": 49,
+            "go": 44,
+            "see": 41,
+            "time": 39,
+            "like": 37,
+            "one": 37,
+            "back": 35,
+            "never": 32
+        }
+    }
+}

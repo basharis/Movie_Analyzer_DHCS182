@@ -1,0 +1,39 @@
+{
+    "title": "Come and See",
+    "year": 1985,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "142"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "The feature film directed by Elem Klimov, shot in the genre of military drama. The action takes place on the territory of Belarus in 1943. In the center of the story is a Belarusian boy, who witnesses the horrors of the Nazi punitive action, turning from a cheerful teenager into a gray-haired old man for two days.::Peter-Patrick76 (peter-patrick@mail.com)",
+        "During WWII, a Belarusian boy is thrust into the atrocities of war, fighting with a hopelessly unequipped Soviet resistance movement against ruthless German forces. Witnessing scenes of abject terror and surviving horrifying situations, he loses his innocence and then his mind.::TheDistantPanic",
+        "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.::Karl Krejci"
+    ],
+    "language": {
+        "id": [
+            "Belarusian",
+            "Russian",
+            "German"
+        ],
+        "adult_language_percentage": 3.3314511575381145,
+        "linguistic_difficulty_percentage": 0.2258610954263128,
+        "words_per_minute": 12,
+        "common_words": {
+            "go": 17,
+            "got": 16,
+            "child": 14,
+            "germans": 13,
+            "one": 12,
+            "get": 12,
+            "u": 11,
+            "right": 10,
+            "come": 10,
+            "let": 10
+        }
+    }
+}

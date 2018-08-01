@@ -1,0 +1,42 @@
+{
+    "title": "Ghost in the Shell",
+    "year": 2017,
+    "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "107"
+    ],
+    "rating": 6.4,
+    "plot": [
+        "In the near future, Major Motoko Kusanagi (Scarlett Johansson) is the first of her kind: A human saved from a terrible terrorist attack, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals. When terrorism reaches a new level that includes the ability to hack into people's minds and control them, Major Kusanagi is uniquely qualified to stop it. As she prepares to face a new enemy, Major Kusanagi discovers that she has been lied to: her life was not saved, it was stolen. She will stop at nothing to recover her past, find out who did this to her and stop them before they do it to others.::Paramount Pictures",
+        "In the future, human organs are enhanced by the cybernetics technology developed by the powerful Hanka Robotics Corporation owned by Cutter. Dr. Ouelet is the responsible for the development of the secret project 2571 of a full mechanical body to be connected to a human brain. She uses the brain of a young woman that lost her parents in a cyber attack as subject of a prototype. One year later, the woman is ranked Major and has joined the Section 9, an anti-terrorist division commanded by Chief Saisuke Aramaki, working with agents Batou and Togusa. She needs to use a medicine to help the integration of her brain with the mechanical body and has no recollections of her previous life. When Section 9 hunts down the terrorist Kuze, Major learns secrets about Hanka and the experiment she was subjected. What will happen next?::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Salvaged from a terrorist attack, orphan Mira Killian is a one-of-a-kind specimen of what begins to be the norm in the not-so-distant future: a cybernetically augmented human whose mind and soul resides in an immaculate synthetic body. As a result, hybrid Mira, now a resolute counter-cyberterrorism Major manufactured by the government-funded Hanka Robotics, is Sector 9's tip of the spear, nevertheless, when peculiar hallucinations interpreted as minor glitches will begin to bombard Major's fragmented mind, suspicions will arise. Could those short and spontaneous outbursts be dormant, yet immortal memories of a suppressed past?::Nick Riganas",
+        "Major Motoko Kusanagi is unique, a human brain implanted in a robot's body. This, the intelligence of a human combined with the physical qualities of a machine, has enabled her to be the ultimate crime fighter. Now she faces her ultimate enemy: Kuze, a criminal who has managed to hack into the brains of androids and control them.::grantss",
+        "In the near future, Major is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.::Paramount Pictures"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Japanese"
+        ],
+        "adult_language_percentage": 1.609347442680776,
+        "linguistic_difficulty_percentage": 0.15432098765432098,
+        "words_per_minute": 42,
+        "common_words": {
+            "wa": 34,
+            "major": 29,
+            "know": 28,
+            "u": 23,
+            "like": 22,
+            "hanka": 21,
+            "come": 21,
+            "see": 19,
+            "get": 16,
+            "human": 15
+        }
+    }
+}

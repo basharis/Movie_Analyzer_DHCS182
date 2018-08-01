@@ -1,0 +1,39 @@
+{
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "129"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Small-town Alabama, 1932. Atticus Finch (played by Gregory Peck) is a lawyer and a widower. He has two young children, Jem and Scout. Atticus Finch is currently defending Tom Robinson, a black man accused of raping a white woman. Meanwhile, Jem and Scout are intrigued by their neighbours, the Radleys, and the mysterious, seldom-seen Boo Radley in particular.::grantss",
+        "Based on Harper Lee's Pulitzer Prize winning book of 1961. Atticus Finch is a lawyer in the fictional town of Maycomb, a racially divided Alabama town, set in the early 1930s, and modeled after Monroeville where Harper Lee grew up. Finch agrees to defend a young black man who is accused of raping a white woman. Many of the townspeople try to get Atticus to pull out of the trial, but he decides to go ahead. How will the trial turn out - and will it effect any changes in racial attitudes in Maycomb?::Brian Daly <bd64kcmo@aol.com>",
+        "Through the eyes of \"Scout,\" a feisty six-year-old tomboy, TO KILL A MOCKINGBIRD carries us on an odyssey through the fires of prejudice and injustice in 1932 Alabama. Presenting her tale first as a sweetly lulling reminiscence of events from her childhood, the narrator draws us near with stories of daring neighborhood exploits by her, her brother \"Jem,\" and their friend \"Dill.\" Peopled with a cast of eccentrics, Maycomb, a \"tired and sleepy town\" modeled after Lee's native Monroeville, finds itself as the venue of the trial of Tom Robinson, a young black man falsely accused of raping an ignorant white woman. Atticus Finch, Scout and Jem's widowed father and deeply principled man, is appointed to defend Tom for whom a guilty verdict from an all-white jury is a foregone conclusion. Juxtaposed against the story of the trial, is the children's hit and run relationship with Boo Radley, a shut-in whom the children, and Dill's Aunt Rachel, suspect of insanity, and whom no one has seen in recent history. Cigar-box treasures, found in the knot hole of a tree near the ramshackle Radley house, temper the children's judgment of Boo. \"You never know someone,\" Atticus tells Scout, \"until you step inside their skin and walk around a little.\" But fear keeps them at a distance until one night, in streetlight and shadows, the children confront an evil born of ignorance and blind hatred, and must somehow find their way home.::Mark Fleetwood <mfleetwo@mail.coin.missouri.edu>",
+        "The place: a small town in the southern United States. The time: the early 1930s. The story: A black man is accused of raping a Caucasian woman, and an idealistic lawyer offers to defend him. As one begins observing the reasons that make his defense far from easy, it becomes evident the reason lies in that no one in this town seems willing to believe in the innocence of an accused Negro.::Brian Daly <bd64kcmo@aol.com>",
+        "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.2203389830508475,
+        "linguistic_difficulty_percentage": 0.022598870056497175,
+        "words_per_minute": 68,
+        "common_words": {
+            "wa": 83,
+            "atticus": 73,
+            "scout": 72,
+            "come": 70,
+            "mr": 68,
+            "jem": 61,
+            "go": 52,
+            "sir": 45,
+            "going": 43,
+            "yes": 40
+        }
+    }
+}

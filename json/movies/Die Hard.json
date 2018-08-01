@@ -1,0 +1,45 @@
+{
+    "title": "Die Hard",
+    "year": 1988,
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "runtime": [
+        "132"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.::Sam",
+        "New York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) and two daughters on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
+        "John McClain, a new York City cop flys to LA to visit his wife at a Christmas party. But when twelve terrorist attack the building at the same night, McCain is the only hope of saving everybody. With nothing but a handgun and his wits he is forced to take on Hans Gruber and his fellow terrorists.::daniel lacey",
+        "Tough New York cop John McClane finds himself in a tight situation when an office building in Los Angeles is taken over by terrorists. Apart from himself, everyone else in the building - including his wife - is held at gunpoint while their captors spell out their demands. The F.B.I. are called in to survey the situation, but John McClane has other plans for the terrorists...::Graeme Roy <gsr@cbmamiga.demon.co.uk>",
+        "New York cop John McClane flies to Los Angeles on Christmas eve to spend the holidays with his family. He arrives at the Nakatomi corp. building for his wife's office party. International terrorists take over the building and hold every one as hostage to steal $600 million of bonds from the vaults of the building. Now its up to McCLane to face the terrorists and save his wife and the other hostages.::Sami Al-Taher <staher2000@yahoo.com>",
+        "In the city of Los Angeles, a Christmas party is held on the 30th floor of the Nakatomi Plaza Hotel. While the party is going on, downstairs, a band of German terrorists arrive and take the entire building hostage including its employees and attempt a huge robbery. But the only one who eludes capture is New York City Cop John McClane who launches a one man war in an attempt to stop the terrorists and save all hostages including his wife Holly.::Shaun Ouimette {xtreemshaun589@hotmail.com}",
+        "John McClane is a cop from New York City who is on his way to Los Angeles to see his kids and his wife Holly, who moved to LA because of a job at the Nakatomi Corporation. When he arrives at Nakatomi Plaza, he meets Holly's boss Joe Takagi and her co-worker Harry Ellis. He and Holly go into a private bathroom and get into an argument. When Holly leaves to give a speech, thirteen armed terrorists lead by Hans Gruber seize control of the building and take the occupants of the 30th floor, who are the only ones left in the building, hostage. Luckily, they missed John and he has to figure out how to save the hostages before the terrorists get their way.::Ridley Lavine",
+        "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.::rball4042"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Italian",
+            "Japanese"
+        ],
+        "adult_language_percentage": 3.152321142716414,
+        "linguistic_difficulty_percentage": 0.07388252678241596,
+        "words_per_minute": 61,
+        "common_words": {
+            "got": 54,
+            "get": 44,
+            "want": 37,
+            "going": 36,
+            "right": 35,
+            "john": 34,
+            "go": 33,
+            "let": 32,
+            "know": 31,
+            "one": 31
+        }
+    }
+}

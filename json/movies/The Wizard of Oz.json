@@ -1,0 +1,42 @@
+{
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Musical"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "In this charming film based on the popular L. Frank Baum stories, Dorothy and her dog Toto are caught in a tornado's path and somehow end up in the land of Oz. Here she meets some memorable friends and foes in her journey to meet the Wizard of Oz who everyone says can help her return home and possibly grant her new friends their goals of a brain, heart and courage.::Dale Roloff",
+        "Dorothy and her dog Toto are whisked to the land of Oz. There she meets a good witch and gets some new shoes. All she wants is to go home so she follows the yellow brick road to the Emerald City. There, she is told she will meet the wizard of oz and upon the way she meets memorable friends, while having to deal with an angry witch.::Brody Walker",
+        "When a tornado rips through Kansas, Dorothy and her dog, Toto, are whisked away in their house to the magical land of Oz. They follow the Yellow Brick Road toward the Emerald City to meet the Wizard, and en route they meet a Scarecrow that needs a brain, a Tin Man missing a heart, and a Cowardly Lion who wants courage. The wizard asks the group to bring him the broom of the Wicked Witch of the West to earn his help.::Jwelch5742",
+        "Dorothy lives on a farm in Kansas until a cyclone arrives, and picks her, her house, and her dog up and deposits them in the land of Oz. Things in Oz are strange and beautiful, but Dorothy just wants to get back home. She's helped by the Good Witch of the North, but she's also in trouble with the Wicked Witch of the West, who seeks revenge for the death of her sister; the Wicked Witch of the East, for which she blames Dorothy.::Murray Chapman <muzzle@cs.uq.oz.au>",
+        "When a nasty neighbor tries to have her dog put to sleep, Dorothy takes her dog Toto, to run away. A cyclone appears and carries her to the magical land of Oz. Wishing to return, she begins to travel to the Emerald City where a great wizard lives. On her way she meets a Scarecrow who needs a brain, a Tin Man who wants a heart, and a Cowardly Lion who desperately needs courage. They all hope the Wizard of Oz will help them, before the Wicked Witch of the West catches up with them.::John Vogel <jlvogel@comcast.net>",
+        "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.8163709589637531,
+        "linguistic_difficulty_percentage": 0.06530967671710025,
+        "words_per_minute": 90,
+        "common_words": {
+            "oh": 112,
+            "witch": 60,
+            "wizard": 58,
+            "come": 55,
+            "get": 54,
+            "go": 49,
+            "oz": 47,
+            "see": 46,
+            "well": 45,
+            "wa": 44
+        }
+    }
+}

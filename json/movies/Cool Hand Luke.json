@@ -1,0 +1,39 @@
+{
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "126"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Luke Jackson is a cool, gutsy prisoner in a Southern chain gang, who, while refusing to buckle under to authority, keeps escaping and being recaptured. The prisoners admire Luke because, as Dragline explains it, \"You're an original, that's what you are!\" Nevertheless, the camp staff actively works to crush Luke until he finally breaks.::alfiehitchie",
+        "Lucas Jackson, natural born world shaker, someone with more guts than brains, a man who refuses to conform to the rules he has been given. Sent to a prison camp for a misdemeanor Luke soon gains respect and becomes an idol. He has some fun in jail doing things for the hell of it, after his mother dies the Bosses put him in the box afraid he might want to attend the funeral. When he gets out he runs and gets caught and runs and gets caught, the bosses try to break him but he just won't break.::Sandra Spence",
+        "Luke Jackson is a cool, aloof man incapable of conforming to the societal demands of his surroundings. After being arrested for drunkenly decapitating parking meters, Luke is sentenced to two years in a Florida prison farm where he quickly develops a reputation as a man with an unbreakable will and whose spirit simply can't be broken. Idolized by his fellow convicts while simultaneously detested by his superiors, Luke's bravado in the face of adversity makes him both a hero and a villain in the rural prison. But how long will it take before Luke's body gives out?::Kyle Perez",
+        "Luke is sent to a prison camp, where he gets a reputation as a hard man. The head of the gang hates him, and tries to break him by beating him up. It doesn't work, and he gains respect. His mother dies, and he escapes, but is caught, escapes again, and is caught again. Will the camp bosses ever break him ?::Colin Tinto <cst@imdb.com>",
+        "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.2473226659947083,
+        "linguistic_difficulty_percentage": 0.012599218848431397,
+        "words_per_minute": 62,
+        "common_words": {
+            "got": 90,
+            "get": 84,
+            "right": 76,
+            "boss": 63,
+            "man": 62,
+            "going": 56,
+            "luke": 55,
+            "come": 44,
+            "know": 40,
+            "go": 38
+        }
+    }
+}

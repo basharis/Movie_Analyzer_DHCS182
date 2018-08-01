@@ -1,0 +1,38 @@
+{
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "128"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Painfully shy Todd Anderson has been sent to the school where his popular older brother was valedictorian. His roommate, Neil Perry, although exceedingly bright and popular, is very much under the thumb of his overbearing father. The two, along with their other friends, meet Professor Keating, their new English teacher, who tells them of the Dead Poets Society, and encourages them to go against the status quo. Each does so in his own way, and is changed for life.::Liz Jordan <c9310494@alinga.newcastle.edu.au>",
+        "A new English teacher, John Keating, is introduced to an all-boys preparatory school that is known for its ancient traditions and high standards. He uses unorthodox methods to reach out to his students, who face enormous pressures from their parents and the school. With Keating's help, students Neil Perry, Todd Anderson and others learn to break out of their shells, pursue their dreams and seize the day.::Jwelch5742",
+        "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Latin"
+        ],
+        "adult_language_percentage": 1.140553983363348,
+        "linguistic_difficulty_percentage": 0.11148272017837235,
+        "words_per_minute": 91,
+        "common_words": {
+            "mr": 88,
+            "neil": 72,
+            "know": 59,
+            "continues": 54,
+            "boys": 54,
+            "come": 53,
+            "go": 53,
+            "laughing": 52,
+            "right": 50,
+            "keating": 48
+        }
+    }
+}

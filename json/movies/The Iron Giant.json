@@ -1,0 +1,46 @@
+{
+    "title": "The Iron Giant",
+    "year": 1999,
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "86"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.::Anthony Pereyra <hypersonic91@yahoo.com>",
+        "Set in the 1950's, Hogarth, a young boy from Maine, befriends a massive robot that crashed onto Earth, the Iron Giant. While developing a friendship with it, Kent Mansley, a government agent, will stop at nothing to destroy it, and will not change his mind. Because of the boy's attachment with the robot, he'll try to stall Kent's progress, such as using a different chocolate for Kent's sundae. He's also kept the robot at Dean's scrapyard, despite his reluctance to keep him there. But their mutual hatred of Kent's cruel intentions might just keep the friendship between them.::gamergcfan",
+        "An enormous robot has come from deepest space, crash-landed on Earth, and followed eleven-year-old Hogarth Hughes home. Now, young Hogarth has one big friend and an even bigger problem: How do you keep a secret that's 50 feet tall? Especially when a paranoid government agent is on the \"alien invader's\" trail, bringing with him the full might of the U.S. military to destroy the giant.::Nostalgia Boy",
+        "\"The Iron Giant\" is based upon the 1968 story, 'The Iron Man,' by the British poet laureate Ted Hughes. The film is about a giant metal machine that drops from the sky and frightens a small town in Maine in 1957, only to find a friend named Hogarth, and ultimately finds its humanity and saves the townspeople from their fears and prejudices.::Paolo Costabel <paolo@bluesky-vifx.com>",
+        "What if a gun had a soul? A gigantic mobile weapon from another planet is sent to destroy Earth, but is damaged on arrival and loses its memory. It is soon befriended by a young boy, Hogarth, who is an outcast at school and relishes the chance to have a real friend. However, soon the paranoid government agent Kent Mansley arrives in town, determined to destroy the giant at all costs.::rmlohner",
+        "A giant metal machine falls to Earth and frightens the residents of a small town in Maine in 1957, until it befriends a nine-year-old boy named Hogarth and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.::<swstephe@us.oracle.com>",
+        "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.::ralo229"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.7536620590055705,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 56,
+        "common_words": {
+            "know": 35,
+            "come": 32,
+            "get": 30,
+            "wa": 30,
+            "stop": 25,
+            "iike": 24,
+            "hogarth": 22,
+            "aii": 21,
+            "go": 21,
+            "see": 20
+        }
+    }
+}

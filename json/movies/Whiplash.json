@@ -1,0 +1,41 @@
+{
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": [
+        "Drama",
+        "Music"
+    ],
+    "runtime": [
+        "107"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "A young and talented drummer attending a prestigious music academy finds himself under the wing of the most respected professor at the school, one who does not hold back on abuse towards his students. The two form an odd relationship as the student wants to achieve greatness, and the professor pushes him.::andrewhodkinson",
+        "Nineteen year old Andrew Nieman wants to be the greatest jazz drummer in the world, in a league with Buddy Rich. This goal is despite not coming from a pedigree of greatest, musical or otherwise, with Jim, his high school teacher father, being a failed writer. Andrew is starting his first year at Shaffer Conservatory of Music, the best music school in the United States. At Shaffer, being the best means being accepted to study under Terence Fletcher and being asked to play in his studio band, which represents the school at jazz competitions. Based on their less than positive first meeting, Andrew is surprised that Fletcher asks him to join the band, albeit in the alternate drummer position which he is more than happy to do initially. Andrew quickly learns that Fletcher operates on fear and intimidation, never settling for what he considers less than the best each and every time. Being the best in Fletcher's mind does not only entail playing well, but knowing that you're playing well and if not what you're doing wrong. His modus operandi creates an atmosphere of fear and of every man or woman for him/herself within the band. Regardless, Andrew works hard to be the best. He has to figure out his life priorities and what he is willing to sacrifice to be the best. The other question becomes how much emotional abuse he will endure by Fletcher to reach that greatness, which he may believe he can only achieve with the avenues opened up by Fletcher.::Huggo",
+        "Andrew Neiman is an ambitious young jazz drummer, single-minded in his pursuit to rise to the top of his elite east coast music conservatory. Plagued by the failed writing career of his father, Andrew hungers day and night to become one of the greats. Terence Fletcher, an instructor equally known for his teaching talents as for his terrifying methods, leads the top jazz ensemble in the school. Fletcher discovers Andrew and transfers the aspiring drummer into his band, forever changing the young man's life. Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher continues to push him to the brink of both his ability-and his sanity.::Spencer Higham",
+        "Terence Fletcher a professor at Shaffer Conservatory of Music always discourages his students so that they don't get discouraged later on. Andrew Nieman an ambitious and highly talented jazz drummer overcomes depression and all the emotional abuses put by Fletcher. His professor makes him realise that \"No two words in english language are harmful than 'Good Job'\". Finally Nieman understands that Fletcher expects much beyond his student's talent and all these hurdles are consequences of his expectations.::Siddhartha Devineni",
+        "Andrew is a drummer and a first year student at the Schaffer Conservatory. He is selected by the school's senior instructor, Mr. Fletcher, to play on his studio band. Fletcher is - to say the least - a difficult and demanding task master who accepts and expects nothing less that perfection from his students. His methods of exacting the best from his students include belittling them, throwing objects at them and creating a level of tension so high that average individuals would likely crumble under the pressure. It leads Andrew to eventually quit but a surprise encounter with Fletcher gives him a chance to show just what he can accomplish - or to fail miserably.::garykmcd",
+        "Andrew Neiman, a nineteen year old drummer is heading to Shaffer Conservatory with a desire of becoming one of the best musicans there is of the 21st century. Though his instructor and teacher Terrence Fletcher does not seem to be very pleased with his progress and effort. Being great has become far more difficult than Andrew has ever imagined. Blood, sweat, and tears are not enough.::henden_jr",
+        "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.8274569919945494,
+        "linguistic_difficulty_percentage": 0.017032873445750298,
+        "words_per_minute": 54,
+        "common_words": {
+            "know": 62,
+            "yeah": 48,
+            "fucking": 45,
+            "right": 43,
+            "okay": 38,
+            "get": 37,
+            "one": 34,
+            "fuck": 34,
+            "two": 33,
+            "like": 31
+        }
+    }
+}

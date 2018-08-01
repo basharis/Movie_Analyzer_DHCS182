@@ -1,0 +1,44 @@
+{
+    "title": "Braveheart",
+    "year": 1995,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "runtime": [
+        "178"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "William Wallace is a Scottish rebel who leads an uprising against the cruel English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland for himself. When he was a young boy, William Wallace's father and brother, along with many others, lost their lives trying to free Scotland. Once he loses another of his loved ones, William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce.::Anonymous",
+        "Tells the story of the legendary thirteenth century Scottish hero named William Wallace. Wallace rallies the Scottish against the English monarch and Edward I after he suffers a personal tragedy by English soldiers. Wallace gathers a group of amateur warriors that is stronger than any English army.::Jwelch5742",
+        "Around the end of the 1200s, oppressed by King Edward \"Longshanks\" who rules England with an iron fist, the noble and charismatic Scot of humble descent, William Wallace, leads a righteous campaign to end tyranny. In this gallant quest for freedom, the gifted strategist and mighty warrior will amass the hordes of the oppressed Scotsmen who thirst to reclaim their independence, however, the road to liberty is always drenched in blood.::Nick Riganas",
+        "In 14th Century Scotland, William Wallace leads his people in a rebellion against the tyranny of the English King, who has given English nobility the 'Prima Nocta' - a right to take all new brides for the first night. The Scots are none too pleased with the brutal English invaders, but they lack leadership to fight back. Wallace creates a legend of himself, with his courageous defense of his people and attacks on the English.::Rob Hartill",
+        "When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.::Daniel Williamson"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Latin",
+            "Scottish Gaelic"
+        ],
+        "adult_language_percentage": 1.8249215854006275,
+        "linguistic_difficulty_percentage": 0.11405759908753922,
+        "words_per_minute": 19,
+        "common_words": {
+            "wallace": 31,
+            "right": 30,
+            "come": 27,
+            "wa": 23,
+            "william": 22,
+            "fight": 19,
+            "go": 15,
+            "scotland": 14,
+            "home": 14,
+            "father": 14
+        }
+    }
+}

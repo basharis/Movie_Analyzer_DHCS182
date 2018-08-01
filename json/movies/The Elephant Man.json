@@ -1,0 +1,38 @@
+{
+    "title": "The Elephant Man",
+    "year": 1980,
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "runtime": [
+        "124"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "John Merrick (whose real name was Joseph, as this is based on a true story) is an intelligent and friendly man, but he is hated by his Victorian-era English society because he is severely deformed. Once he is discovered by a doctor, however, he is saved from his life in a freak show and he is treated like the human being that he really is.::Sam Cibula",
+        "In Victorian London, Dr. Frederick Treves with the London Hospital comes across a circus sideshow attraction run by a man named Bytes called \"The Elephant Man\". In actuality, the creature on display is indeed a man, twenty-one year old John Merrick who has several physical deformities, including an oversized and disfigured skull, and oversized and disfigured right shoulder. Brutish Bytes, his \"owner\", only wants whatever he can get economically by presenting Merrick as a freak. Treves manages to bring Merrick under his care at the hospital - not without several of its own obstacles, including being questioned by those in authority since Merrick cannot be cured. Treves initially believes Bytes' assertion that mute Merrick is an imbecile, but ultimately learns that Merrick can speak and is a well-read and articulate man. As news of Merrick hits the London newspapers, he becomes a celebrated curiosity amongst London's upper class, including with Mrs. Kendal, a famed actress. Despite treated much more humanely, the question becomes whether Treves' actions are a further exploitation of Merrick. And as Merrick becomes more famous, others try to get their two-cents worth from who still remains a curiosity and a freak to most, including to Bytes, who has since lost his meal ticket.::Huggo",
+        "Based on the true story of Joseph Merrick, a 19th-century Englishman afflicted with a disfiguring congenital disease. With the help of kindly Dr. Frederick Treves, Merrick attempts to regain the dignity he lost after years spent as a side-show freak.::Scott Renshaw <as.idc@forsythe.stanford.edu>",
+        "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.5939958259752769,
+        "linguistic_difficulty_percentage": 0.08026970621287526,
+        "words_per_minute": 50,
+        "common_words": {
+            "mr": 63,
+            "yes": 55,
+            "good": 46,
+            "right": 41,
+            "merrick": 41,
+            "see": 35,
+            "like": 33,
+            "sir": 31,
+            "man": 31,
+            "well": 31
+        }
+    }
+}

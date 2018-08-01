@@ -1,0 +1,39 @@
+{
+    "title": "The Raid 2",
+    "year": 2014,
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "runtime": [
+        "150"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "He thought it was over. After fighting his way out of a building filled with gangsters and madmen - a fight that left the bodies of police and gangsters alike piled in the halls - rookie Jakarta cop Rama thought it was done and he could resume a normal life. He couldn't have been more wrong. Formidable though they may have been, Rama's opponents in that fateful building were nothing more than small fish swimming in a pond much larger than he ever dreamed possible. And his triumph over the small fry has attracted the attention of the predators farther up the food chain. His family at risk, Rama has only one choice to protect his infant son and wife: He must go undercover to enter the criminal underworld himself and climb through the hierarchy of competing forces until it leads him to the corrupt politicians and police pulling the strings at the top of the heap. And so Rama begins a new odyssey of violence, a journey that will force him to set aside his own life and history and take on a new identity as the violent offender \"Yuda.\" In prison he must gain the confidence of Uco - the son of a prominent gang kingpin - to join the gang himself, laying his own life on the line in a desperate all-or-nothing gambit to bring the whole rotten enterprise to an end.::Sony Pictures Classics",
+        "Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.::Official site"
+    ],
+    "language": {
+        "id": [
+            "Indonesian",
+            "Japanese",
+            "English"
+        ],
+        "adult_language_percentage": 2.3937963587322995,
+        "linguistic_difficulty_percentage": 0.05057316250842886,
+        "words_per_minute": 39,
+        "common_words": {
+            "fuck": 33,
+            "fucking": 30,
+            "father": 30,
+            "know": 29,
+            "want": 29,
+            "wa": 26,
+            "like": 26,
+            "take": 25,
+            "get": 24,
+            "time": 23
+        }
+    }
+}

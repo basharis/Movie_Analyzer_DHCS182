@@ -1,0 +1,37 @@
+{
+    "title": "Wolf Children",
+    "year": 2012,
+    "genres": [
+        "Animation",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "117"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from society.::weijaytan-2015"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 0.7281893292255986,
+        "linguistic_difficulty_percentage": 0.056014563786584516,
+        "words_per_minute": 61,
+        "common_words": {
+            "wa": 74,
+            "ame": 69,
+            "yuki": 48,
+            "wolf": 46,
+            "know": 43,
+            "like": 40,
+            "go": 40,
+            "promise": 35,
+            "oh": 32,
+            "okay": 31
+        }
+    }
+}

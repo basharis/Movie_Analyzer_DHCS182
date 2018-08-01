@@ -1,0 +1,41 @@
+{
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "116"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "A two-segment look at the effect of the military mindset and war itself on Vietnam era Marines. The first half follows a group of recruits in boot camp under the command of the punishing Gunnery Sergeant Hartman. The second half shows one of those recruits, Joker, covering the war as a correspondent for Stars and Stripes, focusing on the Tet offensive.::Scott Renshaw <as.idc@forsythe.stanford.edu>",
+        "The lives of several young men who undergo Marine Corps basic training and are then shipped off to Vietnam. The main character is J.T. 'Joker' Davis who, along with all the other new recruits, constantly has to deal with their demanding Drill Instructor, Gny. Sgt Hartman. One recruit in particular, Leonard 'Gomer Pyle' Lawrence, is having a particularly hard time, especially after DI Hartman punishes the entire squad anytime he screws up, which is often. It all leads to tragedy. Davis makes it through and soon finds himself in Vietnam working as a combat journalist where he gets to see the horrors of war first-hand during the Tet offensive.::garykmcd",
+        "A two-segment story that follows young men from the start of recruit training in the Marine Corps to the lethal cauldron known as Vietnam. The first segment follows Joker, Pyle and others as they progress through the hell of USMC boot-camp at the hands of the colorful, foul-mouthed Gunnery Sergeant Hartman. The second begins in Vietnam, near Hue, at the time of the Tet Offensive. Joker, along with Animal Mother, Rafterman and others, face threats such as ambush, booby traps, and Viet Cong snipers as they move through the city.::Derek O'Cain",
+        "Full Metal Jacket begins by following the trials and tribulations of a platoon of fresh Marine Corps recruits focusing on the relationship between Gunnery Sergeant Hartman and Privates Pyle and Joker. We see Pyle grow into an instrument of death as Hartman has foreseen of all of his recruits. Through Pyle's torment and Joker's unwillingness to stand up against it the climax of part one is achieved with all three main characters deciding their fates by their action or inaction. The second chapter delves into Joker's psyche and the repeated referral to the fact that he joined the Corps to become a killer. When his mostly behind the scenes job as a combat correspondent is interfered with by the Tet offensive he is thrust into real combat and ultimately must decide if he really is a killer.::FMJ_Joker",
+        "During the Vietnam War private 'Joker' -the narrator, a future author- and his class are put through the US Marine indoctrination and training under DI Gunnery Sergeant Hartman's verbally and physically abusive, sex-obsessed style. It's all far worse for fat simpleton Pyle, who keeps doing everything wrong, even when gentle Joker is appointed his personal tutor, until peer pressure becomes group bullying. On their last day at Paris Island, when everyone graduates, the psychological time-bomb explodes. Only intellectual Joker isn't assigned to jungle duty but as military war correspondent. He's unwilling to play the deceptive propaganda game and violence catches up even in the 'safe' city Hue.::KGF Vissers",
+        "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.::Matt Patay"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Vietnamese"
+        ],
+        "adult_language_percentage": 5.236851073497671,
+        "linguistic_difficulty_percentage": 0.01135976371691469,
+        "words_per_minute": 75,
+        "common_words": {
+            "sir": 256,
+            "get": 79,
+            "private": 69,
+            "one": 57,
+            "yes": 54,
+            "shit": 53,
+            "pyle": 49,
+            "right": 40,
+            "got": 39,
+            "joker": 38
+        }
+    }
+}

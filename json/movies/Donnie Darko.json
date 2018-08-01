@@ -1,0 +1,41 @@
+{
+    "title": "Donnie Darko",
+    "year": 2001,
+    "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "113"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Donnie Darko doesn't get along too well with his family, his teachers, and his classmates; but he does manage to find a sympathetic friend in Gretchen, who agrees to date him. He has a compassionate psychiatrist, who discovers hypnosis is the means to unlock hidden secrets. His other companion may not be a true ally. Donnie has a friend named Frank, a large bunny which only Donnie can see. When an engine falls off a plane and destroys his bedroom, Donnie is not there. Both the event, and Donnie's escape, seem to have been caused by supernatural events. Donnie's mental illness, if such it is, may never allow him to find out for sure.::J. Spurlin",
+        "Taking place during an election year in the late 1980s, this movie tells the story of a troubled teenager who receives disturbing visions from a tall bunny rabbit telling him the world will soon come to an end. Seeking answers, Donnie investigates time travel in an attempt to turn back the clock and prevent the world's seemingly impending doom, actions which pose bizarre and life-changing results.::Cole Matthews",
+        "Troubled adolescent Donnie Darko receives a disturbing vision that the world will end in twenty-eight days. With the help of various characters, including a six-foot rabbit called Frank, he slowly discovers the mysterious physical and metaphysical laws that govern his life and that will lead up to the destruction of the universe.::Benjamin Conway",
+        "A troubled teenager, Donnie Darko, escapes death when a jet engine crashes in his bedroom, because he follows a giant bunny leading him outside. The bunny, called Frank, tells him that the world will end in twenty-eight days. As the final date comes closer and closer, Donnie is drawn into an alarming series of events that may or may not be a product of growing insanity.::Mio",
+        "During the Presidential election of 1988, a teenager named Donnie Darko sleepwalks out of his house one night, and sees a giant, demonic-looking rabbit named Frank, who tells him the world will end in twenty-eight days, six hours, forty-two minutes, and twelve seconds. He returns home the next morning to find that a jet engine has crashed through his bedroom. As he tries to figure out why he survived and tries to deal with people in his town, like the school bully, his conservative health teacher, and a self-help guru, Frank continues to turn up in Donnie's mind, causing him to commit acts of vandalism and worse.::MTRodaba2468",
+        "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.::Sean Christopher"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.5018504811250923,
+        "linguistic_difficulty_percentage": 0.1628423390081421,
+        "words_per_minute": 59,
+        "common_words": {
+            "time": 38,
+            "wa": 38,
+            "know": 33,
+            "think": 28,
+            "donnie": 28,
+            "like": 27,
+            "go": 26,
+            "going": 23,
+            "tell": 23,
+            "want": 22
+        }
+    }
+}

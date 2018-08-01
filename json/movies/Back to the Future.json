@@ -1,0 +1,42 @@
+{
+    "title": "Back to the Future",
+    "year": 1985,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "116"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.::Robert Lynch <docrlynch@yahoo.com>",
+        "Marty McFly's life is a dump. His father, George, is constantly bullied by his supervisor Biff Tannen and his mother, Lorraine, is an overweight alcoholic. One day, Marty gets a call from his scientist friend Dr. \"Doc\" Emmet Brown telling Marty to meet him at Twin Pines Mall at 1:15 AM where Doc unveils a time machine that runs off of plutonium built into a DeLorean and demonstrates it to Marty. Marty accidentally activates the time machine, sending him back to 1955 where he accidentally gets in the way of his teenage parents meeting. Marty must find a way to convince Doc that he is from the future, reunite his parents, and ultimately get back to the future.",
+        "After being accidentally sent 30 years into the past in a time-travelling DeLorean invented by mad scientist Dr. Emmett Brown, teenager Marty McFly has to find a way to return to the future safely.::MadMovieManiac",
+        "In this 1980s sci-fi classic, small-town California teen Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents, and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.::Jwelch5742",
+        "Marty McFly, a 17 year old high school student gets lost in 1955 by an accident, 30 years back in time. With the help of his friend Dr. Emmet Brown, he is desperately trying to find his way back to the future in the year 1985. It becomes a battle against the clock.",
+        "It is the year 1985. Marty McFly, a mild-mannered high school student, stopped by Dr. Emmett L. Brown's laboratory to play around with an amplifier. Then he receives a message from Doc that he needs help from him for Doc's latest invention, a time machine made out of a DeLorean sports car that can travel through time instantaneously when it reaches a speed velocity of 88 MPH. Then, Doc was gunned down by Libyan Nationalists, Marty makes an effort to escape from the Lybians by using the time machine. Then Marty accidentally warps himself into 1955. Where he meets both of his parents when they were teenagers, then Marty unintentionally interrupts his parent's first meeting together, he then finds a younger version of Doc and together they try to find a way to get Marty's parents-to-be back together, and to get Marty back to 1985.::John Wiggins",
+        "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.6099963955304577,
+        "linguistic_difficulty_percentage": 0.04805959389643157,
+        "words_per_minute": 71,
+        "common_words": {
+            "go": 67,
+            "going": 59,
+            "right": 51,
+            "got": 48,
+            "know": 48,
+            "marty": 46,
+            "time": 45,
+            "doc": 43,
+            "get": 41,
+            "come": 40
+        }
+    }
+}

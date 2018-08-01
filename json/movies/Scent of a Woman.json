@@ -1,0 +1,37 @@
+{
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "156"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Frank is a retired Lt. Col. in the US Army. He's blind and impossible to get along with. Charlie is at school and is looking forward to going to university; to help pay for a trip home for Christmas, he agrees to look after Frank over Thanksgiving. Frank's niece says this will be easy money, but she didn't reckon on Frank spending his Thanksgiving in New York.::Rob Hartill",
+        "Charlie Simms is a boy from Oregon who attends Baird School a Boys boarding school. Unlike most of the other boys who come from affluent backgrounds Simms comes from the working class and is there on a scholarship. He hangs around with George Willis, who's a daddy's boy, and his friends. Now George's friends decides to pull a little prank on the pompous headmaster. The headmaster learns that Charlie and George know who pulled the prank and they refuse to say who. He gives them the Thanksgiving Holiday to think about it. He also tells Charlie that he's recommending him to an Ivy League College. Charlie then goes off to a Thanksgiving job--taking care of retired Colonel Frank Slade who's blind when his family goes to visit some family for Thanksgiving. After they leave Slade tells Charlie that he's taking him to New York for his own Thanksgiving celebration.::rcs0411@yahoo.com",
+        "In New Hampshire, Charlie Simms attends the Baird School, an all boys boarding school with rigorous classes and expensive enrollment. Yearning for cash from a part-time job so he can return to his family in Oregon for upcoming Christmas Break, the innocent Simms accepts a job for \"babysitting\" at a nearby household. The job is not what he expects, for he is commissioned to watch over an unlikeable, blunt behaved blind ex-colonel named Slade who has a keen ability at selecting his aides. Because of his sympathetic and integral nature, Charlie agrees to the job. Before he can even locate his level of comfort in the job, Simms is unexpectedly taken to New York City with the colonel, where the ex-military man has several agendas of his own.::commanderblue",
+        "A prep school student needing money agrees to \"babysit\" a blind man, but the job is not at all what he anticipated."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.6280723938986803,
+        "linguistic_difficulty_percentage": 0.06322611238441476,
+        "words_per_minute": 81,
+        "common_words": {
+            "charlie": 122,
+            "right": 83,
+            "get": 78,
+            "colonel": 76,
+            "know": 67,
+            "gonna": 58,
+            "like": 54,
+            "got": 53,
+            "wa": 52,
+            "yeah": 52
+        }
+    }
+}

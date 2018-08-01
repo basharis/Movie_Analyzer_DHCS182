@@ -1,0 +1,40 @@
+{
+    "title": "The Green Mile",
+    "year": 1999,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "runtime": [
+        "189"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.::Guy Johns",
+        "It's just another normal day on the Green Mile for prison guard Paul Edgecomb. That is until huge John Coffey is sent there. Unlike the hulking brute that Coffey looks like, he is in fact kind at heart. Whilst watching over Coffey, Edgecomb learns that there is more to Coffey than can be seen.::FilmFanUk",
+        "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 2.4939584340260996,
+        "linguistic_difficulty_percentage": 0.028999516674722087,
+        "words_per_minute": 54,
+        "common_words": {
+            "lt": 60,
+            "know": 56,
+            "go": 54,
+            "like": 53,
+            "wa": 52,
+            "right": 49,
+            "get": 49,
+            "see": 49,
+            "come": 49,
+            "john": 48
+        }
+    }
+}

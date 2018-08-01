@@ -1,0 +1,41 @@
+{
+    "title": "The Revenant",
+    "year": 2015,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "runtime": [
+        "156"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "While exploring uncharted wilderness in 1823, legendary frontiersman Hugh Glass sustains injuries from a brutal bear attack. When his hunting team leaves him for dead, Glass must utilize his survival skills to find a way back home while avoiding natives on their own hunt. Grief-stricken and fueled by vengeance, Glass treks through the wintry terrain to track down John Fitzgerald, the former confidant who betrayed and abandoned him.::Jwelch5742",
+        "Set in 1820s America, fur trapper and Frontiersman Hugh Glass struggles to survive the harsh winter after an oppressive Ree Indian attack and a mauling from a hostile maternal bear. Abandoned by his crew, Glass attempts to cross the bleak wasteland with only a single notion set in his mind; Revenge.",
+        "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Pawnee",
+            "French"
+        ],
+        "adult_language_percentage": 2.5373982200340843,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 33,
+        "common_words": {
+            "get": 57,
+            "wa": 37,
+            "right": 32,
+            "glass": 30,
+            "got": 29,
+            "u": 28,
+            "know": 25,
+            "captain": 24,
+            "go": 23,
+            "horse": 23
+        }
+    }
+}

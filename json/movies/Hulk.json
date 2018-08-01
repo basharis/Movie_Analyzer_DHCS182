@@ -1,0 +1,38 @@
+{
+    "title": "Hulk",
+    "year": 2003,
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "138"
+    ],
+    "rating": 5.7,
+    "plot": [
+        "Bruce Banner, a brilliant scientist with a cloudy past about his family, is involved in an accident in his laboratory causing him to become exposed to gamma radiation and Nanomeds (a tiny lifeform that is supposed to heal wounds, but has killed everything with which they have made contact). Confused and curious about his survival, Banner discovers that since the accident, whenever he becomes angry, he transforms into a giant green monster destroying everything in sight in an act of rage. Bruce's mysterious past and the answer to why the radiation had this effect becomes revealed to him as his birth father David Banner intervenes with hopes to continue experimenting on him.::S\u00e9amus Hanly",
+        "Bruce Banner is different from everyone else. While working on a new technology to accelerate the healing process in animals, he is exposed to gamma radiation. Instead of killing him, the radiation turns him into the Hulk, a nearly mindless green behemoth. General Ross is tasked to contain the monster before it can endanger San Francisco, California.::Peter Lin",
+        "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.281457464875714,
+        "linguistic_difficulty_percentage": 0.12351397251814111,
+        "words_per_minute": 46,
+        "common_words": {
+            "know": 51,
+            "bruce": 42,
+            "think": 35,
+            "free": 34,
+            "father": 32,
+            "go": 31,
+            "wa": 30,
+            "set": 29,
+            "let": 28,
+            "okay": 27
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "134"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty personified by a malevolent slave owner, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life.::Fox Searchlight",
+        "1841. Black man Solomon Northup lives as a free man in Saratoga, New York with his wife and two children, he earning a living as a violinist. On what he believes will be an out of town music gig, he is instead drugged and sold into slavery in the deep south under the name Platt as that is for who the slave trader has papers. Initially incredulous to his plight, he decides that cooperation is the best way to survive. He sees few others in the same situation as him, but slowly he is separated from those with who he has built support. This process continues over his life as a slave, as he is at the mercy of whoever his master at the time and his master's associates who work on their own priorities. He finds that cooperation generally gets one nowhere and sometimes can get one into further trouble due to jealousy. At times, he cannot take the emotional abuse, his actions which lead to physical abuse. There are also times where he thinks he can trust someone to get himself out of his plight only to be turned upon instead. But as bad as his situation is, he finds that others are in much more dire straits, they who will do anything to get themselves out of a life they feel is not worth living.::Huggo",
+        "In 1841, the Afro-American violinist Solomon Northup is a free man, living with his wife and children in Saratoga Springs, New York. He is hired by two men for a two-week tour in Washington with their theatrical company. However Solomon is kidnapped and sold as a slave in New Orleans with the nickname Platt. Along twelve years, he works in the plantations and has abusive treatment of his masters, until the day he meets the Canadian abolitionist Bass that promises to send a letter to his family.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "In 1841, African American Solomon Northup, a free man, is kidnapped and forced into slavery under the name 'Platt' for 12 years. He faces the hardships of being a slave under the hands of a few different slave owners. Through faith, will power, and courage Northup must survive and endure those 12 years as a slave.::James Pasier",
+        "In the years before the Civil War, Solomon Northup, a free black man from upstate New York, is kidnapped and sold into slavery in the South. Subjected to the cruelty of one malevolent owner, he also finds unexpected kindness from another, as he struggles continually to survive and maintain some of his dignity. Then in the 12th year of the disheartening ordeal, a chance meeting with an abolitionist from Canada changes Solomon's life forever.::Jwelch5742",
+        "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.::Fox Searchlight"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.3986659825551566,
+        "linguistic_difficulty_percentage": 0.1410979989738327,
+        "words_per_minute": 58,
+        "common_words": {
+            "nigger": 62,
+            "get": 59,
+            "come": 59,
+            "master": 56,
+            "platt": 50,
+            "roll": 41,
+            "sir": 39,
+            "jordan": 38,
+            "lord": 35,
+            "know": 34
+        }
+    }
+}

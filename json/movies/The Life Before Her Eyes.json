@@ -1,0 +1,39 @@
+{
+    "title": "The Life Before Her Eyes",
+    "year": 2007,
+    "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "90"
+    ],
+    "rating": 6.4,
+    "plot": [
+        "A dramatic thriller about Diana, a suburban wife and mother who begins to question her seemingly perfect life--and perhaps her sanity--on the 15th anniversary of a tragic high school shooting. In flashbacks, Diana is a vibrant high schooler who, with her shy best friend Maureen, plot typical teenage strategies--cutting class,fantasizing about boys--and vow to leave their sleepy suburb at the first opportunity. The older Diana, however, is haunted by the increasingly strained relationship she had with Maureen as day of the school shooting approached. These memories disrupt the idyllic life she's now leading with her professor husband Paul and their young daughter Emma. As older Diana's life begins to unravel and younger Diana gets closer and closer to the fatal day, a deeper mystery slowly unravels.::Marisa_Gabriella",
+        "A woman's survivor's guilt from a Columbine-like event twenty years ago causes her present-day idyllic life to fall apart. As older Diana's life begins to unravel and younger Diana gets closer and closer to the fatal day, a deeper mystery slowly unravels.::Carlos Mills",
+        "A woman's survivor's guilt from a Columbine-like event twenty years ago causes her present-day idyllic life to fall apart.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.2209458165805094,
+        "linguistic_difficulty_percentage": 0.03829216925138809,
+        "words_per_minute": 58,
+        "common_words": {
+            "okay": 52,
+            "know": 46,
+            "like": 38,
+            "go": 34,
+            "come": 32,
+            "right": 31,
+            "gonna": 29,
+            "oh": 28,
+            "yeah": 28,
+            "one": 28
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Kind Hearts and Coronets",
+    "year": 1949,
+    "genres": [
+        "Comedy",
+        "Crime"
+    ],
+    "runtime": [
+        "106"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In prison awaiting execution the next morning Louis, the 10th Duke of Chalfont, sets down on paper the events that led him to his current situation. His mother has been banished from her family, the D'Ascoynes, after she married Louis' father who was considered far beneath her. After her death, the D'Ascoynes refused permission for her to be buried in the family crypt. Louis then plots his revenge - and kills all those ahead of him in the succession until he becomes the Duke. Along the way, he becomes involved with the married Sibelia who, when spurned, makes sure he ends up in prison. The day before his execution Sibelia recants her testimony saving him not only from the gallows but also sets him free. Once outside the prison however, he realizes he's forgotten one little thing........::garykmcd",
+        "In the hours before his execution for murder, Louis, the 10th Duke of Chalfont, writes his memoirs. In them he details how, though descended from nobility, he grew up poor and had to pull himself up by his bootstraps, career-wise. Then, discovering that only eight members of the D'Ascoyne family stood between him and the dukedom, he systematically started killing them, making the murders look like accidents.::grantss",
+        "Louis Mazzini's mother belongs to the aristocratic family D'Ascoyne, but she ran away with an opera singer. Therefore, she and Louis were rejected by the D'Ascoynes. Once adult, Louis decides to avenges his mother and him, by becoming the next Duke of the family. Murdering every potential successor is clearly the safest way to achieve his goal...::Yepok",
+        "Louis Mazzini's mother's frequent tales of how her titled D'Ascoyne family shunned her after she eloped with an Italian commoner causes a simmering resentment in him. On being spurned because of his lowly status by his lifetime (if devious and fickle) sweetheart Sibella he decides to permanently remove all the D'Ascoynes standing between him and the Dukedom. Becoming romantically involved with one of the widows he has created, he finds Sibella's jealousy could seriously threaten his grand design.::Jeremy Perkins {jwp@aber.ac.uk}",
+        "A distant poor relative of the Duke of D'Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.::Gabe Taverney (duke1029@aol.com)"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.008471157724889,
+        "linguistic_difficulty_percentage": 0.22589753933037515,
+        "words_per_minute": 116,
+        "common_words": {
+            "wa": 150,
+            "would": 58,
+            "one": 53,
+            "yes": 50,
+            "could": 48,
+            "lionel": 36,
+            "time": 35,
+            "say": 34,
+            "oh": 33,
+            "day": 32
+        }
+    }
+}

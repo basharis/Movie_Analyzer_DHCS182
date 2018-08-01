@@ -1,0 +1,44 @@
+{
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": [
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "117"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "In the 21st century, a corporation develops human clones to be used as slaves in colonies outside the Earth, identified as replicants. In 2019, a former police officer is hired to hunt down a fugitive group of clones living undercover in Los Angeles.::MadMovieManiac",
+        "In a cyberpunk vision of the future, man has developed the technology to create replicants - artificially created humanoids with short, fixed lifespans - which are illegal on Earth but are used in the off-world colonies. In Los Angeles, 2019, Deckard is a Blade Runner, a cop who specializes in terminating replicants. He is forced to come out of retirement when four replicants escape from an off-world colony and come to Earth.::Graeme Roy <gsr@cbmamiga.demon.co.uk>",
+        "Los Angeles, 2019: Rick Deckard of the LAPD's Blade Runner unit prowls the steel & micro-chip jungle of the 21st century for assumed humanoids known as 'replicants'. Replicants were declared illegal after a bloody mutiny on an Off-World Colony, and are to be terminated upon detection. Man's obsession with creating a being equal to himself has back-fired.::Matt McQuillan <mjment@hotmail.com>",
+        "Deckard, a policeman of the future, hunts down and terminates replicants, artificially created humans. He wants to get out of the force, but is drawn back in when 4 \"skin jobs\", a slang term for replicants, hijack a ship back to Earth. The city in which Deckard must search for his prey is a huge, sprawling, bleak vision of the future. This film questions what it is to be human, and why life is so precious.::Greg Bole <bole@life.bio.sunysb.edu>",
+        "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.::Colin Tinto <cst@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Cantonese",
+            "Japanese",
+            "Hungarian",
+            "Arabic"
+        ],
+        "adult_language_percentage": 0.9716185118895424,
+        "linguistic_difficulty_percentage": 0.10227563283047815,
+        "words_per_minute": 33,
+        "common_words": {
+            "come": 22,
+            "know": 21,
+            "sebastian": 18,
+            "tyrell": 17,
+            "like": 16,
+            "cross": 16,
+            "one": 15,
+            "yeah": 15,
+            "deckard": 15,
+            "good": 14
+        }
+    }
+}

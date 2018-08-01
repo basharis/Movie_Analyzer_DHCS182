@@ -1,0 +1,42 @@
+{
+    "title": "War for the Planet of the Apes",
+    "year": 2017,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "140"
+    ],
+    "rating": 7.5,
+    "plot": [
+        "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.::Twentieth Century Fox",
+        "After being constantly attacked by the humans, despite asking for peace, Caesar and the Apes decide to find a new home safe from the humans. But after the tragic deaths of the most recent attack form the humans, Caeser embarks on a mission to kill the ruthless human Colonel.::Ronald Pickleson",
+        "Caesar decides to move to a place across the desert with the other apes to end the war with humans and live in peace. However they are attacked in a cave hidden by a waterfall and Caesar loses his wife Cornelia and his son Blue Eyes and only Cornelius survives. Caesar decides to revenge on their death and separates from the other apes to hunt down The Colonel, who was the responsible for killing his family. However Maurice, Luca en Rocket follow him while the other apes head to the safe place. Along the journey of Caesar and his friends, they stumble upon the mute girl Nova and the chimpanzee Bad Ape that go with them. They arrive at the border and find a facility where his clan has been captured by The Colonel and forced to build a wall without water or food. But Caesar is captured by The Colonel and learns that he has slaughtered infected humans. Now the army is coming to kill him and he is protecting his men and himself with a wall. What will Caesar do?::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.::Twentieth Century Fox"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "American Sign Language"
+        ],
+        "adult_language_percentage": 2.357920193470375,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 23,
+        "common_words": {
+            "ape": 39,
+            "u": 30,
+            "go": 29,
+            "colonel": 27,
+            "come": 27,
+            "soldier": 22,
+            "caesar": 22,
+            "get": 22,
+            "wa": 21,
+            "chittering": 20
+        }
+    }
+}

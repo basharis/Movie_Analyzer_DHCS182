@@ -1,0 +1,41 @@
+{
+    "title": "Incendies",
+    "year": 2010,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+    ],
+    "runtime": [
+        "131"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "A mother's last wishes send twins Jeanne and Simon on a journey to the Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.::Myl\u00e8ne Chollet",
+        "Canadian Nawal Marwan has just passed away. The only people at the reading of her will are her twin adult children, Jeanne and Simon Marwan, and the executor, Nawal's long time employer and friend, notary Jean Lebel. The will contains many unusual requests, the most unusual being two sealed envelopes, one to be delivered by each of the twins to their father and to their brother respectively. The unusual nature of these requests are that their father as they know passed away years earlier during the war in the Middle East (where Nawal was raised) and they have no knowledge of any other offspring. Simon sees these requests as further indication that his mother was crazy and he will have no part of any of what he sees as her unusual final requests. But Jeanne wants to respect her mother's final wishes, which means finding out who their real father is and who this unknown brother is. These tasks take Jeanne on a quest to the Middle East to trace her mother's history, of which she knows little. As Jeanne goes on her quest with what little information she has on hand, she finds a history filled with turmoil. But many who knew her mother or knew of her mother refuse to speak to Jeanne. Jeanne ultimately requires Simon's assistance who reluctantly joins her in the Middle East. But even Simon gets caught up in finding out about his father and brother when they are closer to piecing together the puzzle. Finding out about their mother's past and thus their own history may enlighten them on why Nawal was the woman that she was.::Huggo",
+        "In Canada, the sixty-year-old immigrant secretary Nawal Marwan passes away and the notary Jean Lebel, who had been her employer and friend for seventeen years, reads her will to her twin son and daughter Simon and Jeanne Marwan, who is a mathematician. Nawal requests to be buried naked with her face down and her tomb without a gravestone; further, she leaves three sealed envelopes addressed to the twins' father that they believed had died in the Middle East; to their unknown brother; and the last one to themselves to be opened only after the delivery of the other two. Then, they may put a gravestone on her tomb. Simon is reluctant to respect his mother last wishes, but Jeanne decides to find her biological father and brother. She travels to the Middle East to track down the past life of her mother and she discovers who she was before moving to Canada. She feels disturbed with the revelations and asks Simon to come to the Middle East to assist her in her journey. Simon discovers who his father and his brother are and concludes that one plus one may be equal to one.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "French",
+            "Arabic",
+            "English"
+        ],
+        "adult_language_percentage": 1.4711892112791174,
+        "linguistic_difficulty_percentage": 0.12259910093992644,
+        "words_per_minute": 37,
+        "common_words": {
+            "know": 41,
+            "wa": 37,
+            "marwan": 26,
+            "mother": 26,
+            "child": 25,
+            "go": 23,
+            "nawal": 21,
+            "come": 19,
+            "simon": 18,
+            "time": 18
+        }
+    }
+}

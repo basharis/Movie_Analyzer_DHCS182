@@ -1,0 +1,45 @@
+{
+    "title": "Toy Story 2",
+    "year": 1999,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "92"
+    ],
+    "rating": 7.9,
+    "plot": [
+        "While Andy is away at summer camp Woody has been toynapped by Al McWiggin, a greedy collector and proprietor of \"Al's Toy Barn\"! In this all-out rescue mission, Buzz and his friends Mr. Potato Head, Slinky Dog, Rex and Hamm springs into action to rescue Woody from winding up as a museum piece. They must find a way to save him before he gets sold in Japan forever and they'll never see him again!::Anthony Pereyra <hypersonic91@yahoo.com>",
+        "Woody is stolen from his home by toy dealer Al McWhiggin, leaving Buzz Lightyear and the rest of the gang to try to rescue him. But when Woody discovers that he's actually a valuable collectible from a once-popular television show called \"Woody's Roundup\" and is reunited with his horse Bullseye, Jessie the yodeling cowgirl and his faithful sidekick, Stinky Pete the Prospector, he doesn't want to leave.::Jwelch5742",
+        "Whilst Andy is at summer camp, Woody is accidentally placed in a yard sale. Al, a greedy toy collector spots him and sneaks away from the yard with the toy. Whilst Woody is meeting up with new toys, Jessie the cowgirl, Stinky Pete the prospector and Bullseye the horse, whilst Buzz Lightyear and the rest of the toys enter the real world outside the house to find him.::Film_Fan",
+        "In \"Toy Story 2,\" the fun and adventure continues when Andy goes off to summer camp and the toys are left to their own devices. Things shift into high gear when an obsessive toy collector kidnaps Woody who unbeknownst to himself is a highly valued collectable. It's now up to Buzz Lightyear and the gang from Andy's room - Mr. Potato Head, Slinky Dog, Rex and Hamm - to spring into action and save their pal from winding up as a museum piece. There's plenty of excitement and fun as the toys get into one predicament after another in their daring race to get home before Andy does.::Aaron <michaels@freeway.net>",
+        "TOY STORY 2 picks up sometime after TOY STORY left off. Andy is having a yard sale. A broken toy penguin named Wheezy is thrown in a selling box. In a rescue attempt, Woody gets Wheezy back. Unfortunately, Woody is left behind in a box and is stolen by a greedy toy collector. In an all-out rescue mission, Buzz and the gang try to get Woody back. Adding to the conflicts is the toy collector is soon selling Woody to Japan.::neo101",
+        "When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Arabic",
+            "Spanish"
+        ],
+        "adult_language_percentage": 0.5659241420830825,
+        "linguistic_difficulty_percentage": 0.060204695966285374,
+        "words_per_minute": 90,
+        "common_words": {
+            "woody": 102,
+            "buzz": 88,
+            "go": 79,
+            "oh": 76,
+            "got": 53,
+            "andy": 44,
+            "right": 43,
+            "hey": 43,
+            "come": 41,
+            "look": 39
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Incredibles 2",
+    "year": 2018,
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "118"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "While the Parr family has accepted its collective calling as superheroes, the fact remains that their special heroism is still illegal. After they are arrested after unsuccessfully trying to stop the Underminer, their future seems bleak. However, the wealthy Deavor siblings of Devtech offer new hope with a bold project to rehabilitate the public image and legal status of Supers, with Elastigirl being assigned on point to be the shining example. Now having agreed for now to stay at home to care of the kids, Mr. Incredible finds domestic life a daunting challenge, especially with baby Jack-Jack's newly emerged powers making him almost impossible to manage. However, Elastigirl soon has her own concerns dealing with the menace of a new supervillain, Screenslaver, who is wreaking havoc with his mind control abilities. Now, Elastigirl must solve the mystery of this enemy, who has malevolent designs on the world with the Parr family and friends key targets of this evil.::Kenneth Chisholm (kchishol@rogers.com)",
+        "After the events of The Incredibles (2004), Elastigirl (Helen) is sent on a mission to make supers legal again. Mr. Incredible (Bob) is left to care for Jack-Jack, Violet, and Dash. When a dangerous new threat arises, it is up to the family to neutralize the threat and save the day once again.",
+        "Still balancing between legality and illegality and always bargaining in the shadow of the law, the extraordinary Parr family have a brush with Metroville's police after leaving a trail of destruction in their wake during an epic battle with the Underminer. Under those circumstances and with the government officially shutting down the secret superhero program, the family is approached by the upbeat benefactor and telecommunications tycoon, Winston Deavor, and his ever-watchful sister, Evelyn, in an attempt to restore the Parr's tarnished public image; however, only the mother, Elastigirl, gets to be the campaign's new face. As a result, the once-mighty Mr Incredible is left behind, juggling domestic responsibilities with taking care of the kids, as the invincible super-mum and the household's new breadwinner clashes head-on with the city's newest mega-villain, Screenslaver. Can this incredible family figure out a way to deal with this new reality?::Nick Riganas",
+        "Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9953680890903714,
+        "linguistic_difficulty_percentage": 0.11826155513945007,
+        "words_per_minute": 85,
+        "common_words": {
+            "know": 55,
+            "get": 48,
+            "wa": 46,
+            "yeah": 44,
+            "good": 44,
+            "oh": 42,
+            "right": 38,
+            "go": 38,
+            "thing": 35,
+            "like": 35
+        }
+    }
+}

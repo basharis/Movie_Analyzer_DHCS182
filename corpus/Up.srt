@@ -1,0 +1,913 @@
+{1104}{1255}Movietown News presents|Spotlight on Adventure.
+{1256}{1282}What you are now witnessing
+{1283}{1345}is footage never before seen|by civilized humanity,
+{1346}{1389}a lost world in South America.
+{1390}{1445}Lurking in the shadow|of majestic Paradise Falls,
+{1446}{1525}it sports plants and animals|undiscovered by science.
+{1526}{1605}Who would dare set foot|on this inhospitable summit?
+{1606}{1703}Why, our subject today,|Charles Muntz!
+{1704}{1769}The beloved explorer lands|his dirigible the Spirit of Adventure,
+{1770}{1805}in New Hampshire this week,
+{1806}{1891}completing a yearlong expedition|to the lost world.
+{1892}{1953}This lighter-than-air craft|was designed by Muntz himself
+{1954}{2057}and is longer than 22 prohibition|paddy wagons placed end to end.
+{2058}{2126}And here comes the adventurer now.
+{2127}{2170}Never apart from his faithful dogs,
+{2171}{2229}Muntz conceived the craft|for canine comfort.
+{2230}{2279}It's a veritable floating palace|in the sky,
+{2280}{2381}complete with doggy bath|and mechanical canine walker.
+{2382}{2467}And, Jiminy Cricket do the locals|consider Muntz the bee's knees.
+{2468}{2509}And how!
+{2510}{2613}Adventure is out there!
+{2614}{2673}But what|has Muntz brought back this time?
+{2674}{2823}Gentlemen, I give you|the monster of Paradise Falls!
+{2824}{2917}And, golly, what a|swell monster this is!
+{2918}{2975}But what's this? Scientists cry foul.
+{2976}{3029}The National Explorer's Society|accuses Muntz
+{3030}{3073}of fabricating the skeleton.
+{3074}{3109}No!
+{3110}{3146}The organization strips Muntz
+{3147}{3238}of his membership.
+{3244}{3313}Humiliated,|Muntz vows a return to Paradise Falls
+{3314}{3385}and promises|to capture the beast alive!
+{3386}{3475}I promise to capture the beast alive,
+{3476}{3577}and I will not come back until I do!
+{3578}{3641}And so,|the explorer's off to clear his name.
+{3642}{3682}Bon voyage, Charles Muntz,
+{3683}{3860}and good luck capturing|the monster of Paradise Falls!
+{3958}{3989}Here's Charles Muntz
+{3990}{4110}piloting his famous dirigible.
+{4142}{4219}He hurdles Pikes Peak.
+{4220}{4299}He hurdles the Grand Canyon.
+{4300}{4407}He hurdles Mount Everest.
+{4408}{4489}He goes around Mount Everest.
+{4490}{4601}Is there nothing he cannot do?
+{4602}{4650}Yes, as Muntz himself says,|"Adventure is..."
+{4651}{4737}Adventure is out there!|Look out!
+{4738}{4811}Mount Rushmore! Hard to starboard!
+{4812}{4903}Must get Spirit of Adventure|over Mount Rushmore!
+{4904}{5057}Hold together, old girl.|How're my dogs doing?
+{5058}{5187}All engines, ahead full!|Let's take her up to 26,000 feet.
+{5188}{5253}Rudders 18 degrees towards the south.
+{5254}{5345}It's a beautiful day.|Winds out of the east at 10 knots.
+{5346}{5470}Visibility unlimited.|Enter the weather in the logbook.
+{5471}{5561}Oh! There's something down there.|I will bring it back for science.
+{5562}{5722}Aw! It's a puppy! Ah! No time!|A storm! Lightning. Hail.
+{5723}{5774}- What are you doing?|- Ahhh!
+{5775}{5831}Don't you know|this is an exclusive club?
+{5832}{5880}Only explorers get in here,
+{5881}{5978}not just any kid off the street|with a helmet and a pair of goggles.
+{5979}{6084}Do you think you've got what it takes?|Well, do you?
+{6085}{6178}All right, you're in. Welcome aboard.
+{6179}{6294}What's wrong? Can't you talk?
+{6295}{6386}Hey, I don't bite.
+{6445}{6570}You and me, we're in a club now.
+{6608}{6730}I saw where your balloon went.|Come on. Let's go get it.
+{6731}{6817}My name's Ellie.
+{6849}{6926}There it is.
+{6985}{7069}Well, go ahead.
+{7145}{7207}Go on.
+{7669}{7703}Ow.
+{7704}{7765}Hey, kid!
+{7766}{7809}Thought you might need|a little cheering up.
+{7810}{7907}I got something to show you.
+{7908}{7968}I am about to let you|see something
+{7969}{8045}I have never shown|to another human being.
+{8046}{8117}Ever! In my life!
+{8118}{8226}You'll have to swear|you will not tell anyone.
+{8227}{8332}Cross your heart. Do it!
+{8343}{8434}My Adventure Book.
+{8447}{8503}You know him.
+{8504}{8566}Charles Muntz, explorer.
+{8567}{8660}When I get big,|I'm going where he's going,
+{8661}{8796}South America.|It's like America, but south.
+{8797}{8853}Wanna know where I'm gonna live?
+{8854}{8987}"Paradise Falls, a land lost in time."
+{8988}{9092}I ripped this right|out of a library book.
+{9093}{9190}I'm gonna move my clubhouse there|and park it right next to the falls.
+{9191}{9257}Who knows what lives up there.
+{9258}{9297}And once I get there?
+{9298}{9420}Well, I'm saving these pages for|all the adventures I'm gonna have.
+{9421}{9610}Only I just don't know|how I'm gonna get to Paradise Falls.
+{9704}{9784}That's it!|You can take us there in a blimp!
+{9785}{9854}Swear you'll take us! Cross your heart!
+{9855}{9990}Cross it! Cross your heart!|Good, you promised. No backing out.
+{9991}{10088}Well, see you tomorrow, kid. Bye!
+{10089}{10190}Adventure is out there!
+{10191}{10263}You know, you don't talk very much.
+{10264}{10338}I like you!
+{10358}{10416}Wow.
+{17274}{17332}Hah!
+{19623}{19709}Stevie, throw me a deuce!
+{19710}{19820}Quite a sight, huh, Ellie?
+{19854}{19940}Uh! Mail's here.
+{20219}{20351}Shady Oaks Retirement.|Oh, brother.
+{20373}{20435}Hmm...
+{20542}{20629}Hey! Morning, Mr. Fredricksen.|Need any help there?
+{20630}{20674}No. Yes!
+{20675}{20769}Tell your boss over there|that you boys are ruining our house.
+{20770}{20808}Well, just to let you know,
+{20809}{20872}my boss will be happy to take|this old place off your hands,
+{20873}{20934}and for double his last offer!
+{20935}{21029}What do you say to that?
+{21030}{21073}Uh, I take that as a "no," then?
+{21074}{21158}I believe I made my position|to your boss quite clear.
+{21159}{21218}You poured prune juice in his gas tank.
+{21219}{21368}Yeah, that was good.|Here, let me talk to him.
+{21369}{21500}You in the suit.|Yes, you. Take a bath, hippie!
+{21501}{21546}I am not with him!
+{21547}{21638}This is serious!|He's out to get your house.
+{21639}{21710}Tell your boss|he can have our house.
+{21711}{21808}- Really?|- When I'm dead!
+{21809}{21870}I'll take that as a maybe.
+{21871}{21912}ANNOUNCER ON TV> Order now,|you get the camera,
+{21913}{21990}you get the printer, 4x optical zoom,
+{21991}{22132}Schneider lens, photo printer, SD card.
+{22171}{22248}"Good afternoon. My name is Russell.
+{22249}{22378}"And I am a Wilderness Explorer|in Tribe 54, Sweat Lodge 12.
+{22379}{22446}"Are you in need|of any assistance today, sir?"
+{22447}{22473}No.
+{22474}{22554}- I could help you cross the street.|- No.
+{22555}{22649}- I could help you cross your yard.|- No.
+{22650}{22745}- I could help you cross your porch.|- No.
+{22746}{22797}Well, I gotta help you cross something.
+{22798}{22892}No. I'm doing fine.
+{23010}{23085}"Good afternoon. My name is Russell."
+{23086}{23137}- Kid... Kid.|- "And I am a Wilderness Explorer
+{23138}{23236}- "in Tribe 54, Sweat Lodge 12."|- I... Slow down. Kid!
+{23237}{23280}- "Are you in need of any assistance..."|- Thank you,
+{23281}{23360}- but I don't need any help!|- "...today, sir?"
+{23361}{23416}Ow.
+{23490}{23538}Proceed.
+{23539}{23634}- "Good afternoon..."|- But skip to the end!
+{23635}{23732}See these? These are|my Wilderness Explorer badges.
+{23733}{23854}You may notice one is missing.|It's my Assisting the Elderly badge.
+{23855}{23970}If I get it, I will become|a Senior Wilderness Explorer.
+{23971}{24028}"The wilderness must be explored!"
+{24029}{24106}Caw, caw! Raar!
+{24107}{24173}It's gonna be great!|There's a big ceremony,
+{24174}{24258}and all the dads come,|and they pin on our badges.
+{24259}{24308}So, you want to assist an old person?
+{24309}{24425}Yep! Then I'll be|a Senior Wilderness Explorer.
+{24426}{24501}- You ever heard of a snipe?|- Snipe?
+{24502}{24545}Bird. Beady eyes.
+{24546}{24653}Every night it sneaks in my yard|and gobbles my poor azaleas.
+{24654}{24782}I'm elderly and infirm. I can't catch it.|If only someone could help me.
+{24783}{24872}- Me, me! I'll do it!|- I don't know. It's awfully crafty.
+{24873}{24940}You'd have to clap your hands|three times to lure it in.
+{24941}{24985}I'll find him, Mr. Fredricksen!
+{24986}{25044}I think its burrow is two blocks down.|If you go past...
+{25045}{25140}Two blocks down. Got it! Snipe.
+{25141}{25189}Here, snipey, snipey.
+{25190}{25232}Bring it back here when you find it.
+{25233}{25260}Snipe!
+{25261}{25322}Okay, keep her coming.|Keep coming.
+{25323}{25421}And stop. Stop. Stop!
+{25442}{25525}Why... Hey! Hey, you!
+{25526}{25562}What do you...|What do you think you're doing?
+{25563}{25624}- I am so sorry, sir.|- Don't touch that!
+{25625}{25662}No, no, no.|Let me take care of that for you.
+{25663}{25714}- Get away from our mailbox!|- Hey. Sir, I...
+{25715}{25753}I don't want you to touch it!
+{25754}{25809}Ow!
+{26038}{26136}Steve, you all right?
+{26915}{26969}Sorry,|Mr. Fredricksen.
+{26970}{27070}You don't seem like|a public menace to me. Take this.
+{27071}{27292}The guys from Shady Oaks will be by|to pick you up in the morning, okay?
+{27497}{27602}What do I do now, Ellie?
+{29705}{29742}Morning, gentlemen.
+{29743}{29850}Good morning, Mr. Fredricksen.|You ready to go?
+{29851}{29893}Ready as I'll ever be.
+{29894}{29950}Would you do me a favor|and take this?
+{29951}{30009}I'll meet you at the|van in just a minute.
+{30010}{30124}I wanna say one last goodbye|to the old place.
+{30125}{30244}Sure. Take all the time you need, sir.
+{30245}{30341}That's typical. He's probably|going to the bathroom for the 80th time.
+{30342}{30498}You think he'd take better|care of his house.
+{31426}{31618}So long, boys! I'll send you a postcard|from Paradise Falls!
+{32698}{32756}Heh!
+{33666}{33771}We're on our way, Ellie.
+{34840}{34898}Huh?
+{34988}{35046}Hmm.
+{35388}{35471}Hi, Mr. Fredricksen. It's me, Russell.
+{35472}{35521}What are you doing out here, kid?
+{35522}{35613}I found the snipe|and I followed it under your porch,
+{35614}{35820}but this snipe had a long tail|and looked more like a large mouse.
+{35869}{35921}Please let me in.
+{35922}{35977}No.
+{36062}{36177}Oh, alright, you can come...
+{36308}{36366}Huh.
+{36396}{36493}I've never been|in a floating house before.
+{36494}{36600}Goggles. Look at this stuff.|Wow! You're going on a trip?
+{36601}{36685}"Paradise Falls, a land lost in time."
+{36686}{36729}You're going to South America,|Mr. Fredricksen?
+{36730}{36776}Don't touch that! You'll soil it.
+{36777}{36827}You know, most people take a plane,
+{36828}{36909}but you're smart because you will|have all your TV and clocks and stuff.
+{36910}{36981}Whoa.|Is this how you steer your house?
+{36982}{37045}Does it really work?
+{37046}{37077}Kid, would you stop with the...
+{37078}{37117}- This makes it go right.|- Let go of that...
+{37118}{37181}- And that way's left.|- Knock it off!
+{37182}{37244}Hey, look! Buildings.
+{37245}{37401}That building's so close|I could almost touch it.
+{37402}{37461}Wow! This is great!
+{37462}{37516}You should try this, Mr. Fredricksen.
+{37517}{37599}Look, there's a bus that could|take me home two blocks away!
+{37600}{37676}Hey! I can see your house from here.
+{37677}{37780}Don't jerk around so much, kid. Whoa!
+{37781}{37821}Well, that's not gonna work.
+{37822}{37899}I know that cloud. It's a cumulonimbus.
+{37900}{37935}Did you know that
+{37936}{37981}the cumulonimbus forms
+{37982}{38008}when warm air rises over cool air?
+{38009}{38089}Stayed up all night|blowing up balloons... for what?
+{38090}{38117}...and that's how we get lightning.
+{38118}{38181}- That's nice, kid.|- Mr. Fredricksen?
+{38182}{38232}There's a storm coming.|It's starting to get scary.
+{38233}{38353}We're gonna get blown to bits!|We're in big trouble...
+{38354}{38498}- What are you doing over there?|- Look.
+{38693}{38784}See? Cumulonimbus.
+{39601}{39668}My pack!
+{39750}{39815}Got ya!
+{40678}{40783}I thought you were dead.
+{40789}{40817}What happened?
+{40818}{40901}I steered us. I did.|I steered the house.
+{40902}{40929}Steered us?
+{40930}{40997}After you tied your stuff down,|you took a nap.
+{40998}{41059}So I went ahead|and steered us down here.
+{41060}{41134}Yeah. Sure.
+{41409}{41452}Can't tell where we are.
+{41453}{41501}Oh, we're in South America, all right.
+{41502}{41596}It was a cinch|with my Wilderness Explorer GPS.
+{41597}{41657}- GP... What?|- My dad gave it to me.
+{41658}{41757}It shows exactly where we are|on the planet.
+{41758}{41892}With this baby, we'll never be lost!
+{41941}{42001}Oops.
+{42005}{42061}We'll get you down, find a bus stop,
+{42062}{42137}you just tell the man|you wanna go back to your mother.
+{42138}{42299}Sure, but I don't think|they have buses in Paradise Falls.
+{42300}{42359}There. That ought to do it.
+{42360}{42405}Here, I'll give you|some change for bus fare.
+{42406}{42485}No, I'll just use|my city bus pass.
+{42486}{42557}Whoa. That's gonna be|like a billion transfers
+{42558}{42663}to get back to my house.
+{42754}{42825}Mr. Fredricksen, how much longer?
+{42826}{42964}Well, we're up pretty high.|Could take hours to get down.
+{42965}{43060}That thing was... building or something.
+{43061}{43109}What was that, Mr. Fredricksen?
+{43110}{43244}We can't be close to the ground yet.
+{43385}{43469}Wait! Wait, no, don't! Don't, don't!
+{43470}{43559}Wait, wait. Wait!
+{43649}{43788}- Russell, hang on! Hey!|- Whoa! Whoa!
+{43893}{43957}Aaaagggghhhhh!
+{43958}{43995}- Walk back. Walk back.|- Okay.
+{43996}{44085}Come on. Come on.
+{44341}{44417}Where... Where are we?
+{44418}{44584}This doesn't look like the city|or the jungle, Mr. Fredricksen.
+{44585}{44702}Don't worry, Ellie. I got it.
+{45248}{45325}There it is.
+{45957}{46065}Ellie, it's so beautiful.
+{46073}{46113}We made it.
+{46114}{46229}We made it! Russell! We could float|right over there! Climb up. Climb up!
+{46230}{46265}You mean, assist you?
+{46266}{46424}- Yeah, yeah. Whatever.|- Okay. I'll climb up.
+{46461}{46557}- Watch it!|- Sorry.
+{46681}{46804}Now, when you get up there,|go ahead and hoist me up!
+{46805}{46870}Got it?
+{46933}{47031}You on the porch yet?
+{47138}{47188}What? That's it?
+{47189}{47353}I came all this way just to get stuck|at the wrong end of this rock pile?
+{47354}{47416}Great.
+{47474}{47613}Hey, if I could assist you over there,|would you sign off on my badge?
+{47614}{47717}- What are you talking about?|- We could walk your house to the falls.
+{47718}{47805}- Walk it?|- Yeah! After all, we weigh it down.
+{47806}{47985}We could walk it right over there.|Like a parade balloon.
+{47986}{48069}Now, we're gonna walk|to the falls quickly and quietly
+{48070}{48139}- with no rap music or flash dancing.|- Uh-huh.
+{48140}{48252}We have three days, at best, before|the helium leaks out of those balloons.
+{48253}{48313}And if we're not at the falls|when that happens...
+{48314}{48371}- Sand.|...we're not getting to the falls.
+{48372}{48437}I found sand!
+{48438}{48618}Don't you worry, Ellie.|We'll get our house over there.
+{48634}{48701}This is fun already, isn't it?
+{48702}{48791}By the time we get there,|you're gonna feel so assisted.
+{48792}{48880}Oh, Mr. Fredricksen,|if we happen to get separated,
+{48881}{48933}use the Wilderness Explorer call.
+{48934}{49011}Caw, caw! Raar!
+{49012}{49077}Wait. Why are we going|to Paradise Falls again?
+{49078}{49129}Hey, let's play a game.
+{49130}{49209}It's called|"see who can be quiet the longest."
+{49210}{49327}Cool!|My mom loves that game!
+{50774}{50848}Darn thing!
+{50854}{50899}Come on, Russell.|Would you hurry it up?
+{50900}{51007}I'm tired. And my knee hurts.
+{51008}{51055}Which knee?
+{51056}{51164}My elbow hurts,|and I have to go to the bathroom.
+{51165}{51232}I asked you about that five minutes ago.
+{51233}{51325}Well, I didn't have to go then!
+{51326}{51465}I don't wanna walk|anymore. Can we stop?
+{51466}{51541}Russell, if you don't hurry up,|the tigers will eat you.
+{51542}{51685}There are no tigers in South America.|Zoology.
+{51686}{51777}Oh, for the love of Pete! Go on into|the bushes and do your business.
+{51778}{51883}Okay! Here! Hold my stuff.
+{51884}{52006}I've always wanted to try this.
+{52033}{52067}Mr. Fredricksen,
+{52068}{52169}am I supposed to dig the hole|before or after?
+{52170}{52236}None of my concern!
+{52237}{52291}Oh. It's before!
+{52292}{52388}Bah!|La la la la la!
+{52412}{52470}Huh?
+{52476}{52541}Tracks?
+{52544}{52606}Snipe.
+{52614}{52732}Here, snipe. Come on out, snipe.
+{52733}{52795}Snipe.
+{52798}{52856}Huh?
+{53224}{53313}Ha! Gotcha! Don't be|afraid, little snipe.
+{53314}{53439}I am a Wilderness Explorer,|so I'm a friend to all of nature.
+{53440}{53524}Want some more?
+{53540}{53681}Hi, boy. Don't eat it all. Come on out.
+{53686}{53815}Come on. Come on.|Don't be afraid, little snipe.
+{53816}{53935}Nice snipe. Good little snipe. Nice...
+{53936}{54013}Giant snipe.
+{54093}{54175}- I found the snipe!|- Oh! Did you?
+{54176}{54248}- Are they tall?|- Oh, yes, they're very tall.
+{54249}{54323}- Do they have a lot of colors?|- They do, indeed!
+{54324}{54473}- Do they like chocolate?|- Oh, yes... chocolate?
+{54474}{54539}- Gah! What is that thing?|- It's a snipe!
+{54540}{54589}There's no such thing as a snipe!
+{54590}{54713}- But you said snipes eat your... Whoa!|- Hey!
+{54714}{54834}Go on! Get out of here! Go on!
+{54852}{54912}Whoa!
+{54934}{54994}Whoa!
+{55017}{55044}Careful, Russell!
+{55045}{55149}Hey, look, Mr. Fredricksen.|It likes me. Whoa!
+{55150}{55237}- Russell!|- No, stop! That tickles.
+{55238}{55353}Get out of here! Go on! Get!
+{55464}{55597}Uh-oh. No, no, no! Kevin!|It's okay. Mr. Fredricksen is nice.
+{55598}{55703}- Kevin?|- Yeah. That's his name I just gave him.
+{55704}{55853}Beat it! Vamoose! Scram!|Hey! That's mine!
+{55914}{55977}Shoo! Shoo! Get out of here!
+{55978}{56062}Go on! Beat it!
+{56137}{56175}Can we keep him? Please?
+{56176}{56271}I'll get the food for him. I'll walk him.|I'll change his newspapers.
+{56272}{56327}No.
+{56330}{56433}"An Explorer is a friend to all,|be it plants or fish or tiny mole."
+{56434}{56513}- That doesn't even rhyme.|- Yeah, it does.
+{56514}{56596}- Hey, look. Kevin.|- What?
+{56597}{56727}Get down! You're not allowed up there!
+{56728}{56845}You come down here right now!
+{56856}{56884}Sheesh!
+{56885}{56936}Can you believe this, Ellie?
+{56937}{56985}Ellie?
+{56986}{57077}Hey, Ellie! Could I keep the bird?
+{57078}{57139}Uh-huh. Uh-huh.
+{57140}{57181}She said for you to let me.
+{57182}{57233}But I told him no. I told you no!
+{57234}{57292}N-O.
+{57562}{57649}I see you back there.
+{57650}{57743}Go on! Get out of here! Shoo!|Go annoy someone else for a while.
+{57744}{57861}Hey, are you okay over there?
+{57878}{57955}Uh... Hello?
+{58036}{58065}Oh!
+{58066}{58129}Hello, sir! Thank goodness.
+{58130}{58189}It's nice to know|someone else is up here.
+{58190}{58248}I can smell you.
+{58249}{58352}What? You can smell us?
+{58364}{58450}I can smell you.
+{58580}{58607}Hey.
+{58608}{58701}You were talking to a rock.
+{58702}{58743}Hey, that one looks like a turtle.
+{58744}{58849}Look at that one!|That one looks like a dog.
+{58850}{58919}- It is a dog!|- What?
+{58920}{59032}We're not allowed to have dogs|in my apartment.
+{59033}{59084}Hey, I like dogs.
+{59085}{59133}We have your dog!
+{59134}{59184}- Whoa!|- Wonder who he belongs to.
+{59185}{59277}Sit, boy. Hey, look,|he's trained. Shake.
+{59278}{59305}Uh-huh.
+{59306}{59368}- Speak.|- Hi, there.
+{59369}{59428}Did that dog just say "Hi, there"?
+{59429}{59473}Oh, yes.
+{59474}{59584}My name is Dug.|I have just met you, and I love you.
+{59585}{59664}My master made me this collar.|He is a good and smart master,
+{59665}{59793}and he made me this collar|so that I may talk. Squirrel!
+{59794}{59828}My master is good and smart.
+{59829}{59856}It's not possible.
+{59857}{59917}Oh, it is,|because my master is smart.
+{59918}{59995}- Cool! What do these do, boy?|- Hey, would you...
+{59996}{60052}I use that collar...
+{60053}{60108}...to talk with.|I would be happy if you stopped.
+{60109}{60192}Russell, don't touch that!|It could be radioactive or something!
+{60193}{60225}I am a great tracker.
+{60226}{60301}My pack sent me on a special mission|all by myself.
+{60302}{60329}Have you seen a bird?
+{60330}{60385}I want to find one,|and I've been on the scent.
+{60386}{60473}I am a great tracker.|Did I mention that?
+{60474}{60508}Hey, that is the bird.
+{60509}{60580}I have never seen one up close,|but this is the bird.
+{60581}{60641}May I take your bird back to camp|as my prisoner?
+{60642}{60740}Yes, yes, take it. And on the way,|learn how to bark like a real dog.
+{60741}{60795}I can bark.
+{60796}{60890}And here's howling.
+{60922}{60985}Can we keep him?|Please, please, please!
+{60986}{61064}- No.|- But it's a talking dog!
+{61065}{61152}It's just a weird trick or something.|Let's get to the falls.
+{61153}{61195}Please be my prisoner.
+{61196}{61313}Oh, please, oh, please be my prisoner!
+{61314}{61395}Oh! Here it is.|I picked up the bird's scent!
+{61396}{61459}Wait a minute, wait a minute!|What is this?
+{61460}{61500}Chocolate. I smell chocolate.
+{61501}{61619}I'm getting prunes|and denture cream! Who are they?
+{61620}{61668}Oh, man,|Master will not be pleased.
+{61669}{61781}We better tell him someone|took the bird. Right, Alpha?
+{61782}{61809}No.
+{61810}{61889}Soon enough the bird|will be ours yet again.
+{61890}{61931}Find the scent, my compadres,
+{61932}{61976}and you too shall|have much rewardings
+{61977}{62053}from Master for the toil factor|you wage.
+{62054}{62133}Hey, Alpha, I think there's|something wrong with your collar.
+{62134}{62165}You must've bumped it.
+{62166}{62286}Yeah,|your voice sounds funny!
+{62306}{62457}Beta! Gamma!|Mayhaps you desire to... Squirrel!
+{62458}{62509}Mayhaps you desire|to challenge the ranking
+{62510}{62573}that I have been assigned|by my strength and cunning.
+{62574}{62687}No, no, no. But maybe|Dug would. You might wanna ask him.
+{62688}{62808}Yeah. I wonder if he's found|the bird on his very special mission.
+{62809}{62866}Do not mention Dug|to me at this time.
+{62867}{63035}His fool's errand will keep him|most occupied. Most occupied indeed.
+{63036}{63111}Do you not agree with that|which I am saying to you now?
+{63112}{63216}Sure, but the second Master|finds out you sent Dug out by himself,
+{63217}{63269}none of us will get a treat.
+{63270}{63374}You are wise,|my trusted lieutenant.
+{63375}{63444}This is Alpha calling Dug.|Come in, Dug.
+{63445}{63508}Hi, Alpha.|Hey, your voice sounds funny.
+{63509}{63584}I know, I know!|Have you seen the bird?
+{63585}{63652}Why, yes.|The bird is my prisoner now.
+{63653}{63730}Yeah, right!
+{63737}{63780}Impossible! Where are you?
+{63781}{63816}I am here with the bird,
+{63817}{63884}and I will bring it back,|and then you will like me.
+{63885}{63944}- Gotta go.|- Hey, Dug, who you talking to?
+{63945}{63992}- No, wait, wait!|- What's Dug doing?
+{63993}{64038}Why's he with|that small mailman?
+{64039}{64123}Where are they?
+{64136}{64234}There he is. Come on!
+{64294}{64360}Oh, please, oh, please,|oh, please be my prisoner.
+{64361}{64396}Dug, stop bothering Kevin!
+{64397}{64476}That man there says|I can take the bird,
+{64477}{64512}and I love that man there|like he is my master.
+{64513}{64540}I am not your master!
+{64541}{64579}I am warning you|once again, bird.
+{64580}{64629}- Hey! Quit it!|- I am jumping on you now, bird.
+{64630}{64686}Russell, at this rate,|we'll never get to the falls.
+{64687}{64761}Here, bird.
+{64910}{64957}I am nobody's master, got it?
+{64958}{65018}I don't want you here,|and I don't want you here!
+{65019}{65051}I'm stuck with you!
+{65052}{65117}And if you two don't clear out of here|by the time I count to three...
+{65118}{65186}A ball! Oh, boy, oh, boy!|A ball!
+{65187}{65278}Ball? Yeah, yeah? You want it, boy?
+{65279}{65311}Huh? Huh? Yeah. Yeah?
+{65312}{65362}Yes, I do!|I do ever so want the ball.
+{65363}{65399}- Go get it!|- Oh, boy! Oh, boy!
+{65400}{65445}I will get it and then bring it back!
+{65446}{65484}Quick, Russell.|Give me some chocolate.
+{65485}{65544}- Why?|- Just give it to me!
+{65545}{65619}Bird. Bird!
+{65635}{65685}Come on, Russell.
+{65686}{65801}Wait. Wait, Mr. Fredricksen.
+{65868}{65959}What are we doing?
+{66024}{66189}Hey, we're pretty far now.|Kevin's gonna miss me.
+{66263}{66357}I think that did the trick.
+{66358}{66410}Hi, Master.
+{66411}{66483}Afternoon.
+{67053}{67132}Well, thanks for keeping us|dry anyway, Ellie.
+{67133}{67217}Which one's the front?
+{67218}{67248}Oh, boy.
+{67249}{67374}Is this step three or step five?
+{67393}{67455}There.
+{67518}{67626}All done! That's for you.
+{67726}{67753}Oh...
+{67754}{67809}Tents are hard.
+{67810}{67945}Wait. Aren't you super wilderness guy,|with the GPMs and the badges?
+{67946}{68057}Yeah, but can I tell you a secret?
+{68058}{68139}- No.|- All right. Here it goes.
+{68140}{68236}I never actually built a tent before.|There, I said it.
+{68237}{68289}You've been camping before,|haven't you?
+{68290}{68360}Well, never outside.
+{68361}{68453}Well, why didn't you ask your dad|how to build a tent?
+{68454}{68523}I don't think he wants|to talk about this stuff.
+{68524}{68588}Well, why don't you try him sometime.|Maybe he'll surprise you.
+{68589}{68646}Well, he's away a lot.|I don't see him much.
+{68647}{68687}He's gotta be home sometime.
+{68688}{68791}Well, I call, but Phyllis told me|I bug him too much.
+{68792}{68884}Phyllis? You call your own mother|by her first name?
+{68885}{68981}Phyllis isn't my mom.
+{68982}{69037}Oh.
+{69179}{69278}But he promised|he'd come to my Explorer ceremony
+{69279}{69376}to pin on|my Assisting the Elderly badge.
+{69377}{69528}So, he can show me|about tents then, right?
+{69604}{69673}Hey, why don't you get some sleep?
+{69674}{69809}Don't wanna wake up|the traveling flea circus.
+{69810}{69847}Mr. Fredricksen?
+{69848}{69937}Dug says he wants|to take Kevin prisoner.
+{69938}{70037}We have to protect him.
+{70038}{70125}Can Kevin go with us?
+{70126}{70187}All right, he can come.
+{70188}{70250}Promise you won't leave him?
+{70251}{70364}- Yeah.|- Cross your heart?
+{70507}{70591}Cross my heart.
+{70677}{70809}What have I got myself into, Ellie?
+{71293}{71386}Morning, sweetheart.
+{71387}{71485}We better get moving.
+{71490}{71523}Bird's gone.
+{71524}{71629}Maybe Russell won't notice.|All right, everybody up!
+{71630}{71738}Where's Kevin? He's wandered off!|Kevin! Dug, find Kevin!
+{71739}{71832}Find the bird, find the bird!|Hi, hi. Point!
+{71833}{71924}Look. There he is!
+{71936}{71972}Point!
+{71973}{72062}Hey! That's my food! Get off my roof!
+{72063}{72166}Yeah, get off of his...
+{72227}{72254}What is it doing?
+{72255}{72339}The bird is calling to her babies.
+{72340}{72407}Her babies.
+{72408}{72492}Kevin's a girl?
+{72502}{72593}Her house is over there|in those twisty rocks.
+{72594}{72709}She has been gathering food for|her babies and must get back to them.
+{72710}{72811}Wait. Kevin's just leaving?
+{72812}{72873}But you promised to protect her.
+{72874}{72954}Her babies need her.|We gotta make sure they're together!
+{72955}{73062}Sorry, Russell.|We've lost enough time already.
+{73063}{73123}Yeah.
+{73274}{73353}This was her favorite chocolate.
+{73354}{73490}Because you sent her away,|there's more for you.
+{73491}{73517}Huh?
+{73518}{73580}Kevin?
+{73994}{74065}Where's the bird?|You said you had the bird.
+{74066}{74096}Oh, yes. Oh, yes.
+{74097}{74171}Since I have said that,|I can see how you would think that.
+{74172}{74247}- Where is it?|- Uh... Tomorrow.
+{74248}{74370}Come back tomorrow, and then|I will again have the bird. Yes.
+{74371}{74471}You lost it!|Why do I not have a surprised feeling?
+{74472}{74551}Well, at least you now have led us|to the small mailman
+{74552}{74651}and the one who smells of prunes.
+{74652}{74713}Master will be most pleased|we have found them
+{74714}{74785}and will ask of them many questions.|Come!
+{74786}{74930}Wait. We're not going with you!|We're going to the falls!
+{74931}{75020}Get away from me!
+{75049}{75119}Get down!
+{76384}{76444}Stay!
+{76607}{76680}You came here in that?
+{76681}{76728}Uh, yeah.
+{76729}{76846}In a house? A floating house?
+{77025}{77106}That is the darnedest thing|I've ever seen.
+{77107}{77177}You're not after my bird, are you?
+{77178}{77240}But if you needed to borrow|a cup of sugar,
+{77241}{77344}I'd be happy to oblige.
+{77376}{77448}Well, this is all a misunderstanding.
+{77449}{77506}My dogs made a mistake.
+{77507}{77566}Wait. Are you Charles Muntz?
+{77567}{77631}Yeah, well, yes.
+{77632}{77691}THE Charles Muntz?
+{77692}{77739}"Adventure is out there!"
+{77740}{77831}It's really him! That's Charles Muntz!
+{77832}{77914}- It is? Who's Charles Muntz?|- Him!
+{77915}{77960}- Yes! Yes! That's him!|- I'm Carl Fredricksen.
+{77961}{78030}My wife and I,|we were your biggest fans.
+{78031}{78128}Oh, well. You're a man of good taste.
+{78129}{78182}Now, you must be tired. Hungry?
+{78183}{78212}Uh-huh.
+{78213}{78246}Now, attention, everyone!
+{78247}{78391}These people are no longer intruders!|They are our guests.
+{78392}{78450}Follow me.|I like you temporarily.
+{78451}{78493}You do smell like prunes.
+{78494}{78554}Whoa!
+{78558}{78586}I will not bite you.
+{78587}{78675}The small mailman|smells like chocolate.
+{78676}{78729}I'm sorry about the dogs.
+{78730}{78803}- Hope they weren't too rough on you.|- We weren't.
+{78804}{78972}Go ahead and moor|your airship right next to mine.
+{79022}{79109}We're not actually going inside|the Spirit of Adventure itself?
+{79110}{79140}Oh...
+{79141}{79180}Would you like to?
+{79181}{79248}Would I?
+{79262}{79326}Wait up, Mr. Muntz.
+{79327}{79371}Jiminy Cricket.
+{79372}{79422}- Not you.|- What do we do with Dug?
+{79423}{79593}He has lost the bird.|Put him in the Cone of Shame.
+{79632}{79720}I do not like the Cone of Shame.
+{79721}{79824}Well, most of the collection|is housed in the world's top museums,
+{79825}{79923}New York, Munich, London.|Of course, I kept the best for myself.
+{79924}{79993}Did you ever! Will you look at that?
+{79994}{80055}Oh, yes, the Arsinoitherium.
+{80056}{80122}Beast charged|while I was brushing my teeth.
+{80123}{80190}Used my shaving kit to bring him down.
+{80191}{80233}Oh, yeah. Well, surprise me.
+{80234}{80293}Only way to get it out|of Ethiopia at the time
+{80294}{80374}was to have it declared|as dental equipment.
+{80375}{80457}Oh, my gosh!|The giant Somalian leopard tortoise!
+{80458}{80534}Oh, you recognize it. I'm impressed.
+{80535}{80593}That's an interesting story there.
+{80594}{80636}Excellent choice.
+{80637}{80729}I found it on safari with Roosevelt.
+{80730}{80824}He and I fell into a habit|of playing gin rummy in the evenings,
+{80825}{80870}and did he cheat!
+{80871}{80939}Oh, he was horrible.
+{80940}{81010}Master, dinner is ready.
+{81011}{81063}Oh, dear. Broken translator.
+{81064}{81175}It's that loose wire again.|There you go, big fella.
+{81176}{81210}Thank you, Master.
+{81211}{81292}I liked his other voice.
+{81293}{81398}Well, dinner is served. Right this way.
+{81399}{81476}So, how are things stateside, huh?
+{81477}{81559}Almost tempted to go back a few times,
+{81560}{81624}but I have unfinished work here.
+{81625}{81698}Please. I hope you're hungry,
+{81699}{81864}because Epsilon is the finest chef|I've ever had.
+{81917}{81990}Oh, Epsilon, you've done it again!
+{81991}{82049}Yes!
+{82053}{82110}Hey! Hey!
+{82111}{82185}Oh, my Ellie would've loved all this.
+{82186}{82246}You know, it's because of you|she had this dream
+{82247}{82312}to come down here|and live by Paradise Falls.
+{82313}{82375}I'm honored. And now you've made it.
+{82376}{82436}You're sure we're not a bother?|I'd hate to impose.
+{82437}{82535}No, no. It's a pleasure to have guests,|a real treat.
+{82536}{82598}- Treat! Where's the treat!|- Treat!
+{82599}{82646}No, no. Quiet!|Calm down, calm down.
+{82647}{82682}- I want a treat! I want a treat!|- Hey!
+{82683}{82722}I shouldn't have used that word.
+{82723}{82790}Having guests is a delight.
+{82791}{82885}More often I get thieves|come to steal what's rightfully mine.
+{82886}{82941}No!
+{82972}{83092}They called me a fraud, those...
+{83093}{83208}But once I bring back this creature,|my name will be cleared.
+{83209}{83305}Beautiful, isn't it?
+{83320}{83430}I've spent a lifetime tracking it.
+{83431}{83545}Sometimes years go by|between sightings.
+{83546}{83675}I've tried to smoke it out of that|deathly labyrinth where it lives.
+{83676}{83727}You can't go in after it.
+{83728}{83795}Once in, there's no way out.
+{83796}{83899}I've lost so many dogs.
+{83907}{84030}And here they come, these bandits,|and think the bird is theirs to take.
+{84031}{84217}But they soon find that this mountain|is a very dangerous place.
+{84218}{84316}Hey, that looks like Kevin.
+{84317}{84386}- Kevin?|- Yeah, that's my new giant bird pet.
+{84387}{84438}I trained it to follow us.
+{84439}{84526}Follow you? It's impossible. How?
+{84527}{84595}- She likes chocolate.|- Chocolate?
+{84596}{84683}Yeah. I gave her some of my chocolate.|She goes gaga for it.
+{84684}{84804}But it ran off. It's gone now.
+{84918}{85029}You know, Carl, these people|who pass through here,
+{85030}{85156}they all tell pretty good stories.
+{85157}{85254}A surveyor making a map.
+{85255}{85375}A botanist cataloguing plants.
+{85384}{85542}An old man taking his house|to Paradise Falls.
+{85677}{85883}I mean, that's the best one yet.|I can't wait to hear how it ends.
+{86007}{86095}Well, it's been a wonderful evening,|but we better be going.
+{86096}{86129}Oh, you're not leaving.
+{86130}{86218}We don't want to take advantage|of your hospitality.
+{86219}{86297}- Come on, Russell.|- But we haven't even had dessert yet.
+{86298}{86375}The boy's right.|You haven't had dessert.
+{86376}{86509}Epsilon here makes|a delicious cherries jubilee.
+{86510}{86599}Oh, you really must stay. I insist.
+{86600}{86732}We have so much more to talk about.
+{86760}{86822}Kevin?
+{86973}{87045}It's here.
+{87059}{87129}Get them!
+{87149}{87208}- Hurry!|- I am hurrying!
+{87209}{87307}Ahhh! They're coming!
+{87315}{87406}Master, over here.
+{87748}{87863}Go toward the light, Master!
+{88496}{88563}Russell!
+{88636}{88706}Get back!
+{88736}{88856}Go on, Master!|I will stop the dogs!
+{88857}{88941}Stop, you dogs.
+{89157}{89217}Whoa!
+{89576}{89615}Help!
+{89616}{89676}Help!
+{89724}{89801}Caw, caw! Raar!|Caw, caw! Raar!
+{89802}{89893}Give me your hand!
+{90116}{90205}Hang on to Kevin!
+{90914}{90976}Kevin.
+{91516}{91631}Oh, no, no, no. Kevin. Stay down.
+{91632}{91795}She's hurt real bad.|Can't we help her get home?
+{92000}{92120}All right, but we gotta hurry.
+{92221}{92258}You lost them?
+{92259}{92288}No, it was Dug.
+{92289}{92400}Yeah. He's with them.|He helped them escape!
+{92401}{92434}Wait.
+{92435}{92529}Wait a minute. Dug.
+{92655}{92683}See anything?
+{92684}{92773}No. My pack is not following us.|Boy, they are dumb.
+{92774}{92805}This is crazy.
+{92806}{92893}I finally meet my childhood hero,|and he's trying to kill us. What a joke!
+{92894}{92929}Hey, I know a joke.
+{92930}{92977}A squirrel walks up to a tree and says,
+{92978}{93055}"I forgot to store acorns for winter|and now I am dead."
+{93056}{93217}Ha! It is funny|because the squirrel gets dead.
+{93222}{93265}Careful, Russell.
+{93266}{93352}You okay, Kevin?
+{93426}{93481}You know what, Mr. Fredricksen?
+{93482}{93553}The wilderness isn't quite|what I expected.
+{93554}{93599}Yeah? How so?
+{93600}{93663}It's kind of wild.
+{93664}{93745}I mean, it's not how they made it sound|in my book.
+{93746}{93793}Get used to that, kid.
+{93794}{93853}My dad made it sound so easy.
+{93854}{93905}He's really good at camping
+{93906}{93981}and how to make fire|from rocks and stuff.
+{93982}{94062}He used to come to all|my Sweat Lodge meetings.
+{94063}{94153}And afterwards,|we'd go get ice cream at Fentons.
+{94154}{94221}I always get chocolate|and he gets butter brickle.
+{94222}{94294}Then we sit on this one curb|right outside,
+{94295}{94389}and I'll count all the blue cars|and he counts all the red ones,
+{94390}{94512}and whoever gets the most wins.
+{94540}{94629}I like that curb.
+{94660}{94718}That might sound boring,
+{94719}{94916}but I think the boring stuff|is the stuff I remember the most.
+{94992}{95053}Look! There it is!
+{95054}{95198}Hey, kid. Hold on, Russell. Stand still.
+{95390}{95506}Look at that bird go.|Wait up, you overgrown chicken.
+{95507}{95656}That's it. Go, Kevin!|Go find your babies!
+{95699}{95785}Run, Kevin! Run!
+{95811}{95876}Oh, no!
+{95968}{96069}Russell, give me your knife!
+{96070}{96171}Get away from my bird!
+{96748}{96803}No!
+{96934}{96989}No!
+{97118}{97229}Careful. We'll want her|in good shape for my return.
+{97230}{97319}Let her go! Stop!
+{97392}{97454}Kevin!
+{97767}{97863}You gave away Kevin.
+{97878}{97981}You just gave her away.
+{97990}{98175}This is none of my concern.|I didn't ask for any of this!
+{98188}{98273}Master, it's alright.
+{98274}{98335}I am not your master!
+{98336}{98413}And if you hadn't have shown up,|none of this would've happened!
+{98414}{98503}Bad dog! Bad dog!
+{98668}{98729}Now, whether you assist me or not,
+{98730}{98883}I am going to Paradise Falls|if it kills me.
+{100546}{100671}Here. I don't want this anymore.
+{105926}{105993}Russell?
+{106074}{106101}Russell!
+{106102}{106217}I'm gonna help Kevin, even if you won't!
+{106218}{106304}No, Russell! No!
+{107983}{108009}Huh?
+{108010}{108077}Russell?
+{108090}{108121}Dug!
+{108122}{108234}I was hiding under your porch|because I love you. Can I stay?
+{108235}{108294}Can you stay?|Well, you're my dog, aren't you?
+{108295}{108329}And I'm your master.
+{108330}{108366}You're my master?
+{108367}{108401}Oh, boy! Oh, boy!
+{108402}{108529}Good boy, Dug!|You're a good boy!
+{109087}{109145}Yes!
+{109162}{109287}Don't worry, Kevin. I'll save...
+{109421}{109542}And they wouldn't believe me.|Just wait till they get a look at you.
+{109543}{109582}Master?
+{109583}{109669}- The small mailman has returned.|- What?
+{109670}{109742}Let me go.
+{109754}{109841}Where's your elderly friend?
+{109842}{109906}He's not my friend anymore.
+{109907}{110013}Well, if you're here,|Fredricksen can't be far behind.
+{110014}{110093}Where are you|keeping Kevin?
+{110094}{110125}Let me go!
+{110126}{110180}Scream all you want,|small mailman.
+{110181}{110253}None of your mailman friends|can hear you.
+{110254}{110419}I'll unleash|all my Wilderness Explorer training!
+{110431}{110472}Alpha,|Fredricksen's coming back.
+{110473}{110561}Guard that bird. If you see the old man,|you know what to do.
+{110562}{110642}Hey, where are you going?|I'm not finished with you!
+{110643}{110744}Nice talking with you.
+{110766}{110805}Ahhh!
+{110806}{110919}Where are you, Fredricksen?
+{111302}{111369}Russell!
+{111635}{111742}- Mr. Fredricksen!|- Dug, bring her over!
+{111743}{111805}You came back for Kevin!|Let's go get her!
+{111806}{111860}I'm getting Kevin. You stay here.
+{111861}{111890}But I wanna help.
+{111891}{111924}I don't want your help.
+{111925}{112011}I want you safe.
+{112138}{112202}How do we get past these dogs?
+{112203}{112265}Point!
+{112486}{112542}Kevin.
+{112543}{112613}Don't worry, Kevin. We're on our way.
+{112614}{112701}Allow no one to be entering|through these doors.
+{112702}{112784}Guard well that bird, my minions.
+{112785}{112888}What do we do now, Dug?
+{113138}{113210}Who wants the ball?
+{113211}{113261}- Me! I want it!|- Me! I do!
+{113262}{113297}- I want the ball!|- Give it to me!
+{113298}{113329}Then go get it!
+{113330}{113389}I'm gonna get there first!
+{113390}{113425}Getting the ball!
+{113426}{113469}I got it!
+{113470}{113532}Uh-oh.
+{113586}{113657}I'm sorry, Kevin.|Let's get you out of here.
+{113658}{113708}Master! He's gone!|The old man!
+{113709}{113734}He's here!
+{113735}{113788}- He's got the bird!|- The bird's gone...
+{113789}{113897}Calm down! One at a time!
+{113921}{113989}I... want... to... help!
+{113990}{114052}Ha-ha!
+{114242}{114278}- He's in Hall D!|- He's in Hall C!
+{114279}{114322}It's the old man!
+{114323}{114448}Does anyone know where they are?
+{114769}{114896}Gray Leader? Take down the house.
+{114985}{115017}Gray Leader, checking in.
+{115018}{115044}Gray Two, checking in.
+{115045}{115150}Gray Three, checking in.
+{115181}{115265}Target sighted.
+{115416}{115500}Come on, Kevin.
+{115628}{115698}Auuggghh!
+{115814}{115869}Hi.
+{116472}{116640}Any last words, Fredricksen? Come on!|Spit it out!
+{116642}{116703}- Come on.|- Enough!
+{116704}{116872}I am taking that bird back with me.|Alive or dead!
+{117448}{117532}Come on, Kevin.
+{117949}{118141}I will have many enjoyments|from what I am about to do, Dug.
+{118221}{118269}He wears the Cone of Shame!
+{118270}{118421}What?|Do not just continue sitting. Attack!
+{118426}{118505}No, no! Stop your laughing!|Get this off of me!
+{118506}{118589}Listen, you dog. Sit!
+{118590}{118621}Yes, Alpha.
+{118622}{118693}Alpha? I am not Alpha. He is...
+{118694}{118749}Oh!
+{118758}{118840}I can't do it.
+{118855}{118888}- Russell!|- Huh?
+{118889}{118992}Caw, caw! Raar!|Caw, caw! Raar!
+{118993}{119118}You leave Mr. Fredricksen alone!
+{119454}{119500}Hey, squirrel!
+{119501}{119550}Squirrel? Where?|Where? Where?
+{119551}{119649}Where's the squirrel?
+{119675}{119764}I hate squirrels.
+{120211}{120248}Dug!
+{120249}{120302}Master!
+{120303}{120420}Russell! Over here! Let's go!
+{120499}{120556}Mr. Fredricksen!
+{120557}{120636}Go on, Kevin!
+{120954}{121009}No!
+{121337}{121440}Russell! Get out of there!
+{121441}{121539}No! Leave them alone!
+{121859}{122008}Russell, hang on to Kevin!|Don't let go of her!
+{122009}{122098}Kevin! Chocolate!
+{122599}{122681}That was cool!
+{122687}{122845}Don't jerk around so much, kid!|Easy, Russell.
+{122847}{122974}Oh, I am ready to not be up high.
+{123467}{123593}Sorry about your house,|Mr. Fredricksen.
+{123594}{123709}You know, it's just a house.
+{123854}{123967}Look at you. You're so soft.
+{123968}{124007}Aw!
+{124008}{124113}I wish I could keep one.
+{124156}{124290}Where's my cane? I just had it here.
+{124403}{124503}You know what? Keep them.|A little gift from me to you.
+{124504}{124578}Bye, Kevin!
+{124767}{124806}Ready?
+{124807}{124869}Ready.
+{125097}{125140}And by receiving|their badges,
+{125141}{125261}the following Explorers will graduate|to Senior Explorers.
+{125262}{125359}For Extreme Mountaineering Lore.|Congratulations, Jimmy.
+{125360}{125478}For Wild Animal Defensive Arts.|Congratulations, Brandon.
+{125479}{125550}For Assisting the Elderly...
+{125551}{125688}Uh, Russell, is there someone that...
+{125693}{125834}Excuse me. Pardon me.|Old man coming through.
+{125835}{125875}I'm here for him.
+{125876}{125996}Congratulations, Russell. Sir.
+{126006}{126090}Russell, for Assisting the Elderly
+{126091}{126214}and for performing above|and beyond the call of duty,
+{126215}{126374}I would like to award you|the highest honor I can bestow.
+{126375}{126461}The Ellie badge.
+{126489}{126547}Wow.
+{126628}{126689}All right,|I think that covers everybody.
+{126690}{126745}So let's give a big Explorer call
+{126746}{126835}to our brand new|Senior Wilderness Explorers.
+{126836}{126864}Ready, everybody?
+{126865}{126987}Caw, caw! Raar!|Caw, caw! Raar!
+{127071}{127127}- Blue one.|- Red one.
+{127128}{127193}- Blue one.|- Gray one.
+{127194}{127251}- Red one.|- That's a bike.
+{127252}{127293}It's red, isn't it?
+{127294}{127343}Mr. Fredricksen,|you're cheating.
+{127344}{127388}No, I'm not. Red one.
+{127389}{127482}That's a fire hydrant.
+{127483}{127539}Maybe I need new glasses.
+{127540}{127629}Another blue one.
+{135266}{135370}Adventure is out there|It's heading our way
+{135371}{135475}So grab your scarf and goggles|Let's fly
+{135476}{135580}I've mapped out our journey|We're up here to stay
+{135581}{135685}A sunset is our home|A moonbeam we will own
+{135686}{135788}My spirit of adventure is you
+{135789}{135890}Freaks of nature span a globe|That's too big to deny
+{135891}{136006}With canine guards we'll travel there|and spit into their eye
+{136007}{136109}Bang, bang|Once the smoke has cleared
+{136110}{136205}After all the crowds have cheered
+{136206}{136315}We'll make it a joint venture|Before we're in our dentures
+{136316}{136433}My spirit of adventure is you
+{136836}{136940}Adventure is out there|Let's crack some champagne
+{136941}{137044}I've hung a hundred heads|on my wall
+{137045}{137152}To say that I'm traveled|is far too mundane
+{137153}{137257}Let's grab our aero-fare|The high-brows will be there
+{137258}{137361}The spirit of adventure|is something to indenture
+{137362}{137479}My spirit of adventure is you

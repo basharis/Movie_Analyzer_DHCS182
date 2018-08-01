@@ -1,0 +1,40 @@
+{
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "runtime": [
+        "91"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "History is turned on its comic head when, in 10th century England, King Arthur travels the countryside to find knights who will join him at the Round Table in Camelot. Gathering up the men is a tale in itself but after a bit of a party at Camelot, many decide to leave only to be stopped by God who sends them on a quest: to find the Holy Grail. After a series of individual adventures, the knights are reunited but must face a wizard named Tim, killer rabbits and lessons in the use of holy hand grenades. Their quest comes to an end however when the police intervene - just what you would expect in a Monty Python movie.::garykmcd",
+        "The movie starts out with Arthur, King of the Britons, looking for knights to sit with him at Camelot. He finds many knights including Sir Galahad the pure, Sir Lancelot the brave, the quiet Sir Bedevere, and Sir Robin the Not-Quite-So-Brave-as-Sir Lancelot. They do not travel on horses, but pretend they do and have their servants bang coconuts to make the sound of horse's hooves. Through satire of certain events in history (witch trials, the black plague) they find Camelot, but after literally a quick song and dance they decide that they do not want to go there. While walking away, God (who seems to be grumpy) come to them from a cloud and tells them to find the Holy Grail. They agree and begin their search. While they search for the Grail, scenes of the knight's tales appear and why they have the name they have. Throughout their search they meet interesting people and knights along the way. Most of the characters die; some through a killer rabbit (which they defeat with the holy hand grenade), others from not answering a question right from the bridge of Death, or die some other ridiculous way. In the end, King Arthur and Sir Bedevere are left and find the Castle Arrrghhh where the Holy Grail is. They are met by some French soldiers who taunted them earlier in the film, so they were not able to get into the castle.::Zucco",
+        "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Latin"
+        ],
+        "adult_language_percentage": 2.187358575954141,
+        "linguistic_difficulty_percentage": 0.1508523155830442,
+        "words_per_minute": 72,
+        "common_words": {
+            "l": 147,
+            "sir": 59,
+            "grail": 39,
+            "knight": 38,
+            "lt": 31,
+            "king": 28,
+            "one": 28,
+            "got": 27,
+            "right": 27,
+            "u": 27
+        }
+    }
+}

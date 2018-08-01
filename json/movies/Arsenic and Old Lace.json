@@ -1,0 +1,40 @@
+{
+    "title": "Arsenic and Old Lace",
+    "year": 1944,
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+    ],
+    "runtime": [
+        "118"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Mortimer Brewster is a newspaperman and author known for his diatribes against marriage. We watch him being married at city hall in the opening scene. Now all that is required is a quick trip home to tell Mortimer's two maiden aunts. While trying to break the news, he finds out his aunts' hobby; killing lonely old men and burying them in the cellar. It gets worse.::John Vogel <jlvogel@comcast.net>",
+        "The year is 1941. The location is a small house next to a cemetery in Brooklyn. In this house live two kind, thoughtful, sweet old ladies, Martha and Abby Brewster who have developed a very bad habit. It appears that they murder lonely old men who have some sort of religious affiliation and they consider doing it a charity. They then leave it to their bugle blowing nephew Teddy (who thinks he's Teddy Roosevelt) to take them to the Panama Canal (the cellar) and bury them. In this instance, the \"poor fellow\" suffers from yellow fever found in the window seat. It is another of their nephews Mortimer Brewster, a dramatic critic, who returns home only to find the man in the seat by mistake. Another nephew, Jonathon, returns to the home after years of fleeing the authorities due to his \"unofficial practice\" of killing people and using their faces to change his. However the results cause him to look like Boris Karloff (this angers him upon the mention of his similarity to the actor) due to the poor craftsmanship of his German accented, alcoholic sidekick Dr. Einstein. As the story continues, we see each character trying to find resolve in their suddenly been flipped upside-down lives. Mortimer tries to keep his aunts safe and prevent them from continuing their nasty habit while trying to stay sane with the woman he loves (Elaine Harper), the aunts try to continue their \"charities\", and Jonathon tries to make a wealthy practice that is stationed inside the home.::Andrew G. Wallace -- Mortimer Brewster -- Bergen Community College Theater Production, 2003",
+        "For the clan known as Brewster insanity runs in the family. Two sweet old aunts take it upon themselves to poison lonely old men with nothing to live for, as an act of charity. Their nephew Mortimer has just got married, and is trying to negotiate his way around the shenanigans of the house, while trying to keep his new bride from fleeing. Shady brother John returns from a world adventure involving using corpses to change his appearance to allude capture. The merry mayhem continues with bugle-blowing brother Teddy who is charged with burial duties.::G. Florence astortheatre@bigpond.com",
+        "A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.::Carl Schultz"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German"
+        ],
+        "adult_language_percentage": 0.7451564828614009,
+        "linguistic_difficulty_percentage": 0.022354694485842028,
+        "words_per_minute": 113,
+        "common_words": {
+            "mr": 82,
+            "go": 79,
+            "get": 77,
+            "yes": 71,
+            "mortimer": 68,
+            "know": 67,
+            "right": 66,
+            "got": 65,
+            "see": 63,
+            "look": 56
+        }
+    }
+}

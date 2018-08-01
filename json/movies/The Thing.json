@@ -1,0 +1,42 @@
+{
+    "title": "The Thing",
+    "year": 1982,
+    "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "109"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "A US research station, Antarctica, early-winter 1982. The base is suddenly buzzed by a helicopter from the nearby Norwegian research station. They are trying to kill a dog that has escaped from their base. After the destruction of the Norwegian chopper the members of the US team fly to the Norwegian base, only to discover them all dead or missing. They do find the remains of a strange creature the Norwegians burned. The Americans take it to their base and deduce that it is an alien life form. After a while it is apparent that the alien can take over and assimilate into other life forms, including humans, and can spread like a virus. This means that anyone at the base could be inhabited by The Thing, and tensions escalate.::grantss",
+        "During an exploration in Antarctica, a group of researchers come across a Norwegian facility near their research station. They soon come to realize Something horrible happened there. After discovering that the Norwegians had stumbled across something horrific; they leave, but something comes back with them.",
+        "An American scientific expedition to the frozen wastes of the Antarctic is interrupted by a group of seemingly mad Norwegians pursuing and shooting a dog. The helicopter pursuing the dog explodes, eventually leaving no explanation for the chase. During the night, the dog mutates and attacks other dogs in the cage and members of the team that investigate. The team soon realizes that an alien life-form with the ability to take over other bodies is on the loose and they don't know who may already have been taken over.::Goth <brooks@odie.ee.wits.ac.za>",
+        "In the midst of the Antartican snowfield, the scientists and workers of a small American research base are shocked when a helicopter begins to circle their camp, chasing and shooting at a dog. When the helicopter is destroyed and the passengers are killed, the dog is let into the base and the Americans begin to wonder what has actually happened. The helicopter has Norwegian markings, must be from the Norwegian base not too far from their own. A team of Americans are sent to the Norwegian base and find out what has happened. On arrival, they find that the place has been totally destroyed. They also discover a mangled body that looks as though it was once that of a person, which they bring back with them for further study. It is only then that the clues begin to add up; the dog morphs horribly into a strange creature that attacks the researchers. They manage to fight it off, but they come to a terrible conclusion: an alien with the power to transform and take the appearance of anybody else is amongst them. Who is infected already, and who can be trusted? Helicopter pilot R.J. MacReady sets out to find the answers to exactly that.::Tomius J. Barnard",
+        "Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.::Denny Gibbons",
+        "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Norwegian"
+        ],
+        "adult_language_percentage": 2.3229841411659593,
+        "linguistic_difficulty_percentage": 0.02233638597274961,
+        "words_per_minute": 41,
+        "common_words": {
+            "get": 48,
+            "come": 34,
+            "know": 32,
+            "got": 28,
+            "right": 28,
+            "one": 25,
+            "back": 24,
+            "thing": 24,
+            "wa": 23,
+            "macready": 22
+        }
+    }
+}

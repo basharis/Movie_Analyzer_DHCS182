@@ -1,0 +1,40 @@
+{
+    "title": "Platoon",
+    "year": 1986,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "120"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Chris Taylor is a young, naive American who gives up college and volunteers for combat in Vietnam. Upon arrival, he quickly discovers that his presence is quite nonessential, and is considered insignificant to the other soldiers, as he has not fought for as long as the rest of them and felt the effects of combat. Chris has two non-commissioned officers, the ill-tempered and indestructible Staff Sergeant Robert Barnes and the more pleasant and cooperative Sergeant Elias Grodin. A line is drawn between the two NCOs and a number of men in the platoon when an illegal killing occurs during a village raid. As the war continues, Chris himself draws towards psychological meltdown. And as he struggles for survival, he soon realizes he is fighting two battles, the conflict with the enemy and the conflict between the men within his platoon.::Jeremy Thomson",
+        "Chris Taylor leaves his university studies to enlist in combat duty in Vietnam in 1967. Once he's on the ground in the middle of battle, his idealism fades. Infighting in his unit between Staff Sergeant Barnes, who believes nearby villagers are harboring Viet Cong soldiers, and Sergeant Elias, who has a more sympathetic view of the locals, ends up pitting the soldiers against each other as well as against the enemy.::Jwelch5742",
+        "A gritty and emotional look at the lives of a platoon of American soldiers as they patrol, fight and die in the jungles of Vietnam as seen through the perspective of a young recruit. Two veteran sergeants clash when one of them precipitates a massacre of villagers.::Keith Loh <loh@sfu.ca>",
+        "Chris Taylor has arrived in Vietnam in the year 1967. Initially, he is mostly isolated from the rest of his platoon given that he is new to the unit. Over time, after witnessing combat and getting wounded, Taylor becomes more integrated into his unit. At the same time, tensions emerge following a massacre conducted by members of the platoon and Taylor finds himself caught in the crossfire.::Sam Freeman",
+        "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.::Oliver Turnbull"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Vietnamese"
+        ],
+        "adult_language_percentage": 5.454130534002739,
+        "linguistic_difficulty_percentage": 0.03423094477407577,
+        "words_per_minute": 73,
+        "common_words": {
+            "l": 227,
+            "man": 151,
+            "get": 109,
+            "got": 85,
+            "fucking": 73,
+            "shit": 67,
+            "right": 61,
+            "come": 53,
+            "gonna": 52,
+            "know": 52
+        }
+    }
+}

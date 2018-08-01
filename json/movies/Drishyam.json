@@ -1,0 +1,38 @@
+{
+    "title": "Drishyam",
+    "year": 2015,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "163"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Vijay Salgaonkar runs a cable TV network in a remote and hilly village of Goa. He lives a happy life with his wife Nandini and two daughters. A 4th grade dropout & an orphan, Vijay has worked his way towards success with his sheer hard-work & street smartness in order to provide for his family who mean the world to him. A man of few means & needs; Vijay believes life is to be lived simplistically - his wife, while she loves him devoutly, wants Vijay's thrifty & miserly behavior to end and wants the world for her family. If there's one thing that Vijay cannot live without, it is his passion for watching films. Such is his 'filmy' obsession that he doesn't mind staying up all night at his office binging on TV movies! In a bizarre turn of events; a teenage boy goes missing; he is the son of a headstrong & no-nonsense cop; IG Meera Deshmukh and the Salgaonkar family is the prime suspect! Will a humble & middle class man, be able to protect his family from oppression of the powerful? How the family weathers the storm that ensues during the violent investigation forms the rest of the story leading to an unexpected & shocking climax.::Dhruvi Dokania",
+        "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime."
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 0.5740671408960439,
+        "linguistic_difficulty_percentage": 0.212155247722451,
+        "words_per_minute": 98,
+        "common_words": {
+            "wa": 113,
+            "come": 104,
+            "know": 82,
+            "tell": 78,
+            "georgekutty": 71,
+            "day": 70,
+            "yes": 69,
+            "father": 69,
+            "one": 68,
+            "also": 65
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "3 Idiots",
+    "year": 2009,
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "170"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke aboard an Air India plane, and excusing himself from his wife - trouser less - respectively. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago. The trio, while recollecting hilarious antics, including their run-ins with the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, race to locate Rancho, at his last known address - little knowing the secret that was kept from them all this time.::rAjOo (gunwanti@hotmail.com)",
+        "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".::bane"
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "English"
+        ],
+        "adult_language_percentage": 1.4213539912428428,
+        "linguistic_difficulty_percentage": 0.08083529808016167,
+        "words_per_minute": 87,
+        "common_words": {
+            "sir": 210,
+            "come": 127,
+            "go": 106,
+            "get": 89,
+            "hey": 88,
+            "wa": 77,
+            "one": 76,
+            "rancho": 72,
+            "yaar": 69,
+            "dad": 67
+        }
+    }
+}

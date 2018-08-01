@@ -1,0 +1,41 @@
+{
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "169"
+    ],
+    "rating": 8.6,
+    "plot": [
+        "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+        "In the near future around the American Midwest, Cooper an ex-science engineer and pilot, is tied to his farming land with his daughter Murph and son Tom. As devastating sandstorms ravage earths crops, the people of Earth realize their life here is coming to an end as food begins to run out. Eventually stumbling upon a NASA base near Cooper's home, he is asked to go on a daring mission with a few other scientists into a wormhole because of Cooper's scientific intellect and ability to pilot aircraft unlike the other crew members. In order to find a new home while Earth decays, Cooper must decide to either stay, or risk never seeing his children again in order to save the human race by finding another habitable planet.::jmvd8",
+        "A team of explorers must find the human race a new home after earth is struck with worldwide food shortages and corn is the most valuable food. Utilizing a mysterious wormhole they explore strange new worlds and could find a home to save the human race.",
+        "Murphy's law suggests that \"whatever can go wrong, will go wrong.\" Christopher Nolan's Interstellar, plays with the idea space exploration, time and gravity as Earth and the human race is on the verge of extinction. NASA's last hope looks to Coop, Brand, Romilly and Tars under the direction of Professor Brand to search for answers in the deepest corners of space while dealing with Murphy's Law. Coop leaves behind his family in search of new horizons as Christopher Nolan explores the eternal bonds of love between a father and his daughter.",
+        "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand, a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.::Jwelch5742",
+        "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.2658227848101267,
+        "linguistic_difficulty_percentage": 0.16125131016689512,
+        "words_per_minute": 73,
+        "common_words": {
+            "murph": 79,
+            "wa": 75,
+            "go": 74,
+            "cooper": 73,
+            "u": 65,
+            "back": 63,
+            "get": 60,
+            "know": 60,
+            "right": 58,
+            "one": 57
+        }
+    }
+}

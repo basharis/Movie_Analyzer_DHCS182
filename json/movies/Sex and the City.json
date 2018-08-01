@@ -1,0 +1,36 @@
+{
+    "title": "Sex and the City",
+    "year": 1998,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "30"
+    ],
+    "rating": 7.1,
+    "plot": [
+        "Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the '90s.::Ally Hargate"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.2704005934718101,
+        "linguistic_difficulty_percentage": 0.00927299703264095,
+        "words_per_minute": 359,
+        "common_words": {
+            "wa": 89,
+            "oh": 71,
+            "know": 65,
+            "carrie": 60,
+            "well": 59,
+            "get": 59,
+            "right": 55,
+            "love": 51,
+            "yeah": 49,
+            "go": 49
+        }
+    }
+}

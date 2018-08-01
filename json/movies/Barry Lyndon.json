@@ -1,0 +1,43 @@
+{
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "runtime": [
+        "185"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In the Eighteenth Century, in a small village in Ireland, Redmond Barry is a young farm boy in love with his cousin Nora Brady. When Nora gets engaged to the British Captain John Quin, Barry challenges him to a duel of pistols. He wins and escapes to Dublin but is robbed on the road. Without an alternative, Barry joins the British Army to fight in the Seven Years War. He deserts and is forced to join the Prussian Army where he saves the life of his captain and becomes his prot\u00e9g\u00e9 and spy of the Irish gambler Chevalier de Balibari. He helps Chevalier and becomes his associate until he decides to marry the wealthy Lady Lyndon. They move to England and Barry, in his obsession of nobility, dissipates her fortune and makes a dangerous and revengeful enemy.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "The rise and fall of the adult life of Irishman Redmond Barry, who in his later life would be known as Barry Lyndon, from the mid to late eighteenth century, is presented. Growing up in humble means largely due to the early death of his aspiring lawyer father, the potential family breadwinner, Barry strives to live up to the standards of being a gentleman in every respect of the word, including monetarily. He leads a disjointed early adult life in trying to find his way, sometimes being unfairly given some hard knocks as the ways of the world work around him. He seems to find his stride in falling in love with wealthy and married Lady Lyndon, who he ends up marrying following the death of her elderly first husband, Sir Charles Lyndon. In taking over the affairs of the Lyndon mansion, Barry is able to live a means of his liking, all off the Lyndon's now quickly dwindling wealth due to Barry's squandering. As Barry is without money of his own, Mrs. Barry encourages her son to work toward a peerage as a means to have money of his own, as she fears that if Lady Lyndon were to die, she would leave all of what would remain of the Lyndon wealth to her son, Barry's stepson, Lord Bullingdon, with who Barry has always had an antagonistic relationship to the point of Lord Bullingdon wanting revenge on the woes that his stepfather has created in their lives. Outwardly, Lord Bullingdon may seem to be the cause of Barry's fall, however it may be more attributed to Barry being unable to adapt to any of the lives into which he is thrust to truly reach his goal of being a gentleman.::Huggo",
+        "A gentlemanly rogue travels the battlefields and parlors of 18th century Europe determined to make for himself the life of a nobleman through seduction, gambling and dueling in this methodical film showing the rhythm and life of the period.::Keith Loh <loh@sfu.ca>",
+        "Redmond Barry is a young, roguish Irishman who's determined, in any way, to make a life for himself as a wealthy nobleman. Enlisting in the British Army, fighting in the Seven Years War in Europe, Barry deserts from the British army, joins the Prussian army, gets promoted to the rank of a spy, then becomes pupil to a Chevalier and con artist/gambler. Barry then lies, dupes, duels and seduces his way up the social ladder and enters into a lustful but loveless marriage to a wealthy countess named Lady Lyndon, takes the name of Barry Lyndon, settles in England with wealth and power beyond his wildest dreams, then slowly falls dramatically into ruin.::matt-282",
+        "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "French"
+        ],
+        "adult_language_percentage": 0.6813020439061317,
+        "linguistic_difficulty_percentage": 0.09462528387585163,
+        "words_per_minute": 57,
+        "common_words": {
+            "x1": 995,
+            "x2": 995,
+            "y1": 995,
+            "y2": 995,
+            "wa": 55,
+            "lord": 42,
+            "lyndon": 41,
+            "barry": 36,
+            "good": 31,
+            "bullingdon": 31
+        }
+    }
+}

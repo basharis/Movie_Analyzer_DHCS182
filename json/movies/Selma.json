@@ -1,0 +1,38 @@
+{
+    "title": "Selma",
+    "year": 2014,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "128"
+    ],
+    "rating": 7.5,
+    "plot": [
+        "The unforgettable true story chronicles the tumultuous three-month period in 1965, when Dr. Martin Luther King, Jr. led a dangerous campaign to secure equal voting rights in the face of violent opposition. The epic march from Selma to Montgomery culminated in President Johnson signing the Voting Rights Act of 1965, one of the most significant victories for the civil rights movement. Director Ava DuVernay's \"Selma\" tells the story of how the revered leader and visionary Dr. Martin Luther King, Jr and his brothers and sisters in the movement prompted change that forever altered history.::Miss W J Mcdermott",
+        "Alabama, 1965. While black citizens of Alabama constitutionally have the same voting rights as whites, they are hamstrung by racist local registration officers, politicians and lawmen. Dr Martin Luther King and his followers go to Selma, Alabama to attempt to achieve, through non-violent protest, equal voting rights and abilities for black people.::grantss",
+        "A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama, in 1965."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.7888920108644752,
+        "linguistic_difficulty_percentage": 0.15922075489369672,
+        "words_per_minute": 83,
+        "common_words": {
+            "right": 73,
+            "know": 59,
+            "u": 58,
+            "people": 46,
+            "want": 44,
+            "king": 38,
+            "one": 37,
+            "well": 37,
+            "like": 37,
+            "march": 37
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "La Dolce Vita",
+    "year": 1960,
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "174"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Journalist and man-about-town Marcello struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.::Jeff Lewis",
+        "Rome, 1959/60. Marcello Rubini (played by Marcello Mastroianni) is a writer and journalist, the worst kind of journalist - a tabloid journalist, or paparazzo. His job involves him trying to catch celebrities in compromising or embarrassing situations. He tends to get quite close to his subject, especially when they're beautiful women. Two such subjects are a local heiress, Maddalena (Anouk Aimee), and a Swedish superstar-actress, Sylvia (Anita Ekberg), both of whom he has affairs with. This is despite being engaged to Emma (Yvonne Furneaux), a rather clingy, insecure, nagging, melodramatic woman. Despite his extravagant, pleasure-filled lifestyle, he is wondering if maybe a simpler life wouldn't be better.::grantss",
+        "Marcello is a young playboy journalist who spends his days between celebrities and rich people, seeking for ephemeral joy in parties and sex. When a famous film star comes to Rome, he does everything he can to meet her, and when he does, he is totally charmed by her.::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "Seven days (and nights) in the life of a Marcello, a Roman journalist torn between making something serious of his life or drifting along on a pleasant if empty stream of casual affairs and profitable, but meaningless, newspaper and magazine work. In the course of the week, he flirts with a visiting movie star has a couple of encounters with a bored socialite, one of them in a prostitute's bedroom, is shocked when Steiner, a \"serious\" writer and deep thinker kills himself and his children, and generally ignores his adoring girlfriend. In the end, he seems to have cut himself adrift on a sea of frivolity and self-disgust, with no real idea of how to find his way \"home\" again . . .::mp99",
+        "Marcello is a society gossip columnist. During one of his rounds, he meets again Maddalena and spends the night with her in a whore's bedroom. When he comes back home the next morning, he discovers that his girlfriend Emma poisoned herself because of him. Later, he is at the airport where the famous star Sylvia is arriving : he will go with her a few days... A chronicle of a decadent society where there is no more values except alcohol and sex, and no solutions but suicide.::Yepok",
+        "A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.::Daniel Jos. Leary"
+    ],
+    "language": {
+        "id": [
+            "Italian",
+            "English",
+            "French",
+            "German"
+        ],
+        "adult_language_percentage": 0.6436663233779609,
+        "linguistic_difficulty_percentage": 0.07723995880535531,
+        "words_per_minute": 22,
+        "common_words": {
+            "like": 32,
+            "come": 30,
+            "marcello": 28,
+            "yes": 26,
+            "want": 25,
+            "take": 23,
+            "go": 18,
+            "good": 17,
+            "back": 17,
+            "know": 16
+        }
+    }
+}

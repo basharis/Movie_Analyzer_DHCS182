@@ -1,0 +1,42 @@
+{
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Musical"
+    ],
+    "runtime": [
+        "76"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Jack Skellington, the pumpkin king of Halloween Town, is bored with doing the same thing every year for Halloween. One day he stumbles into Christmas Town, and is so taken with the idea of Christmas that he tries to get the resident bats, ghouls, and goblins of Halloween Town to help him put on Christmas instead of Halloween -- but alas, they can't get it quite right.::Jon Reeves <jreeves@imdb.com>",
+        "Jack Skellington is in a dark Halloween Town all of the time and wants something a little more cheery to balance his life experience. He stumbles upon Christmas town and this is just what the doctor ordered. He is so elated with his new feelings that he tries to share them with his Halloween Town citizens. But the atmosphere is not conducive to Jack's newfound sensibility.::Jason Columbia",
+        "Jack Skellington, the Pumpkin King of Halloween Town, decides to spread Christmas joy to the world. But his well-meaning mission unwittingly puts Santa Clause in jeopardy and creates a nightmare for all good little boys and girls everywhere! Who will save Christmas?::Ben Fancher",
+        "It is the same routine every year in Halloween Town, on Halloween the monsters come out and perform a real scare. This particular Halloween, the pumpkin king Jack Skellington, bored of the idea, saunters off into the woods with his dog Zero after Halloween night. Upon the break of dawn, he discovers a clearing of trees with different doors representing various holidays. The Christmas Tree door attracts his attention and upon entrance into the world of Christmas, Jack is fascinated with this new idea of Christmas that he must absolutely share with the citizens of Halloween Town.::commanderblue",
+        "Jack Skellington, the pumpkin king of Halloween Town, is tired of the same old thing every year. He wanders into the woods and finds some holiday trees and each has a town in it. He goes to the Christmas one and finds himself in Christmas Town. He likes the idea, tells the town to the citizens and they decide to make their own Christmas with their own twist.::diamonds_and_pearls",
+        "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.862533692722372,
+        "linguistic_difficulty_percentage": 0.08984725965858043,
+        "words_per_minute": 73,
+        "common_words": {
+            "jack": 70,
+            "la": 59,
+            "halloween": 45,
+            "christmas": 42,
+            "oh": 31,
+            "like": 29,
+            "time": 26,
+            "something": 25,
+            "sandy": 22,
+            "claws": 21
+        }
+    }
+}

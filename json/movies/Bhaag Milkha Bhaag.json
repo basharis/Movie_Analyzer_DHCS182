@@ -1,0 +1,38 @@
+{
+    "title": "Bhaag Milkha Bhaag",
+    "year": 2013,
+    "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "runtime": [
+        "186"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "The true story of the \"Flying Sikh\" - world champion runner and Olympian Milkha Singh -- who overcame the massacre of his family, civil war during the India-Pakistan partition, and homelessness to become one of India's most iconic athletes.::Reliance Big Pictures",
+        "Hailed as the Flying Sikh, Milkha Singh was an athlete, who infamously lost the biggest race of his life at the 1960 Rome Olympics. But through the darkness of disgrace comes redemption as Milkha confronts the demons that first drove him to running.::Anonymous",
+        "The truth behind the ascension of Milkha Singh who was scarred because of the India-Pakistan partition.::Pranav Upadhye"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 1.834862385321101,
+        "linguistic_difficulty_percentage": 0.11120378092855157,
+        "words_per_minute": 38,
+        "common_words": {
+            "milkha": 140,
+            "sir": 83,
+            "run": 71,
+            "singh": 59,
+            "come": 52,
+            "one": 40,
+            "yes": 36,
+            "like": 36,
+            "let": 33,
+            "go": 31
+        }
+    }
+}

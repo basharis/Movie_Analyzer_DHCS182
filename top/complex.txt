@@ -1,0 +1,350 @@
+0.926152 The Dark Knight Rises
+0.911854 Indiana Jones and the Last Crusade
+0.424178 Battleship Potemkin
+0.411323 Throne of Blood
+0.351573 Citizen Kane
+0.350416 Guardians of the Galaxy Vol. 2
+0.245700 The Man Who Shot Liberty Valance
+0.230331 The Grand Budapest Hotel
+0.230061 The Passion of Joan of Arc
+0.225898 Kind Hearts and Coronets
+0.225861 Come and See
+0.225159 Stalag 17
+0.222679 V for Vendetta
+0.212155 Drishyam
+0.201457 Mary and Max
+0.194786 Black Mountain Side
+0.189292 Ikiru
+0.182723 PK
+0.178486 A Beautiful Mind
+0.173611 Stalker
+0.172183 Andrei Rublev
+0.169711 Fanny and Alexander
+0.164908 Grave of the Fireflies
+0.162842 Donnie Darko
+0.161251 Interstellar
+0.161186 Doctor Zhivago
+0.159221 Selma
+0.158814 Call Me by Your Name
+0.157782 The Adventures of Robin Hood
+0.154321 Ghost in the Shell
+0.150852 Monty Python and the Holy Grail
+0.150761 Persepolis
+0.149953 Doom
+0.149031 The Cabinet of Dr. Caligari
+0.147956 La Grande Illusion
+0.147012 The Bridge on the River Kwai
+0.146386 C.R.A.Z.Y.
+0.146056 Nosferatu the Vampyre
+0.145349 Batman Begins
+0.144991 Harold and Maude
+0.143016 Isle of Dogs
+0.141098 12 Years a Slave
+0.139373 Kagemusha
+0.137994 My Father and My Son
+0.136874 Aguirre, the Wrath of God
+0.136277 12 Monkeys
+0.135704 The Night of the Hunter
+0.135227 The Battle of Algiers
+0.135014 Das Boot
+0.134825 Gladiator
+0.129473 Se7en
+0.129016 Into the Wild
+0.128483 The Best Years of Our Lives
+0.128443 Haider
+0.128411 Inglourious Basterds
+0.127777 The Martian
+0.127330 Three Billboards Outside Ebbing, Missouri
+0.127318 The Manchurian Candidate
+0.126605 North by Northwest
+0.123514 Hulk
+0.122730 The Queen
+0.122599 Incendies
+0.122294 Swades
+0.121414 The Seventh Seal
+0.120321 Vizontele
+0.119448 Amadeus
+0.119350 Get Over It
+0.118262 Incredibles 2
+0.118168 The Great Dictator
+0.117964 Pat Garrett & Billy the Kid
+0.115415 Anatomy of a Murder
+0.114058 Braveheart
+0.112752 Ram Gopal Varma's Indian Flames
+0.111838 Rang De Basanti
+0.111607 Wings of Desire
+0.111483 Dead Poets Society
+0.111204 Bhaag Milkha Bhaag
+0.108922 East of Eden
+0.108034 Heat
+0.107247 Solaris
+0.107066 The 400 Blows
+0.106952 Laura
+0.106910 The Big Lebowski
+0.106428 Harry Potter and the Half-Blood Prince
+0.106115 Sleuth
+0.106107 Wonder Woman
+0.105914 Terminator 2
+0.105485 Dogville
+0.104588 Good Will Hunting
+0.104302 Aladdin
+0.103029 Chinatown
+0.102669 The Return of the Pink Panther
+0.102547 Black Cat, White Cat
+0.102276 Blade Runner
+0.101916 Sunset Boulevard
+0.100973 The Prestige
+0.100923 Spider-Man 2
+0.100361 Shutter Island
+0.099602 The Shawshank Redemption
+0.099474 Crimes and Misdemeanors
+0.099371 The King's Speech
+0.099249 All the President's Men
+0.099026 Oldboy
+0.096785 Live Free or Die Hard
+0.096733 Deadpool 2
+0.096362 The Intouchables
+0.095402 Infernal Affairs
+0.095111 Raiders of the Lost Ark
+0.095027 Paan Singh Tomar
+0.094793 His Girl Friday
+0.094625 Barry Lyndon
+0.094478 Saving Private Ryan
+0.093891 Winter Sleep
+0.093271 Logan
+0.092657 Black Swan
+0.092344 The Lion in Winter
+0.091676 Bajrangi Bhaijaan
+0.091408 The Boss Baby
+0.090992 The Incredibles
+0.090685 The Silence of the Lambs
+0.090009 Andaz Apna Apna
+0.089880 Along Came Polly
+0.089847 The Nightmare Before Christmas
+0.088994 The Matrix Revolutions
+0.087547 Eternal Sunshine of the Spotless Mind
+0.087336 I'm Not There.
+0.087023 The Meaning of Life
+0.086561 Jurassic Park III
+0.086546 Gone Girl
+0.086401 Whisper of the Heart
+0.085424 Before Sunrise
+0.083612 Dawn of the Dead
+0.082547 Gangster Squad
+0.081411 Dilwale Dulhania Le Jayenge
+0.080835 3 Idiots
+0.080684 Wild Strawberries
+0.080661 Sing Street
+0.080469 The Princess Bride
+0.080275 Prisoners
+0.080270 The Elephant Man
+0.079979 Inception
+0.079034 The Invisible Guest
+0.077409 The Social Network
+0.077363 The Wild Bunch
+0.077240 La Dolce Vita
+0.074748 American Psycho
+0.074342 City of God
+0.074286 The Imitation Game
+0.073883 Die Hard
+0.073768 Shrek Forever After
+0.073198 Deadpool
+0.071480 The Avengers
+0.070398 The Bourne Ultimatum
+0.070237 The Pianist
+0.068971 Cat on a Hot Tin Roof
+0.068738 Judgment at Nuremberg
+0.068343 Spotlight
+0.068306 Roman Holiday
+0.068140 Patton
+0.067514 Gangs of Wasseypur
+0.067204 Seven Samurai
+0.066957 Alien
+0.066101 Ratatouille
+0.065732 Fight Club
+0.065581 Rush
+0.065310 The Wizard of Oz
+0.064498 Lawrence of Arabia
+0.064267 La La Land
+0.063905 Memento
+0.063226 Scent of a Woman
+0.062393 The Diving Bell and the Butterfly
+0.061747 The Good, the Bad and the Ugly
+0.061307 Gone with the Wind
+0.061098 Gandhi
+0.060655 Zootopia
+0.060285 Snatch
+0.060205 Toy Story 2
+0.060125 The Exorcist
+0.060048 Double Indemnity
+0.059603 Before Midnight
+0.059319 My Sassy Girl
+0.059084 Dunkirk
+0.058370 Manhattan Night
+0.057770 Casino Royale
+0.056863 A Wednesday
+0.056015 Wolf Children
+0.055856 The Truman Show
+0.055432 Fitzcarraldo
+0.055157 Nausicaä of the Valley of the Wind
+0.055109 The Perks of Being a Wallflower
+0.054990 The Lives of Others
+0.054889 Annie Hall
+0.054563 Brazil
+0.054135 The Princess and the Frog
+0.052798 Groundhog Day
+0.052560 Brief Encounter
+0.051867 Sicario
+0.051640 Fiddler on the Roof
+0.051637 Rear Window
+0.051269 Trainspotting
+0.050710 L.A. Confidential
+0.050573 The Raid 2
+0.050538 The Wolf of Wall Street
+0.050327 Tangled
+0.050218 Talk to Her
+0.050157 The Usual Suspects
+0.048703 Secret in Their Eyes
+0.048561 Singin' in the Rain
+0.048233 Kahaani
+0.048060 Back to the Future
+0.046577 Jackie Brown
+0.046533 The Gold Rush
+0.045893 The Pursuit of Happyness
+0.045693 Ip Man 2
+0.045568 Zindagi Na Milegi Dobara
+0.045274 Beauty and the Beast
+0.044843 There Will Be Blood
+0.044683 The Lion King
+0.044174 The Treasure of the Sierra Madre
+0.043735 All Quiet on the Western Front
+0.043522 Apocalypse Now
+0.043234 Up
+0.043172 Udaan
+0.042891 Black Hawk Down
+0.042857 Short Term 12
+0.042836 Princess Mononoke
+0.042790 Mystic River
+0.041442 Underground
+0.040216 Schindler's List
+0.040084 Million Dollar Baby
+0.040059 The Nights of Cabiria
+0.039557 Cinema Paradiso
+0.038292 The Life Before Her Eyes
+0.037933 Dangal
+0.037929 A Fistful of Dollars
+0.037764 The Tale of the Princess Kaguya
+0.037471 Munna Bhai M.B.B.S.
+0.037333 The Philadelphia Story
+0.036996 Dances with Wolves
+0.036670 A Clockwork Orange
+0.036576 Pulp Fiction
+0.035974 Cinderella Man
+0.035174 Being There
+0.035043 Life Is Beautiful
+0.034836 The Sound of Music
+0.034659 American History X
+0.034480 The Maltese Falcon
+0.034231 Platoon
+0.033162 Amores Perros
+0.032920 Hacksaw Ridge
+0.032806 This Is Spinal Tap
+0.032368 How to Train Your Dragon 2
+0.031935 Shrek
+0.031878 Pocahontas
+0.031309 Bharat Ramani
+0.030798 Barfi!
+0.030713 The Sea Inside
+0.030462 It's a Wonderful Life
+0.030340 Children of Heaven
+0.029565 Lock, Stock and Two Smoking Barrels
+0.029455 On the Waterfront
+0.029078 The Departed
+0.029049 Reservoir Dogs
+0.029000 The Green Mile
+0.028664 No Country for Old Men
+0.028452 Gran Torino
+0.028393 Her
+0.027729 Casablanca
+0.027352 The Terminator
+0.027159 The Big Sleep
+0.026285 The Shining
+0.026199 Strangers on a Train
+0.024378 American Beauty
+0.024141 8 Mile
+0.024010 Dancer in the Dark
+0.023245 Chungking Express
+0.023207 The Straight Story
+0.023063 The Hidden Fortress
+0.023057 Song of the Sea
+0.022967 Warrior
+0.022599 To Kill a Mockingbird
+0.022355 Arsenic and Old Lace
+0.022336 The Thing
+0.022107 What We Do in the Shadows
+0.021927 Rocky III
+0.021813 Touch of Evil
+0.020851 Pan's Labyrinth
+0.020580 Catch Me If You Can
+0.020471 Finding Nemo
+0.020408 Forrest Gump
+0.018443 The Sixth Sense
+0.017033 Whiplash
+0.016087 Magnolia
+0.016008 Lage Raho Munna Bhai
+0.016003 High Noon
+0.015613 Sorcerer
+0.015333 Dial M for Murder
+0.014000 Superbad
+0.013477 Room
+0.013326 Tokyo Story
+0.012908 The Last Picture Show
+0.012830 Unforgiven
+0.012783 About Elly
+0.012629 Goodfellas
+0.012599 Cool Hand Luke
+0.012129 Phir Hera Pheri
+0.011808 Coco
+0.011451 Dallas Buyers Club
+0.011421 Monsters, Inc.
+0.011360 Full Metal Jacket
+0.011302 Jaws
+0.011027 The Third Man
+0.010908 The Graduate
+0.010395 Hotel Rwanda
+0.010221 One Flew Over the Cuckoo's Nest
+0.010095 Inside Out
+0.009431 The Longest Yard
+0.009273 Sex and the City
+0.009239 Dog Day Afternoon
+0.007721 Scarface
+0.007046 Rio Bravo
+0.000000 War for the Planet of the Apes
+0.000000 The Revenant
+0.000000 The Return
+0.000000 The Iron Giant
+0.000000 The Grapes of Wrath
+0.000000 The Color of Money
+0.000000 Tangerines
+0.000000 Spring, Summer, Fall, Winter... and Spring
+0.000000 Slumdog Millionaire
+0.000000 Sling Blade
+0.000000 Sherlock Jr.
+0.000000 Requiem for a Dream
+0.000000 Raging Bull
+0.000000 Paris, Texas
+0.000000 Once Upon a Time in America
+0.000000 My Neighbor Totoro
+0.000000 Mulholland Drive
+0.000000 Monster's Ball
+0.000000 Modern Times
+0.000000 Moana
+0.000000 Like Stars on Earth
+0.000000 In the Mood for Love
+0.000000 In the Heat of the Night
+0.000000 Frasier
+0.000000 For a Few Dollars More
+0.000000 Django Unchained
+0.000000 City Lights
+0.000000 Bicycle Thieves
+0.000000 Airlift

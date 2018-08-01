@@ -1,0 +1,41 @@
+{
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "91"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "With the exception of his elderly housekeeper Miss Agda who he treats almost like a surrogate platonic wife, widowed seventy-eight year old Dr. Isak Borg, a former medical doctor and professor, has retreated from any human contact, partly his own want but partly the decision of others who do not want to spend time with him because of his cold demeanor. He is traveling from his home in Stockholm to Lund to accept an honorary degree. Instead of flying as was the original plan, he decides to take the day long drive instead. Along for the ride is his daughter-in-law Marianne, who had been staying with him for the month but has now decided to go home. The many stops and encounters along the way make him reminisce about various parts of his life. Those stops which make him reminisce directly are at his childhood summer home, at the home of his equally emotionally cold mother, and at a gas station where the attendants praise him as a man for his work. But the lives of other people they encounter almost mirror his own, including hitchhikers Sara, Viktor and Anders - who remind him of his cousin Sara who he was going to marry, himself and his irresponsible brother Sigfrid who Sara eventually married - a bickering married couple Sten and Berit Alman, and Marianne and her husband and Isak's son Evald, whose marriage is as strained as was his own.::Huggo",
+        "Dr. Isak Borg, now 78 years old, is traveling by car to Lund to receive an honorary degree at Lund cathedral. He's traveling with his daughter-in-law Marianne, who is married to his son Evald. Isak now lives a lonely life which, by his own admission, is partly his own fault having consciously withdrawn from most social interaction. Along the way he stops at his family's summer home where he spent time during the first 20 years of his life. It's the place where the wild strawberries grow and he recalls his beautiful cousin Sara to whom he was secretly engaged until his brother Sigfrid snatches her away. They give a ride to several people along the way including a girl - also named Sara - and her two friends along with a married couple who almost ran them off the road. Borg's reminiscences and disturbing dreams add to his melancholy as he questions some of the decisions he has made in his life.::garykmcd",
+        "Dr. Isak Borg, 78, is a renowned physician and researcher. His life's experiences have left him cold, distant and uncaring. Now he is traveling to be awarded an honorary degree by a university, a reward for his life's work. Driving with his daughter-in-law Marianne, currently estranged from his son Ewald (whose personality seems to be following that of his father's), he finds himself reminiscing about his past, especially his 20s. He has also been having strange dreams, dreams that remind him of the person he has become, and potentially what lies ahead for him.::grantss",
+        "Professor of medicine Isak Borg travels to Lund University in order to receive his anniversary title. Along the road he meets strangers and relatives, and in his dreams he is confronted with his own past as well as fear of insufficiency.::Anders Andersson <andersa@DoCS.UU.SE>",
+        "Explores the disillusionment of an elderly physician, Professor Isak Borg, as he reflects upon his life and begins to perceive his mortality. As he travels to Lund to receive an honorary award after 50 years of medical practice, he finds himself repeatedly affected by intrusive dreams and hallucinations that expose his darkest fears. He slowly comes to realize that the choices he made in the past have created a cold and empty life, devoid of real meaning or value. Finally, he achieves redemption and reintegration through forgiveness and the love of his family.::Tad Dibbern <DIBBERN_D@a1.mscf.upenn.edu>",
+        "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.::Eugene Kim <genekim@concentric.net>"
+    ],
+    "language": {
+        "id": [
+            "Swedish",
+            "Latin"
+        ],
+        "adult_language_percentage": 0.8229788607390672,
+        "linguistic_difficulty_percentage": 0.08068420203324189,
+        "words_per_minute": 68,
+        "common_words": {
+            "know": 39,
+            "say": 33,
+            "isak": 31,
+            "want": 27,
+            "wa": 27,
+            "old": 24,
+            "think": 24,
+            "going": 23,
+            "well": 21,
+            "see": 21
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Talk to Her",
+    "year": 2002,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "runtime": [
+        "112"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "After a chance encounter at a theater, two men, Benigno and Marco, meet at a private clinic where Benigno works. Lydia, Marco's girlfriend and a bullfighter by profession, has been gored and is in a coma. It so happens that Benigno is looking after another woman in a coma, Alicia, a young ballet student. The lives of the four characters will flow in all directions, past, present and future, dragging all of them towards an unsuspected destiny.::Anonymous",
+        "Marco, a journalist grieving for a love affair that ended ten years' ago, falls in love with Lydia, a bullfighter also on the rebound. Benigno, a nurse, dedicates his life to his only patient, a young dancer in a coma as a result of an accident four years' before; he talks to her, reads to her, holds photographs in front of her closed eyes. When Lydia is brought comatose to the hospital where Benigno works, he and Marco become friendly, and the nurse encourages the journalist to talk to her and hope for a miracle. Marco is Sancho to Benigno's Quixote, and as Benigno's hopes for his patient become fantasies, Marco tries to inject reality. Does a miracle await?::<jhailey@hotmail.com>",
+        "Two men share an odd friendship while they care for two women who are both in deep comas.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.1884834281888181,
+        "linguistic_difficulty_percentage": 0.05021760964178105,
+        "words_per_minute": 53,
+        "common_words": {
+            "wa": 59,
+            "like": 35,
+            "see": 35,
+            "alicia": 35,
+            "say": 32,
+            "benigno": 30,
+            "want": 28,
+            "tell": 25,
+            "know": 25,
+            "come": 23
+        }
+    }
+}

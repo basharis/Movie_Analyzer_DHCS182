@@ -1,0 +1,40 @@
+{
+    "title": "The Shining",
+    "year": 1980,
+    "genres": [
+        "Drama",
+        "Horror"
+    ],
+    "runtime": [
+        "146"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "Signing a contract, Jack Torrance, a normal writer and former teacher agrees to take care of a hotel which has a long, violent past that puts everyone in the hotel in a nervous situation. While Jack slowly gets more violent and angry of his life, his son, Danny, tries to use a special talent, the \"Shining\", to inform the people outside about whatever that is going on in the hotel.::J. S. Golden",
+        "A man, his son, and wife become the winter caretakers of an isolated hotel where Danny, the son, sees disturbing visions of the hotel's past using a telepathic gift known as \"The Shining\". The father, Jack Torrance, is underway in a writing project when he slowly slips into insanity as a result of cabin fever and former guests of the hotel's ghosts. After being convinced by a waiter's ghost to \"correct\" the family, Jack goes completely insane. The only thing that can save Danny and his mother is \"The Shining\".::ipreach4ever",
+        "Jack Torrance becomes the caretaker of the Overlook Hotel up in the secluded mountains of Colorado. Jack, being a family man, takes his wife and son to the hotel to keep him company throughout the long and isolated nights. During their stay strange things occur when Jack's son Danny sees gruesome images powered by a force called \"The Shining\" and Jack is heavily affected by this. Along with writer's block and the demons of the hotel haunting him Jack has a complete mental breakdown and the situation takes a sinister turn for the worse.::Niam Dodd <niamdodd@hotmail.com>",
+        "Jack Torrance gets a job as the custodian of the Overlook Hotel, in the mountains of Colorado. The place is closed down during winter, Torrance and his family will be the only occupants of the hotel for a long while. When the snow storms block the Torrance family in the hotel, Jack's son Danny, who has some clairvoyance and telepathy powers, discovers that the hotel is haunted and that the spirits are slowly driving Jack crazy. When Jack meets the ghost of Mr. Grady, the former custodian of the hotel who murdered his wife and his two daughters, things begin to get really nasty.::Flavio Rizzardi <spillo@maya.dei.unpid.it>",
+        "A novelist - Jack Torrance takes a job interview as winter caretaker of the isolated, old, huge and beautiful Overlook Hotel. In the interview, Jack is told by the manager himself, that the previous caretaker - Grady, chopped his family and later killed himself with a shotgun. Ignoring the story, Jack brings his wife - Wendy and his son Danny. It happens that Danny, has a mysterious power known as \"The Shining\" that shows him things from the past and future. Some of the visions come from Tony - \"the little boy who lives in Danny's mouth\". Danny meets Hallorann - the hotel cook in their first day arriving at the Overlook, who also has this \"Shining\" and he warns him about the hotel and the sinister Room 237. As the days go by, Danny has visions of previous guests and employees who died at the hotel years before, meanwhile Jack starts driving into insanity, turning more and more aggressive, at the point that Danny and Wendy gets convinced that Jack might try to do the same thing, Grady did.::matheus marchetti",
+        "A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.::Helltopay27"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.906820870022342,
+        "linguistic_difficulty_percentage": 0.026284662899198317,
+        "words_per_minute": 52,
+        "common_words": {
+            "danny": 61,
+            "wa": 44,
+            "like": 42,
+            "going": 40,
+            "drum": 40,
+            "good": 38,
+            "mr": 36,
+            "yes": 35,
+            "torrance": 34,
+            "get": 33
+        }
+    }
+}

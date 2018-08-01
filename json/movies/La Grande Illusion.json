@@ -1,0 +1,40 @@
+{
+    "title": "La Grande Illusion",
+    "year": 1937,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "113"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "During 1st WW, two French officers are captured. Captain De Boeldieu is an aristocrat while Lieutenant Marechal was a mechanic in civilian life. They meet other prisoners from various backgrounds, as Rosenthal, son of wealthy Jewish bankers. They are separated from Rosenthal before managing to escape. A few months later, they meet again in a fortress commanded by the aristocrat Van Rauffenstein. De Boeldieu strikes up a friendship with him but Marechal and Rosenthal still want to escape...::Yepok",
+        "During WWI, French Captain de Boeldieu and Lieutenant Mar\u00e9chal are shot down over Germany by Captain von Rauffenstein during a reconnaissance mission. The two French officers are captured. There is an instant rapport between von Rauffenstein and de Boeldieu, who he sees like himself, a career military man of high rank who should be afforded the respect of the position. This hierarchy has nothing to do with life outside of the military. Even at the Hallbach POW camp where they are initially housed, de Boeldieu and Mar\u00e9chal are treated differently within the ranks of the other POWs. de Boeldieu and Mar\u00e9chal themselves treat each other cordially but with guarded friendship, only because of their current situation. Time does not change their relationship. This hierarchy becomes more pronounced when de Boeldieu and Mar\u00e9chal among others are transferred to Wintersborn POW camp on the request of von Rauffenstein, who is now the commandant there. Since their last meeting, von Rauffenstein was permanently injured leading to this new assignment at Wintersborn, a converted 13th century castle. When Mar\u00e9chal and fellow captive Rosenthal muse about their next escape attempt, de Boeldieu understands his position in the plot which is in keeping with his position among the other POWs and his special relationship with von Rauffenstein.::Huggo",
+        "During the First World War, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are sent to a seemingly impenetrable fortress which seems impossible to escape from.::David Rush"
+    ],
+    "language": {
+        "id": [
+            "French",
+            "German",
+            "English",
+            "Russian"
+        ],
+        "adult_language_percentage": 1.294618087664139,
+        "linguistic_difficulty_percentage": 0.14795635287590161,
+        "words_per_minute": 47,
+        "common_words": {
+            "go": 29,
+            "like": 25,
+            "u": 23,
+            "let": 22,
+            "boeldieu": 21,
+            "sir": 21,
+            "wa": 18,
+            "good": 18,
+            "see": 18,
+            "know": 17
+        }
+    }
+}

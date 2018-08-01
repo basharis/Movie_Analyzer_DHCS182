@@ -1,0 +1,39 @@
+{
+    "title": "Being There",
+    "year": 1979,
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "130"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television. After a run in with a limousine, he ends up a guest of a woman (Eve) and her husband Ben, an influential but sickly businessman. Now called Chauncey Gardner, Chance becomes friend and confidante to Ben, and an unlikely political insider.::Scott Renshaw <as.idc@forsythe.stanford.edu>",
+        "Chance is mentally challenged, those that know him who would probably call him simple. He doesn't know how to read or write. For as long as he can remember, he has worked as the gardener for his long time employer Mr. Jennings, has never stepped off the property of Jennings' brownstone in Washington DC, has only known Jennings and the only other household servant, a maid/cook named Louise who tends to all his meals, and has only had contact to the outside world indirectly via television, the channels on which he is frequently changing as he watches. Conversely, no one but Jennings and Louise know that he lives there. He only fully understands the world of his garden, all else, including what he sees on TV, he not comprehending in their entirety. His wardrobe consists largely of Jennings' discarded but well appointed clothes. After Jennings dies, Chance is sent \"into the world\" not truly understanding what his new situation means. By chance, he eventually meets wealthy Eve Rand, who, out of circumstance, invites him to her and much older ill husband's house. Her husband, Ben Rand, is a financier, who will probably imminently pass from his aplastic anemia. Not fully comprehending what Chance is truly saying, they believe his name to be Chauncey Gardiner, and that he is a man of wealth and straightforward deep insight. As such, they introduce him to their rich and powerful friends - some very rich and extremely powerful - who believe, largely because Ben Rand says so, that Chauncey is brilliant in a down home way, his brilliance which they state in public. The question then becomes whether anyone will notice that the emperor has no clothes (to use an old adage), even after background checks on \"Chauncey Gardiner\" come up empty and especially if their public praise of him has gone too far to go back.::Huggo",
+        "A simple, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Russian",
+            "Italian"
+        ],
+        "adult_language_percentage": 1.0552233556102708,
+        "linguistic_difficulty_percentage": 0.035174111853675694,
+        "words_per_minute": 65,
+        "common_words": {
+            "yes": 105,
+            "mr": 75,
+            "like": 57,
+            "know": 54,
+            "gardiner": 53,
+            "wa": 47,
+            "good": 46,
+            "man": 40,
+            "see": 35,
+            "president": 35
+        }
+    }
+}

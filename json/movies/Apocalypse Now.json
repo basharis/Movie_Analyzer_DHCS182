@@ -1,0 +1,41 @@
+{
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "147"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "It is the height of the war in Vietnam, and U.S. Army Captain Willard is sent by Colonel Lucas and a General to carry out a mission that, officially, 'does not exist - nor will it ever exist'. The mission: To seek out a mysterious Green Beret Colonel, Walter Kurtz, whose army has crossed the border into Cambodia and is conducting hit-and-run missions against the Viet Cong and NVA. The army believes Kurtz has gone completely insane and Willard's job is to eliminate him! Willard, sent up the Nung River on a U.S. Navy patrol boat, discovers that his target is one of the most decorated officers in the U.S. Army. His crew meets up with surfer-type Lt-Colonel Kilgore, head of a U.S Army helicopter cavalry group which eliminates a Viet Cong outpost to provide an entry point into the Nung River. After some hair-raising encounters, in which some of his crew are killed, Willard, Lance and Chef reach Colonel Kurtz's outpost, beyond the Do Lung Bridge. Now, after becoming prisoners of Kurtz, will Willard & the others be able to fulfill their mission?::Derek O'Cain",
+        "In 1969, at the height of the Vietnam War, Captain Benjamin Willard is resting in his hotel room, waiting for a mission to be given to him by the United States Army. A mission that no one else has ever been given before. The mission is to travel upriver to assassinate a colonel, who's gone AWOL and acts like a demi-god to a group of tribal natives in the jungle. Taking the mission for what it is, Willard travels upriver along with a ragtag group of American soldiers, some of which are called by their nicknames. Along the way, several obstacles get in their way of the mission including a deadly encounter with a tiger and heavy enemy fire at a strategic bridge. As Willard nears the end of his mission, he soon finds himself reeling in the horrors and sanity of war itself as he confronts the colonel face to face in which Willard's true nature begins to emerge slowly.::blazesnakes9",
+        "At the height of the Vietnam war, experienced soldier and covert operative Captain Benjamin Willard withdraws from a drunken and disheveled state to accept his most daring and secretive mission yet. His objective is to travel down the Nyung river by boat and assassinate a Green Beret Colonel named Kurtz who has gone insane deep within the Jungle, and leads his men and a local tribe as a god on illegal guerrilla missions into enemy territory. As Willard and the crew of a Navy PR boat unaware of his objective embark on their journey from the security of civilization into the untamed depths of the jungle, Willard confronts not only the same horrors and hypocrisy that pushed the level headed Colonel Kurtz over the edge into an abyss of insanity, but the primal violence of human nature and the darkness of his own heart.::redcommander27",
+        "Vietnam, 1969. Burnt out Special Forces officer Captain Willard is sent into the jungle with top-secret orders to find and kill renegade Colonel Kurtz who has set up his own army within the jungle. As Willard descends into the jungle, he is slowly over taken by the jungle's mesmerizing powers and battles the insanity which surrounds him. His boat crew succumbs to drugs and is slowly killed off one by one. As Willard continues his journey he becomes more and more like the man he was sent to kill.::Michael Arndt",
+        "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Colonel who has set himself up as a god among a local tribe.::Tomius J. Barnard and Brian McInnis"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Vietnamese"
+        ],
+        "adult_language_percentage": 3.30044973161178,
+        "linguistic_difficulty_percentage": 0.04352241404323226,
+        "words_per_minute": 93,
+        "common_words": {
+            "wa": 117,
+            "get": 106,
+            "man": 101,
+            "right": 77,
+            "come": 72,
+            "got": 70,
+            "like": 69,
+            "captain": 67,
+            "know": 67,
+            "one": 65
+        }
+    }
+}

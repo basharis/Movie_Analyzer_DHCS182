@@ -1,0 +1,40 @@
+{
+    "title": "Isle of Dogs",
+    "year": 2018,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "runtime": [
+        "101"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "An outbreak of dog flu has spread through the city of Megasaki, Japan, and Mayor Kobayashi has demanded all dogs to be sent to Trash Island. On the island, a young boy named Atari sets out to find his lost dog, Spots, with the help of five other dogs... with many obstacles along the way.::Mike202",
+        "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.::Fox Searchlight Pictures"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Japanese"
+        ],
+        "adult_language_percentage": 1.3348164627363739,
+        "linguistic_difficulty_percentage": 0.1430160495788972,
+        "words_per_minute": 62,
+        "common_words": {
+            "dog": 64,
+            "kobayashi": 30,
+            "know": 30,
+            "wa": 27,
+            "master": 23,
+            "atari": 23,
+            "mayor": 22,
+            "megasaki": 20,
+            "island": 20,
+            "say": 20
+        }
+    }
+}

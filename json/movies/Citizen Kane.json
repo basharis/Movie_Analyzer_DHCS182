@@ -1,0 +1,40 @@
+{
+    "title": "Citizen Kane",
+    "year": 1941,
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "runtime": [
+        "119"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "A group of reporters are trying to decipher the last word ever spoken by Charles Foster Kane, the millionaire newspaper tycoon: \"Rosebud\". The film begins with a news reel detailing Kane's life for the masses, and then from there, we are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the top of the world.::Zack H.",
+        "The newspaper baron Charles Foster Kane, one of the richest and most powerful men in America if not the world, dies. A newspaperman digs into his past seeking the meaning of his enigmatic last word: \"Rosebud.\" He finds evidence of a child torn away from his family to serve Mammon. Grown into manhood, Charles Foster Kane becomes a newspaperman to indulge his idealism. He marries the niece of the man who will become President of the United States, and gradually assumes more and more power while losing more and more of his soul. Kane's money and power does not bring him happiness, as he has lost his youthful idealism, as has the America he is a symbol for.::Jon C. Hopwood",
+        "After his death, the life of Charles Foster Kane - newspaper magnate and all-round larger-than-life American - is told from the perspective of those who knew him. A newspaper reporter is interviewing those in Kane's life hoping to learn the meaning of Kane's last word, Rosebud. Kane was sent to a boarding school at a young age after his mother struck it rich thanks to a mining claim that was signed over to her in lieu of rent. He came into his vast fortune at the age of 25 and promptly bought a newspaper. His idea of news was to make it as much as report it and along with his good friend, Jedediah Leland, had a rollicking good time. Unsuccessful in his bid for political office, his relationships with those around him begin to deteriorate and he dies, old and alone, whispering the word Rosebud.::garykmcd",
+        "When a reporter is assigned to decipher newspaper magnate Charles Foster Kane's dying words, his investigation gradually reveals the fascinating portrait of a complex man who rose from obscurity to staggering heights. Though Kane's friend and colleague Jedediah Leland, and his mistress, Susan Alexander, shed fragments of light on Kane's life, the reporter fears he may never penetrate the mystery of the elusive man's final word, \"Rosebud.\"::Jwelch5742",
+        "Multimillionaire newspaper tycoon Charles Foster Kane dies alone in his extravagant mansion, Xanadu, speaking a single word: \"Rosebud\". In an attempt to figure out the meaning of this word, a reporter tracks down the people who worked and lived with Kane; they tell their stories in a series of flashbacks that reveal much about Kane's life but not enough to unlock the riddle of his dying breath.::Jesse Garon <grifter@primenet.com>",
+        "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.::Carl Schultz"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.5589110249707023,
+        "linguistic_difficulty_percentage": 0.351573064094474,
+        "words_per_minute": 93,
+        "common_words": {
+            "mr": 140,
+            "kane": 116,
+            "wa": 81,
+            "know": 65,
+            "get": 49,
+            "right": 47,
+            "want": 45,
+            "one": 44,
+            "think": 42,
+            "charlie": 40
+        }
+    }
+}

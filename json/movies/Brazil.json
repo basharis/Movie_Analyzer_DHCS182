@@ -1,0 +1,39 @@
+{
+    "title": "Brazil",
+    "year": 1985,
+    "genres": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "132"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Sam Lowry is a harried technocrat in a futuristic society that is needlessly convoluted and inefficient. He dreams of a life where he can fly away from technology and overpowering bureaucracy, and spend eternity with the woman of his dreams. While trying to rectify the wrongful arrest of one Harry Buttle, Lowry meets the woman he is always chasing in his dreams, Jill Layton. Meanwhile, the bureaucracy has fingered him responsible for a rash of terrorist bombings, and both Sam and Jill's lives are put in danger.::Philip Brubaker <coda@nando.net>",
+        "In a highly structured and bureaucratic state, the government has installed extreme and highly counterproductive measures for which to track down terrorists. A \"bug\" in the system mixes up the last name of a terrorist (Tuttle) and an innocent man (ironically enough Buttle). Thus, the wrong man (Buttle) is arrested and killed while Tuttle continues to roam free. Sam Lowry, an average man with a mother who \"knows people\", is assigned to investigate the error. At the same time, Jill layton, Buttle's neighbor, is trying to report the mistake to authorities. Due to the extremely inefficient bureaucracy, she finds the process to be very tedious. Meanwhile, Sam Lowry, who has been dreaming about Jill, gets sidetracked by his fantasies and ends up also being a victim of the counter productivity of the government.::buttermilk",
+        "In an Orwellian vision of the future, the populace are completely controlled by the state, but technology remains almost as it was in the 1970's. Sam Lowry is a civil servant who one day spots a mistake in one of the pieces of paperwork passing through his office. The mistake leads to the arrest of an entirely innocent man, and although Lowry attempts to correct the error, it just gets bigger and bigger, sucking him in with it.::Graeme Roy <gsr@cbmamiga.demon.co.uk>",
+        "Bureaucracy and ductwork run amok in the story of a paperwork mixup that leads to the imprisonment of Mr. Buttle, shoe repairman, instead of Harry Tuttle, illegal freelance Heating Engineer. Bureaucrat Sam Lowry (prone to escapes to a fantasy world) gets branded a terrorist and becomes hunted by the state himself in the process of correcting the mistake.::Jon Reeves <jreeves@imdb.com>",
+        "A bureaucrat, in a retro-future world, tries to correct an administrative error, and becomes an enemy of the state.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.8142136134224527,
+        "linguistic_difficulty_percentage": 0.054562815441276766,
+        "words_per_minute": 55,
+        "common_words": {
+            "sam": 48,
+            "got": 39,
+            "information": 37,
+            "yes": 34,
+            "right": 32,
+            "lowry": 32,
+            "know": 32,
+            "get": 31,
+            "come": 30,
+            "go": 30
+        }
+    }
+}

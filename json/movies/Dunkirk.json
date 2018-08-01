@@ -1,0 +1,45 @@
+{
+    "title": "Dunkirk",
+    "year": 2017,
+    "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+    ],
+    "runtime": [
+        "106"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Evacuation of Allied soldiers from the British Empire, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.::Harvey",
+        "The film depicts the dramatic and true story of the Dunkirk evacuations from a war torn beach and harbour in France, following the seemingly doomed plight of allied soldiers in World War II. As the enemy forces close in it seems the troops have nowhere to go, but help is at hand and a fierce battle ensues.::Dik Nolan",
+        "May/June 1940. 400,000 British and French soldiers are holed up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two RAF fighter pilots and a group of civilians on their boat, part of the evacuation fleet.::grantss",
+        "WWII. The enemy forces have cornered hundreds of thousands of British and French soldiers on the French coast at Dunkirk. A small number of primarily-French soldiers are guarding the perimeter, where the British and French soldiers are amassed, which is getting increasingly smaller as enemy forces advance. Most of those British and French soldiers are now on the beach waiting for destroyers to come and take them back to Britain. Each of the countries are taking care of their own. The British are leaving first and among those the wounded get first priority despite their taking up seven times the space of the able-bodied soldiers. An issue with Dunkirk is that there is only one dock the destroyers can access, which needs to be protected from the enemy bombs. As such, Churchill, newly elected, has put out a call for civilian watercraft to head to Dunkirk both to transport supplies and to transport soldiers from the beach to the destroyers or back to Britain if at all possible. Within this situation, four general stories are told. In one, Commander Bolton, the top British naval officer on the ground, knows deep in his heart that the soldiers are largely sitting ducks on the beach as the enemy planes fly over. He knows that the situation is a Catch-22 for the British in that they need to bring as many soldiers safely home as possible at the depletion of their military resources, which in turn they need to preserve for the day if, but more likely when, the enemies make their way onto British soil. In the second story, a squadron of three RAF spitfires are among those limited air resources that are embarking in dog fights with enemy planes, while protecting the soldiers on the ground. In the process, they have to ensure their own safety in order to provide what is needed for the ground soldiers, which includes knowing about things like fuel levels and having enough to make their way back to home base whenever required. In the third story, two soldiers meet on the beach, the two of them knowing that the longer they remain on the beach, the likelier they are not to survive this skirmish. As such, they try to do whatever they need to to make it onto one of those destroyers or any other watercraft making its way back to Britain. However, making it aboard a ship does not necessarily ensure their survival. And in the final story, Mr. Dawson, his young-adult son Peter and their 17-year-old friend George are on Dawson's pleasure craft making its way to Dunkirk to do their part in the war effort, all realizing the dangers involved. They have to decide at each step along the way if they will focus on personal problems or if they will continue on to assist in the war, as was their first priority when they left Britain.::Huggo",
+        "In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found. At the end of this heroic mission, 330,000 French, British, Belgian and Dutch soldiers were safely evacuated.::Jwelch5742",
+        "Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.::Robert Paege"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "German"
+        ],
+        "adult_language_percentage": 2.0088626292466762,
+        "linguistic_difficulty_percentage": 0.059084194977843424,
+        "words_per_minute": 31,
+        "common_words": {
+            "come": 37,
+            "go": 35,
+            "get": 35,
+            "back": 30,
+            "u": 25,
+            "one": 19,
+            "well": 18,
+            "way": 17,
+            "right": 17,
+            "ship": 16
+        }
+    }
+}

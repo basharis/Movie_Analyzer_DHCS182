@@ -1,0 +1,7343 @@
+﻿1
+00:01:13,456 --> 00:01:15,958
+My name's Marlowe.
+The general wanted to see me.
+
+2
+00:01:15,959 --> 00:01:19,517
+Yes, Mr. Marlowe.
+Will you come in, please, sir?
+
+3
+00:01:21,731 --> 00:01:25,447
+- I'll tell the general that you're here.
+- Thank you.
+
+4
+00:01:38,381 --> 00:01:39,832
+Morning.
+
+5
+00:01:45,155 --> 00:01:46,986
+You're not very tall, are you?
+
+6
+00:01:48,291 --> 00:01:49,978
+Well, I tried to be.
+
+7
+00:01:52,428 --> 00:01:54,455
+Not bad-looking...
+
+8
+00:01:54,864 --> 00:01:56,698
+...though you probably know it.
+
+9
+00:01:56,699 --> 00:01:58,111
+Thank you.
+
+10
+00:01:58,535 --> 00:02:01,790
+- What's your name?
+- Reilly. Doghouse Reilly.
+
+11
+00:02:02,772 --> 00:02:05,340
+That's a funny kind of name.
+
+12
+00:02:05,341 --> 00:02:06,675
+You think so?
+
+13
+00:02:07,877 --> 00:02:10,579
+What are you? A prizefighter?
+
+14
+00:02:10,580 --> 00:02:12,247
+- No, I'm a shamus.
+- What's that?
+
+15
+00:02:12,248 --> 00:02:16,734
+- A private detective.
+- You're making fun of me.
+
+16
+00:02:24,828 --> 00:02:26,777
+You're cute.
+
+17
+00:02:29,666 --> 00:02:32,610
+The general will see you now, sir.
+
+18
+00:02:39,843 --> 00:02:41,977
+- Who's that?
+- Miss Carmen Sternwood.
+
+19
+00:02:41,978 --> 00:02:44,346
+You ought to wean her.
+She's old enough.
+
+20
+00:02:55,358 --> 00:02:58,227
+- This is Mr. Marlowe, general.
+- How do you do, sir?
+
+21
+00:02:58,228 --> 00:03:00,229
+- Sit down, sir.
+- Thank you.
+
+22
+00:03:00,230 --> 00:03:02,022
+Brandy, Norris.
+
+23
+00:03:02,632 --> 00:03:06,168
+- How do you like your brandy, sir?
+- In a glass.
+
+24
+00:03:06,169 --> 00:03:08,570
+I used to like mine with champagne.
+
+25
+00:03:08,571 --> 00:03:10,739
+Champagne cold as Valley Forge...
+
+26
+00:03:10,740 --> 00:03:13,375
+...with about three ponies
+of brandy under it.
+
+27
+00:03:13,376 --> 00:03:15,207
+Come, come, man!
+Pour a decent one.
+
+28
+00:03:16,045 --> 00:03:19,181
+I like to see people drink.
+
+29
+00:03:19,182 --> 00:03:20,974
+That'll do, Norris.
+
+30
+00:03:21,384 --> 00:03:23,619
+You may take off your coat, sir.
+
+31
+00:03:23,620 --> 00:03:25,254
+Thank you.
+
+32
+00:03:25,255 --> 00:03:28,395
+Too hot in here for any man
+with any blood in his veins.
+
+33
+00:03:29,626 --> 00:03:31,960
+You may smoke too.
+
+34
+00:03:31,961 --> 00:03:34,224
+I can still enjoy the smell of it.
+
+35
+00:03:35,365 --> 00:03:40,102
+Nice state of affairs when a man
+has to indulge his vices by proxy.
+
+36
+00:03:40,103 --> 00:03:44,439
+You're looking, sir, at a very dull
+survival of a very gaudy life.
+
+37
+00:03:44,440 --> 00:03:47,075
+Crippled, paralyzed in both legs.
+
+38
+00:03:47,076 --> 00:03:49,878
+Little I can eat, and
+my sleep is so near waking...
+
+39
+00:03:49,879 --> 00:03:51,546
+...it's hardly worth the name.
+
+40
+00:03:51,547 --> 00:03:56,336
+I seem to exist largely on heat,
+like a newborn spider.
+
+41
+00:03:56,586 --> 00:03:59,888
+The orchids are an excuse
+for the heat.
+
+42
+00:03:59,889 --> 00:04:02,424
+- Do you like orchids?
+- Not particularly.
+
+43
+00:04:02,425 --> 00:04:03,575
+Nasty things.
+
+44
+00:04:03,927 --> 00:04:06,261
+Their flesh is too much
+like the flesh of men.
+
+45
+00:04:06,262 --> 00:04:09,742
+Their perfume has the rotten
+sweetness of corruption.
+
+46
+00:04:13,469 --> 00:04:15,000
+Tell me about yourself.
+
+47
+00:04:15,571 --> 00:04:18,440
+There isn't much to tell.
+I'm 38. I went to college.
+
+48
+00:04:18,441 --> 00:04:21,143
+I can still speak English
+when my business demands it.
+
+49
+00:04:21,144 --> 00:04:23,345
+I worked for the
+district attorney's office.
+
+50
+00:04:23,346 --> 00:04:26,290
+Inspector Bernie Ohls
+said you wanted to see me.
+
+51
+00:04:26,716 --> 00:04:29,201
+You didn't like working
+for the district attorney?
+
+52
+00:04:30,553 --> 00:04:34,923
+I was fired for insubordination.
+I seem to rate pretty high on that.
+
+53
+00:04:36,092 --> 00:04:38,657
+I always did, myself.
+
+54
+00:04:39,228 --> 00:04:41,138
+What do you know about my family?
+
+55
+00:04:41,397 --> 00:04:44,066
+Well, you're a widower,
+a millionaire.
+
+56
+00:04:44,067 --> 00:04:46,134
+You have two daughters.
+One unmarried...
+
+57
+00:04:46,135 --> 00:04:49,615
+...and one married to a man
+named Rutledge, but it didn't take.
+
+58
+00:04:49,639 --> 00:04:52,204
+- Both living with you and both...
+- Go on, sir.
+
+59
+00:04:52,442 --> 00:04:55,503
+Both pretty and both pretty wild.
+
+60
+00:04:56,946 --> 00:05:00,125
+- Why'd you want to see me?
+- I'm being blackmailed again.
+
+61
+00:05:00,249 --> 00:05:01,383
+Again?
+
+62
+00:05:01,384 --> 00:05:04,720
+About a year ago, I paid a man
+named Joe Brody $5000...
+
+63
+00:05:04,721 --> 00:05:07,089
+...to let my younger daughter alone.
+
+64
+00:05:07,590 --> 00:05:09,500
+What does that mean?
+
+65
+00:05:10,126 --> 00:05:12,389
+It means, "Hm!"
+
+66
+00:05:12,795 --> 00:05:15,438
+It didn't go through the DA
+or I'd have heard.
+
+67
+00:05:15,598 --> 00:05:18,280
+- Who handled it for you?
+- Shawn Regan.
+
+68
+00:05:18,301 --> 00:05:22,204
+There must be some reason why
+he isn't handling it this time.
+
+69
+00:05:22,205 --> 00:05:24,039
+Shawn has left me.
+
+70
+00:05:24,040 --> 00:05:27,951
+- I thought I hadn't seen him lately.
+- A month ago, without a word.
+
+71
+00:05:28,911 --> 00:05:32,381
+I had no claim on him.
+I was only his employer.
+
+72
+00:05:32,382 --> 00:05:35,784
+But I had hoped that he'd come
+to regard me as something more.
+
+73
+00:05:35,785 --> 00:05:38,925
+And that at least
+he'd have said goodbye.
+
+74
+00:05:40,690 --> 00:05:42,032
+That's what hurt.
+
+75
+00:05:43,159 --> 00:05:44,793
+You knew him too?
+
+76
+00:05:44,794 --> 00:05:48,030
+Yes, in the old days when he
+used to run rum out of Mexico...
+
+77
+00:05:48,031 --> 00:05:50,265
+...and I was on the other side.
+
+78
+00:05:50,266 --> 00:05:52,134
+We swapped shots
+between drinks...
+
+79
+00:05:52,135 --> 00:05:54,241
+...or drinks between shots.
+
+80
+00:05:55,605 --> 00:05:57,639
+My respects to you, sir.
+
+81
+00:05:57,640 --> 00:06:01,656
+Few men ever swapped more than
+one shot with Shawn Regan.
+
+82
+00:06:02,278 --> 00:06:04,980
+He commanded a brigade
+in the Irish Republican Army.
+
+83
+00:06:04,981 --> 00:06:06,081
+But you knew that.
+
+84
+00:06:06,082 --> 00:06:08,149
+No, I didn't.
+
+85
+00:06:10,253 --> 00:06:12,687
+I know he was a good man
+at whatever he did.
+
+86
+00:06:12,688 --> 00:06:16,992
+No one was more pleased than I
+when you took him on as your...
+
+87
+00:06:16,993 --> 00:06:18,444
+...whatever he was.
+
+88
+00:06:18,461 --> 00:06:20,295
+My friend.
+
+89
+00:06:20,296 --> 00:06:22,363
+My son, almost.
+
+90
+00:06:24,033 --> 00:06:26,635
+Many an hour he sat with me,
+sweating like a pig...
+
+91
+00:06:26,636 --> 00:06:31,373
+...drinking brandy and telling
+stories of the Irish Revolution.
+
+92
+00:06:31,374 --> 00:06:33,175
+Well, enough of that.
+
+93
+00:06:33,176 --> 00:06:34,549
+Here.
+
+94
+00:06:44,153 --> 00:06:46,443
+Read the other side.
+
+95
+00:07:04,307 --> 00:07:06,334
+These her signatures?
+
+96
+00:07:06,709 --> 00:07:09,211
+- Who's Arthur Geiger?
+- I haven't any idea.
+
+97
+00:07:09,212 --> 00:07:11,546
+- Did you ask her?
+- No, and I don't intend to.
+
+98
+00:07:11,547 --> 00:07:14,346
+If I did, she'd just suck
+her thumb and look coy.
+
+99
+00:07:14,484 --> 00:07:17,452
+I met her in the hall
+and she did that to me.
+
+100
+00:07:17,453 --> 00:07:20,655
+Then she tried to sit on my lap
+while I was standing up.
+
+101
+00:07:20,656 --> 00:07:21,990
+Well?
+
+102
+00:07:24,026 --> 00:07:27,195
+Your other daughter, Mrs. Rutledge.
+She mixed up in this?
+
+103
+00:07:27,196 --> 00:07:28,608
+They alike?
+
+104
+00:07:28,798 --> 00:07:32,601
+They're alike only in having
+the same corrupt blood.
+
+105
+00:07:32,602 --> 00:07:35,370
+Vivian is spoiled, exacting...
+
+106
+00:07:35,371 --> 00:07:37,272
+...smart and ruthless.
+
+107
+00:07:37,273 --> 00:07:42,140
+Carmen is still a little child who
+likes to pull the wings off flies.
+
+108
+00:07:42,678 --> 00:07:45,447
+I assume they have
+all the usual vices...
+
+109
+00:07:45,448 --> 00:07:48,509
+...besides those they've
+invented for themselves.
+
+110
+00:07:48,718 --> 00:07:51,520
+If I seem a bit sinister
+as a parent, Mr. Marlowe...
+
+111
+00:07:51,521 --> 00:07:54,222
+...it's because my hold
+on life is too slight...
+
+112
+00:07:54,223 --> 00:07:56,458
+...to include any
+Victorian hypocrisy.
+
+113
+00:07:56,459 --> 00:07:59,628
+I need hardly add that any man
+who has lived as I have...
+
+114
+00:07:59,629 --> 00:08:03,398
+...and who indulges, for the first
+time, in parenthood at my age...
+
+115
+00:08:03,399 --> 00:08:05,008
+...deserves all he gets.
+
+116
+00:08:06,135 --> 00:08:07,666
+Well?
+
+117
+00:08:13,943 --> 00:08:15,435
+Pay him.
+
+118
+00:08:15,711 --> 00:08:19,125
+- Why?
+- She signed these notes, didn't she?
+
+119
+00:08:23,419 --> 00:08:26,855
+Who's this Joe Brody
+you paid the $5000 to?
+
+120
+00:08:26,856 --> 00:08:29,925
+I can't recall.
+My butler, Norris, would know.
+
+121
+00:08:29,926 --> 00:08:33,228
+I think he called himself a gambler.
+
+122
+00:08:33,229 --> 00:08:35,530
+Geiger says these are gambling debts.
+
+123
+00:08:35,531 --> 00:08:36,943
+They may be.
+
+124
+00:08:36,966 --> 00:08:38,719
+Think they are?
+
+125
+00:08:41,270 --> 00:08:44,372
+You want me to take this Geiger
+off your back, right?
+
+126
+00:08:44,373 --> 00:08:46,174
+Want to know anything?
+
+127
+00:08:46,175 --> 00:08:47,943
+I just want to get rid of him.
+
+128
+00:08:47,944 --> 00:08:50,011
+Might cost you a little.
+
+129
+00:08:51,781 --> 00:08:53,154
+Thanks for the drink.
+
+130
+00:08:53,182 --> 00:08:55,951
+I enjoyed your drink
+as much as you did, sir.
+
+131
+00:08:55,952 --> 00:08:58,281
+- You'll hear from me.
+- Good luck.
+
+132
+00:09:10,433 --> 00:09:14,803
+Mr. Marlowe, Mrs. Rutledge would like
+to see you before you leave.
+
+133
+00:09:14,804 --> 00:09:17,372
+About the money, the general
+has instructed me...
+
+134
+00:09:17,373 --> 00:09:20,008
+...to give you a check
+for whatever you require.
+
+135
+00:09:20,009 --> 00:09:21,743
+Instructed you how?
+
+136
+00:09:21,744 --> 00:09:25,046
+I see, sir. I forget
+that you're a detective.
+
+137
+00:09:25,047 --> 00:09:27,515
+By the way he rang his bell, sir.
+
+138
+00:09:27,516 --> 00:09:29,784
+- You write his checks?
+- I have that privilege.
+
+139
+00:09:29,785 --> 00:09:32,287
+Good for you.
+I don't need any money now...
+
+140
+00:09:32,288 --> 00:09:35,428
+...but when I do, I get
+$ 25 a day and expenses.
+
+141
+00:09:35,625 --> 00:09:38,660
+- How did she know I was here?
+- She saw you through the window.
+
+142
+00:09:38,661 --> 00:09:41,496
+I was obliged to tell her
+who you were.
+
+143
+00:09:41,497 --> 00:09:42,989
+I don't know as I like that.
+
+144
+00:09:42,999 --> 00:09:45,734
+Are you attempting
+to tell me my duties, sir?
+
+145
+00:09:45,735 --> 00:09:48,169
+Just having fun trying
+to guess what they are.
+
+146
+00:09:48,170 --> 00:09:49,923
+This way, sir.
+
+147
+00:09:52,742 --> 00:09:55,541
+- Go right in. You're expected.
+- Thanks.
+
+148
+00:10:00,216 --> 00:10:02,401
+You wanted to see me?
+
+149
+00:10:07,657 --> 00:10:09,724
+So you're a private detective?
+
+150
+00:10:09,725 --> 00:10:12,060
+I didn't know they existed,
+except in books.
+
+151
+00:10:12,061 --> 00:10:15,463
+Or else they were greasy men
+snooping around hotel corridors.
+
+152
+00:10:15,464 --> 00:10:17,073
+You're a mess, aren't you?
+
+153
+00:10:18,668 --> 00:10:20,568
+I'm not very tall either.
+
+154
+00:10:20,569 --> 00:10:24,339
+Next time I'll come on stilts, wear
+a white tie and carry a tennis racket.
+
+155
+00:10:24,340 --> 00:10:27,008
+I doubt if even that would help.
+
+156
+00:10:27,009 --> 00:10:30,412
+Now, this business of Dad's,
+think you can handle it for him?
+
+157
+00:10:30,413 --> 00:10:31,864
+It shouldn't be too tough.
+
+158
+00:10:31,881 --> 00:10:34,316
+I'd have thought
+it took a little effort.
+
+159
+00:10:34,317 --> 00:10:35,690
+Not too much.
+
+160
+00:10:35,718 --> 00:10:38,119
+What will your first step be?
+
+161
+00:10:38,120 --> 00:10:40,455
+- The usual one.
+- There's a usual one?
+
+162
+00:10:40,456 --> 00:10:42,657
+Sure there is.
+It comes with diagrams...
+
+163
+00:10:42,658 --> 00:10:46,394
+<i>...on page 47 of How to be a
+Detective in Ten Easy Lessons...</i>
+
+164
+00:10:46,395 --> 00:10:48,880
+...and your father
+offered me a drink.
+
+165
+00:10:48,964 --> 00:10:50,932
+You must've read one
+on comedy.
+
+166
+00:10:50,933 --> 00:10:54,069
+- Hear what I said about the drink?
+- I'm serious. Father's...
+
+167
+00:10:54,070 --> 00:10:56,869
+- I said your father...
+- Help yourself!
+
+168
+00:10:59,575 --> 00:11:02,410
+Now, look, Mr. Marlowe,
+my father's not well.
+
+169
+00:11:02,411 --> 00:11:05,313
+I want this case handled with
+the least worry to him.
+
+170
+00:11:05,314 --> 00:11:07,649
+That's the way
+I was going to handle it.
+
+171
+00:11:07,650 --> 00:11:10,585
+I see. No professional secrets?
+
+172
+00:11:10,586 --> 00:11:13,054
+- I thought you wanted a drink.
+- I changed my mind.
+
+173
+00:11:13,055 --> 00:11:14,664
+Then, what...
+
+174
+00:11:19,028 --> 00:11:21,513
+- How'd you like Dad?
+- I liked him.
+
+175
+00:11:21,697 --> 00:11:24,299
+He liked Shawn. Shawn Regan.
+
+176
+00:11:24,300 --> 00:11:27,138
+I suppose you know who he is.
+
+177
+00:11:27,536 --> 00:11:29,865
+You don't have to play poker with me.
+
+178
+00:11:29,905 --> 00:11:32,090
+- Doesn't Dad want to find him?
+- Do you?
+
+179
+00:11:32,308 --> 00:11:35,276
+Of course. It wasn't right
+for him to go off like that.
+
+180
+00:11:35,277 --> 00:11:37,762
+Broke Dad's heart,
+although he won't say much.
+
+181
+00:11:38,447 --> 00:11:40,382
+- Or did he?
+- Why don't you ask him?
+
+182
+00:11:40,383 --> 00:11:43,184
+I don't see what there is
+to be cagey about.
+
+183
+00:11:43,185 --> 00:11:44,597
+I don't like your manners!
+
+184
+00:11:44,653 --> 00:11:47,522
+I'm not crazy about yours.
+I didn't ask to see you.
+
+185
+00:11:47,523 --> 00:11:50,325
+I don't mind if you don't
+like my manners. I don't either.
+
+186
+00:11:50,326 --> 00:11:51,993
+I grieve over them evenings.
+
+187
+00:11:51,994 --> 00:11:54,729
+I don't mind your drinking
+your lunch out of a bottle.
+
+188
+00:11:54,730 --> 00:11:57,165
+But don't waste your time
+cross-examining me.
+
+189
+00:11:57,166 --> 00:11:59,770
+People don't talk to me like that!
+
+190
+00:12:02,905 --> 00:12:06,408
+Do you always think
+you can handle people...
+
+191
+00:12:06,409 --> 00:12:08,476
+...like trained seals?
+
+192
+00:12:08,611 --> 00:12:10,378
+I usually get away with it too.
+
+193
+00:12:10,379 --> 00:12:12,580
+How nice for you.
+
+194
+00:12:12,581 --> 00:12:15,146
+Just what is it you're afraid of?
+
+195
+00:12:17,052 --> 00:12:19,220
+Dad didn't see you
+about Shawn, did he?
+
+196
+00:12:19,221 --> 00:12:20,516
+Didn't he?
+
+197
+00:12:20,556 --> 00:12:22,657
+Could you find him
+if Dad wanted you to?
+
+198
+00:12:22,658 --> 00:12:24,345
+Maybe. When did he go?
+
+199
+00:12:24,693 --> 00:12:25,827
+About a month back.
+
+200
+00:12:25,828 --> 00:12:28,396
+Drove off one afternoon
+without saying a word.
+
+201
+00:12:28,397 --> 00:12:31,266
+They found his car parked
+in some private garage.
+
+202
+00:12:31,267 --> 00:12:33,635
+They? Who's they?
+
+203
+00:12:33,636 --> 00:12:35,048
+Dad didn't tell you.
+
+204
+00:12:35,237 --> 00:12:39,207
+He told me about Regan, but that's
+not what he wants to see me about.
+
+205
+00:12:39,208 --> 00:12:41,409
+That's what you wanted me to say.
+
+206
+00:12:41,410 --> 00:12:44,846
+I'm sure I don't care
+what you say, Mr. Marlowe.
+
+207
+00:12:44,847 --> 00:12:47,137
+I'm wasting your time.
+
+208
+00:12:47,650 --> 00:12:49,677
+Goodbye, Mrs. Rutledge.
+
+209
+00:12:55,424 --> 00:12:57,258
+Oh, Norris.
+
+210
+00:12:57,259 --> 00:13:00,428
+You made a mistake. Mrs. Rutledge
+didn't want to see me.
+
+211
+00:13:00,429 --> 00:13:03,987
+I'm sorry, sir.
+I make many mistakes.
+
+212
+00:13:32,528 --> 00:13:34,929
+- Did you find what you wanted?
+- Yes, thanks.
+
+213
+00:13:34,930 --> 00:13:38,233
+You don't look like a man who'd
+be interested in first editions.
+
+214
+00:13:38,234 --> 00:13:40,458
+I collect blondes in bottles too.
+
+215
+00:13:58,487 --> 00:14:00,488
+Can I be of any assistance?
+
+216
+00:14:00,489 --> 00:14:04,125
+<i>Would you happen
+to have a Ben Hur, 1860?</i>
+
+217
+00:14:04,126 --> 00:14:07,362
+<i>- A what?
+- Do you have a Ben Hur, 1860?</i>
+
+218
+00:14:07,363 --> 00:14:08,619
+A first edition?
+
+219
+00:14:08,697 --> 00:14:11,099
+No, no, the third, the third!
+
+220
+00:14:11,100 --> 00:14:13,601
+The one with the erratum on page 116.
+
+221
+00:14:13,602 --> 00:14:15,094
+I'm afraid not.
+
+222
+00:14:15,104 --> 00:14:17,705
+How about a Chevalier Audubon,
+1840, full set?
+
+223
+00:14:17,706 --> 00:14:18,856
+Not at the moment.
+
+224
+00:14:18,874 --> 00:14:20,483
+You do sell books?
+
+225
+00:14:20,676 --> 00:14:23,111
+What do those look like? Grapefruit?
+
+226
+00:14:23,112 --> 00:14:26,014
+They look like books.
+Maybe I'd better see Mr. Geiger.
+
+227
+00:14:26,015 --> 00:14:28,880
+- He's not in just now.
+- That's a pity because...
+
+228
+00:14:38,427 --> 00:14:40,795
+I said, Mr. Geiger is not in!
+
+229
+00:14:40,796 --> 00:14:43,965
+I heard you.
+You needn't yell at me.
+
+230
+00:14:43,966 --> 00:14:47,936
+I'm late for my lecture on
+Argentine ceramics, so I won't wait.
+
+231
+00:14:47,937 --> 00:14:49,537
+The word is "ceramics".
+
+232
+00:14:49,538 --> 00:14:52,073
+And they ain't Argentine,
+they're Egyptian!
+
+233
+00:14:52,074 --> 00:14:54,709
+You did sell a book once, didn't you?
+
+234
+00:14:54,710 --> 00:14:56,477
+I'll run along to the library.
+
+235
+00:14:56,478 --> 00:15:00,350
+Or I could go to that bookstore
+across the street, couldn't I?
+
+236
+00:15:00,583 --> 00:15:01,761
+Do so.
+
+237
+00:15:01,817 --> 00:15:03,151
+Thank you.
+
+238
+00:15:26,141 --> 00:15:28,076
+Is there something I can do for you?
+
+239
+00:15:28,077 --> 00:15:31,674
+- Would you do me a small favor?
+- It depends on the favor.
+
+240
+00:15:31,981 --> 00:15:35,149
+- You know Geiger's bookstore?
+- I think I may have passed it.
+
+241
+00:15:35,150 --> 00:15:37,177
+You know Geiger by sight?
+
+242
+00:15:37,486 --> 00:15:39,317
+What's he look like?
+
+243
+00:15:39,321 --> 00:15:41,923
+Wouldn't it be easier to go
+and ask to see him?
+
+244
+00:15:41,924 --> 00:15:44,030
+I've already done that.
+
+245
+00:15:44,193 --> 00:15:46,561
+Know anything about rare books?
+
+246
+00:15:47,229 --> 00:15:48,760
+You could try me.
+
+247
+00:15:48,764 --> 00:15:51,065
+<i>Do you have a Ben Hur,
+1860, third edition...</i>
+
+248
+00:15:51,066 --> 00:15:53,093
+...with a duplicated line
+on page 116?
+
+249
+00:16:01,610 --> 00:16:03,637
+Or a Chevalier Audubon, 1840?
+
+250
+00:16:09,952 --> 00:16:12,887
+Nobody would. There isn't one.
+
+251
+00:16:12,888 --> 00:16:15,988
+The girl in Geiger's bookstore
+didn't know that.
+
+252
+00:16:17,760 --> 00:16:19,560
+I see.
+
+253
+00:16:19,561 --> 00:16:21,851
+You begin to interest me, vaguely.
+
+254
+00:16:24,800 --> 00:16:27,365
+I'm a private dick on a case.
+
+255
+00:16:27,569 --> 00:16:29,437
+Perhaps I'm asking too much...
+
+256
+00:16:29,438 --> 00:16:31,884
+...although it doesn't seem
+too much to me.
+
+257
+00:16:34,510 --> 00:16:37,034
+Geiger's in his early forties...
+
+258
+00:16:37,112 --> 00:16:38,904
+...medium height...
+
+259
+00:16:38,914 --> 00:16:40,326
+...fattish...
+
+260
+00:16:41,350 --> 00:16:44,852
+...soft all over,
+Charlie Chan mustache...
+
+261
+00:16:44,853 --> 00:16:46,265
+...well-dressed...
+
+262
+00:16:46,288 --> 00:16:48,512
+...wears a black hat...
+
+263
+00:16:48,757 --> 00:16:51,926
+...affects a knowledge
+of antiques and hasn't any...
+
+264
+00:16:51,927 --> 00:16:55,396
+...and I think his left eye is glass.
+
+265
+00:16:55,397 --> 00:16:57,464
+You'd make a good cop.
+
+266
+00:16:58,300 --> 00:16:59,987
+Thanks.
+
+267
+00:17:01,470 --> 00:17:04,191
+Gonna wait for him to come out?
+
+268
+00:17:05,808 --> 00:17:08,543
+They don't close
+for another hour or so.
+
+269
+00:17:08,544 --> 00:17:10,878
+And it's raining pretty hard.
+
+270
+00:17:10,879 --> 00:17:12,252
+I got my car and...
+
+271
+00:17:16,218 --> 00:17:18,419
+That's right.
+It is, isn't it?
+
+272
+00:17:18,420 --> 00:17:22,757
+It just happens I got a bottle
+of pretty good rye in my pocket.
+
+273
+00:17:22,758 --> 00:17:24,511
+I'd rather get wet in here.
+
+274
+00:17:26,361 --> 00:17:28,009
+Well!
+
+275
+00:17:38,407 --> 00:17:42,463
+Looks like we're closed
+for the rest of the afternoon.
+
+276
+00:17:47,449 --> 00:17:51,853
+- Tell me more about this business.
+- There isn't much to tell.
+
+277
+00:17:51,854 --> 00:17:53,502
+What's the matter?
+
+278
+00:17:53,622 --> 00:17:56,526
+I'm just wondering if you have to...
+
+279
+00:17:57,426 --> 00:17:59,650
+Not necessarily.
+
+280
+00:18:06,602 --> 00:18:09,401
+Little things like that make an...
+
+281
+00:18:09,938 --> 00:18:11,625
+Hello!
+
+282
+00:18:25,020 --> 00:18:28,578
+I hate to tell you, but that's
+Geiger's car driving up.
+
+283
+00:18:29,825 --> 00:18:31,392
+Who's the man getting out?
+
+284
+00:18:31,393 --> 00:18:34,297
+Geiger's shadow.
+His name's Carol Lundgren.
+
+285
+00:18:35,164 --> 00:18:36,197
+Thanks.
+
+286
+00:18:36,198 --> 00:18:39,367
+- If you ever want to buy a book...
+- A Ben Hur, 1860?
+
+287
+00:18:39,368 --> 00:18:40,780
+With duplications.
+
+288
+00:18:40,803 --> 00:18:42,254
+So long.
+
+289
+00:18:42,271 --> 00:18:44,102
+So long, pal.
+
+290
+00:23:10,839 --> 00:23:12,095
+You're cute.
+
+291
+00:23:12,140 --> 00:23:15,142
+And you're higher than a kite.
+Come on, wake up.
+
+292
+00:23:15,143 --> 00:23:18,623
+I know you. Doghouse Reilly.
+
+293
+00:23:19,214 --> 00:23:21,715
+- You're cute.
+- What do you know about this?
+
+294
+00:23:21,716 --> 00:23:23,783
+Mr. Geiger, here on the floor.
+
+295
+00:23:24,386 --> 00:23:26,492
+He's cute too.
+
+296
+00:23:27,722 --> 00:23:31,158
+You got a dead man at your feet.
+How did it happen?
+
+297
+00:23:31,159 --> 00:23:33,724
+You talk a lot, Reilly.
+
+298
+00:23:34,696 --> 00:23:36,449
+Come on!
+
+299
+00:23:43,438 --> 00:23:45,139
+Lie down there and be quiet.
+
+300
+00:23:45,140 --> 00:23:47,246
+All right, Reilly.
+
+301
+00:26:48,256 --> 00:26:50,087
+Come on, we're going.
+
+302
+00:27:28,296 --> 00:27:30,297
+- Good evening.
+- Is Mrs. Rutledge in?
+
+303
+00:27:30,298 --> 00:27:31,790
+- No, sir.
+- The general?
+
+304
+00:27:31,800 --> 00:27:34,443
+- He's asleep.
+- Good. I got something in the car.
+
+305
+00:27:34,836 --> 00:27:36,903
+She's all right.
+Is the maid around?
+
+306
+00:27:37,372 --> 00:27:39,006
+Yes, I'll get Matilda.
+
+307
+00:27:39,007 --> 00:27:41,041
+Now wait a minute.
+Not as I'm leaving.
+
+308
+00:27:41,042 --> 00:27:43,844
+I haven't been here.
+You haven't seen me at all.
+
+309
+00:27:43,845 --> 00:27:45,679
+Kid hasn't been out of the house.
+
+310
+00:27:45,680 --> 00:27:47,614
+I understand.
+May I get you a cab?
+
+311
+00:27:47,615 --> 00:27:49,839
+No, I'm all right.
+Put her car away.
+
+312
+00:30:17,065 --> 00:30:19,399
+- Hello, Bernie. Come in.
+- Hello, Phil.
+
+313
+00:30:19,400 --> 00:30:20,695
+Don't you ever go to bed?
+
+314
+00:30:20,735 --> 00:30:22,266
+What you been doing?
+
+315
+00:30:22,270 --> 00:30:23,565
+Just sitting around.
+
+316
+00:30:23,605 --> 00:30:25,292
+All evening?
+
+317
+00:30:26,307 --> 00:30:27,407
+What is it?
+
+318
+00:30:27,408 --> 00:30:29,209
+Does it have to be something?
+
+319
+00:30:29,210 --> 00:30:31,912
+You're a friend, but when
+a man from Homicide...
+
+320
+00:30:31,913 --> 00:30:34,281
+...just drops in at 2 a.m.,
+I kind of...
+
+321
+00:30:34,282 --> 00:30:36,016
+Working on cipher, huh?
+
+322
+00:30:36,017 --> 00:30:37,584
+Just fooling around.
+
+323
+00:30:37,585 --> 00:30:39,853
+You're working for the Sternwoods,
+right?
+
+324
+00:30:39,854 --> 00:30:41,385
+Thanks to you.
+
+325
+00:30:41,389 --> 00:30:43,023
+Done anything for them yet?
+
+326
+00:30:43,024 --> 00:30:45,248
+I started today.
+Then the rain came.
+
+327
+00:30:45,627 --> 00:30:49,563
+All right. They seem to be
+a family that things happen to.
+
+328
+00:30:49,564 --> 00:30:51,865
+There's a Packard
+belonging to them...
+
+329
+00:30:51,866 --> 00:30:54,966
+...washing around in the surf
+off Lido Pier.
+
+330
+00:30:55,770 --> 00:30:57,671
+And there's a guy in it.
+
+331
+00:30:57,672 --> 00:30:59,406
+Couldn't be Regan, could it?
+
+332
+00:30:59,407 --> 00:31:01,121
+Shawn Regan.
+
+333
+00:31:01,442 --> 00:31:04,011
+That Irish ex-legger
+old Sternwood hired...
+
+334
+00:31:04,012 --> 00:31:06,146
+...to do his drinking for him?
+
+335
+00:31:06,147 --> 00:31:08,582
+What would he be doing down there?
+
+336
+00:31:08,583 --> 00:31:11,527
+What would anybody
+be doing down there?
+
+337
+00:31:11,553 --> 00:31:14,721
+That's what I'm going to Lido
+to find out. Wanna come?
+
+338
+00:31:14,722 --> 00:31:16,331
+Yeah, I do.
+
+339
+00:31:16,724 --> 00:31:19,367
+- How's the weather?
+- Clearing up.
+
+340
+00:31:19,627 --> 00:31:23,068
+- What time did that call come in?
+- About 15 minutes ago.
+
+341
+00:31:24,032 --> 00:31:27,290
+- What kind of car you say it was?
+- Packard.
+
+342
+00:31:43,818 --> 00:31:45,152
+- Hello, Bernie.
+- Hi, Ed.
+
+343
+00:31:45,186 --> 00:31:46,678
+I see he's out.
+Who is he?
+
+344
+00:31:46,688 --> 00:31:50,557
+Owen Taylor. Sternwood's chauffeur,
+according to his license.
+
+345
+00:31:50,558 --> 00:31:52,926
+- What's the story?
+- You can see it from here.
+
+346
+00:31:52,927 --> 00:31:55,295
+There's where he went
+through the railing.
+
+347
+00:31:55,396 --> 00:31:57,431
+The rain stopped here about 9 p.m.
+
+348
+00:31:57,432 --> 00:32:01,841
+The broken rails are dry inside.
+That would put it about 9:30.
+
+349
+00:32:10,244 --> 00:32:11,979
+Let's have it, doc.
+
+350
+00:32:11,980 --> 00:32:15,182
+His neck's broken and something
+hit him across the temple.
+
+351
+00:32:15,183 --> 00:32:17,351
+What made the bruise?
+Steering wheel?
+
+352
+00:32:17,352 --> 00:32:19,186
+Whatever it was, it was covered.
+
+353
+00:32:19,187 --> 00:32:22,289
+The wound had bled under
+the skin while he was alive.
+
+354
+00:32:22,290 --> 00:32:24,191
+- Blackjack?
+- Could be.
+
+355
+00:32:24,192 --> 00:32:25,643
+Bernie, funny thing.
+
+356
+00:32:25,660 --> 00:32:28,161
+The hand throttle is set
+halfway down.
+
+357
+00:32:28,162 --> 00:32:30,497
+Thanks, Jim. So long, doc.
+
+358
+00:32:30,498 --> 00:32:32,722
+All right, boys. Take him away.
+
+359
+00:32:36,004 --> 00:32:39,406
+- Could be drunk or a suicide.
+- Yeah, but it isn't.
+
+360
+00:32:39,407 --> 00:32:41,642
+You know anything about Owen Taylor?
+
+361
+00:32:41,643 --> 00:32:43,844
+Only that a few
+Sternwood chauffeurs...
+
+362
+00:32:43,845 --> 00:32:47,103
+...lost their jobs because
+of the younger daughter, Carmen.
+
+363
+00:32:47,248 --> 00:32:49,349
+Tell me what
+you're working on, Phil.
+
+364
+00:32:49,350 --> 00:32:51,218
+They told me blackmail.
+
+365
+00:32:51,219 --> 00:32:53,325
+Who were they after? Carmen?
+
+366
+00:32:54,088 --> 00:32:56,657
+This doesn't look like
+the way you'd handle it.
+
+367
+00:32:56,658 --> 00:32:58,792
+You know, I got a feeling that...
+
+368
+00:32:58,793 --> 00:33:01,854
+Me? I didn't do this.
+
+369
+00:33:02,363 --> 00:33:04,431
+What were you going to say, Phil?
+
+370
+00:33:04,432 --> 00:33:07,734
+Give me another day, Bernie.
+I may have something for you.
+
+371
+00:33:07,735 --> 00:33:09,422
+Okay. Let's go home.
+
+372
+00:33:16,077 --> 00:33:19,335
+- I'm back again. Remember me?
+- I'm afraid I...
+
+373
+00:33:22,684 --> 00:33:24,371
+Do you remember me now?
+
+374
+00:33:24,719 --> 00:33:25,869
+Now, see here!
+
+375
+00:33:25,920 --> 00:33:28,758
+That was only a stall
+about those first editions.
+
+376
+00:33:28,890 --> 00:33:32,993
+I got something to sell.
+Something Geiger wants. Is he in?
+
+377
+00:33:32,994 --> 00:33:35,495
+No, he isn't.
+You might come back tomorrow...
+
+378
+00:33:35,496 --> 00:33:37,998
+Drop the veil.
+I'm in the business myself.
+
+379
+00:33:37,999 --> 00:33:40,467
+Is he sick?
+I could go to his house.
+
+380
+00:33:40,468 --> 00:33:43,306
+No, that wouldn't do.
+If you'd come back tomorrow...
+
+381
+00:33:43,471 --> 00:33:45,263
+Say, Agnes, you...
+
+382
+00:33:46,007 --> 00:33:47,721
+Come on, Carol.
+
+383
+00:33:50,411 --> 00:33:52,125
+Hurry up, will you?
+
+384
+00:33:53,181 --> 00:33:55,248
+- Perhaps...
+- His name's Lundgren, isn't it?
+
+385
+00:33:55,249 --> 00:33:57,084
+- What do you want?
+- Who's the other guy?
+
+386
+00:33:57,085 --> 00:33:58,952
+You'd better come tomorrow.
+
+387
+00:33:58,953 --> 00:34:01,138
+In the morning? Early?
+
+388
+00:34:01,489 --> 00:34:04,171
+Because it looks like
+you're moving today.
+
+389
+00:34:15,703 --> 00:34:17,966
+All right, driver. Let's go!
+
+390
+00:34:22,677 --> 00:34:25,581
+Around the corner, then take it easy.
+
+391
+00:34:25,847 --> 00:34:28,648
+- Where are we going?
+- Follow a car. A tail job.
+
+392
+00:34:28,649 --> 00:34:30,022
+I'm your girl, bud.
+
+393
+00:34:30,051 --> 00:34:31,843
+It wouldn't be bad.
+
+394
+00:34:31,986 --> 00:34:36,277
+That station wagon coming out
+of the alley. That's the one.
+
+395
+00:35:21,669 --> 00:35:23,837
+Here, sugar.
+Buy yourself a cigar.
+
+396
+00:35:23,838 --> 00:35:27,140
+If you can use me again sometime,
+call this number.
+
+397
+00:35:27,141 --> 00:35:28,291
+Day and night?
+
+398
+00:35:28,309 --> 00:35:31,867
+Night's better.
+I work during the day.
+
+399
+00:35:42,557 --> 00:35:44,591
+- Good morning.
+- You do get up.
+
+400
+00:35:44,592 --> 00:35:47,561
+I was thinking you worked in bed,
+like Marcel Proust.
+
+401
+00:35:47,562 --> 00:35:50,400
+- Who's he?
+- A French writer.
+
+402
+00:35:51,933 --> 00:35:54,118
+Come into my boudoir.
+
+403
+00:36:02,210 --> 00:36:03,910
+You don't put on a front.
+
+404
+00:36:03,911 --> 00:36:06,012
+Not much money in this work
+if you're honest.
+
+405
+00:36:06,013 --> 00:36:07,308
+Are you honest?
+
+406
+00:36:07,348 --> 00:36:10,851
+- We're starting that again?
+- I'm sorry. Also, about yesterday.
+
+407
+00:36:10,852 --> 00:36:13,920
+- Perhaps I was rude.
+- We were both rude.
+
+408
+00:36:13,921 --> 00:36:15,856
+You want to see me about Taylor?
+
+409
+00:36:15,857 --> 00:36:17,963
+So you know about that.
+
+410
+00:36:18,492 --> 00:36:21,528
+- Poor Owen.
+- The DA's man took me down to Lido.
+
+411
+00:36:21,529 --> 00:36:23,930
+He knew more about him than I did.
+
+412
+00:36:23,931 --> 00:36:26,900
+He knew Owen Taylor wanted
+to marry your sister.
+
+413
+00:36:26,901 --> 00:36:29,302
+Perhaps it wouldn't
+have been a bad idea.
+
+414
+00:36:29,303 --> 00:36:31,504
+You see, he was in love with her.
+
+415
+00:36:31,505 --> 00:36:34,226
+But I didn't come here about Owen.
+
+416
+00:36:35,109 --> 00:36:38,011
+You still can't tell me
+what my father wants you to do?
+
+417
+00:36:38,012 --> 00:36:39,579
+Not without his permission.
+
+418
+00:36:39,580 --> 00:36:42,418
+You can't even tell me
+if it was about Carmen?
+
+419
+00:36:43,918 --> 00:36:47,087
+You better look at this.
+A messenger brought it today.
+
+420
+00:36:47,088 --> 00:36:48,880
+"Eight thirty-five".
+
+421
+00:36:48,923 --> 00:36:50,610
+That's right.
+
+422
+00:36:52,093 --> 00:36:54,238
+She takes a nice picture.
+
+423
+00:36:54,362 --> 00:36:56,830
+They want 5000 for
+the negative and prints.
+
+424
+00:36:56,831 --> 00:36:58,243
+The demand came how?
+
+425
+00:36:58,266 --> 00:37:00,467
+A woman phoned me
+after it was delivered.
+
+426
+00:37:00,468 --> 00:37:02,969
+- What else?
+- There has to be something else?
+
+427
+00:37:02,970 --> 00:37:05,338
+This thing isn't
+worth $5000 to anybody.
+
+428
+00:37:05,339 --> 00:37:07,445
+- They think it is.
+- Why?
+
+429
+00:37:07,575 --> 00:37:09,876
+She said if they didn't
+get the money today...
+
+430
+00:37:09,877 --> 00:37:12,913
+...I'd be talking to my sister
+through a wire screen.
+
+431
+00:37:12,914 --> 00:37:15,315
+She said there was a police jam
+connected with it.
+
+432
+00:37:15,316 --> 00:37:16,728
+What kind of a jam?
+
+433
+00:37:16,751 --> 00:37:18,582
+I don't know.
+
+434
+00:37:19,520 --> 00:37:21,955
+You know where
+this picture was taken?
+
+435
+00:37:21,956 --> 00:37:25,158
+- I haven't the slightest idea.
+- Or when?
+
+436
+00:37:25,159 --> 00:37:26,726
+Talk to Carmen about it?
+
+437
+00:37:26,727 --> 00:37:29,529
+She was asleep when I left.
+She was sick last night.
+
+438
+00:37:29,530 --> 00:37:32,732
+- She go out at all?
+- Servants say she didn't.
+
+439
+00:37:32,733 --> 00:37:33,883
+You?
+
+440
+00:37:33,901 --> 00:37:37,734
+I was out all evening.
+Police already checked that.
+
+441
+00:37:38,205 --> 00:37:40,193
+Go ahead and scratch.
+
+442
+00:37:42,843 --> 00:37:45,312
+What was Owen doing
+with your car last night?
+
+443
+00:37:45,313 --> 00:37:47,995
+Nobody knows.
+He took it without permission.
+
+444
+00:37:48,082 --> 00:37:50,350
+- Why? You think...
+- That he knew about this?
+
+445
+00:37:50,351 --> 00:37:52,182
+I don't rule him out.
+
+446
+00:37:53,087 --> 00:37:54,988
+Outside of what the woman said...
+
+447
+00:37:54,989 --> 00:37:57,593
+...you don't know why
+they want $5000 for it?
+
+448
+00:37:59,961 --> 00:38:01,795
+That's why I came to you.
+
+449
+00:38:01,796 --> 00:38:05,498
+There's five fingers on any glove.
+Why didn't you go to the police?
+
+450
+00:38:05,499 --> 00:38:08,201
+You were afraid they'd find
+something I couldn't sit on.
+
+451
+00:38:08,202 --> 00:38:10,470
+Then where would the Sternwoods be?
+
+452
+00:38:10,471 --> 00:38:13,336
+May I use your phone, Mr. Marlowe?
+
+453
+00:38:20,081 --> 00:38:23,181
+Police headquarters, please.
+
+454
+00:38:24,151 --> 00:38:25,982
+Hello, this is Mrs...
+
+455
+00:38:28,422 --> 00:38:30,567
+Hello. What do you want, please?
+
+456
+00:38:31,092 --> 00:38:32,225
+What?
+
+457
+00:38:32,226 --> 00:38:33,757
+I called you?
+
+458
+00:38:33,761 --> 00:38:35,553
+Say, who is this?
+
+459
+00:38:35,896 --> 00:38:39,366
+Sergeant Reilly?
+There isn't any Sergeant Reilly here.
+
+460
+00:38:39,367 --> 00:38:42,232
+Wait a minute.
+You'd better talk to my mother.
+
+461
+00:38:45,272 --> 00:38:47,299
+Hello. Who's this?
+
+462
+00:38:47,575 --> 00:38:50,010
+The police?
+This isn't a police station.
+
+463
+00:38:50,011 --> 00:38:51,462
+If you know it, why did...
+
+464
+00:38:51,512 --> 00:38:55,031
+Look, this is not a police station!
+
+465
+00:38:55,082 --> 00:38:57,450
+What was that you said?
+
+466
+00:38:57,718 --> 00:39:00,583
+My father should hear this.
+
+467
+00:39:02,490 --> 00:39:04,361
+Hello. Who is this?
+
+468
+00:39:04,592 --> 00:39:06,693
+Yeah, but she just told you that...
+
+469
+00:39:06,694 --> 00:39:08,628
+You're the police!
+He's the police.
+
+470
+00:39:08,629 --> 00:39:11,651
+Well, that's different.
+What can I do for you?
+
+471
+00:39:12,166 --> 00:39:13,617
+I can do what?
+
+472
+00:39:13,701 --> 00:39:14,851
+Where?
+
+473
+00:39:14,869 --> 00:39:18,663
+Oh, no! I wouldn't like that,
+and neither would my daughter.
+
+474
+00:39:18,873 --> 00:39:21,508
+I hope the sergeant
+never traces that call.
+
+475
+00:39:21,509 --> 00:39:24,649
+You like to play games, don't you?
+
+476
+00:39:24,879 --> 00:39:26,780
+Why did you stop me phoning?
+
+477
+00:39:26,781 --> 00:39:28,882
+Because I'm working for your father.
+
+478
+00:39:28,883 --> 00:39:33,186
+Or because I think I'm beginning to
+like another one of the Sternwoods.
+
+479
+00:39:33,187 --> 00:39:35,869
+I prefer the second reason.
+
+480
+00:39:36,023 --> 00:39:40,860
+Well, let's get back to business.
+Have you got $5000 in cash?
+
+481
+00:39:40,861 --> 00:39:42,662
+- Can you get it?
+- I think so.
+
+482
+00:39:42,663 --> 00:39:45,598
+- Where from, your father?
+- I'd rather not.
+
+483
+00:39:45,599 --> 00:39:47,169
+Where would you get it?
+
+484
+00:39:47,201 --> 00:39:49,469
+Well, from Eddie Mars.
+
+485
+00:39:49,470 --> 00:39:50,537
+The gambler?
+
+486
+00:39:50,538 --> 00:39:53,440
+That explains why you
+haven't got $5000 in cash.
+
+487
+00:39:53,441 --> 00:39:55,233
+- I like gambling.
+- So do I.
+
+488
+00:39:55,543 --> 00:39:58,478
+- How do you know he'll give it to you?
+- I can get it.
+
+489
+00:39:58,479 --> 00:40:00,880
+I've been a good customer
+of Eddie Mars'.
+
+490
+00:40:00,881 --> 00:40:02,373
+Another reason:
+
+491
+00:40:02,383 --> 00:40:06,186
+There's a bond between
+Mr. Mars and the Sternwoods.
+
+492
+00:40:06,187 --> 00:40:09,405
+You see, Shawn Regan ran off
+with Eddie's wife.
+
+493
+00:40:09,423 --> 00:40:11,411
+That doesn't interest you?
+
+494
+00:40:12,026 --> 00:40:15,048
+It might make it easier
+for me to find him.
+
+495
+00:40:15,162 --> 00:40:16,496
+If I were looking for him.
+
+496
+00:40:18,365 --> 00:40:20,333
+Is Regan mixed up in this?
+
+497
+00:40:20,334 --> 00:40:23,570
+No. Shawn's not in any
+cheap blackmailing scheme.
+
+498
+00:40:23,571 --> 00:40:26,773
+I'm glad you said that.
+Do you want to tell me now?
+
+499
+00:40:26,774 --> 00:40:30,188
+- Tell you what?
+- What you're trying to find out.
+
+500
+00:40:30,744 --> 00:40:32,579
+You know, it's a funny thing.
+
+501
+00:40:32,580 --> 00:40:35,115
+You're trying to find out
+why I was hired.
+
+502
+00:40:35,116 --> 00:40:36,950
+And I'm trying to find out why you...
+
+503
+00:40:36,951 --> 00:40:39,252
+You could go on forever,
+couldn't you?
+
+504
+00:40:39,253 --> 00:40:42,197
+It'll give us something
+to talk about next time.
+
+505
+00:40:42,356 --> 00:40:44,999
+Among other things.
+Oh, Mrs. Rutledge.
+
+506
+00:40:45,059 --> 00:40:48,277
+You wanted me to do something
+about this, didn't you?
+
+507
+00:40:48,295 --> 00:40:49,996
+That call, how'd you leave it?
+
+508
+00:40:49,997 --> 00:40:52,298
+She's to call me at 6 p.m.
+with instructions.
+
+509
+00:40:52,299 --> 00:40:54,467
+Phone me when you've heard from her.
+
+510
+00:40:54,468 --> 00:40:57,170
+Since you're going
+to pay five grand for these...
+
+511
+00:40:57,171 --> 00:40:58,663
+...you'd better take this.
+
+512
+00:40:58,672 --> 00:41:00,857
+Goodbye, Mr. Marlowe.
+
+513
+00:41:04,044 --> 00:41:05,845
+Well, it wasn't intentional.
+
+514
+00:41:05,846 --> 00:41:08,070
+Try it sometime.
+
+515
+00:41:43,250 --> 00:41:46,252
+- What are you...
+- Remember me? I'm Doghouse Reilly.
+
+516
+00:41:46,253 --> 00:41:48,388
+The man that didn't grow very tall.
+
+517
+00:41:48,389 --> 00:41:50,993
+What's the matter?
+Couldn't you get in the house?
+
+518
+00:41:51,458 --> 00:41:53,787
+Come on. I've got a key.
+
+519
+00:41:54,662 --> 00:41:58,142
+- Where'd you leave your car?
+- Around in back.
+
+520
+00:42:14,515 --> 00:42:16,007
+Looking for something?
+
+521
+00:42:16,016 --> 00:42:18,518
+How much do you remember
+about last night?
+
+522
+00:42:18,519 --> 00:42:21,921
+Remember what?
+I was sick last night. I was home.
+
+523
+00:42:21,922 --> 00:42:24,624
+Before you went home.
+In that chair there.
+
+524
+00:42:24,625 --> 00:42:27,060
+You remember, all right.
+
+525
+00:42:27,061 --> 00:42:29,696
+Quit your stalling
+and stop biting your thumb!
+
+526
+00:42:29,697 --> 00:42:32,966
+- Were you the one who was here?
+- How much do you remember?
+
+527
+00:42:32,967 --> 00:42:35,134
+Are you the police?
+
+528
+00:42:35,135 --> 00:42:37,103
+No, I'm a friend of your father's.
+
+529
+00:42:37,104 --> 00:42:39,131
+Who killed Geiger?
+
+530
+00:42:39,707 --> 00:42:41,238
+Who else knows about it?
+
+531
+00:42:41,242 --> 00:42:43,176
+What, that he's dead?
+I don't know.
+
+532
+00:42:43,177 --> 00:42:47,080
+Not the cops, or they'd be camping
+here. Was it Joe Brody?
+
+533
+00:42:47,081 --> 00:42:49,605
+Joe Brody. Who's he?
+
+534
+00:42:50,150 --> 00:42:52,552
+I don't know how much trouble
+you're used to...
+
+535
+00:42:52,553 --> 00:42:55,455
+...but I hope you've had plenty
+of practice dodging it.
+
+536
+00:42:55,456 --> 00:42:56,868
+Did Brody kill him?
+
+537
+00:42:56,890 --> 00:42:58,538
+Kill who?
+
+538
+00:43:02,630 --> 00:43:04,497
+Yes, Joe did it.
+
+539
+00:43:04,498 --> 00:43:06,068
+He did?
+
+540
+00:43:07,935 --> 00:43:09,230
+Why?
+
+541
+00:43:09,770 --> 00:43:11,182
+I don't know.
+
+542
+00:43:11,205 --> 00:43:13,640
+But you're ready to tell
+the police he did it?
+
+543
+00:43:13,641 --> 00:43:15,642
+That is, if we can get
+the photograph.
+
+544
+00:43:15,643 --> 00:43:16,676
+You mean...?
+
+545
+00:43:16,677 --> 00:43:19,612
+It's gone. I looked for it.
+Brody took it with him.
+
+546
+00:43:19,613 --> 00:43:21,876
+I've got to go home now.
+
+547
+00:43:22,116 --> 00:43:25,852
+I wouldn't say anything
+to the police about Brody just yet.
+
+548
+00:43:25,853 --> 00:43:28,321
+I wouldn't say anything
+about anything.
+
+549
+00:43:28,322 --> 00:43:31,791
+That you were ever here.
+Not even to your sister.
+
+550
+00:43:31,792 --> 00:43:33,977
+Just leave it to Reilly.
+
+551
+00:43:34,395 --> 00:43:37,077
+Your name isn't Reilly...
+
+552
+00:43:50,377 --> 00:43:53,713
+Excuse the casual entrance.
+The bell didn't answer.
+
+553
+00:43:54,148 --> 00:43:55,443
+Mr. Geiger around?
+
+554
+00:43:55,482 --> 00:43:57,150
+We don't know where he is.
+
+555
+00:43:57,151 --> 00:43:59,716
+We found the door open
+and just stepped in.
+
+556
+00:44:01,288 --> 00:44:02,897
+- Friends of his?
+- Business.
+
+557
+00:44:03,123 --> 00:44:05,111
+We dropped in for a book.
+
+558
+00:44:05,125 --> 00:44:06,893
+Any message if he comes back?
+
+559
+00:44:06,894 --> 00:44:10,229
+No, I don't think so.
+We won't bother you.
+
+560
+00:44:10,230 --> 00:44:11,839
+Just a minute.
+
+561
+00:44:12,366 --> 00:44:13,933
+The girl can go.
+
+562
+00:44:13,934 --> 00:44:17,070
+- I'd like to talk to you.
+- Suppose I don't want to talk?
+
+563
+00:44:17,071 --> 00:44:19,020
+I've got two boys out in the car.
+
+564
+00:44:20,240 --> 00:44:22,307
+It's like that, eh?
+
+565
+00:44:23,477 --> 00:44:25,387
+Run along, angel.
+
+566
+00:44:32,086 --> 00:44:33,839
+Your story doesn't sound right.
+
+567
+00:44:33,887 --> 00:44:36,032
+That's too bad.
+Got a better one?
+
+568
+00:44:36,990 --> 00:44:38,861
+Maybe I can find one.
+
+569
+00:44:45,432 --> 00:44:47,734
+Blood.
+Quite a lot of blood.
+
+570
+00:44:47,735 --> 00:44:49,566
+Is that so?
+
+571
+00:44:49,570 --> 00:44:52,514
+- Do you mind?
+- No, I'm used to it.
+
+572
+00:44:52,639 --> 00:44:55,041
+I think we'll let
+the police in on this.
+
+573
+00:44:55,042 --> 00:44:57,488
+- We'll have some law...
+- Yeah. Why not?
+
+574
+00:44:58,178 --> 00:44:59,473
+Who are you, soldier?
+
+575
+00:44:59,513 --> 00:45:01,614
+Marlowe.
+I'm a private detective.
+
+576
+00:45:01,615 --> 00:45:03,146
+- Who's the girl?
+- A client.
+
+577
+00:45:03,150 --> 00:45:06,185
+Geiger tried to throw a loop on her.
+We came to talk.
+
+578
+00:45:06,186 --> 00:45:10,423
+- Convenient, the door being open.
+- Wasn't it? How'd you have a key?
+
+579
+00:45:10,424 --> 00:45:12,325
+- That your business?
+- Could be.
+
+580
+00:45:12,326 --> 00:45:13,699
+I could make yours mine.
+
+581
+00:45:13,727 --> 00:45:16,631
+You wouldn't like it.
+The pay's too small.
+
+582
+00:45:17,765 --> 00:45:20,500
+All right, I own this house.
+Geiger's my tenant.
+
+583
+00:45:20,501 --> 00:45:23,202
+- Now what do you think?
+- You know some nice people.
+
+584
+00:45:23,203 --> 00:45:25,230
+I take them as they come.
+
+585
+00:45:25,606 --> 00:45:26,784
+Got any good ideas?
+
+586
+00:45:26,874 --> 00:45:29,275
+One or two.
+Somebody gunned Geiger.
+
+587
+00:45:29,276 --> 00:45:31,511
+Or somebody got gunned
+by Geiger, who ran away.
+
+588
+00:45:31,512 --> 00:45:34,614
+Or he had meat for dinner
+and likes to butcher in the parlor.
+
+589
+00:45:34,615 --> 00:45:38,251
+No, I don't like it either.
+Maybe you'd better call downtown.
+
+590
+00:45:38,252 --> 00:45:40,620
+I don't get it.
+I don't get your game.
+
+591
+00:45:40,621 --> 00:45:41,955
+Don't you, Mr. Mars?
+
+592
+00:45:42,456 --> 00:45:44,891
+Wondered why you didn't
+ask me who I was.
+
+593
+00:45:44,892 --> 00:45:47,914
+You're telling me Geiger was
+in a racket of some kind.
+
+594
+00:45:47,995 --> 00:45:49,896
+- What racket?
+- I wouldn't know.
+
+595
+00:45:49,897 --> 00:45:52,198
+But I'll tell you
+something you missed.
+
+596
+00:45:52,199 --> 00:45:54,803
+Somebody cleaned out
+Geiger's store today.
+
+597
+00:45:54,902 --> 00:45:56,569
+You talk too much.
+
+598
+00:45:56,570 --> 00:45:59,016
+You really got those boys outside?
+
+599
+00:46:00,707 --> 00:46:01,857
+Open the door.
+
+600
+00:46:01,875 --> 00:46:04,936
+Open it yourself.
+I already got a client.
+
+601
+00:46:09,216 --> 00:46:11,517
+It's all right.
+Just proving something.
+
+602
+00:46:11,518 --> 00:46:13,467
+While you're here, look him over.
+
+603
+00:46:18,959 --> 00:46:20,860
+- Pardon me.
+- Who is he?
+
+604
+00:46:20,861 --> 00:46:23,796
+Philip Marlowe, Hobart Arms,
+Franklin Street.
+
+605
+00:46:23,797 --> 00:46:26,098
+Special license,
+deputy badge and all.
+
+606
+00:46:26,099 --> 00:46:27,277
+All right, outside.
+
+607
+00:46:27,334 --> 00:46:29,602
+- A shamus.
+- The man said, outside.
+
+608
+00:46:29,603 --> 00:46:33,580
+He said that.
+That's what the man said.
+
+609
+00:46:35,342 --> 00:46:37,134
+He kills me.
+
+610
+00:46:38,846 --> 00:46:40,024
+Is he any good?
+
+611
+00:46:40,080 --> 00:46:43,015
+Who? Sidney?
+He's company for Pete.
+
+612
+00:46:43,016 --> 00:46:44,233
+All right, talk.
+
+613
+00:46:44,284 --> 00:46:46,686
+Not to you.
+I already got a client.
+
+614
+00:46:46,687 --> 00:46:48,788
+Who cleaned out Geiger's store?
+
+615
+00:46:48,789 --> 00:46:51,757
+Lots of weather we're having.
+Did it rain at Las Olindas?
+
+616
+00:46:51,758 --> 00:46:53,826
+I might make it worth your while.
+
+617
+00:46:53,827 --> 00:46:55,358
+I might make it worth yours.
+
+618
+00:46:55,362 --> 00:46:58,064
+What do you care
+who cleaned out Geiger's store?
+
+619
+00:46:58,065 --> 00:47:00,233
+- I could make you talk.
+- It's been tried.
+
+620
+00:47:00,234 --> 00:47:01,685
+And?
+
+621
+00:47:01,969 --> 00:47:03,903
+Why don't you call the cops?
+
+622
+00:47:03,904 --> 00:47:06,469
+I think you'd better
+get out of here.
+
+623
+00:47:07,207 --> 00:47:10,999
+By the way,
+how's Mrs. Mars these days?
+
+624
+00:47:11,000 --> 00:47:13,446
+You take chances, Marlowe.
+
+625
+00:47:13,803 --> 00:47:15,752
+I get paid to.
+
+626
+00:47:35,488 --> 00:47:38,323
+Mrs. Rutledge. I've been
+waiting to hear from you.
+
+627
+00:47:38,324 --> 00:47:41,160
+<i>I'm sorry.
+I have nothing to tell you.</i>
+
+628
+00:47:41,161 --> 00:47:43,428
+<i>- She didn't call?
+- No, she didn't.</i>
+
+629
+00:47:43,429 --> 00:47:47,365
+Did you get the money
+in case she does?
+
+630
+00:47:47,366 --> 00:47:52,369
+<i>I have the money. I'll get in touch
+with you as soon as she calls.</i>
+
+631
+00:47:52,370 --> 00:47:56,203
+All right, I'll stay
+right here until you call.
+
+632
+00:49:20,883 --> 00:49:22,295
+Geiger?
+
+633
+00:49:22,317 --> 00:49:24,184
+- You said what?
+- Arthur Geiger.
+
+634
+00:49:24,185 --> 00:49:26,186
+The guy with the blackmail racket.
+
+635
+00:49:26,187 --> 00:49:29,589
+- I don't know anybody by that name.
+- You're Joe Brody?
+
+636
+00:49:29,590 --> 00:49:31,858
+- So what?
+- So you're Joe Brody.
+
+637
+00:49:31,859 --> 00:49:34,293
+And you don't know Geiger.
+That's very funny.
+
+638
+00:49:34,294 --> 00:49:37,963
+You've got a funny sense of humor.
+Take it somewhere else.
+
+639
+00:49:37,964 --> 00:49:41,400
+Joe, you got Geiger's stuff.
+I got his sucker list.
+
+640
+00:49:41,401 --> 00:49:43,334
+Don't you think we ought to talk?
+
+641
+00:49:43,335 --> 00:49:44,786
+Now!
+
+642
+00:49:45,838 --> 00:49:48,598
+All right. If you think
+you got something.
+
+643
+00:49:53,044 --> 00:49:54,614
+You alone, Joe?
+
+644
+00:49:55,446 --> 00:49:57,591
+Except for this.
+
+645
+00:49:58,183 --> 00:50:02,618
+My, my, such a lot of guns
+around town and so few brains.
+
+646
+00:50:02,619 --> 00:50:04,787
+You're the second guy
+today that thinks...
+
+647
+00:50:04,788 --> 00:50:08,006
+...a gat in the hand
+means the world by the tail.
+
+648
+00:50:08,826 --> 00:50:10,692
+Put it down, Joe.
+
+649
+00:50:10,693 --> 00:50:13,461
+The other guy was Eddie Mars.
+You ever hear of him?
+
+650
+00:50:13,462 --> 00:50:16,698
+If he gets wise to where you were
+last night, you'll hear of him.
+
+651
+00:50:16,699 --> 00:50:18,499
+What would I be to Eddie Mars?
+
+652
+00:50:18,500 --> 00:50:20,501
+I don't know if you don't.
+
+653
+00:50:20,502 --> 00:50:22,903
+Look, don't get me wrong.
+
+654
+00:50:22,904 --> 00:50:24,505
+I'm not a tough guy.
+
+655
+00:50:24,506 --> 00:50:25,684
+Just careful.
+
+656
+00:50:25,841 --> 00:50:27,333
+You're not careful enough.
+
+657
+00:50:27,342 --> 00:50:30,376
+That play with Geiger's stuff
+was terrible.
+
+658
+00:50:30,377 --> 00:50:33,913
+Don't kid yourself I won't
+use this if I have to.
+
+659
+00:50:33,914 --> 00:50:35,048
+What's your story?
+
+660
+00:50:35,049 --> 00:50:37,349
+Why don't you ask
+your friend to come out?
+
+661
+00:50:37,350 --> 00:50:39,418
+She must get tired
+of holding her breath.
+
+662
+00:50:39,419 --> 00:50:41,253
+Come on out, Agnes.
+
+663
+00:50:41,254 --> 00:50:42,387
+Hello, sugar.
+
+664
+00:50:42,388 --> 00:50:44,423
+I knew you were trouble.
+I told Joe...
+
+665
+00:50:44,424 --> 00:50:47,562
+Ask Mrs. Rutledge to come out too.
+
+666
+00:50:49,695 --> 00:50:50,873
+What did you come for?
+
+667
+00:50:50,929 --> 00:50:53,431
+- Why'd you lie to me?
+- I don't need you.
+
+668
+00:50:53,432 --> 00:50:54,465
+Keep out of it!
+
+669
+00:50:54,466 --> 00:50:56,566
+I don't want you here.
+Will you get out?
+
+670
+00:50:56,567 --> 00:51:00,003
+But he won't let me.
+He's curious, bothered and wondering.
+
+671
+00:51:00,004 --> 00:51:02,272
+You bet I'm wondering
+and I'll find out.
+
+672
+00:51:02,273 --> 00:51:03,907
+- Sit down.
+- Stop waving that gun.
+
+673
+00:51:03,908 --> 00:51:06,876
+I didn't do anything.
+Can't you talk without that?
+
+674
+00:51:06,877 --> 00:51:08,408
+Don't argue with the man.
+
+675
+00:51:08,411 --> 00:51:11,113
+- You're ruining things.
+- I'm not. If you'd...
+
+676
+00:51:11,114 --> 00:51:12,606
+Say, look!
+
+677
+00:51:12,616 --> 00:51:14,215
+What are you up here for?
+
+678
+00:51:14,216 --> 00:51:17,986
+To keep her from paying you off,
+and to take the cops off your neck.
+
+679
+00:51:17,987 --> 00:51:19,321
+What cops?
+
+680
+00:51:19,355 --> 00:51:23,070
+The cops that want to know
+where the lead in Geiger came from.
+
+681
+00:51:23,491 --> 00:51:25,125
+Look, Joe, you shot Geiger.
+
+682
+00:51:25,126 --> 00:51:26,894
+- I didn't know...
+- The cops don't yet.
+
+683
+00:51:26,895 --> 00:51:28,766
+He wasn't alone
+when you shot him.
+
+684
+00:51:29,264 --> 00:51:33,232
+Either you didn't notice that
+or you got scared and ran away.
+
+685
+00:51:33,233 --> 00:51:35,401
+But you had nerve enough
+to take the film.
+
+686
+00:51:35,402 --> 00:51:38,237
+And nerve enough
+to come back and hide the body.
+
+687
+00:51:38,238 --> 00:51:39,839
+- You're crazy!
+- Shut up!
+
+688
+00:51:39,840 --> 00:51:42,274
+So you could clean out the store...
+
+689
+00:51:42,275 --> 00:51:44,996
+...before the law knew
+there was a murder.
+
+690
+00:51:45,044 --> 00:51:48,413
+You take chances. It's lucky
+for you I didn't shoot Geiger.
+
+691
+00:51:48,414 --> 00:51:52,116
+But you can step off for it anyway.
+You're made-to-order for the rap.
+
+692
+00:51:52,117 --> 00:51:53,295
+You think you've got me?
+
+693
+00:51:53,351 --> 00:51:54,568
+- Positive.
+- How come?
+
+694
+00:51:54,619 --> 00:51:59,088
+I told you, there was a witness.
+Now don't go simple on me.
+
+695
+00:51:59,089 --> 00:52:01,691
+You mean Carmen.
+She'd say anything.
+
+696
+00:52:01,692 --> 00:52:03,826
+So you have got that picture.
+
+697
+00:52:03,827 --> 00:52:05,461
+I guess you think I'm dumb.
+
+698
+00:52:05,462 --> 00:52:07,697
+Just average, for a grafter.
+
+699
+00:52:07,698 --> 00:52:10,265
+You see, either you were
+there last night...
+
+700
+00:52:10,266 --> 00:52:13,135
+...or you got the picture
+from somebody who was.
+
+701
+00:52:13,136 --> 00:52:14,836
+You knew Carmen was there...
+
+702
+00:52:14,837 --> 00:52:18,039
+...because you had your girlfriend
+threaten Mrs. Rutledge.
+
+703
+00:52:18,040 --> 00:52:21,108
+The only way you could have known
+was by being there...
+
+704
+00:52:21,109 --> 00:52:23,945
+...and seeing what happened.
+Or having the picture.
+
+705
+00:52:23,946 --> 00:52:25,096
+Make sense?
+
+706
+00:52:25,113 --> 00:52:26,408
+Who are you?
+
+707
+00:52:26,447 --> 00:52:28,982
+A guy who gets paid to do
+people's laundry.
+
+708
+00:52:28,983 --> 00:52:31,718
+And all I'll get out
+of it is that picture.
+
+709
+00:52:31,719 --> 00:52:34,087
+How about some dough?
+I'm down to nickels.
+
+710
+00:52:34,088 --> 00:52:37,842
+Not from my client.
+Get the picture, Joe.
+
+711
+00:52:41,661 --> 00:52:43,532
+Stay right there.
+
+712
+00:52:46,999 --> 00:52:49,026
+Here. Watch him.
+
+713
+00:53:02,113 --> 00:53:04,113
+- Take it easy.
+- I want my picture.
+
+714
+00:53:04,114 --> 00:53:05,801
+- Now...
+- I want my picture.
+
+715
+00:53:05,849 --> 00:53:07,641
+You shot Geiger.
+
+716
+00:53:09,419 --> 00:53:10,714
+Hold it!
+
+717
+00:53:12,688 --> 00:53:16,404
+Get up. You look like a Pekinese.
+And since I'm collecting guns...
+
+718
+00:53:16,859 --> 00:53:18,860
+Sit down, sugar.
+Now where were we?
+
+719
+00:53:18,861 --> 00:53:21,843
+Oh, yes, you were just about
+to get something.
+
+720
+00:53:31,572 --> 00:53:33,473
+There better not be
+any more prints.
+
+721
+00:53:33,474 --> 00:53:35,044
+There won't be.
+
+722
+00:53:40,346 --> 00:53:42,831
+Can I have my picture now?
+
+723
+00:53:43,950 --> 00:53:45,100
+Can I have my gun?
+
+724
+00:53:45,151 --> 00:53:46,301
+Later.
+
+725
+00:53:49,221 --> 00:53:51,555
+You're cute. I like you.
+
+726
+00:53:51,556 --> 00:53:56,260
+This is nothing. I got a Balinese
+dancing girl tattooed on my chest.
+
+727
+00:53:56,261 --> 00:53:58,405
+You better take her home.
+
+728
+00:53:59,830 --> 00:54:01,865
+I suppose I should thank you.
+
+729
+00:54:01,866 --> 00:54:04,704
+No, just don't lie to me next time.
+
+730
+00:54:04,969 --> 00:54:06,800
+Come on, Carmen.
+
+731
+00:54:08,471 --> 00:54:10,080
+Hold it, Joe.
+
+732
+00:54:15,178 --> 00:54:17,745
+You got off easy, Joe.
+What's the matter, sugar?
+
+733
+00:54:17,746 --> 00:54:20,081
+- He gives me a pain...
+- Goes for me too.
+
+734
+00:54:20,082 --> 00:54:21,416
+You got the photos.
+Get out.
+
+735
+00:54:21,450 --> 00:54:23,217
+- Where's the pain?
+- In my...
+
+736
+00:54:23,218 --> 00:54:24,285
+Get out!
+
+737
+00:54:24,286 --> 00:54:26,920
+Not yet. We got a few things
+to straighten out.
+
+738
+00:54:26,921 --> 00:54:28,177
+I told you to get out.
+
+739
+00:54:28,222 --> 00:54:30,323
+What difference does it make now?
+
+740
+00:54:30,324 --> 00:54:32,626
+Why'd you put the bee
+on Mrs. Rutledge?
+
+741
+00:54:32,627 --> 00:54:36,128
+I tapped the old man six months ago.
+I figured it might not work twice.
+
+742
+00:54:36,129 --> 00:54:38,564
+Why'd you think
+Mrs. Rutledge wouldn't tell him?
+
+743
+00:54:38,565 --> 00:54:41,167
+- How well do you know her?
+- We'll pass that.
+
+744
+00:54:41,168 --> 00:54:45,537
+I figured she might have a thing
+or two she wouldn't want him to know.
+
+745
+00:54:45,538 --> 00:54:48,139
+That's a little weak,
+but we'll pass that too.
+
+746
+00:54:48,140 --> 00:54:50,442
+Say, Joe, how'd you get that picture?
+
+747
+00:54:50,443 --> 00:54:52,810
+You got what you came for,
+and you got it cheap.
+
+748
+00:54:52,811 --> 00:54:55,279
+I don't know anything about it.
+Do I, Agnes?
+
+749
+00:54:55,280 --> 00:54:57,848
+- But you just gave it to me.
+- A half-smart guy.
+
+750
+00:54:57,849 --> 00:54:59,583
+That's what I always draw.
+
+751
+00:54:59,584 --> 00:55:03,519
+Never once a man who's smart
+all the way around the course.
+
+752
+00:55:03,520 --> 00:55:04,815
+Did I hurt you much?
+
+753
+00:55:04,855 --> 00:55:06,589
+You and every other man.
+
+754
+00:55:06,590 --> 00:55:08,082
+Where'd you get that picture?
+
+755
+00:55:08,258 --> 00:55:09,826
+It fell out of somebody's pocket.
+
+756
+00:55:09,827 --> 00:55:13,240
+- Got an alibi for last night?
+- I was here with Agnes.
+
+757
+00:55:14,063 --> 00:55:15,831
+That's a great witness.
+
+758
+00:55:15,832 --> 00:55:18,867
+You can only die once,
+even for a couple of murders.
+
+759
+00:55:18,868 --> 00:55:20,240
+A couple of murders?
+
+760
+00:55:20,268 --> 00:55:23,537
+I mean two murders. Where were you
+about 7:30 last night?
+
+761
+00:55:23,538 --> 00:55:24,911
+Where were you?
+
+762
+00:55:24,940 --> 00:55:27,108
+All right, I was watching
+Geiger's place.
+
+763
+00:55:27,109 --> 00:55:28,560
+Why?
+
+764
+00:55:28,577 --> 00:55:31,778
+- To get something on him.
+- Look at me while you're talking.
+
+765
+00:55:31,779 --> 00:55:34,247
+It was raining hard
+and I was in my car.
+
+766
+00:55:34,248 --> 00:55:38,250
+There was a car out front and another
+down the hill. I was in back.
+
+767
+00:55:38,251 --> 00:55:40,185
+- Who else was back there?
+- Nobody.
+
+768
+00:55:40,186 --> 00:55:43,455
+There was a big Packard near
+where I was, so I took a look.
+
+769
+00:55:43,456 --> 00:55:45,858
+It was registered to the Sternwoods.
+
+770
+00:55:45,859 --> 00:55:49,760
+Nothing happened, so I got tired
+of waiting and I went home.
+
+771
+00:55:49,761 --> 00:55:51,963
+Know where that Packard is now?
+
+772
+00:55:51,964 --> 00:55:54,132
+It's in the sheriff's garage.
+
+773
+00:55:54,133 --> 00:55:57,701
+It was fished out of 12 feet of water
+off Lido Pier this morning.
+
+774
+00:55:57,702 --> 00:55:59,503
+There was a dead man in it.
+
+775
+00:55:59,504 --> 00:56:02,506
+It was pointed toward
+the pier and the throttle pulled out.
+
+776
+00:56:02,507 --> 00:56:04,908
+- You can't pin that on me.
+- I can try.
+
+777
+00:56:04,909 --> 00:56:06,700
+Sit down, Joe.
+
+778
+00:56:08,645 --> 00:56:11,981
+The dead man was Owen Taylor,
+Sternwood's chauffeur.
+
+779
+00:56:11,982 --> 00:56:14,983
+He went up to Geiger's
+because he was sweet on Carmen.
+
+780
+00:56:14,984 --> 00:56:17,719
+He didn't like the games
+Geiger was playing.
+
+781
+00:56:17,720 --> 00:56:20,889
+He let himself in the back
+with a jimmy and he had a gun.
+
+782
+00:56:20,890 --> 00:56:24,791
+The gun went off, as guns will,
+and Geiger fell down dead.
+
+783
+00:56:24,792 --> 00:56:28,428
+Owen ran with the film.
+You went after him and got it.
+
+784
+00:56:28,429 --> 00:56:30,731
+All right, you're right.
+I heard the shots...
+
+785
+00:56:30,732 --> 00:56:33,900
+...and saw him run out and
+enter the Packard and away.
+
+786
+00:56:33,901 --> 00:56:35,313
+I followed him.
+
+787
+00:56:35,335 --> 00:56:37,859
+He turned west on Sunset.
+
+788
+00:56:38,071 --> 00:56:40,039
+And beyond Beverly...
+
+789
+00:56:40,040 --> 00:56:44,209
+...he skidded off the road
+and came to a stop.
+
+790
+00:56:44,210 --> 00:56:46,745
+So I came up and played copper.
+
+791
+00:56:46,746 --> 00:56:50,348
+He had a gun. He was rattled,
+so I sapped him down.
+
+792
+00:56:50,349 --> 00:56:53,384
+I figured the film might be
+worth something, so I took it.
+
+793
+00:56:53,385 --> 00:56:55,491
+That's the last I saw of him.
+
+794
+00:56:56,388 --> 00:57:00,257
+So you left an unconscious man
+in a car way out near Beverly.
+
+795
+00:57:00,258 --> 00:57:02,926
+And you want me to believe
+somebody came along...
+
+796
+00:57:02,927 --> 00:57:05,929
+...ran that car to the ocean,
+pushed it off the pier...
+
+797
+00:57:05,930 --> 00:57:07,764
+...then hid Geiger's body?
+
+798
+00:57:07,765 --> 00:57:10,065
+- Well, I didn't...
+- Somebody did.
+
+799
+00:57:10,066 --> 00:57:12,467
+You wanted time to take over.
+
+800
+00:57:12,468 --> 00:57:14,436
+You can't prove I did it.
+
+801
+00:57:14,437 --> 00:57:16,605
+I don't particularly want to.
+
+802
+00:57:16,606 --> 00:57:21,014
+All I want to do is find out
+what Geiger had on the Sternwoods.
+
+803
+00:57:21,443 --> 00:57:23,889
+Maybe you and I can make
+a little deal.
+
+804
+00:57:24,513 --> 00:57:25,886
+Go ahead.
+
+805
+00:57:32,019 --> 00:57:33,392
+Maybe she's back.
+
+806
+00:57:33,421 --> 00:57:36,103
+If she is, she hasn't got her gun.
+
+807
+00:58:55,627 --> 00:58:57,458
+You got a match, bud?
+
+808
+00:59:00,665 --> 00:59:02,932
+What'll it be, kid?
+Me or the cops?
+
+809
+00:59:02,933 --> 00:59:04,464
+What do you want?
+
+810
+00:59:07,672 --> 00:59:10,615
+Sit in that car,
+back of the wheel. You drive.
+
+811
+00:59:15,412 --> 00:59:19,623
+As soon as this police car goes by,
+we're going to Geiger's house.
+
+812
+00:59:20,516 --> 00:59:22,984
+By the way, Carol,
+you shot the wrong guy.
+
+813
+00:59:22,985 --> 00:59:25,275
+Brody didn't kill Geiger.
+
+814
+00:59:26,121 --> 00:59:27,833
+All right, let's go.
+
+815
+00:59:50,042 --> 00:59:53,679
+- You got a key. Let's go in.
+- Who said I got a key?
+
+816
+00:59:58,383 --> 00:59:59,678
+All right, come on!
+
+817
+01:00:00,919 --> 01:00:02,868
+Maybe you need this.
+
+818
+01:01:11,148 --> 01:01:13,097
+<i>- Hello.
+- Hello, Bernie?</i>
+
+819
+01:01:13,216 --> 01:01:15,050
+<i>Is this who I think it is?</i>
+
+820
+01:01:15,051 --> 01:01:17,619
+It's Marlowe.
+How are you fixed for red points?
+
+821
+01:01:17,620 --> 01:01:19,032
+<i>I haven't got any.</i>
+
+822
+01:01:19,054 --> 01:01:20,585
+Who has?
+
+823
+01:01:20,589 --> 01:01:23,825
+I got some cold meat set out,
+might interest you.
+
+824
+01:01:23,826 --> 01:01:25,426
+<i>What are you talking about?</i>
+
+825
+01:01:25,427 --> 01:01:29,263
+You find a gun on Owen Taylor
+when they fished him out of the drink?
+
+826
+01:01:29,264 --> 01:01:33,434
+- That's police business.
+- I know it's police business.
+
+827
+01:01:33,435 --> 01:01:36,536
+But if they did,
+it had three empty shells in it.
+
+828
+01:01:36,537 --> 01:01:39,172
+You come up to
+7244 Laverne Terrace...
+
+829
+01:01:39,173 --> 01:01:41,574
+...off Laurel Canyon.
+I'll show you where the slugs went.
+
+830
+01:01:41,575 --> 01:01:44,518
+<i>- I'll be right out.
+- I'll be waiting for you.</i>
+
+831
+01:01:44,577 --> 01:01:47,142
+What did you hide Geiger's body for?
+
+832
+01:01:47,480 --> 01:01:50,148
+- Do you admit shooting Brody?
+- Take a jump, Jack.
+
+833
+01:01:50,149 --> 01:01:52,817
+He doesn't have to admit it.
+Here's his gun.
+
+834
+01:01:52,818 --> 01:01:54,269
+Come on.
+
+835
+01:01:56,855 --> 01:01:59,723
+You too, Phil.
+The DA is waiting for us.
+
+836
+01:01:59,724 --> 01:02:02,627
+On the way, you and I
+can have a little talk.
+
+837
+01:02:09,033 --> 01:02:11,733
+The DA isn't going
+to like this very much.
+
+838
+01:02:11,734 --> 01:02:13,402
+Yeah, I know.
+
+839
+01:02:13,403 --> 01:02:15,370
+Cronjager'll be there too.
+
+840
+01:02:15,371 --> 01:02:17,124
+That won't help.
+
+841
+01:02:17,273 --> 01:02:20,875
+Maybe I can needle him enough
+to take the heat off you.
+
+842
+01:02:20,876 --> 01:02:22,629
+Appreciate it.
+
+843
+01:02:23,612 --> 01:02:24,762
+Thanks.
+
+844
+01:02:33,588 --> 01:02:35,989
+- Evening, Mr. Wilde.
+- Hi, Marlowe.
+
+845
+01:02:35,990 --> 01:02:37,591
+Hi, Cronjager.
+
+846
+01:02:37,592 --> 01:02:39,458
+- You know Marlowe?
+- I know him.
+
+847
+01:02:39,459 --> 01:02:42,127
+Sit down. Unless
+you'd rather be on your feet.
+
+848
+01:02:42,128 --> 01:02:43,345
+You'd better start.
+
+849
+01:02:43,630 --> 01:02:46,098
+I guess the best way to begin is...
+
+850
+01:02:46,099 --> 01:02:49,578
+...to ask Cronjager what he's got
+on the Randall Place killing.
+
+851
+01:02:50,236 --> 01:02:51,648
+Brody was the name.
+
+852
+01:02:51,871 --> 01:02:55,473
+We got Brody with two slugs in him,
+two guns that hadn't been fired...
+
+853
+01:02:55,474 --> 01:02:58,475
+...a dame trying to start a car
+that didn't belong to her.
+
+854
+01:02:58,476 --> 01:03:00,577
+Hers was next to it.
+The same model.
+
+855
+01:03:00,578 --> 01:03:03,914
+She acted rattled.
+We brought her in and she talked.
+
+856
+01:03:03,915 --> 01:03:06,849
+- She didn't see the killer...
+- That's all you got?
+
+857
+01:03:06,850 --> 01:03:08,885
+- It only happened an hour ago.
+- I know.
+
+858
+01:03:08,886 --> 01:03:11,654
+- You expect the movie of the killing?
+- Not from you.
+
+859
+01:03:11,655 --> 01:03:14,590
+That'll do.
+Go ahead, Bernie.
+
+860
+01:03:14,591 --> 01:03:18,227
+Your killer's down below, handcuffed.
+Here's the gun he used.
+
+861
+01:03:19,228 --> 01:03:21,363
+- Marlowe got him for you.
+- How...?
+
+862
+01:03:21,364 --> 01:03:24,298
+Oh, yeah, there are a couple
+more deaths involved.
+
+863
+01:03:24,299 --> 01:03:27,368
+One of them in your territory.
+Maybe you know about it.
+
+864
+01:03:27,369 --> 01:03:29,703
+- Marlowe uncovered them too.
+- Keep going.
+
+865
+01:03:29,704 --> 01:03:33,740
+And the car that was lifted out
+of the ocean with a dead guy in it.
+
+866
+01:03:33,741 --> 01:03:34,891
+What about it?
+
+867
+01:03:34,942 --> 01:03:38,978
+The guy was chauffeur to a rich family
+that was being blackmailed.
+
+868
+01:03:38,979 --> 01:03:42,015
+Mr. Wilde recommended Marlowe
+to the family through me.
+
+869
+01:03:42,016 --> 01:03:44,200
+He'd been playing it
+close to the vest.
+
+870
+01:03:44,250 --> 01:03:47,010
+I love private dicks who do that.
+
+871
+01:03:47,186 --> 01:03:49,454
+And you don't have
+to be so coy about it.
+
+872
+01:03:49,455 --> 01:03:51,490
+I don't have to be coy.
+
+873
+01:03:51,491 --> 01:03:53,624
+I don't often get to be coy with you.
+
+874
+01:03:53,625 --> 01:03:55,826
+I dig up stuff
+your men don't see.
+
+875
+01:03:55,827 --> 01:03:57,962
+- My men don't...
+- That's enough.
+
+876
+01:03:57,963 --> 01:04:01,331
+Sit down, captain.
+And you, Bernie, go on with it.
+
+877
+01:04:01,332 --> 01:04:04,634
+Well, this chauffeur
+killed a guy last night.
+
+878
+01:04:04,635 --> 01:04:06,636
+A guy named Geiger.
+
+879
+01:04:06,637 --> 01:04:09,639
+He ran a racket, back of
+a bookstore on Hollywood Blvd.
+
+880
+01:04:09,640 --> 01:04:11,607
+In your territory.
+
+881
+01:04:11,608 --> 01:04:15,624
+But you hadn't heard about Geiger,
+had you? Or the racket.
+
+882
+01:04:16,212 --> 01:04:18,414
+Marlowe, tell it to them.
+
+883
+01:04:18,415 --> 01:04:20,248
+- Well...
+- I hadn't heard...
+
+884
+01:04:20,249 --> 01:04:21,816
+- You want to talk?
+- Go ahead.
+
+885
+01:04:21,817 --> 01:04:23,618
+You'd better get this down.
+
+886
+01:04:23,619 --> 01:04:26,484
+Yesterday, General Sternwood
+showed me a letter...
+
+887
+01:04:26,755 --> 01:04:29,923
+Brody stalled, but when Agnes
+didn't back him up...
+
+888
+01:04:29,924 --> 01:04:32,159
+...he began to get cold feet.
+
+889
+01:04:32,160 --> 01:04:35,495
+While I was persuading Brody to talk,
+the doorbell rang.
+
+890
+01:04:35,496 --> 01:04:40,032
+He opened it and somebody shot him.
+Well, you know the rest.
+
+891
+01:04:40,033 --> 01:04:43,903
+Outside of Taylor, Lundgren and Brody,
+nobody knew about Geiger.
+
+892
+01:04:43,904 --> 01:04:46,010
+His secretary.
+She got it from Brody.
+
+893
+01:04:46,106 --> 01:04:48,039
+No one else was near the house?
+
+894
+01:04:48,040 --> 01:04:52,043
+So all you failed to do was report
+a murder that happened last night?
+
+895
+01:04:52,044 --> 01:04:55,779
+You fooled around all day so he
+could commit a second killing today.
+
+896
+01:04:55,780 --> 01:04:58,549
+That's all?
+I was in a tough spot. I was wrong.
+
+897
+01:04:58,550 --> 01:05:02,686
+But I wanted to protect my client.
+I didn't know he'd gun for Brody.
+
+898
+01:05:02,687 --> 01:05:03,787
+Just worked out that way.
+
+899
+01:05:03,788 --> 01:05:06,623
+That's police business.
+You're still in a tough spot.
+
+900
+01:05:06,624 --> 01:05:08,291
+Have you told it complete?
+
+901
+01:05:08,292 --> 01:05:11,995
+I left out personal details and
+intend to keep on leaving them out.
+
+902
+01:05:11,996 --> 01:05:14,396
+- Why?
+- My client's entitled to protection.
+
+903
+01:05:14,397 --> 01:05:17,132
+You think.
+I got another idea.
+
+904
+01:05:17,133 --> 01:05:18,867
+You could lose your license.
+
+905
+01:05:18,868 --> 01:05:23,204
+Your division's got two murders,
+both solved, with both killers.
+
+906
+01:05:23,205 --> 01:05:25,706
+I don't see what you can gain
+by starting trouble.
+
+907
+01:05:25,707 --> 01:05:27,775
+Besides, there are
+other people in this.
+
+908
+01:05:27,776 --> 01:05:30,144
+What you bring out
+wouldn't do any good.
+
+909
+01:05:30,445 --> 01:05:34,199
+If Marlowe wants to forget it,
+your office can take the credit.
+
+910
+01:05:34,782 --> 01:05:36,650
+I hate to let him get away with it.
+
+911
+01:05:36,651 --> 01:05:41,440
+Besides, it won't do you any good
+by watching this over in the papers.
+
+912
+01:05:43,523 --> 01:05:46,825
+- What do you want?
+- I've got a prisoner to turn over.
+
+913
+01:05:46,826 --> 01:05:48,540
+So long, Wilde.
+
+914
+01:05:55,034 --> 01:05:56,485
+Eddie, you can go.
+
+915
+01:05:56,502 --> 01:05:59,563
+Just a minute.
+Leave that notebook here.
+
+916
+01:06:04,409 --> 01:06:07,744
+You'll have to make another
+statement for our files.
+
+917
+01:06:07,745 --> 01:06:10,546
+You think we can keep
+the two killings separate...
+
+918
+01:06:10,547 --> 01:06:13,032
+...and keep Sternwood's
+name out of it?
+
+919
+01:06:13,517 --> 01:06:15,584
+Yeah, I think so.
+
+920
+01:06:15,652 --> 01:06:18,520
+Know why I'm doing this
+instead of tearing your ear off?
+
+921
+01:06:18,521 --> 01:06:22,393
+- I expected to lose both of them.
+- You should have.
+
+922
+01:06:22,491 --> 01:06:25,860
+- What are you getting for all this?
+- $ 25 a day and expenses.
+
+923
+01:06:25,861 --> 01:06:29,363
+- That's $50 and a little gasoline.
+- About that.
+
+924
+01:06:29,364 --> 01:06:32,833
+For that, you're willing
+to get in touch with the law...
+
+925
+01:06:32,834 --> 01:06:34,768
+...and lose your license?
+
+926
+01:06:34,769 --> 01:06:37,411
+I don't like it, but I'm on a case.
+
+927
+01:06:37,471 --> 01:06:40,973
+Just what did General Sternwood
+really want you for?
+
+928
+01:06:40,974 --> 01:06:43,142
+To settle this business with Geiger.
+
+929
+01:06:43,143 --> 01:06:48,146
+Are you sure it didn't have anything
+to do with that ex-bootlegger Regan?
+
+930
+01:06:48,147 --> 01:06:49,403
+What makes you say that?
+
+931
+01:06:49,449 --> 01:06:53,518
+I had an idea that he thought
+Regan was mixed up in this.
+
+932
+01:06:53,519 --> 01:06:56,921
+And he really wanted you
+to find out that Regan isn't.
+
+933
+01:06:56,922 --> 01:06:59,323
+Shawn's no blackmailer.
+I know him.
+
+934
+01:06:59,324 --> 01:07:01,391
+You'd better find him and make sure.
+
+935
+01:07:01,426 --> 01:07:02,721
+Maybe I had.
+
+936
+01:07:02,761 --> 01:07:05,361
+- And buy Bernie a box of cigars.
+- I'll do that.
+
+937
+01:07:05,362 --> 01:07:09,165
+- He's earned it.
+- Someday, Cronjager'll blow up and bust.
+
+938
+01:07:09,166 --> 01:07:11,770
+- So long, Mr. Wilde.
+- So long.
+
+939
+01:07:18,541 --> 01:07:19,575
+Thanks, Bernie.
+
+940
+01:07:19,576 --> 01:07:22,610
+Forget it.
+Cronjager's always been my pigeon.
+
+941
+01:07:22,611 --> 01:07:23,906
+What happens now?
+
+942
+01:07:23,946 --> 01:07:25,747
+Looks like I'll get paid off.
+
+943
+01:07:25,748 --> 01:07:27,515
+That'll end it, huh?
+
+944
+01:07:27,516 --> 01:07:29,183
+I don't know, Bernie.
+
+945
+01:07:29,184 --> 01:07:31,151
+This began as a case of blackmail.
+
+946
+01:07:31,152 --> 01:07:33,954
+All at once, things started
+to happen for no reason.
+
+947
+01:07:33,955 --> 01:07:35,982
+No reason at all.
+
+948
+01:07:37,592 --> 01:07:40,259
+- Now it's over...
+- You think there's more.
+
+949
+01:07:40,260 --> 01:07:41,594
+Well, so do you.
+
+950
+01:07:41,628 --> 01:07:43,963
+What's your dope
+on Regan's disappearance?
+
+951
+01:07:43,964 --> 01:07:47,933
+Missing Persons has all we've got.
+It boils down to one thing:
+
+952
+01:07:47,934 --> 01:07:52,342
+Eddie Mars' blonde wife disappeared
+the same time Regan did.
+
+953
+01:07:53,672 --> 01:07:55,962
+Mars ever ask you to find her?
+
+954
+01:07:56,642 --> 01:08:00,010
+Could be people want us
+to think they ran off together.
+
+955
+01:08:00,011 --> 01:08:01,645
+Is that just a hunch?
+
+956
+01:08:01,646 --> 01:08:02,902
+Almost.
+
+957
+01:08:03,681 --> 01:08:05,212
+Why don't you play it?
+
+958
+01:08:05,216 --> 01:08:08,433
+That's what the DA said.
+I think I will.
+
+959
+01:08:14,992 --> 01:08:17,259
+- Well!
+- Good morning.
+
+960
+01:08:17,260 --> 01:08:18,791
+And how are you today?
+
+961
+01:08:18,795 --> 01:08:21,085
+Better than last night.
+
+962
+01:08:21,330 --> 01:08:22,978
+Come on in.
+
+963
+01:08:27,469 --> 01:08:29,336
+No answer on your telephone.
+
+964
+01:08:29,337 --> 01:08:31,325
+It was unplugged.
+
+965
+01:08:31,573 --> 01:08:34,608
+I wanted to get some sleep.
+I was tired.
+
+966
+01:08:34,609 --> 01:08:38,278
+I was worried and wanted to know
+what happened after I left.
+
+967
+01:08:38,279 --> 01:08:40,380
+Worried or curious?
+
+968
+01:08:40,381 --> 01:08:43,082
+Both.
+Then I read the morning papers.
+
+969
+01:08:43,083 --> 01:08:46,618
+We were lucky. We managed to keep
+the Sternwoods out of it.
+
+970
+01:08:46,619 --> 01:08:49,354
+My father and I were
+both very pleased.
+
+971
+01:08:49,355 --> 01:08:51,790
+He hopes you didn't involve
+yourself too deeply.
+
+972
+01:08:51,791 --> 01:08:53,457
+You tell him you were there?
+
+973
+01:08:53,458 --> 01:08:55,660
+Nothing would be gained
+by telling him.
+
+974
+01:08:55,661 --> 01:08:59,913
+You're probably right. Anything
+special you wanted to see me about?
+
+975
+01:09:00,766 --> 01:09:05,135
+Dad asked me to give you a check.
+He considers the case closed.
+
+976
+01:09:05,136 --> 01:09:06,587
+It is, isn't it?
+
+977
+01:09:06,604 --> 01:09:08,638
+Well, as regards Geiger, yes.
+
+978
+01:09:08,639 --> 01:09:13,505
+Then it's completely closed.
+I hope this is satisfactory.
+
+979
+01:09:14,311 --> 01:09:15,684
+Five hundred!
+
+980
+01:09:15,712 --> 01:09:19,728
+It's a lot more than I expected,
+but welcome just the same.
+
+981
+01:09:21,116 --> 01:09:22,217
+Here you are.
+
+982
+01:09:22,218 --> 01:09:25,486
+Here's the three promissory notes
+and Geiger's card.
+
+983
+01:09:25,487 --> 01:09:29,090
+As for the photographs, I'll destroy
+them myself, if you don't mind.
+
+984
+01:09:29,091 --> 01:09:31,291
+We appreciate what you've done.
+
+985
+01:09:31,292 --> 01:09:33,627
+Someday, my father wants
+to thank you himself.
+
+986
+01:09:33,628 --> 01:09:36,129
+Fine, I'll come and
+drink more of his brandy.
+
+987
+01:09:36,130 --> 01:09:39,347
+Maybe he'd talk some more
+about Shawn Regan.
+
+988
+01:09:40,767 --> 01:09:42,635
+My brandy's just as good.
+
+989
+01:09:42,636 --> 01:09:45,204
+If you can stop being
+a detective long enough...
+
+990
+01:09:45,205 --> 01:09:46,806
+...to have a drink with me.
+
+991
+01:09:46,807 --> 01:09:48,874
+I'd like to. I like brandy.
+
+992
+01:09:48,875 --> 01:09:50,746
+I have lots of it.
+
+993
+01:10:07,358 --> 01:10:09,923
+"Completely closed".
+
+994
+01:10:18,668 --> 01:10:20,869
+<i>- Long distance.
+- Hello, long distance?</i>
+
+995
+01:10:20,870 --> 01:10:24,350
+This is Philip Marlowe at Main 9-1494.
+
+996
+01:10:25,040 --> 01:10:27,575
+<i>Hello? I have Mr. Mars for you.</i>
+
+997
+01:10:27,576 --> 01:10:29,800
+Thanks. Put him on.
+
+998
+01:10:30,746 --> 01:10:32,617
+Hello, Mr. Mars?
+
+999
+01:10:32,981 --> 01:10:35,348
+Hello, Eddie.
+This is Phil Marlowe.
+
+1000
+01:10:35,349 --> 01:10:38,285
+<i>- I called because I want to see you.
+- Sure. When?</i>
+
+1001
+01:10:38,286 --> 01:10:42,577
+<i>- I could drive up tonight.
+- Okay, come ahead.</i>
+
+1002
+01:10:58,203 --> 01:10:59,890
+Good evening.
+
+1003
+01:11:03,541 --> 01:11:06,276
+Mr. Mars around? I'm Marlowe.
+He's expecting me.
+
+1004
+01:11:06,277 --> 01:11:09,115
+Wait here and I'll find out.
+
+1005
+01:11:13,951 --> 01:11:18,242
+<i>He would spend it on the ponies</i>
+
+1006
+01:11:18,288 --> 01:11:22,264
+<i>He would spend it on the girls</i>
+
+1007
+01:11:22,425 --> 01:11:26,795
+<i>Buy his mother lovely roses</i>
+
+1008
+01:11:26,796 --> 01:11:31,348
+<i>For her dear old hennaed curls</i>
+
+1009
+01:11:31,866 --> 01:11:35,843
+<i>But when his wife said, "Sweetie...</i>
+
+1010
+01:11:35,971 --> 01:11:41,072
+<i>... what did you get for me?"</i>
+
+1011
+01:11:41,208 --> 01:11:46,036
+<i>He socked her in the choppers</i>
+
+1012
+01:11:46,413 --> 01:11:49,848
+<i>Such a sweet, sweet guy was he</i>
+
+1013
+01:11:49,849 --> 01:11:54,219
+<i>And her tears flowed like wine</i>
+
+1014
+01:11:57,189 --> 01:12:00,992
+<i>She's a real sad tomato</i>
+
+1015
+01:12:00,993 --> 01:12:04,054
+<i>She's a busted valentine</i>
+
+1016
+01:12:04,096 --> 01:12:08,298
+<i>Knows her mama done told her</i>
+
+1017
+01:12:08,299 --> 01:12:11,601
+<i>That a man is darned unkind</i>
+
+1018
+01:12:11,602 --> 01:12:14,467
+<i>I'm a telling you, mister</i>
+
+1019
+01:12:15,205 --> 01:12:18,149
+<i>She was a sob, sob sister</i>
+
+1020
+01:12:19,109 --> 01:12:20,909
+<i>Lying on a pillow</i>
+
+1021
+01:12:20,910 --> 01:12:22,127
+<i>Weeping like a willow</i>
+
+1022
+01:12:22,612 --> 01:12:26,588
+<i>My, oh, my
+How that baby could cry</i>
+
+1023
+01:12:27,983 --> 01:12:31,486
+<i>And her tears flowed like wine</i>
+
+1024
+01:12:31,487 --> 01:12:35,934
+<i>Yes, her tears flowed like wine</i>
+
+1025
+01:12:37,892 --> 01:12:41,987
+- Hello, boys.
+- Stop it. He's waiting to see you.
+
+1026
+01:12:46,867 --> 01:12:48,017
+Thanks.
+
+1027
+01:12:50,770 --> 01:12:53,605
+Glad you came.
+You never been here before?
+
+1028
+01:12:53,606 --> 01:12:55,774
+First time.
+I wouldn't be here now...
+
+1029
+01:12:55,775 --> 01:12:59,778
+...if you hadn't told me
+I could come up here if I needed help.
+
+1030
+01:12:59,779 --> 01:13:01,151
+Drink?
+
+1031
+01:13:05,817 --> 01:13:08,352
+I like the way you've
+handled this whole thing.
+
+1032
+01:13:08,353 --> 01:13:11,921
+It made me sore at first, but I see
+now you knew what you were doing.
+
+1033
+01:13:11,922 --> 01:13:14,067
+You and I could get along.
+
+1034
+01:13:14,491 --> 01:13:17,160
+I like to pay my bills as I go.
+
+1035
+01:13:17,161 --> 01:13:19,881
+- How much do I owe you?
+- For what?
+
+1036
+01:13:20,196 --> 01:13:22,106
+Still careful, huh?
+
+1037
+01:13:22,865 --> 01:13:25,634
+All right, then.
+I want some information...
+
+1038
+01:13:25,635 --> 01:13:27,779
+...about Shawn Regan.
+
+1039
+01:13:31,173 --> 01:13:33,908
+You got it from
+the Bureau of Missing Persons.
+
+1040
+01:13:33,909 --> 01:13:35,476
+- You get around.
+- My boys do.
+
+1041
+01:13:35,477 --> 01:13:37,410
+- Where is he?
+- I haven't any idea.
+
+1042
+01:13:37,411 --> 01:13:39,446
+You didn't bump him off, did you?
+
+1043
+01:13:39,447 --> 01:13:41,281
+No. You think I did?
+
+1044
+01:13:41,282 --> 01:13:43,767
+- That's what I came to ask.
+- You're kidding.
+
+1045
+01:13:43,818 --> 01:13:45,728
+All right, I'm kidding.
+
+1046
+01:13:47,687 --> 01:13:51,520
+You didn't do it and your boys
+aren't good enough to. I knew Regan.
+
+1047
+01:13:52,158 --> 01:13:54,185
+You said you weren't looking for Regan.
+
+1048
+01:13:54,194 --> 01:13:56,961
+I wasn't then.
+Maybe I just got curious.
+
+1049
+01:13:56,962 --> 01:13:59,997
+I finally got it
+that the general was worried...
+
+1050
+01:13:59,998 --> 01:14:02,700
+...Regan might be mixed up
+in this blackmail business.
+
+1051
+01:14:02,701 --> 01:14:05,202
+Sternwood can turn over now
+and go back to sleep.
+
+1052
+01:14:05,203 --> 01:14:09,376
+It was Geiger's own racket.
+I did some inquiring myself today.
+
+1053
+01:14:09,574 --> 01:14:12,309
+When Geiger and Brody got gunned,
+it finished it.
+
+1054
+01:14:12,310 --> 01:14:15,409
+- That, I'm sure of.
+- It's finished, then.
+
+1055
+01:14:17,647 --> 01:14:20,382
+The general thinks like you do.
+He paid me off today.
+
+1056
+01:14:20,383 --> 01:14:22,150
+I'm sorry to hear that.
+
+1057
+01:14:22,151 --> 01:14:25,320
+I wish he'd hire you to keep
+that daughter of his home.
+
+1058
+01:14:25,321 --> 01:14:26,988
+- She's there now.
+- I heard her.
+
+1059
+01:14:26,989 --> 01:14:28,857
+She's not very popular here.
+
+1060
+01:14:28,858 --> 01:14:31,959
+When she loses, she doubles and
+I get a fistful of paper.
+
+1061
+01:14:31,960 --> 01:14:35,195
+- If she wins, she takes my money.
+- Don't you get it back?
+
+1062
+01:14:35,196 --> 01:14:38,465
+- She spends it somewhere else.
+- Oh, she goes on the cuff.
+
+1063
+01:14:38,466 --> 01:14:40,689
+Keep her out of here, then.
+
+1064
+01:14:41,702 --> 01:14:44,737
+- I took the trip for nothing.
+- Sorry I can't help you.
+
+1065
+01:14:44,738 --> 01:14:46,739
+You mind if I look
+the place over?
+
+1066
+01:14:46,740 --> 01:14:49,142
+Take that door,
+it comes out behind the tables.
+
+1067
+01:14:49,143 --> 01:14:51,610
+No, thanks. I'll go out
+with the other suckers.
+
+1068
+01:14:51,611 --> 01:14:53,512
+Maybe someday I can do
+you a favor.
+
+1069
+01:14:53,513 --> 01:14:54,546
+Maybe.
+
+1070
+01:14:54,547 --> 01:14:56,837
+There's one thing that puzzles me.
+
+1071
+01:14:56,916 --> 01:14:59,898
+You don't seem in a hurry
+to find that wife of yours.
+
+1072
+01:14:59,951 --> 01:15:03,287
+I hear she's not the kind of wife
+a guy wants to lose.
+
+1073
+01:15:03,288 --> 01:15:06,790
+Could it be you know where she is,
+and maybe Regan too?
+
+1074
+01:15:06,791 --> 01:15:10,767
+Stop being curious. What's between
+me and my wife is between us.
+
+1075
+01:15:11,095 --> 01:15:12,351
+Sorry.
+
+1076
+01:15:13,197 --> 01:15:16,533
+Oh, Eddie, you don't have
+anybody watching me, do you?
+
+1077
+01:15:16,534 --> 01:15:18,734
+Tailing me in a gray Plymouth coupe?
+
+1078
+01:15:18,735 --> 01:15:19,768
+No. Why should I?
+
+1079
+01:15:19,769 --> 01:15:23,505
+I can't imagine, unless you're worried
+about where I am all the time.
+
+1080
+01:15:23,506 --> 01:15:25,691
+I don't like you that well.
+
+1081
+01:15:26,742 --> 01:15:28,312
+So long, Eddie.
+
+1082
+01:15:34,850 --> 01:15:36,816
+Mr. Marlowe?
+
+1083
+01:15:36,817 --> 01:15:38,923
+- Mrs. Rut...
+- Mrs. Rut...
+
+1084
+01:15:39,921 --> 01:15:40,954
+You better take it.
+
+1085
+01:15:40,955 --> 01:15:43,823
+Mrs. Rutledge wants to
+see you before you go.
+
+1086
+01:15:43,824 --> 01:15:45,491
+She's at the center table.
+
+1087
+01:15:45,492 --> 01:15:47,323
+Thank you both.
+
+1088
+01:15:49,062 --> 01:15:50,863
+Mr. Marlowe. Mrs. Rutle...
+
+1089
+01:15:50,864 --> 01:15:52,656
+Mrs. Rutledge wants to see me.
+
+1090
+01:15:52,999 --> 01:15:54,799
+- How did you know?
+- He told me.
+
+1091
+01:15:54,800 --> 01:15:58,002
+She sure is picking them tonight.
+Just won eight in a row.
+
+1092
+01:15:58,003 --> 01:16:01,483
+- I didn't hear him tell you anything.
+- He didn't.
+
+1093
+01:16:09,614 --> 01:16:12,682
+What kind of game is this?
+Go on. Spin the wheel.
+
+1094
+01:16:12,683 --> 01:16:13,783
+I want another play.
+
+1095
+01:16:13,784 --> 01:16:16,152
+I'm sorry. You have
+more than $ 14,000 there.
+
+1096
+01:16:16,153 --> 01:16:17,853
+The table cannot cover your bet.
+
+1097
+01:16:17,854 --> 01:16:19,555
+Don't you want your money back?
+
+1098
+01:16:19,556 --> 01:16:20,706
+I sent for Mr. Mars.
+
+1099
+01:16:20,757 --> 01:16:22,548
+- Lady...
+- Do you want to cover it?
+
+1100
+01:16:26,796 --> 01:16:27,862
+The lady.
+
+1101
+01:16:27,863 --> 01:16:30,931
+- Something the matter?
+- I'd like one more play.
+
+1102
+01:16:30,932 --> 01:16:32,842
+All this on the red.
+
+1103
+01:16:33,101 --> 01:16:34,972
+Cover her bet in even thousands.
+
+1104
+01:16:35,036 --> 01:16:38,639
+If no one objects to this turn of
+the wheel being for the lady alone.
+
+1105
+01:16:38,640 --> 01:16:40,540
+Wish me luck, Marlowe.
+
+1106
+01:16:40,541 --> 01:16:42,342
+You wanted to see me.
+
+1107
+01:16:42,343 --> 01:16:45,044
+The people I came with want to stay...
+
+1108
+01:16:45,045 --> 01:16:47,981
+...so I thought maybe
+you'd like to drive me home.
+
+1109
+01:16:47,982 --> 01:16:50,249
+- Sure.
+- Are you ready, lady?
+
+1110
+01:16:50,250 --> 01:16:53,088
+- Yeah, I'm ready.
+- So am I.
+
+1111
+01:17:07,932 --> 01:17:09,227
+Number five, red!
+
+1112
+01:17:14,438 --> 01:17:15,849
+You did all right.
+
+1113
+01:17:15,872 --> 01:17:20,124
+I'll get my car while you collect,
+and meet you outside.
+
+1114
+01:17:21,411 --> 01:17:23,360
+Cash me in.
+
+1115
+01:18:30,205 --> 01:18:31,958
+Good night.
+
+1116
+01:18:51,925 --> 01:18:54,159
+This is a gun, lady.
+I want that money.
+
+1117
+01:18:54,160 --> 01:18:57,142
+Yell and I'll cut you in half.
+Give me that bag!
+
+1118
+01:18:59,698 --> 01:19:01,843
+Hello, pal. Easy!
+
+1119
+01:19:02,501 --> 01:19:05,269
+Somebody's always giving me guns.
+
+1120
+01:19:05,270 --> 01:19:06,720
+You can turn around now.
+
+1121
+01:19:07,839 --> 01:19:12,968
+I don't like people who play games.
+Tell your boss...
+
+1122
+01:19:13,578 --> 01:19:15,264
+...when you wake up.
+
+1123
+01:19:16,747 --> 01:19:18,042
+Nice work.
+
+1124
+01:19:18,081 --> 01:19:19,782
+Are you my bodyguard now?
+
+1125
+01:19:19,783 --> 01:19:21,117
+Looks like it.
+
+1126
+01:19:21,151 --> 01:19:22,943
+You ready to go?
+
+1127
+01:19:28,958 --> 01:19:32,227
+Why are you trembling?
+Don't tell me you were scared.
+
+1128
+01:19:32,228 --> 01:19:34,595
+I'm not used to being hijacked.
+Give me time.
+
+1129
+01:19:34,596 --> 01:19:37,064
+Hijacked? Is that what it was?
+
+1130
+01:19:37,065 --> 01:19:38,674
+What else?
+
+1131
+01:19:50,844 --> 01:19:53,111
+You're still shaking.
+What's the matter?
+
+1132
+01:19:53,112 --> 01:19:56,548
+You weren't worried about me?
+Afraid I'd get hurt?
+
+1133
+01:19:56,549 --> 01:19:59,532
+When did you begin
+to feel that way about me?
+
+1134
+01:20:02,354 --> 01:20:04,221
+Why are we stopping?
+
+1135
+01:20:04,222 --> 01:20:06,328
+To settle something.
+
+1136
+01:20:07,125 --> 01:20:08,537
+All right...
+
+1137
+01:20:08,894 --> 01:20:11,261
+...let's begin with
+what Mars has on you.
+
+1138
+01:20:11,262 --> 01:20:13,763
+If he had, would it
+be any of your business?
+
+1139
+01:20:13,764 --> 01:20:15,365
+You've already been paid.
+
+1140
+01:20:15,366 --> 01:20:16,739
+Yeah, by you.
+
+1141
+01:20:16,767 --> 01:20:20,202
+- Are you after more money?
+- I guess you've got a right to ask.
+
+1142
+01:20:20,203 --> 01:20:24,834
+No, I've already been well-paid.
+I've got another reason.
+
+1143
+01:20:24,908 --> 01:20:27,237
+You like my father, don't you?
+
+1144
+01:20:27,377 --> 01:20:28,526
+Why don't you stop?
+
+1145
+01:20:28,844 --> 01:20:32,180
+Remember I said I was beginning
+to like another Sternwood?
+
+1146
+01:20:32,181 --> 01:20:34,287
+I wish you'd show it.
+
+1147
+01:20:34,349 --> 01:20:36,795
+That should be awful easy.
+
+1148
+01:20:44,859 --> 01:20:46,571
+I liked that.
+
+1149
+01:20:47,360 --> 01:20:48,510
+I'd like more.
+
+1150
+01:20:54,967 --> 01:20:56,955
+That's even better.
+
+1151
+01:20:58,037 --> 01:20:59,332
+All right.
+
+1152
+01:20:59,371 --> 01:21:03,008
+Now that's settled.
+What's Eddie Mars got on you?
+
+1153
+01:21:04,342 --> 01:21:06,677
+- So that's the way it is.
+- That's the way it is.
+
+1154
+01:21:06,678 --> 01:21:09,346
+Kissing you is all right.
+I'd like to do more of it.
+
+1155
+01:21:09,347 --> 01:21:11,648
+But I want to find out
+what Mars has on you.
+
+1156
+01:21:11,649 --> 01:21:14,584
+- If you say that again...
+- I'll keep saying it till I find out.
+
+1157
+01:21:14,585 --> 01:21:17,253
+I told Eddie Mars
+I was coming up to see him.
+
+1158
+01:21:17,254 --> 01:21:19,021
+When I arrived, you were there.
+
+1159
+01:21:19,022 --> 01:21:21,390
+You two staged an act.
+He let you win money...
+
+1160
+01:21:21,391 --> 01:21:23,558
+...and then sent a man
+to take it away...
+
+1161
+01:21:23,559 --> 01:21:26,358
+...to prove there was
+nothing between you.
+
+1162
+01:21:26,863 --> 01:21:28,013
+You're shaking again.
+
+1163
+01:21:28,197 --> 01:21:31,032
+- Take me home.
+- Sure I will.
+
+1164
+01:21:31,033 --> 01:21:32,766
+But first, open that bag.
+
+1165
+01:21:32,767 --> 01:21:36,036
+If there's 28 grand in it,
+I'll eat every word I've said.
+
+1166
+01:21:36,037 --> 01:21:39,173
+Make a sap out of me,
+or else stop playing me for one.
+
+1167
+01:21:39,174 --> 01:21:41,207
+Take me home.
+
+1168
+01:21:41,208 --> 01:21:43,743
+All right, but that's as far
+as I'll carry you.
+
+1169
+01:21:43,744 --> 01:21:46,609
+From now on, you can
+take care of yourself.
+
+1170
+01:21:56,823 --> 01:21:58,235
+<i>Hello, Phil?</i>
+
+1171
+01:21:58,258 --> 01:22:01,826
+<i>- Hello, Bernie. What's up?
+- I want to see you right away.</i>
+
+1172
+01:22:01,827 --> 01:22:03,694
+I haven't had breakfast.
+
+1173
+01:22:03,695 --> 01:22:05,396
+<i>It's 2:00.</i>
+
+1174
+01:22:05,397 --> 01:22:08,832
+<i>If you're not here in 30 minutes
+you'll be eating on the county.</i>
+
+1175
+01:22:08,833 --> 01:22:13,069
+I'd rather buy my own.
+I know that food the county puts out.
+
+1176
+01:22:13,070 --> 01:22:15,137
+All right, I'll be there.
+
+1177
+01:22:23,513 --> 01:22:26,548
+Don't you know better than to wake
+a man at 2 p.m.?
+
+1178
+01:22:26,549 --> 01:22:28,694
+- What's up?
+- I got some orders for you.
+
+1179
+01:22:28,717 --> 01:22:30,919
+You're to lay off the Sternwood case.
+
+1180
+01:22:30,920 --> 01:22:33,187
+- Who says so?
+- The DA.
+
+1181
+01:22:33,188 --> 01:22:35,098
+The DA, huh?
+
+1182
+01:22:37,158 --> 01:22:39,448
+He must have changed his mind.
+
+1183
+01:22:40,395 --> 01:22:42,863
+- Who changed it for him?
+- General Sternwood.
+
+1184
+01:22:42,864 --> 01:22:44,498
+Personally?
+
+1185
+01:22:44,499 --> 01:22:47,867
+All right. Between you and me,
+he didn't talk to the general.
+
+1186
+01:22:47,868 --> 01:22:50,772
+He talked to the daughter,
+Mrs. Rutledge.
+
+1187
+01:22:51,605 --> 01:22:54,372
+- Any reason given?
+- Not that I know of.
+
+1188
+01:22:54,373 --> 01:22:57,842
+There's no law says a man can't
+work on a case without a client.
+
+1189
+01:22:57,843 --> 01:22:59,060
+Keep his hand in.
+
+1190
+01:22:59,111 --> 01:23:01,479
+I'm just supposed to
+tell you to lay off.
+
+1191
+01:23:01,480 --> 01:23:03,714
+I know, you just work here.
+
+1192
+01:23:03,715 --> 01:23:07,129
+All right, you told me to lay off.
+
+1193
+01:23:07,152 --> 01:23:09,353
+I'm getting breakfast.
+Want a cup of coffee?
+
+1194
+01:23:09,354 --> 01:23:10,885
+No, thanks.
+
+1195
+01:23:43,784 --> 01:23:47,287
+<i>- Sternwood residence.
+- Hello, Norris? This is Marlowe.</i>
+
+1196
+01:23:47,288 --> 01:23:48,544
+<i>Yes, Mr. Marlowe. I...</i>
+
+1197
+01:23:48,588 --> 01:23:51,256
+I'd like to come out
+and see General Sternwood.
+
+1198
+01:23:51,257 --> 01:23:53,626
+<i>I don't think it
+would be possible tonight.</i>
+
+1199
+01:23:53,627 --> 01:23:56,495
+<i>- Why not?
+- I've been trying to call you.</i>
+
+1200
+01:23:56,496 --> 01:23:59,297
+<i>Mrs. Rutledge is very anxious
+to talk to you.</i>
+
+1201
+01:23:59,298 --> 01:24:02,556
+<i>If you'll wait just a minute,
+I'll put her on.</i>
+
+1202
+01:24:04,103 --> 01:24:05,837
+Hey, sugar, you got a match?
+
+1203
+01:24:05,838 --> 01:24:07,524
+Sure thing.
+
+1204
+01:24:08,840 --> 01:24:10,946
+<i>Hello, Marlowe?</i>
+
+1205
+01:24:12,076 --> 01:24:13,449
+Thanks.
+
+1206
+01:24:16,013 --> 01:24:17,613
+Hello, Mrs. Rutledge.
+
+1207
+01:24:17,614 --> 01:24:21,050
+<i>I wanted to tell you
+you can stop worrying...</i>
+
+1208
+01:24:21,051 --> 01:24:23,819
+<i>... and call off your bloodhounds.
+We found Shawn.</i>
+
+1209
+01:24:23,820 --> 01:24:25,310
+You found Shawn?
+
+1210
+01:24:25,321 --> 01:24:28,356
+<i>Yes. He's been in Mexico.
+He hasn't been very well.</i>
+
+1211
+01:24:28,357 --> 01:24:29,574
+What happened?
+
+1212
+01:24:29,625 --> 01:24:32,694
+<i>An accident of some kind.
+We didn't get all the details.</i>
+
+1213
+01:24:32,695 --> 01:24:34,528
+<i>I'm leaving at once to meet him.</i>
+
+1214
+01:24:34,529 --> 01:24:35,980
+I see.
+
+1215
+01:24:35,997 --> 01:24:38,899
+I suppose the general's quite pleased.
+
+1216
+01:24:38,900 --> 01:24:41,802
+<i>We haven't told him yet.
+We thought it best to wait.</i>
+
+1217
+01:24:41,803 --> 01:24:44,070
+Thanks for telling me.
+
+1218
+01:24:44,071 --> 01:24:45,366
+Have a nice trip.
+
+1219
+01:24:45,406 --> 01:24:47,591
+<i>I will. Goodbye.</i>
+
+1220
+01:24:47,608 --> 01:24:49,139
+Goodbye.
+
+1221
+01:25:23,073 --> 01:25:24,407
+Say, mister...
+
+1222
+01:25:24,607 --> 01:25:25,757
+...would you please...
+
+1223
+01:25:39,120 --> 01:25:42,260
+This is just our way
+of saying, "Lay off".
+
+1224
+01:26:14,918 --> 01:26:17,019
+You the guy that's been tailing me?
+
+1225
+01:26:17,020 --> 01:26:19,789
+Yeah. My name's Jones.
+Harry Jones.
+
+1226
+01:26:19,790 --> 01:26:22,773
+- I want to see you.
+- Swell!
+
+1227
+01:26:23,494 --> 01:26:25,627
+Did you want to see
+those guys jump me?
+
+1228
+01:26:25,628 --> 01:26:28,113
+I didn't care one way or the other.
+
+1229
+01:26:29,065 --> 01:26:31,099
+You could've yelled for help.
+
+1230
+01:26:31,100 --> 01:26:35,350
+A guy's playing a hand, I let him
+play it. I'm no kibitzer.
+
+1231
+01:26:35,971 --> 01:26:38,077
+You got brains.
+
+1232
+01:26:38,140 --> 01:26:40,403
+Get my hat, will you?
+
+1233
+01:26:42,110 --> 01:26:44,516
+Help me up to my office.
+
+1234
+01:27:01,527 --> 01:27:04,595
+That working-over they gave you
+was the best I've seen.
+
+1235
+01:27:04,596 --> 01:27:06,545
+And I've been around too.
+
+1236
+01:27:06,732 --> 01:27:08,566
+Used to run a little liquor.
+
+1237
+01:27:08,567 --> 01:27:11,301
+Rode the scout car
+with a Tommy gun in my lap.
+
+1238
+01:27:11,302 --> 01:27:13,565
+- Tough racket.
+- Terrible!
+
+1239
+01:27:13,905 --> 01:27:17,808
+- Sit down. You make me nervous.
+- Maybe you don't believe me.
+
+1240
+01:27:17,809 --> 01:27:19,259
+What do you want?
+
+1241
+01:27:19,276 --> 01:27:20,649
+That's better.
+
+1242
+01:27:20,677 --> 01:27:22,208
+I'm selling something, cheap.
+
+1243
+01:27:22,379 --> 01:27:23,713
+For a couple of C's.
+
+1244
+01:27:23,747 --> 01:27:25,539
+Don't let me stop you.
+
+1245
+01:27:25,549 --> 01:27:29,106
+- Don't you want to even know who I am?
+- I already know.
+
+1246
+01:27:29,318 --> 01:27:30,351
+You're not a cop.
+
+1247
+01:27:30,352 --> 01:27:33,054
+You don't belong to Eddie Mars,
+because I asked him.
+
+1248
+01:27:33,055 --> 01:27:35,490
+So you must be one of Brody's friends.
+
+1249
+01:27:35,491 --> 01:27:37,491
+So Agnes is loose again, huh?
+
+1250
+01:27:37,492 --> 01:27:39,293
+How'd you know that?
+
+1251
+01:27:39,294 --> 01:27:42,663
+She's a nice girl.
+We're talking about getting married.
+
+1252
+01:27:42,664 --> 01:27:44,231
+She's too big for you.
+
+1253
+01:27:44,232 --> 01:27:46,560
+That's a dirty crack, brother.
+
+1254
+01:27:46,867 --> 01:27:49,012
+I suppose you're right.
+
+1255
+01:27:51,805 --> 01:27:54,945
+Maybe I've been running around
+with the wrong people.
+
+1256
+01:27:55,209 --> 01:27:56,778
+Cut the babble.
+What is it?
+
+1257
+01:27:57,009 --> 01:27:58,910
+Will you pay for something?
+
+1258
+01:27:58,911 --> 01:28:00,782
+- If it what?
+- Helps you find Regan.
+
+1259
+01:28:02,048 --> 01:28:03,198
+This is getting funny.
+
+1260
+01:28:03,249 --> 01:28:07,017
+I'm supposed to pay you two C's
+for telling me I'm looking for Regan.
+
+1261
+01:28:07,018 --> 01:28:08,986
+People are always
+telling me that.
+
+1262
+01:28:08,987 --> 01:28:11,093
+I don't even pass out cigars anymore.
+
+1263
+01:28:11,256 --> 01:28:13,123
+Do you want to know what I've got?
+
+1264
+01:28:13,124 --> 01:28:14,654
+I don't know.
+
+1265
+01:28:14,658 --> 01:28:17,961
+200 buys a lot of
+information in my circle.
+
+1266
+01:28:17,962 --> 01:28:20,430
+Would you pay it to know
+where Mars' wife is?
+
+1267
+01:28:20,431 --> 01:28:23,232
+Would you pay $ 200 for that, shamus?
+
+1268
+01:28:23,233 --> 01:28:25,025
+I think I might.
+
+1269
+01:28:25,034 --> 01:28:26,721
+- Where?
+- Agnes found her.
+
+1270
+01:28:27,070 --> 01:28:30,539
+She'll tell you when she has
+the dough in her hand.
+
+1271
+01:28:30,540 --> 01:28:34,375
+- You might tell the cops for nothing.
+- I ain't so brittle.
+
+1272
+01:28:34,376 --> 01:28:36,364
+Agnes must have something
+I didn't see.
+
+1273
+01:28:36,578 --> 01:28:38,446
+I ain't tried to pull anything.
+
+1274
+01:28:38,447 --> 01:28:41,381
+I came here with a proposition.
+Take it or leave it.
+
+1275
+01:28:41,382 --> 01:28:43,316
+One right guy to another.
+
+1276
+01:28:43,317 --> 01:28:47,354
+You start waving cops at me.
+You ought to be ashamed of yourself.
+
+1277
+01:28:47,355 --> 01:28:48,689
+I am.
+
+1278
+01:28:48,789 --> 01:28:50,123
+Okay, 200 it is.
+
+1279
+01:28:50,423 --> 01:28:52,391
+- Have you got the money?
+- Where's Agnes?
+
+1280
+01:28:52,392 --> 01:28:55,094
+You know Puss Walgreen's office?
+Fulwider Building?
+
+1281
+01:28:55,095 --> 01:28:56,862
+428 in the back?
+
+1282
+01:28:56,863 --> 01:28:58,664
+No, but I can find it.
+
+1283
+01:28:58,665 --> 01:29:00,765
+Can you meet me there
+in an hour?
+
+1284
+01:29:00,766 --> 01:29:02,734
+- I guess so.
+- You bring the dough.
+
+1285
+01:29:02,735 --> 01:29:04,762
+I'll take you to Agnes.
+
+1286
+01:29:48,409 --> 01:29:51,208
+Who are you?
+What do you want?
+
+1287
+01:29:56,082 --> 01:29:58,109
+I wanted to see you.
+
+1288
+01:30:00,787 --> 01:30:01,920
+Who are you?
+
+1289
+01:30:01,921 --> 01:30:05,022
+I work for Eddie Mars.
+My name is Canino.
+
+1290
+01:30:05,023 --> 01:30:06,593
+Canino?
+
+1291
+01:30:07,926 --> 01:30:11,162
+Sure, I thought you would remember.
+
+1292
+01:30:11,163 --> 01:30:12,196
+What do you want?
+
+1293
+01:30:12,197 --> 01:30:14,664
+Why have you been following Marlowe?
+
+1294
+01:30:14,665 --> 01:30:16,116
+- Who says I've been?
+- I do.
+
+1295
+01:30:16,133 --> 01:30:19,936
+That was a mistake, your mistake.
+Eddie Mars don't like it.
+
+1296
+01:30:19,937 --> 01:30:23,906
+Sit down and quit stalling!
+Why are you tailing Marlowe?
+
+1297
+01:30:23,907 --> 01:30:27,443
+All right, there's no harm telling.
+It was for Joe Brody's girl.
+
+1298
+01:30:27,444 --> 01:30:29,645
+She has to leave town.
+That takes dough.
+
+1299
+01:30:29,646 --> 01:30:31,379
+She tried to
+get it through Marlowe.
+
+1300
+01:30:31,380 --> 01:30:33,081
+Why would he pay?
+
+1301
+01:30:33,082 --> 01:30:35,616
+You know about the night
+the kid bumped Brody?
+
+1302
+01:30:35,617 --> 01:30:37,885
+The young Sternwood girl was there.
+
+1303
+01:30:37,886 --> 01:30:39,573
+But Marlowe didn't say that.
+
+1304
+01:30:40,588 --> 01:30:43,423
+Agnes figured it was carfare
+when she got hold of him.
+
+1305
+01:30:43,424 --> 01:30:45,325
+- You get it?
+- Sure, I get it.
+
+1306
+01:30:45,326 --> 01:30:47,589
+- Where's this Agnes?
+- What do you care?
+
+1307
+01:30:47,628 --> 01:30:49,829
+What do you want with her?
+What's she got...
+
+1308
+01:30:49,830 --> 01:30:51,164
+What's the matter, Jones?
+
+1309
+01:30:51,198 --> 01:30:53,997
+Ain't you ever seen a gun?
+Where's the girl?
+
+1310
+01:30:54,368 --> 01:30:57,069
+You want me to count three,
+like a movie?
+
+1311
+01:30:57,070 --> 01:30:58,782
+Where's Agnes?
+
+1312
+01:31:00,206 --> 01:31:01,618
+You win.
+
+1313
+01:31:01,640 --> 01:31:03,375
+She's in an apartment...
+
+1314
+01:31:03,376 --> 01:31:05,482
+...at 28 Court Street.
+
+1315
+01:31:06,679 --> 01:31:08,666
+Apartment 301.
+
+1316
+01:31:09,714 --> 01:31:10,864
+I guess I'm yellow.
+
+1317
+01:31:11,082 --> 01:31:13,384
+You just got good sense.
+
+1318
+01:31:13,385 --> 01:31:17,518
+I ain't gonna hurt her.
+Not if everything's like you say.
+
+1319
+01:31:17,788 --> 01:31:18,938
+Nervous, ain't you?
+
+1320
+01:31:19,189 --> 01:31:21,858
+- Maybe you need a drink.
+- I don't think so...
+
+1321
+01:31:21,859 --> 01:31:23,730
+You got a glass?
+
+1322
+01:31:26,162 --> 01:31:27,312
+At the water cooler.
+
+1323
+01:31:42,377 --> 01:31:45,673
+There you are, pal.
+Drink her down.
+
+1324
+01:31:46,514 --> 01:31:47,664
+Well, drink it!
+
+1325
+01:31:47,748 --> 01:31:50,016
+What do you think it is, poison?
+
+1326
+01:31:50,017 --> 01:31:52,582
+I bet that Agnes
+wouldn't turn it down.
+
+1327
+01:31:53,119 --> 01:31:55,304
+No, I'll bet she wouldn't.
+
+1328
+01:32:02,528 --> 01:32:04,215
+What's funny?
+
+1329
+01:32:05,764 --> 01:32:07,556
+Nothing's funny.
+
+1330
+01:32:08,801 --> 01:32:10,828
+So long, Jonesy.
+
+1331
+01:32:44,899 --> 01:32:49,235
+Information, give me the number
+of apartment 301, 28 Court Street.
+
+1332
+01:32:49,236 --> 01:32:51,185
+<i>Thank you. One moment, please.</i>
+
+1333
+01:32:52,739 --> 01:32:56,908
+<i>- Courtview Apartments.
+- This is Police Identification Bureau.</i>
+
+1334
+01:32:56,909 --> 01:32:59,778
+You got a girl living there
+named Agnes Lowzier?
+
+1335
+01:32:59,779 --> 01:33:01,913
+<i>Nobody by that name here.</i>
+
+1336
+01:33:01,914 --> 01:33:04,716
+Have you got a brunette with
+green eyes...
+
+1337
+01:33:04,717 --> 01:33:08,686
+...either alone or with a little guy,
+weighs about 115 pounds...
+
+1338
+01:33:08,687 --> 01:33:10,921
+...wears a gray hat and gray suit?
+
+1339
+01:33:10,922 --> 01:33:13,329
+<i>Sorry. Nothing like that.</i>
+
+1340
+01:33:14,259 --> 01:33:17,293
+Somebody just gave out
+the wrong address.
+
+1341
+01:33:17,294 --> 01:33:18,745
+Thanks.
+
+1342
+01:33:38,213 --> 01:33:40,856
+You did all right, Jonesy.
+
+1343
+01:33:40,916 --> 01:33:43,714
+But you left me high and dry.
+
+1344
+01:33:57,864 --> 01:33:58,998
+<i>Who is this?</i>
+
+1345
+01:33:58,999 --> 01:34:01,900
+<i>- What did you say?
+- I said, "Who is this?"</i>
+
+1346
+01:34:01,901 --> 01:34:04,230
+Hello, Agnes. This is Marlowe.
+
+1347
+01:34:04,336 --> 01:34:06,137
+Marlowe, the man you want to see.
+
+1348
+01:34:06,138 --> 01:34:08,584
+<i>Is Harry there?</i>
+
+1349
+01:34:08,941 --> 01:34:10,040
+Yeah, he's here.
+
+1350
+01:34:10,041 --> 01:34:12,776
+<i>- Put him on, will you?
+- He can't talk to you.</i>
+
+1351
+01:34:12,777 --> 01:34:15,537
+<i>- Why?
+- Because he's dead.</i>
+
+1352
+01:34:15,680 --> 01:34:19,160
+Your little man died to keep
+you out of trouble.
+
+1353
+01:34:19,416 --> 01:34:21,484
+I got your money for you.
+Do you want it?
+
+1354
+01:34:21,485 --> 01:34:23,619
+<i>- Yeah, I want it.
+- Have you got a car?</i>
+
+1355
+01:34:23,620 --> 01:34:26,689
+<i>- Where can I meet you?
+- Rampart and Oakwood.</i>
+
+1356
+01:34:26,690 --> 01:34:29,057
+I'll be there in half an hour.
+
+1357
+01:34:47,641 --> 01:34:49,668
+What happened to Harry?
+
+1358
+01:34:49,743 --> 01:34:53,046
+There's no use going into that.
+You don't really care anyway.
+
+1359
+01:34:53,047 --> 01:34:56,081
+Just put it down your little man
+deserved something better.
+
+1360
+01:34:56,082 --> 01:34:57,455
+Here's your 200.
+
+1361
+01:34:59,552 --> 01:35:02,888
+Joe and I were riding on Foothill
+Boulevard a couple of weeks ago.
+
+1362
+01:35:02,889 --> 01:35:05,723
+We passed a brown coupe and
+I saw the driver.
+
+1363
+01:35:05,724 --> 01:35:07,391
+It was Eddie Mars' wife.
+
+1364
+01:35:07,392 --> 01:35:09,994
+- There was a fellow with her. Canino.
+- I know him.
+
+1365
+01:35:09,995 --> 01:35:13,297
+<i>Some people you don't forget,
+even if you've only seen them once.</i>
+
+1366
+01:35:13,298 --> 01:35:16,900
+We got curious and Joe tailed them.
+Do you know where Realito is?
+
+1367
+01:35:16,901 --> 01:35:19,469
+About 10 miles east,
+there's a side road.
+
+1368
+01:35:19,470 --> 01:35:22,072
+Off the highway,
+there's a garage and paint shop...
+
+1369
+01:35:22,073 --> 01:35:23,289
+...run by a guy named Huck.
+
+1370
+01:35:23,340 --> 01:35:26,775
+Hot-car drop, likely.
+And a frame house right behind it.
+
+1371
+01:35:26,776 --> 01:35:28,346
+That's where Mars' wife is.
+
+1372
+01:35:28,411 --> 01:35:30,412
+- You sure of that?
+- Why should I lie?
+
+1373
+01:35:30,413 --> 01:35:33,848
+Art Huck's, 10 miles east of Realito.
+Is that right?
+
+1374
+01:35:33,849 --> 01:35:36,718
+So long, copper. Wish me luck.
+I got a raw deal.
+
+1375
+01:35:36,719 --> 01:35:39,440
+Your kind always does.
+
+1376
+01:37:45,433 --> 01:37:46,583
+What do you want?
+
+1377
+01:37:46,601 --> 01:37:49,335
+Open up.
+I got a flat on the highway.
+
+1378
+01:37:49,336 --> 01:37:53,889
+Sorry, mister, we're closed
+for the night. Better try Realito.
+
+1379
+01:38:04,751 --> 01:38:06,282
+All right.
+
+1380
+01:38:06,285 --> 01:38:08,115
+Come on in.
+
+1381
+01:38:10,355 --> 01:38:12,556
+You'd scare off
+a lot of trade with that.
+
+1382
+01:38:12,557 --> 01:38:14,859
+You can get yourself hurt
+kicking on doors.
+
+1383
+01:38:14,860 --> 01:38:16,010
+Cut it out, Art.
+
+1384
+01:38:16,128 --> 01:38:17,578
+The guy's right.
+
+1385
+01:38:17,595 --> 01:38:22,345
+You run a garage, don't you?
+Go ahead. Give him a hand.
+
+1386
+01:38:23,100 --> 01:38:24,473
+Thanks, mister.
+
+1387
+01:38:25,802 --> 01:38:27,703
+I suppose you can fix flats?
+
+1388
+01:38:27,704 --> 01:38:31,140
+Good as you can make them,
+but I'm working on a spray job.
+
+1389
+01:38:31,141 --> 01:38:33,404
+It's too damp
+for a good spray job, Art.
+
+1390
+01:38:33,643 --> 01:38:35,343
+You got time to fix his tire.
+
+1391
+01:38:35,344 --> 01:38:36,875
+- But I don't...
+- Get moving!
+
+1392
+01:38:37,513 --> 01:38:38,691
+Sure.
+
+1393
+01:38:38,747 --> 01:38:40,615
+Here's the key to the back.
+
+1394
+01:38:40,616 --> 01:38:43,337
+Put the spare on.
+That'll make it easier.
+
+1395
+01:38:47,822 --> 01:38:50,424
+Yeah, I took a skid up at the corner.
+
+1396
+01:38:50,425 --> 01:38:54,527
+A front tire went.
+Lucky to find some help.
+
+1397
+01:38:54,528 --> 01:38:56,595
+You live around here?
+
+1398
+01:38:56,863 --> 01:38:59,506
+Just drove in from Reno
+and Carson City.
+
+1399
+01:38:59,599 --> 01:39:02,895
+Came the long way around, huh?
+Business trip?
+
+1400
+01:39:03,169 --> 01:39:04,620
+Partly.
+
+1401
+01:39:05,771 --> 01:39:07,505
+Having your car painted?
+
+1402
+01:39:07,506 --> 01:39:09,240
+Just a spray job.
+
+1403
+01:39:09,241 --> 01:39:12,654
+Art's pretty slow.
+He should've been finished by now.
+
+1404
+01:39:13,745 --> 01:39:15,393
+All right, Art.
+
+1405
+01:39:15,413 --> 01:39:17,676
+Take him in the house.
+
+1406
+01:39:35,031 --> 01:39:37,019
+You'd be Mrs. Eddie Mars...
+
+1407
+01:39:37,500 --> 01:39:40,334
+...the blonde that was
+supposed to run off with Regan.
+
+1408
+01:39:40,335 --> 01:39:42,206
+That's right.
+
+1409
+01:39:45,240 --> 01:39:46,888
+Hello, angel.
+
+1410
+01:39:50,945 --> 01:39:54,425
+Move that light, will you?
+Or move me.
+
+1411
+01:39:59,786 --> 01:40:02,507
+I thought I'd find you here.
+
+1412
+01:40:03,256 --> 01:40:05,691
+I suppose we're in the house
+back of the garage.
+
+1413
+01:40:05,692 --> 01:40:08,020
+Maybe you'd better stop talking.
+
+1414
+01:40:10,929 --> 01:40:14,487
+The boys don't take
+any chances, do they?
+
+1415
+01:40:15,133 --> 01:40:16,702
+Where are they?
+
+1416
+01:40:17,368 --> 01:40:19,369
+Out digging a grave?
+
+1417
+01:40:19,370 --> 01:40:21,838
+You had to go on
+with this, didn't you?
+
+1418
+01:40:21,839 --> 01:40:22,989
+Where are they?
+
+1419
+01:40:23,040 --> 01:40:25,574
+They've gone down
+the road to telephone.
+
+1420
+01:40:25,575 --> 01:40:29,252
+Call up Eddie Mars,
+find out what to do with me.
+
+1421
+01:40:29,279 --> 01:40:30,810
+I could tell them that.
+
+1422
+01:40:30,814 --> 01:40:33,015
+Why did you have to go on?
+
+1423
+01:40:33,016 --> 01:40:35,775
+Too many people told me to stop.
+
+1424
+01:40:36,719 --> 01:40:38,987
+Light me a cigarette,
+will you, angel?
+
+1425
+01:40:38,988 --> 01:40:40,400
+Why'd you make trouble?
+
+1426
+01:40:40,823 --> 01:40:42,490
+Eddie never did you any harm.
+
+1427
+01:40:42,491 --> 01:40:45,025
+I wasn't in love with Shawn.
+We were friends.
+
+1428
+01:40:45,026 --> 01:40:47,027
+If I hadn't hidden
+when Shawn disappeared...
+
+1429
+01:40:47,028 --> 01:40:48,996
+...the cops would've been sure
+he killed him.
+
+1430
+01:40:48,997 --> 01:40:50,409
+Maybe he did kill him.
+
+1431
+01:40:50,431 --> 01:40:51,726
+Eddie's not that kind.
+
+1432
+01:40:51,766 --> 01:40:54,634
+- You mean Eddie never kills anybody.
+- No.
+
+1433
+01:40:54,635 --> 01:40:57,081
+You really believe that, don't you?
+
+1434
+01:40:57,437 --> 01:41:00,206
+How do you suppose
+I found out you were here?
+
+1435
+01:41:00,207 --> 01:41:02,440
+Little man named Jones told me.
+
+1436
+01:41:02,441 --> 01:41:04,876
+Funny little guy. Harmless.
+I liked him.
+
+1437
+01:41:04,877 --> 01:41:09,114
+Came to sell me the information
+because I was working for Sternwood.
+
+1438
+01:41:09,115 --> 01:41:11,782
+How he came to know,
+it's a long story.
+
+1439
+01:41:11,783 --> 01:41:14,385
+Canino, your husband's man,
+got to him first...
+
+1440
+01:41:14,386 --> 01:41:16,587
+...while I stood around like a sap.
+
+1441
+01:41:16,588 --> 01:41:18,322
+I was in the next room.
+
+1442
+01:41:18,323 --> 01:41:21,736
+Now the little man is dead.
+But Eddie didn't do that, did he?
+
+1443
+01:41:21,825 --> 01:41:24,427
+He never kills anybody,
+he just hires it done.
+
+1444
+01:41:24,428 --> 01:41:25,606
+You're lying!
+
+1445
+01:41:25,663 --> 01:41:27,964
+You think he's just
+a gambler, don't you?
+
+1446
+01:41:27,965 --> 01:41:30,566
+I think he's a blackmailer,
+a hot-car broker...
+
+1447
+01:41:30,567 --> 01:41:32,176
+...a killer by remote control.
+
+1448
+01:41:32,402 --> 01:41:36,118
+Anything with money pinned to it,
+anything rotten...
+
+1449
+01:41:38,674 --> 01:41:40,937
+Ask him when you see him.
+
+1450
+01:41:43,345 --> 01:41:45,613
+Well, we got rid of her.
+
+1451
+01:41:45,614 --> 01:41:47,447
+She's all right.
+I like her.
+
+1452
+01:41:47,448 --> 01:41:49,549
+You like too many people.
+
+1453
+01:41:49,550 --> 01:41:53,687
+- I wonder if you'd do that for a man.
+- None that I've ever met.
+
+1454
+01:41:53,688 --> 01:41:57,056
+Then there's nothing to do
+but wait till Canino gets back.
+
+1455
+01:41:57,057 --> 01:41:58,958
+He doesn't know
+I was there.
+
+1456
+01:41:58,959 --> 01:42:01,824
+You know what he'll do
+when he finds out, don't you?
+
+1457
+01:42:01,828 --> 01:42:04,863
+Beat my teeth out then kick me
+in my stomach for mumbling.
+
+1458
+01:42:04,864 --> 01:42:07,532
+- That'll be just the start...
+- Stop talking that way!
+
+1459
+01:42:07,533 --> 01:42:09,634
+You should have gone to Mexico.
+
+1460
+01:42:09,635 --> 01:42:12,203
+- But then you couldn't, could you?
+- Stop it.
+
+1461
+01:42:12,204 --> 01:42:14,838
+Border patrol would have
+checked you through alone.
+
+1462
+01:42:14,839 --> 01:42:17,107
+People would have
+seen you without Regan.
+
+1463
+01:42:17,108 --> 01:42:21,124
+It was safer for you to come here,
+especially for Eddie.
+
+1464
+01:42:21,446 --> 01:42:23,713
+Will you stay out of this
+if I let you go?
+
+1465
+01:42:23,714 --> 01:42:25,048
+No.
+
+1466
+01:42:25,949 --> 01:42:27,780
+Take this thing out of my mouth.
+
+1467
+01:42:43,765 --> 01:42:45,675
+That's better.
+
+1468
+01:42:46,167 --> 01:42:47,959
+Get a knife and cut these ropes.
+
+1469
+01:43:00,513 --> 01:43:02,044
+Watch your fingers.
+
+1470
+01:43:07,620 --> 01:43:09,725
+Don't cut toward your hand.
+
+1471
+01:43:13,125 --> 01:43:15,826
+- Who's got a key to these handcuffs?
+- Canino.
+
+1472
+01:43:15,827 --> 01:43:17,395
+I don't suppose
+there's a gun around?
+
+1473
+01:43:17,396 --> 01:43:19,461
+None that I know of.
+
+1474
+01:43:29,205 --> 01:43:31,690
+The boys made a fast trip.
+
+1475
+01:43:32,242 --> 01:43:33,929
+What can you do?
+
+1476
+01:43:35,412 --> 01:43:38,479
+Look, angel. I'm gonna
+leave you in a tough spot.
+
+1477
+01:43:38,480 --> 01:43:39,514
+That's all right.
+
+1478
+01:43:39,515 --> 01:43:42,350
+- How do I get out of here?
+- That door leads to a porch.
+
+1479
+01:43:42,351 --> 01:43:44,485
+As soon as I've gone,
+you count to 20.
+
+1480
+01:43:44,486 --> 01:43:46,395
+- Then scream your head off.
+- I will.
+
+1481
+01:43:47,355 --> 01:43:49,840
+All right. Start counting.
+
+1482
+01:44:20,385 --> 01:44:23,027
+Get going, Art.
+You heard what I said!
+
+1483
+01:45:43,425 --> 01:45:45,412
+There! Behind the wheel!
+
+1484
+01:45:47,762 --> 01:45:49,057
+Over here, Canino!
+
+1485
+01:46:07,246 --> 01:46:08,424
+Here.
+
+1486
+01:46:08,481 --> 01:46:10,744
+That looks like the key.
+
+1487
+01:46:14,786 --> 01:46:17,115
+We'll have to take his car.
+
+1488
+01:46:29,500 --> 01:46:32,401
+How far is it from back there
+to the nearest telephone?
+
+1489
+01:46:32,402 --> 01:46:34,926
+About eight or 10 miles to Realito.
+Why?
+
+1490
+01:46:35,071 --> 01:46:38,574
+When Eddie's wife fixes my car
+and he finds out what happened...
+
+1491
+01:46:38,575 --> 01:46:39,724
+...there'll be trouble.
+
+1492
+01:46:39,942 --> 01:46:42,109
+You'll be in it
+just as much as I will.
+
+1493
+01:46:42,110 --> 01:46:44,216
+I don't mind,
+as long as you're around.
+
+1494
+01:46:46,415 --> 01:46:49,349
+I didn't get a chance to thank you
+for what you did.
+
+1495
+01:46:49,350 --> 01:46:51,142
+You looked good. Awful good!
+
+1496
+01:46:51,552 --> 01:46:54,421
+I didn't know they made them
+like that anymore.
+
+1497
+01:46:54,422 --> 01:46:55,914
+I guess I'm in love with you.
+
+1498
+01:46:59,292 --> 01:47:01,393
+Will you go to the police with me?
+
+1499
+01:47:01,394 --> 01:47:02,728
+I can't.
+
+1500
+01:47:02,762 --> 01:47:04,174
+Why not?
+
+1501
+01:47:04,831 --> 01:47:07,532
+What if I told you
+I killed Shawn Regan?
+
+1502
+01:47:07,533 --> 01:47:09,678
+Would you tell the police that?
+
+1503
+01:47:10,469 --> 01:47:12,732
+I will if you take me there.
+
+1504
+01:47:14,540 --> 01:47:16,340
+I'm not going to.
+
+1505
+01:47:16,341 --> 01:47:18,748
+Look, angel, I'm tired.
+
+1506
+01:47:18,877 --> 01:47:21,612
+My jaw hurts, my ribs ache,
+I killed a man back there...
+
+1507
+01:47:21,613 --> 01:47:24,648
+...and stood by while
+a harmless guy was killed.
+
+1508
+01:47:24,649 --> 01:47:26,021
+I can't say it all happened...
+
+1509
+01:47:26,049 --> 01:47:28,751
+...because Geiger tried to throw
+a loop over Carmen.
+
+1510
+01:47:28,752 --> 01:47:30,283
+They'll swarm your house...
+
+1511
+01:47:30,287 --> 01:47:32,588
+...so fast that every closet
+in your family...
+
+1512
+01:47:32,589 --> 01:47:36,068
+...will look like a police convention.
+
+1513
+01:47:36,325 --> 01:47:38,193
+They'll all ask the same question...
+
+1514
+01:47:38,194 --> 01:47:39,725
+..."Where's Shawn Regan?
+
+1515
+01:47:39,729 --> 01:47:42,731
+Why did Mars hide his wife so
+it looked like she ran off with Regan?"
+
+1516
+01:47:42,732 --> 01:47:46,200
+Why did you hide out there?
+You're playing with dynamite.
+
+1517
+01:47:46,201 --> 01:47:48,702
+- If I...
+- I won't ask any more questions.
+
+1518
+01:47:48,703 --> 01:47:51,505
+I won't even ask you
+how you got into this mess.
+
+1519
+01:47:51,506 --> 01:47:53,740
+I'll ask Eddie,
+if I can get there quickly.
+
+1520
+01:47:53,741 --> 01:47:55,768
+Why are you doing that?
+
+1521
+01:47:56,210 --> 01:47:58,734
+I guess I'm in love with you.
+
+1522
+01:48:41,684 --> 01:48:44,208
+Hello. Let me talk to Mr. Mars.
+
+1523
+01:48:44,320 --> 01:48:47,760
+Hello, Eddie.
+This is Marlowe.
+
+1524
+01:48:48,022 --> 01:48:49,957
+Yeah, Marlowe,
+or what's left of him.
+
+1525
+01:48:49,958 --> 01:48:52,225
+That Canino's a pretty good boy.
+
+1526
+01:48:52,226 --> 01:48:55,170
+You'll have trouble getting
+another as good.
+
+1527
+01:48:55,430 --> 01:48:57,953
+What's the matter, Eddie?
+Can't you talk?
+
+1528
+01:48:58,265 --> 01:49:00,967
+I'm in Realito, the same
+place Canino called from.
+
+1529
+01:49:00,968 --> 01:49:03,002
+Only now it's me that's calling.
+
+1530
+01:49:03,003 --> 01:49:04,913
+I want to see you.
+
+1531
+01:49:06,005 --> 01:49:09,741
+Why don't you go to the police?
+I just killed your best boy.
+
+1532
+01:49:09,742 --> 01:49:12,266
+Do you want to see me
+or don't you?
+
+1533
+01:49:12,745 --> 01:49:13,923
+All right. Where?
+
+1534
+01:49:15,613 --> 01:49:19,368
+Las Olindas is too far.
+Not your apartment either.
+
+1535
+01:49:20,218 --> 01:49:21,368
+Your house?
+
+1536
+01:49:21,519 --> 01:49:24,161
+You mean the one
+that Geiger lived in?
+
+1537
+01:49:24,822 --> 01:49:26,771
+All right. When?
+
+1538
+01:49:28,025 --> 01:49:30,354
+How long will it take me
+to get there?
+
+1539
+01:49:31,595 --> 01:49:34,079
+I'll be there just as quick as I can.
+
+1540
+01:49:35,832 --> 01:49:37,933
+- It worked.
+- You're taking an awful chance.
+
+1541
+01:49:37,934 --> 01:49:40,224
+He'll be here in 10 minutes.
+
+1542
+01:49:41,371 --> 01:49:44,205
+Go and make sure
+that back door is locked...
+
+1543
+01:49:44,206 --> 01:49:47,581
+...and then close these curtains.
+I'll get rid of the car.
+
+1544
+01:49:58,686 --> 01:50:01,209
+You're the one who's shaking now.
+
+1545
+01:50:01,454 --> 01:50:03,599
+I'm scared, angel.
+
+1546
+01:50:03,823 --> 01:50:05,850
+I'm sore too.
+
+1547
+01:50:06,092 --> 01:50:09,294
+Mars has been ahead of me
+all the way. Way ahead!
+
+1548
+01:50:09,295 --> 01:50:13,088
+If I don't get the jump on him
+this time, we're cooked.
+
+1549
+01:50:25,843 --> 01:50:27,596
+Here they are.
+
+1550
+01:50:30,814 --> 01:50:32,345
+Watch the back.
+
+1551
+01:50:32,349 --> 01:50:35,685
+If you see anybody coming,
+yell like you did before.
+
+1552
+01:50:49,164 --> 01:50:51,388
+- What?
+- The curtain! Stop it swinging.
+
+1553
+01:51:40,843 --> 01:51:43,311
+I got here first.
+Put those scissors down.
+
+1554
+01:51:43,312 --> 01:51:44,999
+Put them down!
+
+1555
+01:51:48,617 --> 01:51:50,408
+Turn around.
+
+1556
+01:51:58,059 --> 01:51:59,667
+Over there.
+
+1557
+01:52:08,601 --> 01:52:10,171
+Sit down.
+
+1558
+01:52:13,139 --> 01:52:15,206
+There's two men out in back.
+
+1559
+01:52:15,207 --> 01:52:17,574
+- Watch them.
+- Hello, Mr. Mars.
+
+1560
+01:52:17,575 --> 01:52:20,296
+- You double-crossing...
+- I told you to sit down.
+
+1561
+01:52:23,448 --> 01:52:25,949
+And leave her out of it.
+She's all right.
+
+1562
+01:52:25,950 --> 01:52:28,751
+She kept her deal.
+She didn't tell me a thing...
+
+1563
+01:52:28,752 --> 01:52:31,387
+...except that she killed Regan.
+I didn't believe that.
+
+1564
+01:52:31,388 --> 01:52:33,890
+Regan's dead,
+but she didn't do it.
+
+1565
+01:52:33,891 --> 01:52:36,324
+It was Carmen, wasn't it?
+How'd it happen?
+
+1566
+01:52:36,325 --> 01:52:38,960
+- She didn't tell...?
+- I asked you how it happened.
+
+1567
+01:52:38,961 --> 01:52:42,097
+- Carmen liked Regan.
+- But he liked your wife.
+
+1568
+01:52:42,098 --> 01:52:43,899
+He said no to Carmen.
+
+1569
+01:52:43,900 --> 01:52:47,468
+She gets mad when anybody says that.
+I've seen her that way.
+
+1570
+01:52:47,469 --> 01:52:51,071
+She was high. When it was over,
+she couldn't remember much about it.
+
+1571
+01:52:51,072 --> 01:52:52,681
+I've seen her that way too.
+
+1572
+01:52:52,908 --> 01:52:55,074
+- You hid the body.
+- You can't prove it.
+
+1573
+01:52:55,075 --> 01:52:57,544
+It's just as bad for you
+if I prove it to myself.
+
+1574
+01:52:57,545 --> 01:52:59,345
+Then you blackmailed
+Mrs. Rutledge...
+
+1575
+01:52:59,346 --> 01:53:01,681
+...by telling her
+what Carmen had done.
+
+1576
+01:53:01,682 --> 01:53:04,183
+How did you prove to her
+that Carmen had done it?
+
+1577
+01:53:04,184 --> 01:53:05,635
+Prove it to me.
+
+1578
+01:53:05,652 --> 01:53:07,103
+You've seen her when she's that way.
+
+1579
+01:53:07,120 --> 01:53:09,187
+Sure I have. Have you?
+
+1580
+01:53:09,589 --> 01:53:12,232
+Why didn't you know her
+when you walked in here?
+
+1581
+01:53:12,391 --> 01:53:16,028
+You're pretty smart,
+but I've been waiting for this one.
+
+1582
+01:53:17,429 --> 01:53:18,579
+What are you gonna do?
+
+1583
+01:53:18,630 --> 01:53:21,098
+I said you're smart.
+You walked in without a gun.
+
+1584
+01:53:21,099 --> 01:53:23,700
+You'd agree to everything,
+just like you're doing now.
+
+1585
+01:53:23,701 --> 01:53:25,669
+When I left,
+things would be different.
+
+1586
+01:53:25,670 --> 01:53:28,305
+That's what those boys
+are doing out there.
+
+1587
+01:53:28,306 --> 01:53:31,040
+But everything's changed now,
+since I got here first.
+
+1588
+01:53:31,041 --> 01:53:32,675
+Angel, get on the floor!
+
+1589
+01:53:32,676 --> 01:53:34,543
+Don't get excited, Marlowe.
+
+1590
+01:53:34,544 --> 01:53:37,746
+If anything happens, if there's
+any shooting, you'll just...
+
+1591
+01:53:37,747 --> 01:53:40,949
+What do you think will happen now?
+What'll your boys think?
+
+1592
+01:53:40,950 --> 01:53:43,685
+What'll they do to
+the first one out that door?
+
+1593
+01:53:43,686 --> 01:53:45,217
+Who's it gonna be, you or me?
+
+1594
+01:53:45,221 --> 01:53:47,255
+- Now look...
+- You look at this!
+
+1595
+01:53:47,256 --> 01:53:49,165
+Haven't you ever seen a gun?
+
+1596
+01:53:49,457 --> 01:53:51,558
+Want me to count,
+like in the movies?
+
+1597
+01:53:51,559 --> 01:53:53,193
+That's what Canino said to Jonesy.
+
+1598
+01:53:53,194 --> 01:53:55,562
+- Don't go crazy!
+- Jonesy took it better.
+
+1599
+01:53:55,897 --> 01:53:58,081
+- That's one, Eddie.
+- Don't! Don't!
+
+1600
+01:53:58,765 --> 01:54:00,636
+That's two, Eddie!
+
+1601
+01:54:01,235 --> 01:54:03,341
+Don't shoot! It's me, Mars!
+
+1602
+01:54:47,009 --> 01:54:48,265
+Bernie?
+
+1603
+01:54:48,310 --> 01:54:50,141
+This is Marlowe.
+
+1604
+01:54:50,512 --> 01:54:52,546
+I've got some more red points for you.
+
+1605
+01:54:52,547 --> 01:54:55,215
+<i>- Who is it this time?
+- Eddie Mars.</i>
+
+1606
+01:54:55,216 --> 01:54:56,816
+His boys got him.
+
+1607
+01:54:56,817 --> 01:54:59,586
+There's more to it than that.
+He killed Regan.
+
+1608
+01:54:59,587 --> 01:55:01,038
+I'll tell you when I see you.
+
+1609
+01:55:01,055 --> 01:55:02,231
+<i>Where are you?</i>
+
+1610
+01:55:02,289 --> 01:55:06,125
+The same place, Laverne Terrace.
+Come up and get me out of here.
+
+1611
+01:55:06,126 --> 01:55:08,761
+And watch yourself.
+They may still be outside.
+
+1612
+01:55:08,762 --> 01:55:10,332
+<i>Right away.</i>
+
+1613
+01:55:18,437 --> 01:55:20,004
+It won't take him long.
+
+1614
+01:55:20,005 --> 01:55:22,607
+Wait a minute, let me do the talking.
+
+1615
+01:55:22,874 --> 01:55:27,322
+I don't know what I'll tell him,
+but it'll be pretty close to the truth.
+
+1616
+01:55:27,712 --> 01:55:29,812
+You'll have to send Carmen away...
+
+1617
+01:55:29,813 --> 01:55:31,514
+...from a lot of things.
+
+1618
+01:55:31,515 --> 01:55:33,621
+They have places for that.
+
+1619
+01:55:33,817 --> 01:55:36,957
+Maybe they can cure her.
+It's been done before.
+
+1620
+01:55:37,487 --> 01:55:41,581
+We'll have to tell your father
+about Regan. I think he can take it.
+
+1621
+01:55:41,724 --> 01:55:44,014
+You've forgotten one thing.
+
+1622
+01:55:44,493 --> 01:55:45,749
+Me.
+
+1623
+01:55:49,297 --> 01:55:51,168
+What's wrong with you?
+
+1624
+01:55:52,000 --> 01:55:54,485
+Nothing you can't fix.

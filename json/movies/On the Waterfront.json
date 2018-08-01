@@ -1,0 +1,41 @@
+{
+    "title": "On the Waterfront",
+    "year": 1954,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "108"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.::Colin Tinto <cst@imdb.com>",
+        "A longshoreman and ex boxer named Terry Malloy witnesses a murder perpetrated by his corrupt union. When a beautiful young woman comes into the picture that just so happens to be the murdered man's sister, Terry feels obligated to stand up to his bosses as a result of his recent relations with her.::drewsoccer707",
+        "Terry Malloy is an ex prize-fighter who works on the docks doing errands for corrupt union boss \"Friendly Johnny\". After witnessing the murder of one of the dock men, he takes a second look into the men he is working for. He feels guilty about the death of the young man after falling for his sister and meeting \"Father Barry\" in his campaign to take down the evil longshoremen union bosses in the courts.::eljohnson3742",
+        "Dockworker Terry Malloy had been an up-and-coming boxer until powerful local mob boss Johnny Friendly persuaded him to throw a fight. When a longshoreman is murdered before he can testify about Friendly's control of the Hoboken waterfront, Terry teams up with the dead man's sister Edie and the streetwise priest Father Barry to testify himself, against the advice of Friendly's lawyer, Terry's older brother Charley.::Jwelch5742",
+        "The Waterfront Crime Commission is about to hold public hearings on union crime and underworld infiltration. As workers are turned against each other, Terry Malloy inadvertently participates in the murder of fellow longshoreman Joey Doyle. Union boss Johnny Friendly orchestrates the murder along with other illegal dockside activities, aided by Terry's brother Charley. Terry begins to feel pangs of conscience. When Joey's sister Edie sees more in Terry than he sees in himself and Father Barry urges him on, Terry reassesses his past and begins to regain responsibility for his actions.::Bruce Janson <bruce@cs.su.oz.au>",
+        "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.::jgp3553"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.4236622484045165,
+        "linguistic_difficulty_percentage": 0.029455081001472753,
+        "words_per_minute": 94,
+        "common_words": {
+            "get": 82,
+            "know": 81,
+            "come": 76,
+            "wa": 75,
+            "right": 62,
+            "terry": 56,
+            "go": 54,
+            "got": 49,
+            "want": 47,
+            "take": 45
+        }
+    }
+}

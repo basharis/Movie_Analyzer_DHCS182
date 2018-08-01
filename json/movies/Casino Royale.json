@@ -1,0 +1,41 @@
+{
+    "title": "Casino Royale",
+    "year": 2006,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "runtime": [
+        "144"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "James Bond goes on his first ever mission as a 00. Le Chiffre is a banker to the world's terrorists. He is participating in a poker game at Montenegro, where he must win back his money, in order to stay safe among the terrorist market. The boss of MI6, known simply as M sends Bond, along with Vesper Lynd to attend this game and prevent Le Chiffre from winning. Bond, using help from Felix Leiter, Mathis and having Vesper pose as his partner, enters the most important poker game in his already dangerous career. But if Bond defeats Le Chiffre, will he and Vesper Lynd remain safe?::simon",
+        "Recently promoted to 00 status, James Bond takes over his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre. Along with a beautiful Treasury agent and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre in order to recover a huge sum of his clients' money he lost in a failed plot that the British spy took down. 007 will not only discover the threatening organization behind his enemy, but the worst of all truths: to not trust on anyone.::wolf beautell",
+        "Casino Royale introduces James Bond before he holds his license to kill. But Bond is no less dangerous, and with two professional assassinations in quick succession, he is elevated to '00' status. Bond's first 007 mission takes him to Uganda where he is to spy on a terrorist, Mollaka. Not everything goes to plan and Bond decides to investigate, independently of MI6, in order to track down the rest of the terrorist cell. Following a lead to the Bahamas, he encounters Dimitrios and his girlfriend, Solange. He learns that Dimitrios is involved with Le Chiffre, banker to the world's terrorist organizations. Secret Service intelligence reveals that Le Chiffre is planning to raise money in a high-stakes poker game in Montenegro at Le Casino Royale. MI6 assigns 007 to play against him, knowing that if Le Chiffre loses, it will destroy his organization. 'M' places Bond under the watchful eye of the beguiling Vesper Lynd. At first skeptical of what value Vesper can provide, Bond's interest in her deepens as they brave danger together and even torture at the hands of Le Chiffre. In Montenegro, Bond allies himself with Mathis MI6's local field agent, and Felix Leiter who is representing the interests of the CIA. The marathon game proceeds with dirty tricks and violence, raising the stakes beyond blood money and reaching a terrifying climax.::Krafty",
+        "The British Establishment has an ally, in the guise of newly appointed double-00 James Bond. He's back with a vengeance. His introduction is a sparing partner of both intelligence and brutality, his mission is to take the ultimate gamble and place his life on the line in the arenas of terrorism and the ivory towers of power. Taking Bond around the world once more but it is in Casino Royale where this battle of wit and cunning will take place, taking no prisoners and leaving nothing but death in his wake. This gripping updated Ian Fleming story is dealt with the expectancy of urgency and drama that when the chips are down this action packed high-octane movie will deliver what England expects.::Cinema_Fan",
+        "Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem.::Peter Gonzalez and assmn316"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 1.3575967648757943,
+        "linguistic_difficulty_percentage": 0.05777007510109763,
+        "words_per_minute": 24,
+        "common_words": {
+            "bond": 29,
+            "know": 21,
+            "wa": 21,
+            "one": 20,
+            "mr": 17,
+            "get": 17,
+            "think": 17,
+            "million": 17,
+            "le": 16,
+            "chiffre": 16
+        }
+    }
+}

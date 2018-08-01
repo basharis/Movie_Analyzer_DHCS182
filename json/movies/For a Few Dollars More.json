@@ -1,0 +1,36 @@
+{
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "genres": [
+        "Western"
+    ],
+    "runtime": [
+        "132"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Monco is a bounty killer chasing El Indio and his gang. During his hunting, he meets Col. Douglas Mortimer, another bounty killer, and they decide to make a partnership, chase the bad guys together and split the reward. During their enterprise, there will be lots of bullets and funny situations. In the end, one of the bounty hunters shows the real intention of his hunting.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Two bounty hunters with the same intentions team up to track down a Western outlaw.::<jgp3553@excite.com>"
+    ],
+    "language": {
+        "id": [
+            "Italian",
+            "English"
+        ],
+        "adult_language_percentage": 1.5430677107323814,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 32,
+        "common_words": {
+            "right": 39,
+            "go": 34,
+            "wa": 31,
+            "one": 30,
+            "get": 28,
+            "know": 28,
+            "bank": 28,
+            "let": 22,
+            "indio": 21,
+            "two": 17
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "229"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "Epic tale of a group of Jewish gangsters in New York, from childhood, through their glory years during prohibition, and their meeting again 35 years later.::Andrew Welsh <andreww@bnr.ca>",
+        "Complex tale of the life of New York gangsters from the period of the early 1900's through prohibition, and climaxing in their subsequent reunion in the 1960's. Loyal childhood friends enter a life of crime together that inevitably leads to tragedy.::Grant Hamilton <hamilton@mis.net.au>",
+        "Epic, episodic, tale of the lives of a small group of New York City Jewish gangsters spanning over 40 years. Told mostly in flashbacks and flash-forwards, the movie centers on small-time hood David 'Noodles' Aaronson and his lifelong partners in crime; Max, Cockeye and Patsy and their friends from growing up in the rough Jewish neighborhood of New York's Lower East Side in the 1920s, to the last years of Prohibition in the early 1930s, and then to the late 1960s where an elderly Noodles returns to New York after many years in hiding to look into the past.::Matthew Patay",
+        "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.::wsjacobs@gmail.com"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Italian",
+            "French"
+        ],
+        "adult_language_percentage": 2.210759027266028,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 41,
+        "common_words": {
+            "got": 68,
+            "come": 64,
+            "get": 59,
+            "noodles": 57,
+            "go": 57,
+            "wa": 53,
+            "know": 50,
+            "yeah": 48,
+            "hey": 45,
+            "gonna": 44
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "The Return",
+    "year": 2003,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Two teenage Russian boys have their father return home suddenly after being absent for 12 years. The father takes the boys on a holiday to a remote island on a lake in the north of Russia that turns into a test of manhood of almost mythic proportions.::Sujit R. Varma",
+        "In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.::IMDb Editors"
+    ],
+    "language": {
+        "id": [
+            "Russian"
+        ],
+        "adult_language_percentage": 1.4014325755216444,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 29,
+        "common_words": {
+            "go": 48,
+            "get": 43,
+            "dad": 42,
+            "andrei": 32,
+            "let": 26,
+            "yes": 23,
+            "come": 21,
+            "got": 19,
+            "one": 16,
+            "know": 16
+        }
+    }
+}

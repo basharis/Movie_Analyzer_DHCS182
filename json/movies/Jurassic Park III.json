@@ -1,0 +1,43 @@
+{
+    "title": "Jurassic Park III",
+    "year": 2001,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "92"
+    ],
+    "rating": 5.9,
+    "plot": [
+        "Dr. Alan Grant is now a happy man with the previous incidents of Jurassic Park now behind him. Grant is that happy that he announce in public, that nothing on Earth can persuade him back onto the islands. Maybe nothing, except Paul Kirby. Kirby and his wife, Amanda want a plane to fly them over Isla Sorna, with Dr. Grant as their guide. But not everything Kirby says is true. When the plane lands, Dr. Grant realizes that there is another reason why they are there, that he doesn't know of. Now, Dr. Grant is stuck on an island he has never been on before, with what was a plane journey now turned into a search party.::Film_Fan",
+        "An insistent but lucrative invitation by the well-off thrill-seekers, Paul and Amanda Kirby, drags Jurassic Park's survivor and esteemed palaeontologist, Dr Alan Grant, back to InGen's Isla Sorna for an aerial tour, nearly a decade after Isla Nublar's absolute debacle. However, only when the team gets marooned on the seemingly isolated island will Dr Alan unearth the naked truth behind the couple's risky proposition, as a multitude of ferocious living fossils hunts them down like prey. Is there an escape from this green inferno of primaeval horrors?::Nick Riganas",
+        "Eight years after the InGen incident, Dr. Alan Grant is happy with his life far from any dinosaurs other than fossilized. Unfortunately, he is extremely short in research money, and therefore accepts the offer of wealthy businessman Paul Kirby: A low flight over isolated Isla Sorna, where InGen's second research site was located, and Dr. Grant can fund his future research for a long time. What Dr. Grant didn't know is that Kirby just needs a dinosaur expert to help him and his wife find their 14-year-old son Eric, who crashed on the island while paragliding. What he did suspect, but never wanted to witness, is that the Velociraptors have evolved into a communicating species (and seemingly all along had the capability to do so), now being smarter than primates.::Julian Reischl <julianreischl@mac.com>",
+        "Anxious to fund research for his new theory of velociraptor intelligence, renowned paleontologist Dr. Alan Grant is persuaded by wealthy adventurer Paul Kirby and his wife Amanda to accompany them on an aerial tour of Isla Sorna. This infamous island, once InGen's site B, has become both a primordial breeding ground for John Hammond's magnificent creations and a magnet for thrill-seekers eager to encounter them. When a tragic accident maroons the party of seven, Grant discovers the true reason his deceptive hosts have invited him along. In their perilous attempt to escape, the dwindling group encounters terrifying new creatures undisclosed by InGen, and Grant is forced to learn the dreadful implications of his raptor intelligence theory firsthand.::Sujit R. Varma",
+        "Adventure runs wild when renowned paleontologist DR. Alan Grant agrees to accompany a wealthy adventurer and his wife on an aerial tour of Isla Sorna, InGen's former breeding ground for prehistoric creatures. But when they're terrifyingly stranded, Dr. Grant discovers that his hosts are not what they seem, and the island's native inhabitants are smarter, faster, fiercer and more brutal than he ever imagined.::Robert Lynch <docrlynch@yahoo.com>",
+        "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna, resulting in an unexpected landing, and unexpected new inhabitants on the island.::Keith Simanton <keith@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.0387362042847867,
+        "linguistic_difficulty_percentage": 0.08656135035706557,
+        "words_per_minute": 50,
+        "common_words": {
+            "eric": 32,
+            "get": 27,
+            "grant": 26,
+            "dr": 25,
+            "billy": 25,
+            "wa": 24,
+            "know": 24,
+            "go": 22,
+            "one": 22,
+            "kirby": 22
+        }
+    }
+}

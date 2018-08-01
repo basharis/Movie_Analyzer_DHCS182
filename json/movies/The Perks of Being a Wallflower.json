@@ -1,0 +1,39 @@
+{
+    "title": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Based on the novel written by Stephen Chbosky, this is about 15-year-old Charlie (Logan Lerman), an endearing and naive outsider, coping with first love (Emma Watson), the suicide of his best friend, and his own mental illness while struggling to find a group of people with whom he belongs. The introvert freshman is taken under the wings of two seniors, Sam and Patrick, who welcome him to the real world.::Anonymous",
+        "Charlie is a shy teenager without friends that has just joined the high-school. He misses his best friend, who had committed suicide, and he writes letters to an imaginary friend telling his feelings. Further, Charlie has a mental illness problem in his past. Soon Charlie befriends the veterans Patrick, who is gay, and his stepsister Sam and they become best friends. Charlie wants to be a writer and he also becomes the favorite student of his teacher of literature, Mr. Anderson, who lends him books. Sam and Patrick introduce Charlie to their friends and Charlie falls in love with Sam, but he does not have self-confidence to date her. Charlie discovers a new world and feels happy with his friends, and he dates their common friend Mary Elizabeth. But when they end their relationship, Patrick asks Charlie to stay away from them for a while and soon he triggers his mental illness again. He goes to the hospital where a doctor finally discloses the origin of his problem.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "As a freshmen in High School, Charlie, portrayed by Logan Lerman, struggles with bullies, depression, bad influences and girls. Based on the book written by Stephan Chbosky, the Perks of Being a Wallflower thrives as a film. While Charlie wants to survive high school, he forces himself to participate in school functions, to prevent himself from falling back into his depression. The not-so-typical teenager finds himself being taken under the wing by a few seniors, and has never been so excited to have friends again. Finally being happy, Charlie experiments with drugs, sex and the party scene, but underlying problems from the past cause Charlie to spiral out of control.",
+        "Charlie was bullied and largely friendless in middle school for being a shy bookworm, the same which he vows not to happen as he enters his freshman year in high school, although he will have to navigate those hallways on his own, as who was his only true friend, Michael, committed suicide just before the summer. Charlie's year does not start well as the only person whom he seems to connect with is his Advanced English teacher, Mr. Anderson, who can see that Charlie is the one person in the class who truly does enjoy literature for literature's sake and not just as a means to a good grade. However, Charlie is eventually befriended by some seniors, step-brother and sister Patrick and Sam, and their small group of friends, Mary Elizabeth, Alice and Bob who all consider themselves misfits. Even with this accepting group, Charlie admits he still doesn't know how to act around people, a misstep which could threaten those friendships. If a misstep is to occur, it probably would concern his growing attraction for Sam, who is dating a college student named Craig. All Charlie does know is that his blackouts, letters he writes to his \"friend\", and specific flashbacks - his conscious and subconscious coping mechanisms - have lessened the more he has spent time with these friends. But he may not be able to escape fully his past, specifically issues about who he considered the person he loved most in the world before meeting Sam, namely his now deceased Aunt Helen.::Huggo",
+        "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.::Bryce"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.3005621073514824,
+        "linguistic_difficulty_percentage": 0.05510856387082552,
+        "words_per_minute": 88,
+        "common_words": {
+            "charlie": 88,
+            "know": 85,
+            "wa": 59,
+            "yeah": 54,
+            "like": 48,
+            "really": 45,
+            "get": 42,
+            "one": 42,
+            "okay": 41,
+            "go": 38
+        }
+    }
+}

@@ -1,0 +1,747 @@
+[
+    {
+        "rank": 1,
+        "title": "Platoon",
+        "score": 0.054541
+    },
+    {
+        "rank": 2,
+        "title": "Full Metal Jacket",
+        "score": 0.052369
+    },
+    {
+        "rank": 3,
+        "title": "Superbad",
+        "score": 0.050399
+    },
+    {
+        "rank": 4,
+        "title": "Unforgiven",
+        "score": 0.049782
+    },
+    {
+        "rank": 5,
+        "title": "The Passion of Joan of Arc",
+        "score": 0.04908
+    },
+    {
+        "rank": 6,
+        "title": "Reservoir Dogs",
+        "score": 0.048947
+    },
+    {
+        "rank": 7,
+        "title": "American History X",
+        "score": 0.04731
+    },
+    {
+        "rank": 8,
+        "title": "Dallas Buyers Club",
+        "score": 0.047063
+    },
+    {
+        "rank": 9,
+        "title": "8 Mile",
+        "score": 0.046834
+    },
+    {
+        "rank": 10,
+        "title": "City of God",
+        "score": 0.045348
+    },
+    {
+        "rank": 11,
+        "title": "The Wolf of Wall Street",
+        "score": 0.044519
+    },
+    {
+        "rank": 12,
+        "title": "Trainspotting",
+        "score": 0.042938
+    },
+    {
+        "rank": 13,
+        "title": "The Big Lebowski",
+        "score": 0.042375
+    },
+    {
+        "rank": 14,
+        "title": "The Shawshank Redemption",
+        "score": 0.042331
+    },
+    {
+        "rank": 15,
+        "title": "Snatch",
+        "score": 0.042199
+    },
+    {
+        "rank": 16,
+        "title": "Pulp Fiction",
+        "score": 0.040966
+    },
+    {
+        "rank": 17,
+        "title": "Princess Mononoke",
+        "score": 0.040694
+    },
+    {
+        "rank": 18,
+        "title": "Underground",
+        "score": 0.040199
+    },
+    {
+        "rank": 19,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "score": 0.039519
+    },
+    {
+        "rank": 20,
+        "title": "Deadpool 2",
+        "score": 0.039338
+    },
+    {
+        "rank": 21,
+        "title": "Django Unchained",
+        "score": 0.038226
+    },
+    {
+        "rank": 22,
+        "title": "The Departed",
+        "score": 0.03722
+    },
+    {
+        "rank": 23,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "score": 0.036231
+    },
+    {
+        "rank": 24,
+        "title": "Amores Perros",
+        "score": 0.036147
+    },
+    {
+        "rank": 25,
+        "title": "Gangs of Wasseypur",
+        "score": 0.035783
+    },
+    {
+        "rank": 26,
+        "title": "The Wild Bunch",
+        "score": 0.035278
+    },
+    {
+        "rank": 27,
+        "title": "Deadpool",
+        "score": 0.033915
+    },
+    {
+        "rank": 28,
+        "title": "Come and See",
+        "score": 0.033315
+    },
+    {
+        "rank": 29,
+        "title": "Inglourious Basterds",
+        "score": 0.033226
+    },
+    {
+        "rank": 30,
+        "title": "Apocalypse Now",
+        "score": 0.033004
+    },
+    {
+        "rank": 31,
+        "title": "The Usual Suspects",
+        "score": 0.032978
+    },
+    {
+        "rank": 32,
+        "title": "Battleship Potemkin",
+        "score": 0.032874
+    },
+    {
+        "rank": 33,
+        "title": "Se7en",
+        "score": 0.032015
+    },
+    {
+        "rank": 34,
+        "title": "Gran Torino",
+        "score": 0.031961
+    },
+    {
+        "rank": 35,
+        "title": "Scarface",
+        "score": 0.031347
+    },
+    {
+        "rank": 36,
+        "title": "Fight Club",
+        "score": 0.03104
+    },
+    {
+        "rank": 37,
+        "title": "Dawn of the Dead",
+        "score": 0.029766
+    },
+    {
+        "rank": 38,
+        "title": "Goodfellas",
+        "score": 0.029553
+    },
+    {
+        "rank": 39,
+        "title": "Saving Private Ryan",
+        "score": 0.029393
+    },
+    {
+        "rank": 40,
+        "title": "Raging Bull",
+        "score": 0.029181
+    },
+    {
+        "rank": 41,
+        "title": "Terminator 2",
+        "score": 0.028773
+    },
+    {
+        "rank": 42,
+        "title": "Pat Garrett & Billy the Kid",
+        "score": 0.028648
+    },
+    {
+        "rank": 43,
+        "title": "Old Boy",
+        "score": 0.028388
+    },
+    {
+        "rank": 44,
+        "title": "The Cabinet of Dr. Caligari",
+        "score": 0.028316
+    },
+    {
+        "rank": 45,
+        "title": "Whiplash",
+        "score": 0.028275
+    },
+    {
+        "rank": 46,
+        "title": "Mystic River",
+        "score": 0.027985
+    },
+    {
+        "rank": 47,
+        "title": "Sicario",
+        "score": 0.027835
+    },
+    {
+        "rank": 48,
+        "title": "Magnolia",
+        "score": 0.02783
+    },
+    {
+        "rank": 49,
+        "title": "Black Mountain Side",
+        "score": 0.02772
+    },
+    {
+        "rank": 50,
+        "title": "Gangster Squad",
+        "score": 0.027712
+    },
+    {
+        "rank": 51,
+        "title": "L.A. Confidential",
+        "score": 0.027586
+    },
+    {
+        "rank": 52,
+        "title": "The Exorcist",
+        "score": 0.027537
+    },
+    {
+        "rank": 53,
+        "title": "Seven Samurai",
+        "score": 0.027285
+    },
+    {
+        "rank": 54,
+        "title": "The Seventh Seal",
+        "score": 0.026408
+    },
+    {
+        "rank": 55,
+        "title": "Live Free or Die Hard",
+        "score": 0.026347
+    },
+    {
+        "rank": 56,
+        "title": "Aguirre, the Wrath of God",
+        "score": 0.02628
+    },
+    {
+        "rank": 57,
+        "title": "Gladiator",
+        "score": 0.025886
+    },
+    {
+        "rank": 58,
+        "title": "Nausicaa of the Valley of the Wind",
+        "score": 0.02574
+    },
+    {
+        "rank": 59,
+        "title": "Paan Singh Tomar",
+        "score": 0.025552
+    },
+    {
+        "rank": 60,
+        "title": "Patton",
+        "score": 0.025406
+    },
+    {
+        "rank": 61,
+        "title": "The Revenant",
+        "score": 0.025374
+    },
+    {
+        "rank": 62,
+        "title": "Logan",
+        "score": 0.025183
+    },
+    {
+        "rank": 63,
+        "title": "Requiem for a Dream",
+        "score": 0.02513
+    },
+    {
+        "rank": 64,
+        "title": "Crna macka, beli macor",
+        "score": 0.025124
+    },
+    {
+        "rank": 65,
+        "title": "Dog Day Afternoon",
+        "score": 0.025037
+    },
+    {
+        "rank": 66,
+        "title": "Donnie Darko",
+        "score": 0.025019
+    },
+    {
+        "rank": 67,
+        "title": "The Green Mile",
+        "score": 0.02494
+    },
+    {
+        "rank": 68,
+        "title": "Persepolis",
+        "score": 0.024725
+    },
+    {
+        "rank": 69,
+        "title": "C.R.A.Z.Y.",
+        "score": 0.024703
+    },
+    {
+        "rank": 70,
+        "title": "PK",
+        "score": 0.024668
+    },
+    {
+        "rank": 71,
+        "title": "Good Will Hunting",
+        "score": 0.024613
+    },
+    {
+        "rank": 72,
+        "title": "Terminator",
+        "score": 0.02407
+    },
+    {
+        "rank": 73,
+        "title": "12 Years a Slave",
+        "score": 0.023987
+    },
+    {
+        "rank": 74,
+        "title": "The Raid 2",
+        "score": 0.023938
+    },
+    {
+        "rank": 75,
+        "title": "V for Vendetta",
+        "score": 0.02381
+    },
+    {
+        "rank": 76,
+        "title": "War for the Planet of the Apes",
+        "score": 0.023579
+    },
+    {
+        "rank": 77,
+        "title": "Short Term 12",
+        "score": 0.023429
+    },
+    {
+        "rank": 78,
+        "title": "Cinderella Man",
+        "score": 0.023293
+    },
+    {
+        "rank": 79,
+        "title": "The Thing",
+        "score": 0.02323
+    },
+    {
+        "rank": 80,
+        "title": "American Beauty",
+        "score": 0.023038
+    },
+    {
+        "rank": 81,
+        "title": "Nosferatu the Vampyre",
+        "score": 0.022882
+    },
+    {
+        "rank": 82,
+        "title": "Shutter Island",
+        "score": 0.022581
+    },
+    {
+        "rank": 83,
+        "title": "The Good, the Bad and the Ugly",
+        "score": 0.022538
+    },
+    {
+        "rank": 84,
+        "title": "Rocky III",
+        "score": 0.022256
+    },
+    {
+        "rank": 85,
+        "title": "The Life Before Her Eyes",
+        "score": 0.022209
+    },
+    {
+        "rank": 86,
+        "title": "Once Upon a Time in America",
+        "score": 0.022108
+    },
+    {
+        "rank": 87,
+        "title": "Alien",
+        "score": 0.022096
+    },
+    {
+        "rank": 88,
+        "title": "Hacksaw Ridge",
+        "score": 0.021947
+    },
+    {
+        "rank": 89,
+        "title": "Million Dollar Baby",
+        "score": 0.021946
+    },
+    {
+        "rank": 90,
+        "title": "Monty Python and the Holy Grail",
+        "score": 0.021874
+    },
+    {
+        "rank": 91,
+        "title": "Memento",
+        "score": 0.021834
+    },
+    {
+        "rank": 92,
+        "title": "Tangerines",
+        "score": 0.021705
+    },
+    {
+        "rank": 93,
+        "title": "Lawrence of Arabia",
+        "score": 0.021561
+    },
+    {
+        "rank": 94,
+        "title": "Indiana Jones and the Last Crusade",
+        "score": 0.021277
+    },
+    {
+        "rank": 95,
+        "title": "The Pianist",
+        "score": 0.021247
+    },
+    {
+        "rank": 96,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "score": 0.020953
+    },
+    {
+        "rank": 97,
+        "title": "Gandhi",
+        "score": 0.020948
+    },
+    {
+        "rank": 98,
+        "title": "Kagemusha",
+        "score": 0.020557
+    },
+    {
+        "rank": 99,
+        "title": "The Battle of Algiers",
+        "score": 0.020453
+    },
+    {
+        "rank": 100,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "score": 0.020355
+    },
+    {
+        "rank": 101,
+        "title": "Ram Gopal Varma Ki Aag",
+        "score": 0.020295
+    },
+    {
+        "rank": 102,
+        "title": "Rang De Basanti",
+        "score": 0.020217
+    },
+    {
+        "rank": 103,
+        "title": "Dunkirk",
+        "score": 0.020089
+    },
+    {
+        "rank": 104,
+        "title": "Fistful of Dollars",
+        "score": 0.019913
+    },
+    {
+        "rank": 105,
+        "title": "Gone Girl",
+        "score": 0.019905
+    },
+    {
+        "rank": 106,
+        "title": "Batman Begins",
+        "score": 0.019902
+    },
+    {
+        "rank": 107,
+        "title": "Manhattan Nocturne",
+        "score": 0.019846
+    },
+    {
+        "rank": 108,
+        "title": "Wonder Woman",
+        "score": 0.019689
+    },
+    {
+        "rank": 109,
+        "title": "Das Boot",
+        "score": 0.019502
+    },
+    {
+        "rank": 110,
+        "title": "Sleuth",
+        "score": 0.019233
+    },
+    {
+        "rank": 111,
+        "title": "Forrest Gump",
+        "score": 0.019184
+    },
+    {
+        "rank": 112,
+        "title": "Guardians of the Galaxy Vol. 2",
+        "score": 0.019163
+    },
+    {
+        "rank": 113,
+        "title": "Haider",
+        "score": 0.018696
+    },
+    {
+        "rank": 114,
+        "title": "The Dark Knight Rises",
+        "score": 0.018604
+    },
+    {
+        "rank": 115,
+        "title": "Andrei Rublev",
+        "score": 0.018366
+    },
+    {
+        "rank": 116,
+        "title": "Bhaag Milkha Bhaag",
+        "score": 0.018349
+    },
+    {
+        "rank": 117,
+        "title": "Monster's Ball",
+        "score": 0.018315
+    },
+    {
+        "rank": 118,
+        "title": "Sling Blade",
+        "score": 0.018289
+    },
+    {
+        "rank": 119,
+        "title": "Braveheart",
+        "score": 0.018249
+    },
+    {
+        "rank": 120,
+        "title": "Brazil",
+        "score": 0.018142
+    },
+    {
+        "rank": 121,
+        "title": "Prisoners",
+        "score": 0.018119
+    },
+    {
+        "rank": 122,
+        "title": "Spring, Summer, Fall, Winter... and Spring",
+        "score": 0.018006
+    },
+    {
+        "rank": 123,
+        "title": "American Psycho",
+        "score": 0.017939
+    },
+    {
+        "rank": 124,
+        "title": "Selma",
+        "score": 0.017889
+    },
+    {
+        "rank": 125,
+        "title": "The Hidden Fortress",
+        "score": 0.017758
+    },
+    {
+        "rank": 126,
+        "title": "Secret in Their Eyes",
+        "score": 0.017655
+    },
+    {
+        "rank": 127,
+        "title": "The Iron Giant",
+        "score": 0.017537
+    },
+    {
+        "rank": 128,
+        "title": "Inside Out",
+        "score": 0.017363
+    },
+    {
+        "rank": 129,
+        "title": "The Color of Money",
+        "score": 0.017133
+    },
+    {
+        "rank": 130,
+        "title": "Get Over It",
+        "score": 0.017007
+    },
+    {
+        "rank": 131,
+        "title": "Udaan",
+        "score": 0.016981
+    },
+    {
+        "rank": 132,
+        "title": "The Imitation Game",
+        "score": 0.016874
+    },
+    {
+        "rank": 133,
+        "title": "Spotlight",
+        "score": 0.016812
+    },
+    {
+        "rank": 134,
+        "title": "Heat",
+        "score": 0.016794
+    },
+    {
+        "rank": 135,
+        "title": "Pan's Labyrinth",
+        "score": 0.016681
+    },
+    {
+        "rank": 136,
+        "title": "Slumdog Millionaire",
+        "score": 0.016667
+    },
+    {
+        "rank": 137,
+        "title": "Schindler's List",
+        "score": 0.016569
+    },
+    {
+        "rank": 138,
+        "title": "Pred polnocou",
+        "score": 0.01649
+    },
+    {
+        "rank": 139,
+        "title": "The Princess Bride",
+        "score": 0.016439
+    },
+    {
+        "rank": 140,
+        "title": "Sing Street",
+        "score": 0.016435
+    },
+    {
+        "rank": 141,
+        "title": "Dances with Wolves",
+        "score": 0.016402
+    },
+    {
+        "rank": 142,
+        "title": "Scent of a Woman",
+        "score": 0.016281
+    },
+    {
+        "rank": 143,
+        "title": "In the Heat of the Night",
+        "score": 0.016133
+    },
+    {
+        "rank": 144,
+        "title": "Back to the Future",
+        "score": 0.0161
+    },
+    {
+        "rank": 145,
+        "title": "Ghost in the Shell",
+        "score": 0.016093
+    },
+    {
+        "rank": 146,
+        "title": "Jaws",
+        "score": 0.016049
+    },
+    {
+        "rank": 147,
+        "title": "The Wages of Fear",
+        "score": 0.015925
+    },
+    {
+        "rank": 148,
+        "title": "The Grand Budapest Hotel",
+        "score": 0.015638
+    },
+    {
+        "rank": 149,
+        "title": "I'm Not There.",
+        "score": 0.015562
+    }
+]

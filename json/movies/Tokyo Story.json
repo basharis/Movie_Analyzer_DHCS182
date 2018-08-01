@@ -1,0 +1,40 @@
+{
+    "title": "Tokyo Story",
+    "year": 1953,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "136"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "An elderly couple journey to Tokyo to visit their children and are confronted by indifference, ingratitude and selfishness. When the parents are packed off to a resort by their busy, impatient children, the film deepens into an unbearably moving meditation on mortality.::Paul Watabe",
+        "Elderly couple Shukishi and Tomi Hirayama live in the small coastal village of Onomichi, Japan with their youngest daughter, schoolteacher Kyoko Hirayama. Their other three surviving adult children, who they have not seen in quite some time, live either in Tokyo or Osaka. As such, Shukishi and Tomi make the unilateral decision to have an extended visit in Tokyo with their children, pediatrician Koichi Hirayama and beautician Shige Kaneko, and their respective families (which includes two grandchildren). In transit, they make an unexpected stop in Osaka and stay with their other son, Keiso Hirayama. All of their children treat the visit more as an obligation than a want, each trying to figure out what to do with their parents while they continue on with their own daily lives. At one point, they even decide to ship their parents off to an inexpensive resort at Atami Hot Springs rather than spend time with them. The only offspring who makes a concerted effort on this trip is Noriko Hirayama, their widowed daughter-in-law, whose husband, Shoji Hirayama, was killed eight years earlier in the war. Following the vacation, each child comes to some conclusion of their general behavior toward their parents, not only on this trip but throughout their entire adult lives. For some, this realization may come too late.::Huggo",
+        "In Onomichi, Hiroshima, the retired Shukishi Hirayama and his wife Tomi Hirayama live with their single daughter, the teacher Ky\u00f4ko. They decide to travel in a long voyage by train to Tokyo to visit their children, the doctor Koichi Hirayama and the hairdresser Shige Kaneko. However, the indifferent and selfish Koichi and Shige can not afford time to spend with their parents but the widow sister-in-law Noriko Hirayama gives attention to them and goes on sightseeing through Tokyo with the old couple. Shukishi and Tomi note that their children do not have time for them and they decide to return to Onomichi. Along their trip, Tomi does not feel well and they stop in Osaka to visit their son Keizo Hirayama. Soon each son and daughter receives a telegram from Onomichi with sad news.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "An elderly couple, Shukishi and Tomi, travel from Hiroshima to Tokyo to visit their children. The trip is arduous for the humble, elderly couple who are keen to see their children again. Their son, Koichi, is a doctor and is often away from home. Their daughter Shige finds their visit to be a costly imposition on her time. The only person who seems to care about them is their widowed daughter-in-law Noriko. Their stay in Tokyo proves to be a sad one as they soon come to realize they are not particularly welcome and that their children see the visit more as a nuisance than anything else. As Tomi begins to feel unwell, they decide to return home but must face a tragic end.::garykmcd",
+        "An elderly couple head to Tokyo to spend a few days with their children and grandchildren. While their children are initially glad to see them, and the parents are models of patience and pleasantness, the novelty wears off pretty quickly for the children and they soon view the parents as a hindrance more than anything else. Then an event highlights the divide between the two generations.::grantss",
+        "An old couple visit their children and grandchildren in the city; but the children have little time for them.::J. Spurlin"
+    ],
+    "language": {
+        "id": [
+            "Japanese",
+            "English"
+        ],
+        "adult_language_percentage": 0.2931769722814499,
+        "linguistic_difficulty_percentage": 0.013326226012793176,
+        "words_per_minute": 55,
+        "common_words": {
+            "see": 57,
+            "wa": 57,
+            "lm": 51,
+            "right": 50,
+            "go": 48,
+            "mother": 47,
+            "thank": 46,
+            "father": 46,
+            "like": 40,
+            "yes": 39
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "The Passion of Joan of Arc",
+    "year": 1928,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "The sufferings of a martyr, Jeanne D'Arc (1412-1431). Jeanne appears in court where Cauchon questions her and d'Estivet spits on her. She predicts her rescue, is taken to her cell, and judges forge evidence against her. In her cell, priests interrogate her and judges deny her the Mass. Threatened first in a torture chamber and then offered communion if she will recant, she refuses. At a cemetery, in front of a crowd, a priest and supporters urge her to recant; she does, and Cauchon announces her sentence. In her cell, she explains her change of mind and receives communion. In the courtyard at Rouen castle, she burns at the stake; the soldiers turn on the protesting crowd.::<jhailey@hotmail.com>",
+        "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.::Shannon Patrick Sullivan <shannon@mun.ca>"
+    ],
+    "language": {
+        "id": [
+            "French"
+        ],
+        "adult_language_percentage": 4.9079754601226995,
+        "linguistic_difficulty_percentage": 0.23006134969325154,
+        "words_per_minute": 11,
+        "common_words": {
+            "god": 28,
+            "joan": 19,
+            "ha": 12,
+            "know": 9,
+            "woman": 6,
+            "france": 6,
+            "sent": 6,
+            "wa": 6,
+            "soul": 6,
+            "death": 5
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "A Wednesday",
+    "year": 2008,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "104"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "A man calls up the Mumbai police, and tells them he has placed five different bombs in the city -- all set to go off in some time. He wants four terrorists in exchange. Does he get them? Who is behind it all? What's his motive? Is there more than meets the eye?::Saurabh Roy",
+        "Prakash rathode (commissioner of Mumbai police) receives a call of a man and he says that he have planted five bombs all over Mumbai and they will gonna detonate at 6:30pm to avoid this disaster he demands to release four terrorists which belongs to al-qaeda what's his motto?::Naved Dalkhania",
+        "On the verge of retiring as Commissioner of Police, Prakash Rathod, gets a telephone call from a male who informs him that he has placed several bombs all over Mumbai, and unless and until he arranges the release of four terrorists, with Al Qaeda and Lashkar links, namely Ibhrahim Khan, Ikhlaque Khan, Mohammad Zaheer, and Khursheed Lala. This male then warns Prakash that if his demands are not carried out, the bombs will explode, and one of them has been placed right opposite the Commissioner's Colaba office. It will be now up to Prakash and the state's Chief Minister to either adhere to this male's demands or face the death of tens of thousands innocent civilians.::rAjOo (gunwanti@hotmail.com)",
+        "A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday."
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "English"
+        ],
+        "adult_language_percentage": 1.5353121801432956,
+        "linguistic_difficulty_percentage": 0.05686341407938133,
+        "words_per_minute": 84,
+        "common_words": {
+            "sir": 115,
+            "yes": 51,
+            "wa": 49,
+            "call": 45,
+            "want": 41,
+            "get": 37,
+            "mr": 36,
+            "come": 35,
+            "tell": 34,
+            "man": 34
+        }
+    }
+}

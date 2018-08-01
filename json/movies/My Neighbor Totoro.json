@@ -1,0 +1,37 @@
+{
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "86"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Two young girls, 10-year-old Satsuki and her 4-year-old sister Mei, move into a house in the country with their father to be closer to their hospitalized mother. Satsuki and Mei discover that the nearby forest is inhabited by magical creatures called Totoros (pronounced toe-toe-ro). They soon befriend these Totoros, and have several magical adventures.::Christopher E. Meadows <cmeadows@nyx.cs.du.edu>",
+        "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 0.46808510638297873,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 54,
+        "common_words": {
+            "ha": 173,
+            "mai": 66,
+            "come": 46,
+            "oh": 44,
+            "go": 32,
+            "hee": 32,
+            "wa": 29,
+            "see": 26,
+            "ohh": 25,
+            "aah": 25
+        }
+    }
+}

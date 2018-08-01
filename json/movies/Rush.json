@@ -1,0 +1,43 @@
+{
+    "title": "Rush",
+    "year": 2013,
+    "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+    ],
+    "runtime": [
+        "123"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Set against the sexy, glamorous golden age of Formula 1 racing in the 1970s, the film is based on the true story of a great sporting rivalry between handsome English playboy James Hunt (Hemsworth), and his methodical, brilliant opponent, Austrian driver Niki Lauda (Bruhl). The story follows their distinctly different personal styles on and off the track, their loves and the astonishing 1976 season in which both drivers were willing to risk everything to become world champion in a sport with no margin for error: if you make a mistake, you die.::P. Morgan",
+        "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Italian",
+            "French",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.4099901628593288,
+        "linguistic_difficulty_percentage": 0.06558093780741064,
+        "words_per_minute": 74,
+        "common_words": {
+            "james": 75,
+            "hunt": 68,
+            "lauda": 66,
+            "niki": 64,
+            "car": 57,
+            "race": 52,
+            "wa": 49,
+            "go": 48,
+            "right": 39,
+            "know": 36
+        }
+    }
+}

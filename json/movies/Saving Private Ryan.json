@@ -1,0 +1,43 @@
+{
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "169"
+    ],
+    "rating": 8.6,
+    "plot": [
+        "Opening with the Allied invasion of Normandy on 6 June 1944, members of the 2nd Ranger Battalion under Cpt. Miller fight ashore to secure a beachhead. Amidst the fighting, two brothers are killed in action. Earlier in New Guinea, a third brother is KIA. Their mother, Mrs. Ryan, is to receive all three of the grave telegrams on the same day. The United States Army Chief of Staff, George C. Marshall, is given an opportunity to alleviate some of her grief when he learns of a fourth brother, Private James Ryan, and decides to send out 8 men (Cpt. Miller and select members from 2nd Rangers) to find him and bring him back home to his mother...::J.Zelman",
+        "After the invasion of fortress Europe on June 6th 1944, Cpt. Miller leads his squad from the 2nd Ranger Battalion of the 29th Infantry Division, on a mission to find and bring home Private James Francis Ryan after the death of his brothers. The mission takes them through Nazi occupied territory to establish contact with Ryan's unit, an element of the 101st Airborne Division. This exciting war thriller brings the reality of history's bloodiest war into the homes of ordinary people, but also brings to light the reality of broken and lost families in a time of total and encompassing war.::Pvt. Maher, HHC 29th Aviation Brigade, 29th Infantry Division, Aberdeen Proving Grounds, MD",
+        "The film opens with the Allied invasion on the Normandy beach on June 6, 1944. Cpt. Miller and members of the 2nd Ranger Battalion fight to secure the beachhead. During the invasion, two brothers are killed in action. Earlier, the third brother was killed in New Guinea. The mother of the brothers is about to recieve the grave telegrams at the same day. The United States Army Chief of Staff, George C. Marshall, is given an opportunity to alleviate some of her grief when he finds out that there was also a fourth brother, Private James Ryan, who went missing somewhere in France. He sends Cpt. Miller and seven other people from the 2nd Ranger Battalion to go look for him and bring him back to his mother.::srijanarora-152-448595",
+        "During WWII, Chief of Staff, General Marshall is informed that three of a woman's sons have been killed and that she's going to receive the notifications of their demise at the same time. And when he learns that a fourth son is still unaccounted for, the General decides to send a unit to find him and bring him back, despite being told that it's highly unlikely that he is still alive and the area that he was known to be at is very dangerous. So the unit consisting of 8 men are sent to find him but as stated it's very dangerous and one by one, they are picked off. Will they find him and how many of them will still be alive?::rcs0411@yahoo.com",
+        "Following the Allied invasion of Normandy, two brothers lay dead in the wake of the onslaught. Meanwhile, in New Guinea, a third brother has been killed fighting the Japanese. After the Army General Staff learns that a fourth brother is missing in the French countryside, a rescue mission is ordered to find the young soldier and return him safely home. The mission is mounted by a veteran Ranger Captain commanding a squad of men who have mixed feelings about risking their lives to \"Save Private Ryan\".::Anthony Hughes <husnock31@hotmail.com>",
+        "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "German",
+            "Czech"
+        ],
+        "adult_language_percentage": 2.939323955490237,
+        "linguistic_difficulty_percentage": 0.09447826999790047,
+        "words_per_minute": 56,
+        "common_words": {
+            "l": 271,
+            "sir": 139,
+            "got": 79,
+            "get": 72,
+            "right": 68,
+            "ryan": 64,
+            "go": 61,
+            "know": 59,
+            "captain": 57,
+            "one": 49
+        }
+    }
+}

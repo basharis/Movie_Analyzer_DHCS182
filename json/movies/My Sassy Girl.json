@@ -1,0 +1,37 @@
+{
+    "title": "My Sassy Girl",
+    "year": 2008,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "92"
+    ],
+    "rating": 6.3,
+    "plot": [
+        "My Sassy Girl is the tale of the first and last time Charlie Bello falls in love. From their initial meeting, trouble is the name of the game. Imagine an amorphous mass of dating disasters and you get an idea of the relationship between the young couple. Some mysterious force with the strength of gravity between two planets must be at play between Charlie and Jordan as the relationship truly makes no sense on the surface. Everything seems pitted against the two of them. Things suddenly come to a halt when the two write letters confessing their love for each other. Agreeing to meet a year later to read the love letters together, Charlie and Jordan go their separate ways.::Marx-Michael",
+        "A sweet Midwestern guy with his life planned out for himself is wooed, groomed, and ultimately dumped by a complicated, elusive gal.::IMDb Editors"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.0084233005101437,
+        "linguistic_difficulty_percentage": 0.05931901767706727,
+        "words_per_minute": 91,
+        "common_words": {
+            "ok": 88,
+            "wa": 67,
+            "uh": 66,
+            "know": 62,
+            "oh": 59,
+            "yes": 46,
+            "charlie": 42,
+            "go": 42,
+            "yeah": 38,
+            "would": 36
+        }
+    }
+}

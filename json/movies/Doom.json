@@ -1,0 +1,26 @@
+{
+    "title": "Doom",
+    "year": 2019,
+    "genres": "None",
+    "runtime": 110,
+    "rating": "NR",
+    "plot": "None",
+    "language": {
+        "id": "None",
+        "adult_language_percentage": 4.179943767572634,
+        "linguistic_difficulty_percentage": 0.1499531396438613,
+        "words_per_minute": 48,
+        "common_words": {
+            "get": 43,
+            "portman": 36,
+            "got": 36,
+            "shit": 35,
+            "go": 32,
+            "come": 29,
+            "ark": 27,
+            "carmack": 25,
+            "wa": 22,
+            "dr": 22
+        }
+    }
+}

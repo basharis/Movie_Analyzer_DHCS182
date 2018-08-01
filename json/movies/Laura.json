@@ -1,0 +1,39 @@
+{
+    "title": "Laura",
+    "year": 1944,
+    "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+    ],
+    "runtime": [
+        "88"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Detective Mark McPherson investigates the killing of Laura, found dead on her apartment floor before the movie starts. McPherson builds a mental picture of the dead girl from the suspects whom he interviews. He is helped by the striking painting of the late lamented Laura hanging on her apartment wall. But who would have wanted to kill a girl with whom every man she met seemed to fall in love? To make matters worse, McPherson finds himself falling under her spell too. Then one night, halfway through his investigations, something seriously bizarre happens to make him re-think the whole case.::Steve Hosgood <iiitsh@pyr.swan.ac.uk>",
+        "When the famous advertising executive Laura Hunt is found dead in her apartment killed by a shotgun on a Friday night, Detective Lieutenant Mark McPherson is in charge of the investigation. He interviews the prime suspects and friends of Laura: the snob and arrogant journalist Waldo Lydecker who promoted Laura at the beginning of her career and fell in love with her; and her fianc\u00e9, the playboy Shelby Carpenter. While investigating Laura's past through her diary and personal letters, Det. McPherson falls in love with her.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Beautiful Laura Hunt is found shot to death in her apartment. Hard nosed Lieutenant Mark McPherson is assigned as the lead investigator for the case. As he gets into the investigation, he learns that all the men in her life were in love with her including her fianc\u00e9 Shelby Carpenter, and the women either loved her as a person or were envious and jealous of the attention she received from men. As he questions the suspects and witnesses, reads her diary and private letters, and most importantly stares at the large portrait of her that hangs over her mantle, McPherson himself falls under the spell of Laura Hunt. Three days into the investigation, someone walks through Laura's apartment door that changes the focus of the investigation and answers some nagging questions on McPherson's part, but also adds one more person to the long list of suspects.::Huggo",
+        "A police detective falls in love with the woman whose murder he is investigating.::Shannon Patrick Sullivan <shannon@mun.ca>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.7681088964511424,
+        "linguistic_difficulty_percentage": 0.10695187165775401,
+        "words_per_minute": 116,
+        "common_words": {
+            "wa": 139,
+            "know": 82,
+            "laura": 81,
+            "night": 44,
+            "good": 41,
+            "yes": 41,
+            "see": 36,
+            "well": 36,
+            "shelby": 35,
+            "get": 35
+        }
+    }
+}

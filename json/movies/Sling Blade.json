@@ -1,0 +1,36 @@
+{
+    "title": "Sling Blade",
+    "year": 1996,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "135"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A partially handicapped man named Karl is released from a mental hospital, about 20 years after murdering his mother and another person. Karl is often questioned if he will ever kill again, and he shrugs in response saying there is no reason to. Now out of the mental institution, Karl settles in his old, small hometown, occupying himself by fixing motors. After meeting a young boy named Frank, who befriends him, Karl is invited to stay at Frank's house with his mother Linda, who views Karl as a strange but kind and generous man. However, Linda's abusive boyfriend, Doyle, sees things differently in the way rules ought to be run- normally insulting Linda's homosexual friend Vaughan as well as Karl's disabilities, and having wild parties with his friends. As Karl's relationship with Frank grows, he is watchful of Doyle's cruel actions.::commanderblue",
+        "Karl Childers, now a grown man, is released from a psychiatric hospital where he has been hospitalized since the age of 12 for the murder of his mother and her lover. He returns to his childhood town, and although being mentally handicapped, gets a job fixing small motors at a local repair shop. Karl befriends a young boy, Frank, and is soon invited by Frank's mother Linda to move into the family's garage. As a strong relationship develops between Karl and Frank, a confrontation builds with Linda's abusive and sometimes violent boyfriend Doyle.::Todd K. Bowman <tkbowman@aol.com>",
+        "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.8289134591404108,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 89,
+        "common_words": {
+            "wa": 100,
+            "like": 85,
+            "get": 83,
+            "know": 77,
+            "good": 76,
+            "go": 75,
+            "got": 67,
+            "right": 66,
+            "come": 62,
+            "karl": 60
+        }
+    }
+}

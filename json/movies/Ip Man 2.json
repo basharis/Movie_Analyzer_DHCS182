@@ -1,0 +1,42 @@
+{
+    "title": "Ip Man 2",
+    "year": 2010,
+    "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+    ],
+    "runtime": [
+        "108"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "Ip Man 2 is a 2010 Hong Kong biographical martial arts film loosely based on the life of Ip Man, a grandmaster of the martial art Wing Chun. A sequel to the 2008 film Ip Man, the film was directed by Wilson Yip, and stars Donnie Yen, who reprises the leading role. Continuing after the events of the earlier film, the sequel centers on Ip's movements in Hong Kong, which is under British colonial rule. He attempts to propagate his discipline of Wing Chun, but faces rivalry from other practitioners, including the local master of Hung Ga martial arts.::jck movies",
+        "In 1950, Yip Man (1893-1972) has left Foshun for Hong Kong. With his wife expecting their second child, Yip opens a martial arts school to teach Wing Chun. Things start slowly and even when he has students, Yip doesn't always collect tuition. Yip also runs afoul of the local guild of martial arts masters: they demand that he defeat each of them before they will let his school continue; the elder of the group, Master Hong Zhen Nan, also demands a sizable payment. Yip is defiant. Then, things go terribly wrong with the British when their boxing champion insults Chinese martial arts at a public demonstration. Master Hong steps up to defend Chinese honor, but will that be enough?::<jhailey@hotmail.com>",
+        "Centering on Ip Man's migration to Hong Kong in 1949 as he attempts to propagate his discipline of Wing Chun martial arts.::FrankRizzo"
+    ],
+    "language": {
+        "id": [
+            "Cantonese",
+            "Mandarin",
+            "English"
+        ],
+        "adult_language_percentage": 1.4850354123829106,
+        "linguistic_difficulty_percentage": 0.04569339730408956,
+        "words_per_minute": 40,
+        "common_words": {
+            "master": 103,
+            "yip": 51,
+            "go": 48,
+            "man": 29,
+            "get": 28,
+            "let": 27,
+            "hong": 27,
+            "please": 26,
+            "chun": 24,
+            "time": 23
+        }
+    }
+}

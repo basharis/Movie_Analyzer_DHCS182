@@ -1,0 +1,41 @@
+{
+    "title": "Whisper of the Heart",
+    "year": 1995,
+    "genres": [
+        "Animation",
+        "Drama",
+        "Family",
+        "Music",
+        "Romance"
+    ],
+    "runtime": [
+        "111"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A young Japanese middle school girl finds that all the books she chooses in the library have been previously checked out by the same boy. Later she meets a very infuriating fellow... could it be her \"friend\" from the library? The boy's grandfather has a violin sales and service shop. The boy wants to be a violin maker like his grandfather.::Dana Anthony <ranthony@intrex.net>",
+        "14-year-old teenage bookworm Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'. Curious as to who he is, Shizuku meets a boy of her age whom she finds infuriating, but discovers to her shock that he is her 'Prince of Books'. As she grows closer to him, she realises that he merely read all those books to bring himself closer to her. The boy, Seiji, aspires to be a violin maker in Italy, and it is his dreams that make Shizuku realise that she has no clear path for her life. Knowing that her strength lies in writing, she tests her talents by writing a story about Baron, a cat statuette belonging to Seiji's grandfather.",
+        "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.::ReptilePatrol"
+    ],
+    "language": {
+        "id": [
+            "Japanese",
+            "English"
+        ],
+        "adult_language_percentage": 0.43200276481769484,
+        "linguistic_difficulty_percentage": 0.08640055296353896,
+        "words_per_minute": 52,
+        "common_words": {
+            "like": 54,
+            "shizuku": 46,
+            "wa": 40,
+            "go": 38,
+            "going": 31,
+            "come": 30,
+            "one": 28,
+            "know": 27,
+            "want": 24,
+            "see": 24
+        }
+    }
+}

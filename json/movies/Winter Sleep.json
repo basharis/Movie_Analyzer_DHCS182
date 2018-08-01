@@ -1,0 +1,36 @@
+{
+    "title": "Winter Sleep",
+    "year": 2014,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "196"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Aydin, a former actor, runs a small hotel in central Anatolia with his young wife Nihal with whom he has a stormy relationship and his sister Necla who is suffering from her recent divorce. In winter as the snow begins to fall, the hotel turns into a shelter but also an inescapable place that fuels their animosities...::Cannes Film Festival",
+        "A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.::TompaDompa"
+    ],
+    "language": {
+        "id": [
+            "Turkish",
+            "English"
+        ],
+        "adult_language_percentage": 0.8199799699549324,
+        "linguistic_difficulty_percentage": 0.09389083625438158,
+        "words_per_minute": 81,
+        "common_words": {
+            "like": 106,
+            "know": 98,
+            "come": 81,
+            "go": 73,
+            "get": 66,
+            "wa": 61,
+            "say": 59,
+            "right": 59,
+            "want": 58,
+            "yes": 54
+        }
+    }
+}

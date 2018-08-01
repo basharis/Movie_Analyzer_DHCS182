@@ -1,0 +1,38 @@
+{
+    "title": "Warrior",
+    "year": 2011,
+    "genres": [
+        "Drama",
+        "Sport"
+    ],
+    "runtime": [
+        "140"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Two brothers face the fight of a lifetime - and the wreckage of their broken family - within the brutal, high-stakes world of Mixed Martial Arts (MMA) fighting in Lionsgate's action/drama, WARRIOR. A former Marine, haunted by a tragic past, Tommy Riordan returns to his hometown of Pittsburgh and enlists his father, a recovered alcoholic and his former coach, to train him for an MMA tournament awarding the biggest purse in the history of the sport. As Tommy blazes a violent path towards the title prize, his brother, Brendan, a former MMA fighter unable to make ends meet as a public school teacher, returns to the amateur ring to provide for his family. Even though years have passed, recriminations and past betrayals keep Brendan bitterly estranged from both Tommy and his father. But when Brendan's unlikely rise as an underdog sets him on a collision course with Tommy, the two brothers must finally confront the forces that tore them apart, all the while waging the most intense, winner-takes-all battle of their lives.::MConnell",
+        "Organized fighting was a part of the Conlons' lives when brothers, Tommy Conlon and Brendan Conlon, were kids, with their father, Paddy Conlon, their trainer. Tommy has been estranged from both Brendan and Paddy for fourteen years, when Tommy ran off with his mother due to the abuse exacted by alcoholic Paddy. Tommy's gripe with Brendan was not running off with them - which Tommy saw as support for Paddy - instead starting life with his now wife, Tess. To support his family, Brendan now teaches high school science and has largely left his fighting life behind him. After his mother's death, Tommy served time in the military. Tommy returns home to find a changed Paddy, one who has been clean and sober for almost three years and who has rediscovered religion, both which he feels has completely turned his life around from who he was when Tommy left fourteen years ago, although Tommy is not convinced. The lives of the Conlons may intersect when they all fall back into mixed martial arts (MMA), Tommy in trying to discover what his post-military life holds, and as Brendan finds that his teaching is insufficient to pay all the family bills, with fighting and teaching seemingly incompatible. With a $5 million winner-takes-all prize for a MMA tournament as the carrot, Tommy and Brendan and by association Paddy's interrelationships may either be strengthen or further torn apart, both figuratively and literally, if they take part in this very public and potentially violent arena.::Huggo",
+        "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.523503291992038,
+        "linguistic_difficulty_percentage": 0.022967386311437757,
+        "words_per_minute": 93,
+        "common_words": {
+            "tommy": 128,
+            "get": 114,
+            "go": 108,
+            "right": 102,
+            "come": 97,
+            "brendan": 94,
+            "know": 91,
+            "got": 87,
+            "yeah": 77,
+            "gonna": 76
+        }
+    }
+}

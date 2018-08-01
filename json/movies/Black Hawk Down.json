@@ -1,0 +1,40 @@
+{
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "genres": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "runtime": [
+        "144"
+    ],
+    "rating": 7.7,
+    "plot": [
+        "Action/war drama based on the best-selling book detailing a near-disastrous mission in Somalia on October 3, 1993. On this date nearly 100 U.S. Army Rangers, commanded by Capt. Mike Steele, were dropped by helicopter deep into the capital city of Mogadishu to capture two top lieutenants of a Somali warlord. This led to a large and drawn-out firefight between the Army Ranges, US Special Forces, and hundreds of Somali gunmen; resulting in the destruction of two U.S. Black Hawk helicopters. The film focuses on the heroic efforts of various Rangers to get to the downed black hawks, centering on SSG Eversmann, leading the Ranger unit Chalk Four to the first black hawk crash site, Chief Warrant Officer Durant who was captured after being the only survivor of the second black hawk crash, as well as many others who were involved.::Matthew Patay: revised by Corbin L.",
+        "The film takes place in 1993 when the U.S. sent special forces into Somalia to destabilize the government and bring food and humanitarian aid to the starving population. Using Black Hawk helicopters to lower the soldiers onto the ground, an unexpected attack by Somalian forces brings two of the helicopters down immediately. From there, the U.S. soldiers must struggle to regain their balance while enduring heavy gunfire.::Jwelch5742",
+        "160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Somali",
+            "Arabic"
+        ],
+        "adult_language_percentage": 2.4876688826935447,
+        "linguistic_difficulty_percentage": 0.04289084280506112,
+        "words_per_minute": 32,
+        "common_words": {
+            "go": 51,
+            "get": 46,
+            "right": 40,
+            "let": 30,
+            "got": 27,
+            "going": 27,
+            "move": 27,
+            "come": 24,
+            "sir": 21,
+            "back": 20
+        }
+    }
+}

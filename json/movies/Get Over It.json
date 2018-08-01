@@ -1,0 +1,36 @@
+{
+    "title": "Get Over It",
+    "year": 2001,
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "runtime": [
+        "87"
+    ],
+    "rating": 5.8,
+    "plot": [
+        "When Berke Landers, a popular high school basketball star, gets dumped by his life-long girlfriend, Allison, he soon begins to lose it. But with the help of his best friend Felix's sister Kelly, he follows his ex into the school's spring musical. Thus endues a love triangle loosely based upon Shakespeare's \"A Midsummer Night's Dream\", where Berke is only to find himself getting over Allison and beginning to fall for Kelly.::Will Nixon",
+        "Berke is devastated when his girlfriend Allison kicks him out. She takes up with cocky Striker, who claims fame as a singer, and the two of them audition for the school's \"Midsummer Night's Dream\" musical. Berke follows suit, much to the annoyance of his basketball team buddies Felix and Bentley. Our hero finds himself not only in the play but eventually as one of the leads, partly due to help from Felix's sister Kelly. As First Night approaches, questions need answering - Will Berke and Striker come to blows? Can Dennis take over as the lead dancer? Isn't Kelly nicer than Allison anyway?::Jeremy Perkins {J-26}"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.7007310159630016,
+        "linguistic_difficulty_percentage": 0.11934954497985976,
+        "words_per_minute": 77,
+        "common_words": {
+            "wa": 43,
+            "berke": 36,
+            "know": 35,
+            "see": 33,
+            "right": 32,
+            "go": 31,
+            "gonna": 27,
+            "think": 27,
+            "well": 25,
+            "like": 25
+        }
+    }
+}

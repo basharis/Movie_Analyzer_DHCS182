@@ -1,0 +1,41 @@
+{
+    "title": "Sing Street",
+    "year": 2016,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "Romance"
+    ],
+    "runtime": [
+        "106"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "This is the beginning of the eighties and everybody is moving to the beat of Pop music, as the brand-new concept of the music video appears on television for the first time. However, in Dublin, Conor, a teenager with a sensitive heart, is trying to deal with a tense family relationship, reconnect with his older brother while dealing with the hostile environment in his new public school. And then one day, he sees her. Tall, with long chestnut hair, a buttery complexion and big, dark eyes; an enigmatically beautiful girl standing in front of his school's gate, indolently observing people passing by. But who is she and how could a boy ever get noticed by such a distant girl? That's easy. He would form a band. Surprisingly, with every lyric Conor writes, the gap narrows and with every song he plays, her heart fills with affection. In the end, before a sea of opportunities lying ahead of them, what will the future hold for a brave love like this?::Nick Riganas",
+        "Dublin, 1985. 15-year-old Conor has just been moved to a new school. Between the inane rules, fascist teacher-priests and bullies, it is a daunting place. He meets a beautiful girl, Raphina, and is immediately smitten by her. To get to see her, he says he is in a band that needs a model for a music video. Would she be interested? She agrees. Only problem - he doesn't have a band. He hastily forms one and creativity starts to flow.::grantss",
+        "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Latin"
+        ],
+        "adult_language_percentage": 1.643476507360355,
+        "linguistic_difficulty_percentage": 0.08066142367412785,
+        "words_per_minute": 93,
+        "common_words": {
+            "yeah": 102,
+            "like": 89,
+            "know": 69,
+            "go": 60,
+            "get": 56,
+            "wa": 51,
+            "band": 49,
+            "oh": 46,
+            "gonna": 42,
+            "okay": 37
+        }
+    }
+}

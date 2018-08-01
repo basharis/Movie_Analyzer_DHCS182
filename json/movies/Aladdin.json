@@ -1,0 +1,26 @@
+{
+    "title": "Aladdin",
+    "year": 2019,
+    "genres": "None",
+    "runtime": 110,
+    "rating": "NR",
+    "plot": "None",
+    "language": {
+        "id": "None",
+        "adult_language_percentage": 0.8213820078226858,
+        "linguistic_difficulty_percentage": 0.10430247718383312,
+        "words_per_minute": 69,
+        "common_words": {
+            "oh": 56,
+            "prince": 44,
+            "jasmine": 39,
+            "jafar": 39,
+            "wish": 38,
+            "go": 37,
+            "got": 37,
+            "princess": 37,
+            "abu": 35,
+            "ali": 35
+        }
+    }
+}

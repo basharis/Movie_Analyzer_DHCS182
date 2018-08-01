@@ -1,0 +1,41 @@
+{
+    "title": "Black Swan",
+    "year": 2010,
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "108"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Nina (Portman) is a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her obsessive former ballerina mother Erica (Hershey) who exerts a suffocating control over her. When artistic director Thomas Leroy (Cassel) decides to replace prima ballerina Beth MacIntyre (Ryder) for the opening production of their new season, Swan Lake, Nina is his first choice. But Nina has competition: a new dancer, Lily (Kunis), who impresses Leroy as well. Swan Lake requires a dancer who can play both the White Swan with innocence and grace, and the Black Swan, who represents guile and sensuality. Nina fits the White Swan role perfectly but Lily is the personification of the Black Swan. As the two young dancers expand their rivalry into a twisted friendship, Nina begins to get more in touch with her dark side - a recklessness that threatens to destroy her.::Fox Searchlight Pictures",
+        "Thomas Leroy, the artistic director of a New York City ballet company, is mounting Swan Lake as the company's next production. Many of the ballerinas in the company aspire for the lead, which would have previously gone to the company's former principle dancer Beth Macintyre before her forced retirement. No one wants the the role more than Nina Sayers, who lives to dance, so much so that she wants to be exactly like Beth in every aspect. Nina lives with her overbearing mother, Erica Sayers, a former ballerina who now lives vicariously through her daughter as she never made it as a ballerina herself. Nina is a technically proficient and hard working dancer who can easily capture the essence of the innocent white swan, but Thomas doesn't believe she has the dark passion required to portray the black swan. An unexpected move by Nina convinces Thomas that Nina may have what it takes, and he gives her the lead. Thomas will do anything to get that passion out of her. Nina feels that her new place in the company is threatened by Lily, a ballerina newly arrived into the company from San Francisco. Lily, who is looser in every aspect of her life than Nina, encompasses the essence of the black swan more so than Nina. But as Nina believes Lily is to her what she herself was to Beth, Nina, in doing whatever it takes to be perfect as both the white swan and the black swan, descends into madness.::Huggo",
+        "Nina Sayers is a dancers with a New York City ballet company. She is dedicated to her art and her craft but lacks confidence. She is also pressed on by her domineering mother, also a ballerina in her youth, who gave up dancing when she got pregnant with Nina. Nina seems to achieve her goal when the company's artistic director Thomas Leroy selects her as the lead in their new production of Swan Lake. Leroy is honest however in telling her that while he has no doubt she can handle the role of the white swan, he's not sure she can handle the role of the black swan. Adding to her self-doubts is the arrival of a new dancer, Lily, who seems ideally suited to playing the black swan. To succeed, Nina will will have to transform herself into something she has never been.::garykmcd",
+        "The psychological struggle of a mentally delicate and innocent woman that obtains the lead role in the play \"Swan Lake\". The movie follows her far descent into madness from the pressure of perfecting everything from the toxic people that surround her.::Will March",
+        "A committed dancer wins the lead role in a production of Tchaikovsky's \"Swan Lake\" only to find herself struggling to maintain her sanity.::Noah Orent"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "Italian"
+        ],
+        "adult_language_percentage": 1.4130182997451934,
+        "linguistic_difficulty_percentage": 0.0926569376882094,
+        "words_per_minute": 39,
+        "common_words": {
+            "nina": 48,
+            "come": 38,
+            "okay": 34,
+            "go": 33,
+            "swan": 27,
+            "know": 27,
+            "oh": 26,
+            "let": 23,
+            "one": 21,
+            "get": 20
+        }
+    }
+}

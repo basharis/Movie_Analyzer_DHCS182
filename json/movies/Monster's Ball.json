@@ -1,0 +1,38 @@
+{
+    "title": "Monster's Ball",
+    "year": 2001,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "111"
+    ],
+    "rating": 7.1,
+    "plot": [
+        "Set in the Southern United States, 'Monster's Ball' is a tale of a racist white man, Hank, who falls in love with a black woman named Leticia. Ironically Hank is a prison guard working on Death Row who executed Leticia's husband. Hank and Leticia's interracial affair leads to confusion and new ideas for the two unlikely lovers.::Anna <annachan@amazon.com>",
+        "Hank Grotowski is a prison guard whose son, who works on the prison's death row, commits suicide. Grotowski spirals into depression until one night he helps Leticia Musgrove's injured son. When he dies, the couple are united by grief, but as their relationship develops, he learns he and his son were party to the execution of her husband.::Jwelch5742",
+        "Hank Grotowski is a prison guard. He works with his son, Sonny, and lives at home with his racist father, Buck. Lawrence Musgrove has just been executed and a horrible tragedy has happened at home. Now, Hank has just met Leticia, a young black woman struggling to make ends meet and they quickly fall in love to ease each other's pains. If only he knew that Leticia is Musgrove's widow...::Will",
+        "After a family tragedy, a racist prison guard reexamines his attitudes while falling in love with the African American wife of the last prisoner he executed.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.8315018315018317,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 41,
+        "common_words": {
+            "right": 71,
+            "get": 47,
+            "good": 43,
+            "go": 43,
+            "know": 43,
+            "want": 41,
+            "gonna": 41,
+            "wa": 34,
+            "got": 34,
+            "like": 31
+        }
+    }
+}

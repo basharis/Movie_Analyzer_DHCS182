@@ -1,0 +1,62 @@
+[
+    {
+        "rank": 1,
+        "title": "City Lights",
+        "score": 5.0
+    },
+    {
+        "rank": 2,
+        "title": "Spring, Summer, Fall, Winter... and Spring",
+        "score": 7.0
+    },
+    {
+        "rank": 3,
+        "title": "Sherlock Jr.",
+        "score": 8.0
+    },
+    {
+        "rank": 4,
+        "title": "The Cabinet of Dr. Caligari",
+        "score": 8.0
+    },
+    {
+        "rank": 5,
+        "title": "Fitzcarraldo",
+        "score": 11.0
+    },
+    {
+        "rank": 6,
+        "title": "The Passion of Joan of Arc",
+        "score": 11.0
+    },
+    {
+        "rank": 7,
+        "title": "Battleship Potemkin",
+        "score": 12.0
+    },
+    {
+        "rank": 8,
+        "title": "Come and See",
+        "score": 12.0
+    },
+    {
+        "rank": 9,
+        "title": "Slumdog Millionaire",
+        "score": 13.0
+    },
+    {
+        "rank": 10,
+        "title": "Frasier",
+        "score": 16.0
+    },
+    {
+        "rank": 11,
+        "title": "Indiana Jones and the Last Crusade",
+        "score": 18.0
+    },
+    {
+        "rank": 12,
+        "title": "Braveheart",
+        "score": 19.0
+    }
+]

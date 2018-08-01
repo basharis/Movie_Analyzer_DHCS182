@@ -1,0 +1,39 @@
+{
+    "title": "Gangs of Wasseypur",
+    "year": 2012,
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "321"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Shahid Khan is exiled after impersonating the legendary Sultana Daku in order to rob British trains. Now outcast, Shahid becomes a worker at Ramadhir Singh's colliery, only to spur a revenge battle that passes on to generations. At the turn of the decade, Shahid's son, the philandering Sardar Khan vows to get his father's honor back, becoming the most feared man of Wasseypur.::anonymous",
+        "Inspired by the real-life exploits of local gangs and beginning with the bandit-like career of Shahid Khan in the 1940s, the film follows the ruthless rise of his son Sardar and his offspring, Danish, Perpendicular and Definitive Khans. GANGS OF WASSEYPUR mirrors the tumultuous and explosive growth of modern India with ferocious cinematic intensity.The least likely of Sardar's children - the perpetually stoned Faizal who rises to the top ranks of the Khan crime family, vowing brutal revenge on their longtime nemesis, the wily and seemingly unstoppable Ramadhir Singh.::Bb",
+        "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.::Akshay"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 3.57826038033082,
+        "linguistic_difficulty_percentage": 0.06751434679869472,
+        "words_per_minute": 27,
+        "common_words": {
+            "faizal": 82,
+            "get": 68,
+            "wa": 54,
+            "brother": 50,
+            "definite": 43,
+            "go": 39,
+            "one": 37,
+            "come": 33,
+            "let": 31,
+            "khan": 31
+        }
+    }
+}

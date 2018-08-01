@@ -1,0 +1,38 @@
+{
+    "title": "Throne of Blood",
+    "year": 1957,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "After securing a major victory on the battlefield, Taketoti Washizu and one of his commanders, Yoshiaki Miki, find themselves lost in the maze-like Spider's Web forest. They come across a spirit-like seer who tells them of their future: both have been promoted because of their victory that day; Washizu will someday be the Great Lord of the Spider's Web castle while Miki's son will someday rule as Great Lord as well. When they arrive at the castle, they learn that the first part of the prophecy is correct. Washizu has no desire to become Great Lord but his ambitious wife urges him to reconsider. When the current Great Lord makes a surprise visit to his garrison outpost, Washizu is again promoted to commander of his vanguard but his wife reminds him of the danger that comes with the position. As pressure mounts, Wahizu takes action leading to its inevitable conclusion.::garykmcd",
+        "After a victorious battle, two generals, Washizu and Miki, are confronted by a spirit who predicts their futures. Washizu will be promoted and will ultimately be leader of the realm. Miki will also be promoted and his son will eventually be leader of the realm. Both immediately dismiss these utterances but once they are promoted, they start to believe them. Washizu is spurred on by his ambitious, scheming wife, Asaji. When a chance comes to kill the current leader, Washizu seizes upon it.::grantss",
+        "A transposition of Shakespeare's 'Macbeth' to medieval Japan. After a great military victory, Lords Washizu and Miki are lost in the dense Cobweb Forest, where they meet a mysterious old woman who predicts great things for Washizu and even greater things for Miki's descendants. Once out of the forest, Washizu and Miki are immediately promoted by the Emperor. Washizu, encouraged by his ambitious wife, plots to make even more of the prophecy come true, even if it means killing the Emperor...::Michael Brooke <michael@everyman.demon.co.uk>",
+        "In the Sixteenth Century in Japan, the brave generals Taketori Washizu (Toshir\u00f4 Mifune) and Yoshiaki Miki (Minoru Chiaki) are invited to visit their lord in his castle after a battle wined by them against a traitor general. In the way to the castle, they meet in the forest an evil spirit that foresees their future from the bottom of their hearts, with Washizu being the lord of an important mansion in the fields of their lord, Miki the commander of the First Fortress and Miki's son the successor of Washizu. When they meet their master, the first part of the prophecy comes true for Washizu and Miki.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 1.3791434793128479,
+        "linguistic_difficulty_percentage": 0.4113234938301476,
+        "words_per_minute": 37,
+        "common_words": {
+            "lord": 79,
+            "great": 46,
+            "castle": 44,
+            "miki": 41,
+            "spider": 27,
+            "web": 26,
+            "fortress": 25,
+            "men": 22,
+            "washizu": 22,
+            "spirit": 21
+        }
+    }
+}

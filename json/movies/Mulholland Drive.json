@@ -1,0 +1,39 @@
+{
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "147"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A bright-eyed young actress travels to Hollywood, only to be ensnared in a dark conspiracy involving a woman who was nearly murdered, and now has amnesia because of a car crash. Eventually, both women are pulled into a psychotic illusion involving a dangerous blue box, a director named Adam Kesher, and the mysterious night club Silencio.::Anonymous",
+        "After a brutal car accident in Los Angeles, California, Rita is the sole survivor but suffers mass amnesia. Wandering into a strangers apartment downtown, her story strangely intertwines with Betty Elms, a perky young woman in search of stardom. However, Betty is intrigued by Rita's situation and is willing to put aside her dreams to pursue this mystery. The two women soon discover that nothing is as it seems in the city of dreams.::TXTard",
+        "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.::William Nixon"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 0.5569620253164557,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 40,
+        "common_words": {
+            "wa": 50,
+            "get": 43,
+            "know": 43,
+            "good": 29,
+            "want": 29,
+            "see": 28,
+            "betty": 28,
+            "okay": 27,
+            "one": 22,
+            "come": 22
+        }
+    }
+}

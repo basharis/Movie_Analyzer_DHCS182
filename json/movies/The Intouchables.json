@@ -1,0 +1,39 @@
+{
+    "title": "The Intouchables",
+    "year": 2011,
+    "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "112"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "In Paris, the aristocratic and intellectual Philippe is a quadriplegic millionaire who is interviewing candidates for the position of his carer, with his red-haired secretary Magalie. Out of the blue, Driss cuts the line of candidates and brings a document from the Social Security and asks Phillipe to sign it to prove that he is seeking a job position so he can receive his unemployment benefit. Philippe challenges Driss, offering him a trial period of one month to gain experience helping him. Then Driss can decide whether he would like to stay with him or not. Driss accepts the challenge and moves to the mansion, changing the boring life of Phillipe and his employees.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A rich quadriplegic, living in a mansion in Paris, requires a live-in carer. A young offender turns up for an interview, but he is not really looking to get the job. However, to his surprise, he is hired. The two men then develop a close friendship.::Anonymous",
+        "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.::IMDb Editors"
+    ],
+    "language": {
+        "id": [
+            "French",
+            "English"
+        ],
+        "adult_language_percentage": 1.409298964105035,
+        "linguistic_difficulty_percentage": 0.0963623223319682,
+        "words_per_minute": 74,
+        "common_words": {
+            "good": 58,
+            "get": 56,
+            "know": 56,
+            "like": 40,
+            "come": 39,
+            "think": 39,
+            "one": 39,
+            "want": 37,
+            "wa": 36,
+            "really": 35
+        }
+    }
+}

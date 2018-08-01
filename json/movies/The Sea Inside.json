@@ -1,0 +1,40 @@
+{
+    "title": "The Sea Inside",
+    "year": 2004,
+    "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "125"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Life story of Spaniard Ram\u00f3n Sampedro, who fought a 30-year campaign to win the right to end his life with dignity. Film explores Ram\u00f3n's relationships with two women: Julia, a lawyer who supports his cause, and Rosa, a local woman who wants to convince him that life is worth living. Through the gift of his love, these two women are inspired to accomplish things they never previously thought possible. Despite his wish to die, Ram\u00f3n taught everyone he encountered the meaning, value and preciousness of life. Though he could not move himself, he had an uncanny ability to move others.::Sujit R. Varma",
+        "In Spain, the former sailor Ram\u00f3n Sampedro has been quadriplegic for twenty-eight years and is fighting in court for his right of practicing euthanasia through an association that defends the freedom of choice and leaded by his friend Gen\u00e9. Ram\u00f3n is introduced to the lawyer that is defending his cause, Julia, who has a degenerative fatal disease; and meets Rosa, a lonely worker that has been abused by men. Their relationship changes the behavior and viewpoint of life of Rosa and Julia.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "The factual story of Spaniard Ramon Sampedro, who fought a thirty-year campaign in favor of euthanasia and his own right to die.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "Spanish",
+            "Catalan",
+            "Gallegan"
+        ],
+        "adult_language_percentage": 1.0954135954135955,
+        "linguistic_difficulty_percentage": 0.030712530712530713,
+        "words_per_minute": 78,
+        "common_words": {
+            "ramon": 79,
+            "want": 67,
+            "know": 63,
+            "yes": 62,
+            "like": 56,
+            "going": 56,
+            "see": 55,
+            "one": 49,
+            "well": 42,
+            "come": 37
+        }
+    }
+}

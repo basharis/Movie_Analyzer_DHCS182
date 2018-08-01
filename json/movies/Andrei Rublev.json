@@ -1,0 +1,39 @@
+{
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "205"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Andreiv Rublev charts the life of the great icon painter through a turbulent period of 15th Century Russian history, a period marked by endless fighting between rival Princes and by Tatar invasions.::L.H. Wong <as9401k56@ntuvax.ntu.ac.sg>",
+        "The life, times and afflictions of the fifteenth-century Russian iconographer.::Karl Krejci"
+    ],
+    "language": {
+        "id": [
+            "Russian",
+            "Italian",
+            "Tatar"
+        ],
+        "adult_language_percentage": 1.8366175626554428,
+        "linguistic_difficulty_percentage": 0.17218289649894777,
+        "words_per_minute": 25,
+        "common_words": {
+            "go": 37,
+            "like": 31,
+            "god": 29,
+            "man": 26,
+            "one": 25,
+            "woman": 25,
+            "come": 24,
+            "thing": 21,
+            "say": 21,
+            "look": 20
+        }
+    }
+}

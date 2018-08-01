@@ -1,0 +1,41 @@
+{
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "138"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "1950's Los Angeles is the seedy backdrop for this intricate noir-ish tale of police corruption and Hollywood sleaze. Three very different cops are all after the truth, each in their own style: Ed Exley, the golden boy of the police force, willing to do almost anything to get ahead, except sell out; Bud White, ready to break the rules to seek justice, but barely able to keep his raging violence under control; and Jack Vincennes, always looking for celebrity and a quick buck until his conscience drives him to join Exley and White down the one-way path to find the truth behind the dark world of L.A. crime.::Greg Bole <bole@life.bio.sunysb.edu>",
+        "Three policemen, each with his own motives and obsessions, tackle the corruption surrounding an unsolved murder at a downtown Los Angeles coffee shop in the early 1950s. Detective Lieutenant Exley (Guy Pearce), the son of a murdered detective, is out to avenge his father's killing. The ex-partner of Officer White (Russell Crowe), implicated in a scandal rooted out by Exley, was one of the victims. Sergeant Vincennes (Kevin Spacey) feeds classified information to a tabloid magnate (Danny DeVito).",
+        "LA in the 50's: someone's killing imprisoned mob boss Mickey Cohen's gang. The police, led by Captain Dudley, convince wiseguys from Jersey, Cleveland, and elsewhere to go home. Rich developer, Pierce Patchett, runs a stable of high-class hookers who are ringers for movie stars. The plot to replace Cohen blindsides three plainclothes cops: White watched his father beat his mother to death then vanish, he punishes abusers with quick violence; Exley's father was a hero cop killed mysteriously, he seeks justice by the book; Vicennes, a clothes horse, consults for a Dragnet-like TV show. Will they escape corruption and murder, will they find their own morality?::<jhailey@hotmail.com>",
+        "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner in this lush tribute to tough film noir crime films. Based on the multi-layered James Ellroy novel.::Keith Loh <keith@mwg.com>",
+        "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.::Trance"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.7586206896551726,
+        "linguistic_difficulty_percentage": 0.05070993914807302,
+        "words_per_minute": 71,
+        "common_words": {
+            "get": 69,
+            "know": 65,
+            "wa": 57,
+            "got": 53,
+            "like": 50,
+            "want": 47,
+            "go": 39,
+            "white": 33,
+            "come": 31,
+            "patchett": 31
+        }
+    }
+}

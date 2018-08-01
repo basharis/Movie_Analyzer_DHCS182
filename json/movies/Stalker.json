@@ -1,0 +1,37 @@
+{
+    "title": "Stalker",
+    "year": 1979,
+    "genres": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "162"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In a small, unnamed country there is an area called the Zone. It is apparently inhabited by aliens and contains the Room, where in it is believed wishes are granted. The government has declared The Zone a no-go area and have sealed off the area with barbed wire and border guards. However, this has not stopped people from attempting to enter the Zone. We follow one such party, made up of a writer, who wants to use the experience as inspiration for his writing, and a professor, who wants to research the Zone for scientific purposes. Their guide is a man to whom the Zone is everything, the Stalker.::grantss",
+        "Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true. His clients are a burned out popular writer, cynical, and questioning his talent; and a quiet scientist more concerned about his knapsack than the journey. In the deserted Zone, the approach to the Room must be indirect. As they draw near, the rules seem to change and the stalker faces a crisis.::<jhailey@hotmail.com>",
+        "A guide leads two men through an area known as the Zone to find a room that grants wishes.::Karl Krejci"
+    ],
+    "language": {
+        "id": [
+            "Russian"
+        ],
+        "adult_language_percentage": 1.215277777777778,
+        "linguistic_difficulty_percentage": 0.1736111111111111,
+        "words_per_minute": 28,
+        "common_words": {
+            "l": 137,
+            "go": 30,
+            "one": 30,
+            "lt": 25,
+            "come": 24,
+            "like": 24,
+            "get": 21,
+            "wa": 20,
+            "going": 19,
+            "got": 17
+        }
+    }
+}

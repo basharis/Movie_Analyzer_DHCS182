@@ -1,0 +1,340 @@
+12067.139853 Deadpool 2
+5149.848133 Deadpool
+3199.567000 The Wolf of Wall Street
+3136.456758 Saving Private Ryan
+3106.999178 Pulp Fiction
+3062.508916 Fight Club
+3019.977966 Logan
+2993.748630 The Shawshank Redemption
+2985.424357 Apocalypse Now
+2981.520990 Magnolia
+2971.112983 American History X
+2860.305625 The Green Mile
+2856.480204 Gone Girl
+2850.276072 Superbad
+2827.915453 Donnie Darko
+2801.320290 8 Mile
+2794.880602 Gran Torino
+2788.827085 Gangster Squad
+2765.872747 I'm Not There.
+2745.317285 The Departed
+2737.280537 Heat
+2730.697934 Mystic River
+2706.534765 Scent of a Woman
+2704.921288 Dallas Buyers Club
+2688.971168 Goodfellas
+2683.814335 Pred polnocou
+2664.369664 L.A. Confidential
+2650.956703 Full Metal Jacket
+2634.286759 Good Will Hunting
+2632.269591 Gangs of Wasseypur
+2624.826288 Scarface
+2612.918343 The Big Lebowski
+2608.053128 Three Billboards Outside Ebbing, Missouri
+2607.472574 Platoon
+2588.663456 Old Boy
+2585.633382 City of God
+2566.053908 Se7en
+2532.961517 American Beauty
+2519.503473 Twelve Monkeys
+2518.733308 Reservoir Dogs
+2492.606986 Sicario
+2489.749140 Her
+2487.318823 Selma
+2474.347449 Terminator 2
+2451.791739 Trainspotting
+2445.662325 Once Upon a Time in America
+2441.235305 Shutter Island
+2435.006349 The Exorcist
+2429.692566 Django Unchained
+2427.027576 The Dark Knight Rises
+2419.154934 The Usual Suspects
+2418.682096 The Avengers
+2416.074092 Lock, Stock and Two Smoking Barrels
+2407.028111 Sex and the City
+2405.964582 The Grand Budapest Hotel
+2405.622296 The Silence of the Lambs
+2397.232240 The Martian
+2391.316363 Rush
+2377.091259 V for Vendetta
+2369.727071 Snatch
+2368.650530 Eternal Sunshine of the Spotless Mind
+2364.588610 Guardians of the Galaxy Vol. 2
+2359.526113 The Social Network
+2357.440677 This Is Spinal Tap
+2351.809375 Patton
+2338.403972 Persepolis
+2335.252713 Manhattan Nocturne
+2326.295294 Prisoners
+2321.935970 Warrior
+2317.453622 American Psycho
+2314.495376 Incredibles 2
+2308.028745 Batman Begins
+2307.902401 Up
+2301.934328 Spotlight
+2301.145983 The Color of Money
+2296.269296 Into the Wild
+2292.526380 Sling Blade
+2277.883239 Amores Perros
+2275.561201 Dog Day Afternoon
+2272.473288 Black Mountain Side
+2272.077722 Memento
+2268.484900 Sleuth
+2264.260381 The Perks of Being a Wallflower
+2256.131129 Before Sunrise
+2254.630338 Raging Bull
+2250.511517 Catch Me If You Can
+2235.102114 Live Free or Die Hard
+2228.457107 The Intouchables
+2209.886161 Annie Hall
+2198.569811 Secret in Their Eyes
+2194.230968 The Incredibles
+2193.342650 Interstellar
+2193.009161 Short Term 12
+2187.500100 Whiplash
+2184.814712 Million Dollar Baby
+2184.014964 Crimes and Misdemeanors
+2170.198036 Get Over It
+2160.870473 Sing Street
+2157.263004 Cinderella Man
+2153.700895 The Raid 2
+2149.235807 C.R.A.Z.Y.
+2145.057632 The Life Before Her Eyes
+2119.928108 The Boss Baby
+2117.098338 My Sassy Girl
+2106.969790 All the President's Men
+2086.531460 Along Came Polly
+2085.906467 Zootopia
+2082.855749 Room
+2070.925744 Terminator
+2067.596939 The Shining
+2049.115881 Fanny and Alexander
+2048.352247 Gone with the Wind
+2046.421423 Dawn of the Dead
+2045.910888 Rang De Basanti
+2039.268069 La La Land
+2038.219696 One Flew Over the Cuckoo's Nest
+2034.607516 Dogville
+2010.336777 3 Idiots
+2008.248511 It's a Wonderful Life
+2007.710540 A Beautiful Mind
+2005.757646 The Pursuit of Happyness
+2001.144346 Hacksaw Ridge
+1994.873857 Back to the Future
+1987.210306 Vizontele
+1978.607385 The Revenant
+1968.320725 Hotel Rwanda
+1966.696079 Inglourious Basterds
+1955.242402 Spider-Man 2
+1954.908676 Kis Uykusu
+1953.803584 The Best Years of Our Lives
+1945.241622 Dead Poets Society
+1943.596281 The Manchurian Candidate
+1940.879519 Being There
+1940.583576 North by Northwest
+1935.993864 Requiem for a Dream
+1930.395011 Alien
+1930.267660 Brazil
+1927.996927 Beauty and the Beast
+1925.893432 Udaan
+1923.440034 Das Boot
+1909.638691 Jaws
+1900.904542 All Quiet on the Western Front
+1894.204717 Shrek
+1893.415337 Monsters, Inc.
+1892.996576 Aladdin
+1890.911718 Cool Hand Luke
+1863.394145 No Country for Old Men
+1861.978915 Unforgiven
+1854.699339 Inside Out
+1846.615714 Black Swan
+1845.350296 The Truman Show
+1844.218117 Toy Story 2
+1841.573783 The Imitation Game
+1838.878049 The Wages of Fear
+1838.664385 Finding Nemo
+1837.269118 Ikiru
+1833.171715 The Last Picture Show
+1818.764267 Harry Potter and the Half-Blood Prince
+1816.523107 The Thing
+1814.195949 Schindler's List
+1809.136073 His Girl Friday
+1807.244817 Call Me by Your Name
+1796.071348 Ratatouille
+1793.099982 Rear Window
+1792.766080 Crna macka, beli macor
+1790.839167 The Man Who Shot Liberty Valance
+1790.777717 The Princess Bride
+1790.173222 The Philadelphia Story
+1781.107665 Ako si vycvicit draka 2
+1771.707031 Chinatown
+1771.595404 Sunset Blvd.
+1771.380268 Cat on a Hot Tin Roof
+1766.377406 Anatomy of a Murder
+1766.254557 The Nights of Cabiria
+1766.051120 Gandhi
+1765.924634 On the Waterfront
+1765.621987 Singin' in the Rain
+1764.389385 The Treasure of the Sierra Madre
+1754.659437 The Diving Bell and the Butterfly
+1747.082697 The Bridge on the River Kwai
+1737.524812 The Lives of Others
+1734.709479 Double Indemnity
+1734.248808 The Grapes of Wrath
+1733.240257 Ghost in the Shell
+1727.384496 Shrek Forever After
+1716.063597 Harold and Maude
+1715.527863 Dances with Wolves
+1714.780448 Contratiempo
+1707.095371 The Bourne Ultimatum
+1705.801713 Groundhog Day
+1704.340996 Rocky III
+1702.761919 The Matrix Revolutions
+1701.487233 Drishyam
+1700.386702 Dangal
+1692.552651 Inception
+1691.493775 Cinema Paradiso
+1691.346930 Princess Mononoke
+1681.709937 Touch of Evil
+1679.573428 Monster's Ball
+1673.782792 PK
+1666.992861 Haider
+1664.024637 Seven Samurai
+1662.700989 East of Eden
+1662.273925 Pan's Labyrinth
+1658.729466 Isle of Dogs
+1658.560455 Wonder Woman
+1652.489256 Zindagi Na Milegi Dobara
+1651.104851 La Grande Illusion
+1650.814981 The 400 Blows
+1649.711348 Laura
+1639.166973 The Straight Story
+1637.766916 The Big Sleep
+1633.508260 The Graduate
+1631.989957 Dunkirk
+1630.730814 The Queen
+1629.847970 Munna Bhai M.B.B.S.
+1625.500189 The King's Speech
+1624.491601 Coco
+1623.561020 The Lion in Winter
+1615.289171 Phir Hera Pheri
+1612.710923 The Prestige
+1612.168826 Monty Python and the Holy Grail
+1610.252075 Solaris
+1608.223693 A Wednesday
+1607.033688 The Lion King
+1605.899283 The Great Dictator
+1605.116085 Mulholland Dr.
+1604.607176 The Maltese Falcon
+1602.254394 Paris, Texas
+1601.438684 Citizen Kane
+1597.417565 Airlift
+1594.220331 Ookami kodomo no Ame to Yuki
+1590.393268 The Sixth Sense
+1588.997439 Mary and Max
+1588.216761 The Good, the Bad and the Ugly
+1587.115000 Arsenic and Old Lace
+1586.723237 Forrest Gump
+1579.232121 Underground
+1575.364181 The Sound of Music
+1569.714763 Paan Singh Tomar
+1555.142258 The Nightmare Before Christmas
+1552.712228 The Wizard of Oz
+1550.666331 The Sea Inside
+1550.444009 Dancer in the Dark
+1546.943333 Jurassic Park III
+1542.590970 Pat Garrett & Billy the Kid
+1539.591467 The Wild Bunch
+1539.412114 In the Heat of the Night
+1533.724109 Ram Gopal Varma Ki Aag
+1520.496429 The Pianist
+1520.075640 Lawrence of Arabia
+1516.889231 Amadeus
+1512.394808 Fiddler on the Roof
+1509.792236 Chungking Express
+1505.807198 Kind Hearts and Coronets
+1504.720954 Casablanca
+1501.017311 The Battle of Algiers
+1498.734656 The Adventures of Robin Hood
+1493.486609 Raiders of the Lost Ark
+1492.471353 Infernal Affairs
+1482.852537 Hable con ella
+1480.582549 Swades
+1466.131193 Nausicaa of the Valley of the Wind
+1463.846225 To Kill a Mockingbird
+1461.420420 Bhaag Milkha Bhaag
+1460.358474 Treti Muz
+1451.653149 Gladiator
+1449.037075 The Iron Giant
+1444.140115 Andaz Apna Apna
+1437.788978 Stalag 17
+1437.458281 Bajrangi Bhaijaan
+1434.604348 Life Is Beautiful
+1420.732099 The Night of the Hunter
+1409.192379 12 Years a Slave
+1400.444984 Wings of Desire
+1394.089829 The Seventh Seal
+1391.723867 A Clockwork Orange
+1388.571088 Darbareye Elly
+1384.534062 Dilwale Dulhania Le Jayenge
+1383.005202 Blade Runner
+1376.950618 Dial M for Murder
+1361.578655 Bharat Ramani
+1359.990839 Ladri di biciclette
+1355.375468 Pocahontas
+1354.279638 Doctor Zhivago
+1352.791979 Fistful of Dollars
+1340.459179 The Elephant Man
+1340.135171 Rio Bravo
+1337.927700 Wild Strawberries
+1298.715231 High Noon
+1291.259842 Braveheart
+1289.777789 Aguirre, the Wrath of God
+1280.673331 Mimi wo sumaseba
+1278.318727 Kagemusha
+1273.482713 Stalker
+1273.255030 For a Few Dollars More
+1272.009601 Babam ve Oglum
+1271.806159 My Neighbor Totoro
+1261.962164 There Will Be Blood
+1250.392354 The Return of the Pink Panther
+1245.293540 Lage Raho Munna Bhai
+1242.740471 Strangers on a Train
+1236.612616 Brief Encounter
+1236.284448 Kahaani
+1232.467613 Incendies
+1225.168749 Tangerines
+1206.938172 War for the Planet of the Apes
+1204.777886 Andrei Rublev
+1192.326609 Song of the Sea
+1181.962441 Judgment at Nuremberg
+1162.167624 In the Mood for Love
+1120.028771 The Return
+1118.520035 The Hidden Fortress
+1117.235563 Casino Royale
+1112.084351 La Dolce Vita
+1105.302628 Barry Lyndon
+1103.982157 Children of Heaven
+1100.149633 Taare Zameen Par
+1066.146656 Tokyo Story
+1052.940818 Slumdog Millionaire
+1043.755722 Barfi!
+1038.182681 Ip Man 2
+1034.274048 Django
+1000.526127 Roman Holiday
+934.081046 Grave of the Fireflies
+924.096823 Throne of Blood
+895.529368 The Gold Rush
+861.278729 Come and See
+857.579435 Indiana Jones and the Last Crusade
+819.020866 Nosferatu the Vampyre
+798.146576 Taketori monogatari
+731.620513 Fitzcarraldo
+644.231871 The Passion of Joan of Arc
+528.226076 Battleship Potemkin
+405.412885 Spring, Summer, Fall, Winter... and Spring
+381.924880 The Cabinet of Dr. Caligari
+291.245751 City Lights
+290.182425 Frasier
+262.137040 Sherlock Jr.
+187.149999 Modern Times

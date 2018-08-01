@@ -1,0 +1,45 @@
+{
+    "title": "Ratatouille",
+    "year": 2007,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "111"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.::Orange",
+        "When a rat named Remy gets washed away from his family, he ends up in Paris and goes into Gusteau's restaurant and meets a garbage boy named Linguini. A bunch of other chefs give him credit and give him a cooking job after thinking he made a soup delicious. Then Linguini takes Remy to the restaurant the next day. And Remy ends up controlling Linguini by pulling his hair. Can Remy be a great chef? and can Gusteau's be the greatest restaurant in Paris?",
+        "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.::Jwelch5742",
+        "Remy, a provincial rat with a wonderful sense of smell, hates garbage and risks death to enter a human kitchen where he discovers real food and the cooking of five-star chef, Anton Gusteau, author of \"Anyone Can Cook.\" On the day Remy learns his hero has died, he is evicted and ends up alone in Paris. By luck, he discovers Gasteau's restaurant, down to three stars and run by a frozen-food-hawking chef. As Remy enters, so does Linguini, a clumsy youth hired as a garbage boy. To save the soup that Linguini accidentally fouls, Remy throws in some ingredients; the soup is a success and Linguini's career as a chef is born. Can Remy find a way to maintain the fiction and use his gift?::<jhailey@hotmail.com>",
+        "Remy is a rat, constantly risking life in an expensive French restaurant because of his love of good food, as well as a desire to become a chef. Yet, obviously, this is a rather tough dream for a rat. But opportunity knocks when a young boy, who desperately needs to keep his job at the restaurant, despite his lack of cooking abilities, discovers and partners the young Remy. Its up to the two of them to avoid the insane head chef, bring the rest of Remy's family up to his standards, win his partner a girl, and, of course, produce the finest Ratatouille in all of France.::swansongang",
+        "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 0.7711799052550402,
+        "linguistic_difficulty_percentage": 0.0661011347361463,
+        "words_per_minute": 81,
+        "common_words": {
+            "know": 82,
+            "chef": 68,
+            "gusteau": 47,
+            "rat": 47,
+            "like": 43,
+            "cook": 39,
+            "get": 39,
+            "something": 38,
+            "little": 37,
+            "food": 36
+        }
+    }
+}

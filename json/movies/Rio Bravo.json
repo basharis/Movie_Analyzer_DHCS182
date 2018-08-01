@@ -1,0 +1,39 @@
+{
+    "title": "Rio Bravo",
+    "year": 1959,
+    "genres": [
+        "Action",
+        "Drama",
+        "Western"
+    ],
+    "runtime": [
+        "141"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Sheriff John T. Chance has his hands full after arresting Joe Burdette for murder. He knows that Burdette's brother Nathan, a powerful rancher, will go to any lengths to get him out of jail. Chance's good friend Pat Wheeler offers to help but within 20 minutes of making the offer is gunned down in the street, shot in the back. That leaves his elderly deputy Stumpy, the town drunk Dude - once a deputy and a pretty good shot when he was sober - and a young hand, Colorado, who used to work for Wheeler. Nathan Burdette meanwhile has a couple of dozen men at his disposal. Chance does his best to prepare all the while romancing a pretty gambler who goes by the name of Feathers.::garykmcd",
+        "The sheriff of a small town in southwest Texas must keep custody of a murderer whose brother, a powerful rancher, is trying to help him escape. After a friend is killed trying to muster support for him, he and his deputies - a disgraced drunk and a cantankerous old cripple - must find a way to hold out against the rancher's hired guns until the marshal arrives. In the meantime, matters are complicated by the presence of a young gunslinger - and a mysterious beauty who just came in on the last stagecoach.::scgary66",
+        "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.::Bruce Stadfeld <stadfel@cc.umanitoba.ca>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 0.9723788049605412,
+        "linguistic_difficulty_percentage": 0.007046223224351747,
+        "words_per_minute": 100,
+        "common_words": {
+            "get": 151,
+            "going": 117,
+            "right": 88,
+            "got": 87,
+            "good": 85,
+            "go": 85,
+            "know": 84,
+            "want": 75,
+            "say": 75,
+            "wa": 73
+        }
+    }
+}

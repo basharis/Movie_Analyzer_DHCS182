@@ -1,0 +1,39 @@
+{
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "genres": [
+        "Drama",
+        "Fantasy"
+    ],
+    "runtime": [
+        "96"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "A Knight and his squire are home from the crusades. Black Death is sweeping their country. As they approach home, Death appears to the knight and tells him it is his time. The knight challenges Death to a chess game for his life. The Knight and Death play as the cultural turmoil envelopes the people around them as they try, in different ways, to deal with the upheaval the plague has caused.::John Vogel <jlvogel@comcast.net>",
+        "Returning home from the Crusades, Swedish knight Antonius Block and his squire J\u00f6ns find the land ravaged by the plague. Block finds that people everywhere are living in fear believing it is God's punishment and that the end has come. Block has lost his faith and is looking for answers so when Death comes for him the knight challenges him to a game of chess. The countryside is bleak and many search for answers though none seem to be found. Block makes it to his home and believes he has the upper hand - but Death will have his way.::garykmcd",
+        "In medieval times, Antonius Block, a knight, and his squire J\u00f6ns have just returned to their Swedish homeland after fighting in the Crusades, only to find the plague ravishing their country. In their travels toward home, Antonius, without J\u00f6ns' knowledge, comes across the personification of Death, who wants to take Antonius' life. Antonius has long felt Death's presence around him. As he feels he has more to do in his life, Antonius challenges Death to a chess match, the outcome which will determine Antonius' fate and that of others around him with regard to Death. Because of what has happened around him, Antonius has lost faith in God, and instead is looking for knowledge in why things happen. He feels he has one more important act in his life before he dies. In his continuing chess match and their trek toward home, Antonius and J\u00f6ns stumble across an acting troupe, who are performing among others a passion play. Antonius offers them safer travels with him and J\u00f6ns through the forest to his castle to avoid the plague. His time with the troupe may provide Antonius with some of those answers for which he is looking, especially his encounters with husband and wife, Jof and Mia, and their infant son, Mikael.::Huggo",
+        "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.::Joa"
+    ],
+    "language": {
+        "id": [
+            "Swedish",
+            "Latin"
+        ],
+        "adult_language_percentage": 2.640764911215663,
+        "linguistic_difficulty_percentage": 0.12141447867658219,
+        "words_per_minute": 68,
+        "common_words": {
+            "one": 41,
+            "see": 36,
+            "u": 30,
+            "wa": 27,
+            "like": 27,
+            "know": 24,
+            "yes": 23,
+            "want": 23,
+            "death": 22,
+            "good": 22
+        }
+    }
+}

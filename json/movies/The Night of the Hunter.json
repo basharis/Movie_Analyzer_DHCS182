@@ -1,0 +1,39 @@
+{
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir",
+        "Thriller"
+    ],
+    "runtime": [
+        "92"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "It's the Great Depression. In the process of robbing a bank of $10,000, Ben Harper kills two people. Before he is captured, he is able to convince his adolescent son John and his daughter Pearl not to tell anyone, including their mother Willa, where he hid the money, namely in Pearl's favorite toy, a doll that she carries everywhere with her. Ben, who is captured, tried and convicted, is sentenced to death. But before he is executed, Ben is in the state penitentiary with a cell mate, a man by the name of Harry Powell, a self-professed man of the cloth, who is really a con man and murderer, swindling lonely women, primarily rich widows, of their money before he kills them. Harry does whatever he can, unsuccessfully, to find out the location of the $10,000 from Ben. After Ben's execution, Harry decides that Willa will be his next mark, figuring that someone in the family knows where the money is hidden. Despite vowing not to remarry, Willa ends up being easy prey for Harry's outward evangelicalism; she is a pious woman who feels she needs to atone for her sins which led to Ben doing what he did, especially as Harry presents himself as the preacher who worked at the prison and provided salvation to Ben before his death. Harry quickly figures out that John and Pearl know where the money is. Conversely, John doesn't trust Harry, John who first tries not to show to Harry that he indeed does know where the money is, and then second constantly reminds a more-trusting Pearl of their promise to their now-deceased father. With Willa devoted to her new husband, John and Pearl need some other adult assistance in evading Harry's veiled threats, an adult who not only can see the honesty and goodness in children but who can also see a true wolf in sheep's clothing like Harry.::Huggo",
+        "Harry Powell marries and murders widows for their money, believing he is helping God do away with women who arouse men's carnal instincts. Arrested for auto theft, he shares a cell with condemned killer Ben Harper and tries to get him to reveal the whereabouts of the $10,000 he stole. Only Ben's nine-year-old son, John and four-year-old daughter, Pearl know the money is in Pearl's doll and they have sworn to their father to keep this secret. After Ben is executed, Preacher goes to Cresap's Landing to court Ben's widow, Willa. He overwhelms her with his Scripture quoting, sermons and hymns, and she agrees to marry him. On their wedding night he tells her they will never have sex because it is sinful. When the depressed, confused, guilty woman catches him trying to force Pearl to reveal the whereabouts of the money, she is resigned to her fate but the children manage to escape downriver, with Preacher following close behind.::alfiehitchie",
+        "A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.::alfiehitchie"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.3163251458813952,
+        "linguistic_difficulty_percentage": 0.13570362328674174,
+        "words_per_minute": 80,
+        "common_words": {
+            "john": 61,
+            "wa": 55,
+            "little": 53,
+            "pearl": 45,
+            "boy": 39,
+            "one": 38,
+            "get": 37,
+            "come": 36,
+            "child": 34,
+            "tell": 34
+        }
+    }
+}

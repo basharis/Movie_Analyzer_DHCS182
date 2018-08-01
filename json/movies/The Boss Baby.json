@@ -1,0 +1,42 @@
+{
+    "title": "The Boss Baby",
+    "year": 2017,
+    "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "97"
+    ],
+    "rating": 6.3,
+    "plot": [
+        "Seven-year-old Tim Templeton has always had an overactive imagination--and for the past seven years--life has been all peaches for him, getting all the love and affection from his caring parents. However, after the arrival of Boss Baby, an unexpected new brother dressed in a black suit complete with a tie and a briefcase, Tim won't be the centre of attention anymore, as the powerful sibling takes over the whole house, robbing him of all care, little by little. But, soon, Tim and the new Boss in a diaper will need to put differences aside and join forces, as a sneaky scheme involving the head of Puppy Co. threatens to tilt the balance of power towards their insidiously adorable furry antagonists, not to mention that the next Pet Convention is only in two days. Brothers, hurry up.::Nick Riganas",
+        "Seven year old Tim Templeton has the best life ever. With his kind parents all to himself and his big imagination Tim has a hard time thinking about anything better! But when his new little brother comes along, he is getting less and less attention. Then, one night Tim hears a voice coming from inside his brother's bedroom and discovers something incredibly creepy... his newborn brother can TALK! The two go through a lot together and start to find brotherly love that definitely wasn't there when they met! After fights and fun, hurtful words and kind actions, the two become the best of friends and they fight side by side to solve a big puppy problem and save their trapped parents.::niaroberts",
+        "Tim Templeton has the most amazingly perfect life ever. With his loving parents to himself he doesn't realize his mother is pregnant. But when his new little brother comes along, he starts getting less attention. one night Tim hears a voice coming from inside his brother's bedroom and discovers something startling... his little brother is plotting against his parents company!!! After adventures, mischief, and lots of trust, the two realize they need each other and are meant to be brothers.",
+        "A new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator -- a wildly imaginative 7-year-old named Tim. The most unusual Boss Baby (Alec Baldwin) arrives at Tim's home in a taxi, wearing a suit and carrying a briefcase. The instant sibling rivalry must soon be put aside when Tim discovers that Boss Baby is actually a spy on a secret mission, and only he can help thwart a dastardly plot that involves an epic battle between puppies and babies.",
+        "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.0968921389396709,
+        "linguistic_difficulty_percentage": 0.09140767824497258,
+        "words_per_minute": 78,
+        "common_words": {
+            "baby": 97,
+            "get": 53,
+            "go": 47,
+            "know": 46,
+            "right": 46,
+            "puppy": 44,
+            "tim": 41,
+            "got": 34,
+            "like": 34,
+            "wa": 32
+        }
+    }
+}

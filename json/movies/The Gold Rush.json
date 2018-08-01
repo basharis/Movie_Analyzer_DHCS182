@@ -1,0 +1,40 @@
+{
+    "title": "The Gold Rush",
+    "year": 1925,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "runtime": [
+        "95"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "A lone prospector ventures into Alaska looking for gold. He gets mixed up with some burly characters and falls in love with the beautiful Georgia. He tries to win her heart with his singular charm.::John J. Magee <magee@helix.mgh.harvard.edu>",
+        "The Little Tramp goes prospecting for gold in the Klondike. Conditions are harsh, there is little in the way of comfort or food and even less it seems in the way of gold. Thanksgiving dinner for himself and Big Jim Mckay consists of a boiled boot. Once in town, he meets the beautiful Georgia at the Monte Carlo dance hall. He finds himself in competition with the ladies man who has his eyes on Georgia as well. Meanwhile, Black Larsen - wanted by the police - tries to steal Big Jim McKay's claim. Big Jim tries to stop him but knocked unconscious, he loses his memory. Back in town, the little tramp tries to impress Georgia. When Big Jim arrives, he regains his memory and he and the Little Tramp set off to make their fortune. Sailing home as rich men, the Little Tramp has one more chance to unite with Georgia.::garykmcd",
+        "During the Gold Rush, prospectors hoping to find fortune travel to Chilkoot Pass, a high mountain of harsh and dangerous conditions. Big Jim, a gold prospector has just discovered a massive stash of gold on his patch of land. When a blizzard strikes, and A Lone Prospector gets lost in the same storm, the two must fight for the territory. As they encounter one adventure after another, The Lone Prospector is lead to and eventually meets the love of his life.::Kyle Perez",
+        "A prospector goes to the Klondike in search of gold and finds it and more.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.7910656119125176,
+        "linguistic_difficulty_percentage": 0.04653327128897162,
+        "words_per_minute": 22,
+        "common_words": {
+            "said": 46,
+            "wa": 41,
+            "little": 32,
+            "jim": 30,
+            "fellow": 25,
+            "big": 25,
+            "georgia": 24,
+            "cabin": 14,
+            "larson": 9,
+            "black": 8
+        }
+    }
+}

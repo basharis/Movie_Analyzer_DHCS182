@@ -1,0 +1,5143 @@
+1
+00:01:51,878 --> 00:01:55,678
+Good afternoon and welcome to the
+Phase II Press Conference of the
+
+2
+00:01:55,882 --> 00:01:59,045
+upcoming mission for the
+Global Precipitation Measurement.
+
+3
+00:02:00,353 --> 00:02:03,186
+To discuss the mission we have
+with us John Stockton
+
+4
+00:02:03,857 --> 00:02:07,850
+GPM Project Formulation Manager
+from NASA HQ.
+
+5
+00:02:08,895 --> 00:02:10,123
+Mohan Bhargava...
+
+6
+00:02:10,597 --> 00:02:13,828
+Project Manager and Spacecraft
+Mission Director from GODDARD.
+
+7
+00:02:14,300 --> 00:02:16,495
+Over to you John.
+- Thank you George.
+
+8
+00:02:17,403 --> 00:02:20,770
+The Office of Management and Budget
+released the President's 2004
+
+9
+00:02:20,974 --> 00:02:25,604
+fiscal year budget plan in early February
+flagging off the GPM Launch.
+
+10
+00:02:26,412 --> 00:02:30,109
+We have in the Formulation phase
+of GPM taken steps to reduce risks
+
+11
+00:02:30,783 --> 00:02:33,445
+to ensure a mission
+confirmation review.
+
+12
+00:02:34,287 --> 00:02:38,018
+That's where Mohan Bhargava,
+our Project Manager comes in.
+
+13
+00:02:39,259 --> 00:02:41,853
+Thank you John.
+Good afternoon everybody.
+
+14
+00:02:42,729 --> 00:02:46,859
+Before I come to Phase II, a quick update
+on the recently concluded Phase I.
+
+15
+00:02:47,467 --> 00:02:50,800
+In Phase I we focused on the
+Definition of Mission Scope,
+
+16
+00:02:51,137 --> 00:02:54,106
+Systematic Measurement Approach
+and Technology Roadmaps.
+
+17
+00:02:55,008 --> 00:02:57,203
+Will you roll the tape please?
+Thank you.
+
+18
+00:02:59,279 --> 00:03:02,339
+The core satellite is designed
+like a TRMM Spacecraft.
+
+19
+00:03:02,682 --> 00:03:08,018
+It'll be launched in non-sun-sync
+orbit at an inclination of 65-degrees
+
+20
+00:03:08,454 --> 00:03:10,854
+and an altitude of 400 kms.
+
+21
+00:03:11,824 --> 00:03:15,487
+The constellation satellites would be
+pre-existing operational, experimental &
+
+22
+00:03:15,695 --> 00:03:19,756
+dedicated satellites,
+with PMW radiometers.
+
+23
+00:03:21,201 --> 00:03:24,227
+They would operate both in
+non-sun-synch and synch orbits
+
+24
+00:03:24,437 --> 00:03:27,099
+at an altitude of 600-900 kms.
+
+25
+00:03:37,784 --> 00:03:39,513
+You are welcome to
+throw any questions.
+
+26
+00:03:40,687 --> 00:03:44,851
+What are the objectives of the Global
+Precipitation Measurement programme?
+
+27
+00:03:49,028 --> 00:03:51,394
+Last question.
+- Is this budget justified?
+
+28
+00:03:52,432 --> 00:03:55,424
+Globally, there is a danger of
+water recession in the near future.
+
+29
+00:03:56,502 --> 00:04:00,700
+It will not be unreal to imagine that
+in the 21st century, cities like
+
+30
+00:04:01,441 --> 00:04:09,473
+Beijing, Amman, New Delhi, Santiago,
+Jakarta, Mexico City, Lima
+
+31
+00:04:09,983 --> 00:04:15,114
+and many others, will drink up, use up
+their surrounding waters and perish.
+
+32
+00:04:16,389 --> 00:04:22,521
+Water is going to be rare. Is it not a
+reason enough to justify any budget?
+
+33
+00:04:28,101 --> 00:04:29,432
+Are there any more questions?
+
+34
+00:04:31,037 --> 00:04:34,131
+Thank you for being here.
+- Thank you very much.
+
+35
+00:04:44,751 --> 00:04:47,083
+I've never seen John Stockton
+smile so much.
+
+36
+00:04:47,387 --> 00:04:48,479
+He is really very happy with us.
+
+37
+00:04:49,155 --> 00:04:52,613
+The press conference went off well.
+And your presentation excellent!
+
+38
+00:04:53,593 --> 00:04:54,958
+This is a quantum leap for us.
+
+39
+00:04:56,396 --> 00:05:00,992
+Well, we can now let our hair down
+now that Phase I is finally over.
+
+40
+00:05:07,106 --> 00:05:10,337
+Hey, you've been very quiet.
+What's the matter?
+
+41
+00:05:16,316 --> 00:05:19,513
+I want to get a cup of coffee.
+Would you like some?
+
+42
+00:05:20,153 --> 00:05:23,145
+Make me a strong one.
+- Sure
+
+43
+00:05:27,493 --> 00:05:29,757
+Two new messages,
+
+44
+00:05:29,996 --> 00:05:32,521
+Hi Mohan. This is Paul tried
+calling you at work and your cell
+
+45
+00:05:32,732 --> 00:05:34,290
+you seem to be in a meeting,
+call me back.
+
+46
+00:05:41,507 --> 00:05:44,738
+Good afternoon Mr. Bhargava, this is
+Steven Carter from the BCIS...
+
+47
+00:05:45,311 --> 00:05:51,216
+... your request for citizenship has been
+accepted. Please call me on Monday. Bye.
+
+48
+00:05:59,325 --> 00:06:02,453
+Congratulations! Your request for
+citizenship has been accepted.
+
+49
+00:06:04,731 --> 00:06:09,361
+You seem lost.
+- Not really.
+
+50
+00:06:11,304 --> 00:06:15,263
+I get it. Work pressures are
+stressing you out
+
+51
+00:06:15,641 --> 00:06:18,940
+and then you have no other interests...
+No pubbing, no partying!
+
+52
+00:06:21,280 --> 00:06:23,612
+Take my advice,
+you should get married!
+
+53
+00:06:26,586 --> 00:06:28,679
+You need a life partner.
+
+54
+00:06:29,555 --> 00:06:32,490
+Like they say - Happiness
+only doubles when it is shared!
+
+55
+00:06:32,658 --> 00:06:34,353
+It changed My life!
+
+56
+00:06:36,295 --> 00:06:38,058
+No Vinod, that's not it.
+
+57
+00:06:40,199 --> 00:06:41,564
+Then what is it?
+
+58
+00:06:46,506 --> 00:06:47,632
+What's the matter?
+
+59
+00:06:49,175 --> 00:06:51,302
+Today is the death anniversary
+of my parents.
+
+60
+00:06:52,178 --> 00:06:53,873
+Oh! I'm sorry.
+
+61
+00:06:56,816 --> 00:06:57,908
+No, It's okay.
+
+62
+00:07:00,186 --> 00:07:05,715
+I still vividly remember that I was in my
+last year of University in Pennsylvania
+
+63
+00:07:07,226 --> 00:07:08,989
+... when I received the news
+of their car accident!
+
+64
+00:07:11,697 --> 00:07:14,359
+Now I understand why
+you've been so low all day.
+
+65
+00:07:17,503 --> 00:07:18,731
+You know Vinod...
+
+66
+00:07:20,540 --> 00:07:22,474
+There's something else,
+which has been
+
+67
+00:07:22,975 --> 00:07:25,375
+pricking my conscience
+these last few months.
+
+68
+00:07:27,246 --> 00:07:31,683
+Do you remember Kaveriamma?
+
+69
+00:07:33,319 --> 00:07:36,755
+Kaveriamma? Your old
+maid servant, right?
+
+70
+00:07:37,123 --> 00:07:40,854
+Please don't call her a maidservant.
+She was like a mother to me!
+
+71
+00:07:42,061 --> 00:07:46,998
+I'm sorry. I had no idea.
+What about her?
+
+72
+00:07:49,235 --> 00:07:51,795
+As you know,
+I was the only child.
+
+73
+00:07:53,906 --> 00:07:59,503
+My parents brought me up with a lot of
+love, they provided me with everything.
+
+74
+00:08:01,380 --> 00:08:06,113
+But along with them, Kaveriamma too
+had a special place in my life.
+
+75
+00:08:08,588 --> 00:08:10,055
+My mother would
+make my breakfast,
+
+76
+00:08:10,823 --> 00:08:12,723
+while Kaveriamma would feed me.
+
+77
+00:08:14,460 --> 00:08:18,726
+My parents tucked me into bed,
+while Kaveriamma sang me a lullaby.
+
+78
+00:08:21,267 --> 00:08:26,569
+From the age of two to seventeen
+she looked after me completely.
+
+79
+00:08:28,975 --> 00:08:34,208
+You could say Kaveriamma was
+like a second mother to me
+
+80
+00:08:37,950 --> 00:08:40,885
+So when was the last time
+you met her?
+
+81
+00:08:44,457 --> 00:08:48,257
+At my parent's funeral.
+
+82
+00:08:50,396 --> 00:08:53,559
+I remember crying like a child
+in Kaveriamma's arms.
+
+83
+00:08:55,868 --> 00:08:57,665
+It was a very tough time for me.
+
+84
+00:08:58,871 --> 00:09:02,398
+Then I came back here and
+began to find a footing in life.
+
+85
+00:09:03,509 --> 00:09:06,706
+Kaveriamma would often write me letters,
+and I would send her replies as well.
+
+86
+00:09:08,514 --> 00:09:15,545
+But later, I got so completely immersed in
+my work, that I just lost touch.
+
+87
+00:09:18,491 --> 00:09:21,153
+All this is so out of the blue Mohan.
+
+88
+00:09:21,794 --> 00:09:24,695
+why did you suddenly
+think of her today?
+
+89
+00:09:25,364 --> 00:09:26,695
+It's not sudden, Vinod.
+
+90
+00:09:28,701 --> 00:09:31,261
+I've been thinking about her
+since the past few months.
+
+91
+00:09:33,172 --> 00:09:35,402
+I've been having recurring
+nightmares of her being...
+
+92
+00:09:37,043 --> 00:09:39,534
+... old, feeble, and helpless.
+
+93
+00:09:43,249 --> 00:09:44,773
+Vinod, I have blundered.
+
+94
+00:09:47,086 --> 00:09:52,114
+I now feel very guilty
+that I have neglected her...
+
+95
+00:09:53,659 --> 00:09:56,127
+... and haven't been able to
+look after her.
+
+96
+00:09:57,763 --> 00:09:59,458
+I had become selfish Vinod.
+
+97
+00:10:01,667 --> 00:10:06,400
+She is the only thread who can
+string the memories of my parents.
+
+98
+00:10:18,017 --> 00:10:21,714
+I was thinking of going to Delhi...
+and bringing her here.
+
+99
+00:10:23,122 --> 00:10:25,386
+Absolutely! Brilliant idea!
+
+100
+00:10:26,859 --> 00:10:28,292
+But I don't think John will consent.
+
+101
+00:10:28,894 --> 00:10:32,125
+There can't be a better time for you
+to ask for a vacation than now,
+
+102
+00:10:33,232 --> 00:10:37,225
+We are 28 weeks away from
+the GPM launch. John won't refuse.
+
+103
+00:10:40,006 --> 00:10:42,702
+You think so?
+- Yeah sure.
+
+104
+00:10:43,476 --> 00:10:46,570
+Promise to bring him back an
+elephant or something.
+
+105
+00:10:48,881 --> 00:10:50,075
+Yeah sure!
+
+106
+00:11:05,097 --> 00:11:06,121
+Thank you very much.
+
+107
+00:11:07,967 --> 00:11:11,835
+So its on the outmost importance
+to get the time pressure on the
+
+108
+00:11:12,038 --> 00:11:13,096
+stabilization unit.
+
+109
+00:11:14,340 --> 00:11:15,773
+Thank you very much gentlemen.
+
+110
+00:11:18,878 --> 00:11:20,573
+Excuse me John.
+- Sure, tell me.
+
+111
+00:11:22,014 --> 00:11:24,983
+I have a request for two weeks off.
+Need to go to India, is it possible?
+
+112
+00:11:25,685 --> 00:11:27,915
+Is everything ok back home?
+
+113
+00:11:28,320 --> 00:11:30,811
+Oh yeah everything is allright.
+Just a pending matter.
+
+114
+00:11:31,023 --> 00:11:32,251
+When do you have to leave?
+
+115
+00:11:32,792 --> 00:11:34,259
+Actually as soon as possible.
+
+116
+00:11:35,728 --> 00:11:37,389
+28 weeks to launch?
+
+117
+00:11:37,863 --> 00:11:40,263
+You realize you have to delegate
+some of this to others.
+
+118
+00:11:40,800 --> 00:11:43,496
+Oh yes yes I'll have a detailed
+meeting with the team and
+
+119
+00:11:43,703 --> 00:11:45,295
+I'll be in constant touch
+with Vinod from here.
+
+120
+00:11:46,839 --> 00:11:49,740
+Alright then, have a good trip.
+
+121
+00:11:49,909 --> 00:11:51,171
+Thank you very much John.
+
+122
+00:11:54,113 --> 00:11:57,947
+Amazing... John agreed very quickly.
+I should have asked for a vacation myself.
+
+123
+00:11:58,117 --> 00:12:00,813
+Thank God you didn't. If you had,
+he would have cancelled mine too.
+
+124
+00:12:51,937 --> 00:12:55,600
+May I clear your tray please?
+Can I get you anything else?
+
+125
+00:12:55,741 --> 00:12:56,969
+No thank you.
+
+126
+00:13:27,673 --> 00:13:30,073
+This is your Captain here.
+Good morning everyone.
+
+127
+00:13:31,243 --> 00:13:32,767
+We have now started our descent
+
+128
+00:13:33,045 --> 00:13:35,343
+And in a short time we'll be landing
+
+129
+00:13:35,614 --> 00:13:37,809
+at the Indira Gandhi
+International Airport in Delhi.
+
+130
+00:13:39,718 --> 00:13:44,917
+Hope you had a comfortable flight
+Thank you for flying Air India.
+
+131
+00:14:29,401 --> 00:14:30,732
+Your attention please.
+
+132
+00:14:30,970 --> 00:14:36,840
+Announcing the arrival of flight
+Al-112 from New York
+
+133
+00:14:39,845 --> 00:14:41,312
+Good to see you.
+- Good to see you too.
+
+134
+00:14:41,614 --> 00:14:44,344
+How was the flight?
+- Connecting flight was delayed. Rest ok!
+
+135
+00:14:44,817 --> 00:14:47,786
+Did you get anything for me?
+- Yeah, everything's for you, kid!
+
+136
+00:14:50,422 --> 00:14:54,051
+So Kaveriamma... is she still living
+in an Old age Home?
+
+137
+00:14:55,694 --> 00:14:56,991
+Did you speak with her?
+
+138
+00:14:57,563 --> 00:15:00,054
+No, I want to surprise her!
+
+139
+00:15:00,933 --> 00:15:03,902
+She'll be so glad to see you.
+I'm sure she'll have forgotten me.
+
+140
+00:15:04,270 --> 00:15:05,294
+Obviously!
+
+141
+00:15:28,694 --> 00:15:32,095
+Excuse me.
+- Yes? May I help you?
+
+142
+00:15:33,065 --> 00:15:34,794
+I've come to meet Kaveriamma.
+
+143
+00:15:35,200 --> 00:15:36,929
+Kaveriamma?
+- Yes.
+
+144
+00:15:38,037 --> 00:15:40,767
+Kaveri oh yes! She doesn't
+live with us any longer.
+
+145
+00:15:43,342 --> 00:15:46,334
+Doesn't live here?
+- She stayed with us for about a year...
+
+146
+00:15:46,545 --> 00:15:49,776
+... till a woman came looking for her.
+And then, Kaveri left with her.
+
+147
+00:15:52,351 --> 00:15:53,909
+But where did she go?
+
+148
+00:15:54,186 --> 00:15:56,711
+Just a minute,
+I'll have to check the register.
+
+149
+00:16:03,629 --> 00:16:08,726
+Bharati<i>ji</i>, this gentleman is
+looking for Kaveri.
+
+150
+00:16:09,702 --> 00:16:11,169
+Do you know where
+is she now?
+
+151
+00:16:11,737 --> 00:16:14,069
+Bharati<i>ji</i> used to share
+the room with Kaveri.
+
+152
+00:16:14,740 --> 00:16:17,937
+I remember her mentioning
+a village before leaving.
+
+153
+00:16:18,844 --> 00:16:20,277
+Now what was it... ?
+
+154
+00:16:21,747 --> 00:16:24,409
+Charanpur.
+- That's right, Charanpur.
+
+155
+00:16:28,654 --> 00:16:30,349
+Where is this Charanpur?
+- Never heard of it.
+
+156
+00:16:30,689 --> 00:16:31,849
+We'll find out.
+
+157
+00:16:34,460 --> 00:16:36,052
+Kaveri was a good woman.
+
+158
+00:16:36,795 --> 00:16:38,854
+We all miss her.
+
+159
+00:16:40,566 --> 00:16:41,760
+Here's the address.
+
+160
+00:16:43,135 --> 00:16:44,102
+Thank you!
+
+161
+00:16:47,773 --> 00:16:49,570
+Kaveri is very fortunate.
+
+162
+00:16:50,609 --> 00:16:54,238
+There was someone who came
+for her then, and now once again.
+
+163
+00:16:55,247 --> 00:16:58,216
+Otherwise who cares
+for old ones like us?
+
+164
+00:17:01,887 --> 00:17:02,751
+Come on.
+
+165
+00:17:10,896 --> 00:17:11,794
+Excuse me.
+
+166
+00:17:12,598 --> 00:17:14,998
+Here's the map.
+You'll find Charanpur in here.
+
+167
+00:17:15,367 --> 00:17:17,699
+That'll be 150 rupees.
+- That's ok. Don't pay me.
+
+168
+00:17:19,271 --> 00:17:22,104
+Do me a favor. Watch the counter
+for me while I nip to the bank.
+
+169
+00:17:22,307 --> 00:17:25,868
+Get me a loan too!
+- Sure, you'll manage the counter, right?
+
+170
+00:17:26,712 --> 00:17:27,736
+I'll just sit behind.
+
+171
+00:17:28,047 --> 00:17:30,277
+That's good.
+- Come back soon.
+
+172
+00:17:39,992 --> 00:17:41,584
+Excuse me you've no respect?
+
+173
+00:17:42,361 --> 00:17:43,521
+What happened?
+
+174
+00:17:43,929 --> 00:17:47,763
+You can see I am picking up books,
+and still you're walking all over them.
+
+175
+00:17:48,000 --> 00:17:49,433
+I did not mean to.
+
+176
+00:17:50,235 --> 00:17:53,295
+Look, books are a source
+of knowledge and culture...
+
+177
+00:17:53,472 --> 00:17:56,202
+and if you don't know how to respect
+them, you shouldn't be here.
+
+178
+00:17:56,608 --> 00:18:00,510
+Well I'm sorry.
+- Thanks.
+
+179
+00:18:33,946 --> 00:18:36,107
+I'm sorry, I was just
+looking at this map.
+
+180
+00:18:39,918 --> 00:18:41,749
+You want to buy these books?
+
+181
+00:18:42,588 --> 00:18:43,919
+No! I want to sell them!!
+
+182
+00:18:45,124 --> 00:18:48,651
+Oh stupid question, I'm sorry.
+- No I'm sorry.
+
+183
+00:18:48,861 --> 00:18:52,854
+Actually I'm just a little irritated.
+- No, I saw what happened.
+
+184
+00:18:53,565 --> 00:18:54,896
+You dealt with the man right.
+
+185
+00:18:55,033 --> 00:18:57,501
+Some people just don't have
+the basic etiquette.
+
+186
+00:18:59,771 --> 00:19:03,639
+Oh yeah... I'll do this for you.
+Lots of books.
+
+187
+00:19:06,745 --> 00:19:08,838
+I will need a...
+- Over there.
+
+188
+00:19:09,214 --> 00:19:11,114
+Yes, thank you.
+
+189
+00:19:11,950 --> 00:19:17,286
+That's 13 books of Mathematics into 17...
+
+190
+00:19:17,489 --> 00:19:23,587
+... is equal to 221/- + 22 Language
+books into 12 is equal to...
+
+191
+00:19:23,795 --> 00:19:24,989
+Four-eighty five.
+
+192
+00:19:29,835 --> 00:19:31,860
+Four-eighty five!
+
+193
+00:19:33,272 --> 00:19:38,733
+That's 8 Geography books into
+19 is 152, plus 485 is...
+
+194
+00:19:39,178 --> 00:19:40,611
+Six-thirty Seven!
+
+195
+00:19:42,147 --> 00:19:47,380
+Really 637? Thanks.
+
+196
+00:19:48,787 --> 00:19:56,023
+And these 8 note books at 113
+and the total is...
+
+197
+00:19:56,828 --> 00:19:58,022
+Seven fifty.
+
+198
+00:19:58,664 --> 00:19:59,688
+Must be right!
+
+199
+00:20:01,767 --> 00:20:06,830
+750 it is.
+Your... maths is pretty good!
+
+200
+00:20:12,544 --> 00:20:14,068
+Actually, I should be
+giving you a concession.
+
+201
+00:20:14,479 --> 00:20:16,572
+You selected the books,
+you did the totalling...
+
+202
+00:20:16,882 --> 00:20:18,349
+you should be in my chair!
+
+203
+00:20:19,084 --> 00:20:20,415
+Then give me a concession?
+
+204
+00:20:21,787 --> 00:20:22,981
+Sorry I can't!
+
+205
+00:20:24,489 --> 00:20:27,390
+Actually my name is Mohan Bhargav.
+I'm Rahul's friend...
+
+206
+00:20:28,727 --> 00:20:32,060
+... he's the owner of this shop,
+he's just gone to the bank...
+
+207
+00:20:32,931 --> 00:20:35,991
+... he was broke you see...
+needed to get some money
+
+208
+00:20:36,168 --> 00:20:37,499
+I'm just filling in for him.
+
+209
+00:20:38,203 --> 00:20:39,170
+Oh!
+
+210
+00:20:40,272 --> 00:20:42,706
+I'll just pack this for you
+I just need...
+
+211
+00:20:42,874 --> 00:20:43,841
+Bags.
+
+212
+00:20:48,180 --> 00:20:50,876
+I have been looking
+for Charanpur in this map
+
+213
+00:20:52,050 --> 00:20:53,278
+It's a small little village.
+
+214
+00:20:53,485 --> 00:20:55,953
+Have you heard of it?
+
+215
+00:20:59,791 --> 00:21:01,258
+Yes, I know where it is.
+
+216
+00:21:02,628 --> 00:21:07,088
+Go down National Highway No. 6 for
+110 kms till you reach Charoti.
+
+217
+00:21:08,533 --> 00:21:10,091
+Take a left from there.
+
+218
+00:21:10,302 --> 00:21:13,271
+Then keep going for 80 kms till
+you reach Azamgarh.
+
+219
+00:21:13,972 --> 00:21:18,568
+From there 20 kms on a dirt track,
+you'll reach Charanpur.
+
+220
+00:21:19,344 --> 00:21:24,441
+Wow! Your geography seems
+pretty good as well!
+
+221
+00:21:28,620 --> 00:21:29,985
+Here you...
+
+222
+00:21:32,157 --> 00:21:33,624
+Hello! Excuse me.
+
+223
+00:21:36,261 --> 00:21:38,695
+Please look after the counter...
+
+224
+00:21:51,777 --> 00:21:54,143
+What happened?
+You sick of the job already?
+
+225
+00:21:54,279 --> 00:21:58,579
+No, a girl came in, bought a lot of
+books... but left without her change.
+
+226
+00:21:58,950 --> 00:22:00,076
+Hey! Not bad!
+
+227
+00:22:00,419 --> 00:22:03,047
+You made a profit for the company on the
+very first day! You've got the job!
+
+228
+00:22:04,189 --> 00:22:05,156
+She was amazing!
+
+229
+00:22:06,391 --> 00:22:07,722
+She even gave me directions
+to Charanpur!
+
+230
+00:22:07,993 --> 00:22:09,358
+Great, where is it?
+
+231
+00:22:10,562 --> 00:22:12,189
+About 200 kms from here.
+
+232
+00:22:13,398 --> 00:22:16,526
+Spare me Mohan. Don't expect me to
+leave the store and drive you there.
+
+233
+00:22:16,735 --> 00:22:20,694
+No worries!
+I'll need a car though.
+
+234
+00:22:20,906 --> 00:22:25,206
+Take mine.
+- No, no. Could I get a caravan?
+
+235
+00:22:25,410 --> 00:22:27,037
+Caravan? What for?
+
+236
+00:22:27,913 --> 00:22:30,473
+Don't know the conditions I'll have
+to face in the village.
+
+237
+00:22:32,417 --> 00:22:34,385
+Ok, ok Mr. NRI
+<i>(Non-Resident Indian)</i>
+
+238
+00:22:34,753 --> 00:22:36,550
+You'll have your caravan.
+Don't worry.
+
+239
+00:22:39,791 --> 00:22:44,751
+<i>(Old Hindi film song)</i>
+
+240
+00:23:25,404 --> 00:23:28,635
+Can you tell me which of these
+paths will lead to Charanpur?
+
+241
+00:23:29,007 --> 00:23:31,032
+You have strayed from the path.
+
+242
+00:23:31,176 --> 00:23:35,135
+Really?
+I've been following directions...
+
+243
+00:23:35,847 --> 00:23:38,145
+I must have taken a wrong
+turn somewhere.
+
+244
+00:23:38,683 --> 00:23:40,981
+It was your destiny to make
+this mistake.
+
+245
+00:23:42,020 --> 00:23:45,512
+Charanpur is pretty far from here.
+I'm headed in that direction.
+
+246
+00:23:46,057 --> 00:23:49,390
+If you want,
+I can show you the right path!
+
+247
+00:24:41,079 --> 00:24:45,038
+Go on, O traveller!
+O traveller! Go on!
+
+248
+00:24:45,250 --> 00:24:48,549
+How beautiful is this world
+
+249
+00:24:49,588 --> 00:24:53,718
+Forget thy troubles all
+Behold! The beds of flowers enthrall
+
+250
+00:24:53,925 --> 00:24:57,224
+Heed thee vibrant world's call
+
+251
+00:25:15,947 --> 00:25:16,879
+Wow!
+
+252
+00:25:21,219 --> 00:25:22,413
+Encore!
+
+253
+00:25:23,955 --> 00:25:25,081
+Sing.
+
+254
+00:25:26,458 --> 00:25:29,916
+This path now bids me:
+
+255
+00:25:30,629 --> 00:25:34,258
+Somewhere, someone's
+waiting for thee!'
+
+256
+00:25:34,799 --> 00:25:38,599
+This path now bids me:
+
+257
+00:25:39,304 --> 00:25:42,762
+Somewhere, someone's
+waiting for thee!'
+
+258
+00:25:50,148 --> 00:25:54,278
+Why doth my heart impatient be?
+Who longeth to meet me?
+
+259
+00:25:54,486 --> 00:25:58,445
+Perhaps, in the narrowing compass
+What I'd cherished is coming to pass
+
+260
+00:25:58,657 --> 00:26:02,957
+Go on, O traveller!
+O traveller! Go on!
+
+261
+00:26:03,161 --> 00:26:06,460
+Life's a car; Time's the wheel
+
+262
+00:26:07,499 --> 00:26:11,629
+There's the river of tears for sure
+And a garden of joys too, secure.
+
+263
+00:26:11,836 --> 00:26:15,135
+O brother, all these stare
+intently upon thy path
+
+264
+00:26:16,174 --> 00:26:20,304
+Go on, O traveller!
+O traveller! Go on!
+
+265
+00:26:20,512 --> 00:26:23,811
+How beautiful is this world
+
+266
+00:26:24,683 --> 00:26:28,983
+Forget thy troubles all
+Behold! The beds of flowers enthrall
+
+267
+00:26:29,187 --> 00:26:32,816
+Heed thee vibrant world's call
+
+268
+00:26:51,042 --> 00:26:54,842
+Wherever I cast my eye
+upon these paths
+
+269
+00:26:55,380 --> 00:26:59,009
+Colours stream in my glance
+
+270
+00:26:59,718 --> 00:27:03,677
+The breeze is cool, the shade cool too
+
+271
+00:27:04,055 --> 00:27:07,855
+Far, over there, I wonder whose
+hamlet stands
+
+272
+00:27:10,595 --> 00:27:12,529
+Ah! How didst the rain clouds amass?
+
+273
+00:27:12,731 --> 00:27:14,699
+That my heart was brought
+to such a pass
+
+274
+00:27:14,899 --> 00:27:20,531
+What dream have I seen?
+- That every dream doth true appear,
+
+275
+00:27:20,739 --> 00:27:27,201
+Kindling fire in my body
+If thy heart's path thou traverseth
+
+276
+00:27:27,412 --> 00:27:31,371
+Thou shallst pick pearl from
+The oyster every moment
+
+277
+00:27:31,583 --> 00:27:36,213
+Only if thou couldst always
+heed thy heart
+
+278
+00:27:36,421 --> 00:27:40,551
+Go on, O traveller!
+O traveller! Go on!
+
+279
+00:27:40,759 --> 00:27:43,887
+How beautiful is this world
+
+280
+00:27:44,763 --> 00:27:48,961
+Forget thy troubles all
+Behold! The beds of flowers enthrall
+
+281
+00:27:49,267 --> 00:27:52,896
+Heed thee vibrant world's call
+
+282
+00:28:19,798 --> 00:28:23,427
+The heart experienceth such ease
+
+283
+00:28:23,968 --> 00:28:27,768
+As though the burden upon the
+shoulder hath dropped off
+
+284
+00:28:28,473 --> 00:28:32,102
+As though innocence of
+childhood hath returned
+
+285
+00:28:32,811 --> 00:28:36,611
+As though at longest last in
+River Ganga hast one had bath
+
+286
+00:28:37,315 --> 00:28:49,785
+As though at longest last in
+River Ganga hast one had bath
+
+287
+00:28:49,994 --> 00:28:54,124
+The heart purged as it were
+Every bond at large
+
+288
+00:28:54,332 --> 00:28:58,291
+I find the life sanctified now
+
+289
+00:28:58,503 --> 00:29:02,303
+There's love in my living,
+a song upon the lips
+
+290
+00:29:02,507 --> 00:29:06,637
+This is verily the triumph of
+thy life, O traveller!
+
+291
+00:29:06,845 --> 00:29:10,975
+Whichever direction thou goest,
+Love alone thou squander
+
+292
+00:29:11,182 --> 00:29:15,642
+You light a million lamps,
+O traveller!
+
+293
+00:29:15,854 --> 00:29:19,984
+Go on, O traveller!
+O traveller! Go on!
+
+294
+00:29:20,191 --> 00:29:23,649
+Who is it that haileth me
+
+295
+00:29:24,696 --> 00:29:28,826
+The river, hill, lakes and streams,
+the woods and trees
+
+296
+00:29:29,200 --> 00:29:32,658
+Who's it that signals from these
+
+297
+00:29:50,388 --> 00:29:54,347
+Go on, O traveller
+
+298
+00:29:56,961 --> 00:30:02,331
+How beautiful is this world
+
+299
+00:30:44,475 --> 00:30:45,567
+Excuse me.
+
+300
+00:30:46,077 --> 00:30:48,545
+Do you know where Kaveri<i>ji</i> lives?
+
+301
+00:30:49,447 --> 00:30:51,745
+Hey Chikku!
+Take this man to Kaveri<i>ji</i>
+
+302
+00:31:11,135 --> 00:31:14,263
+Sorry!
+- Watch it!
+
+303
+00:31:34,559 --> 00:31:36,993
+Amma! Amma!
+<i>(Motherl Motherl)</i>
+
+304
+00:31:38,196 --> 00:31:39,163
+Amma!
+
+305
+00:31:42,100 --> 00:31:43,158
+Amma!
+
+306
+00:31:43,902 --> 00:31:45,665
+Wait a while.
+
+307
+00:31:45,770 --> 00:31:50,503
+She needs to be massaged like this
+in the morning and evening, Maithili!
+
+308
+00:31:50,708 --> 00:31:52,938
+She'll cry a little, but ignore it.
+
+309
+00:31:53,177 --> 00:31:55,407
+Understood?
+Now say.
+
+310
+00:31:55,680 --> 00:31:58,478
+Amma, someone has come
+to meet you in a very big car.
+
+311
+00:31:59,017 --> 00:32:00,143
+A very big car?
+
+312
+00:32:00,351 --> 00:32:03,149
+Come on, now!
+It's parked outside.
+
+313
+00:32:03,354 --> 00:32:04,548
+I am coming.
+
+314
+00:32:08,860 --> 00:32:10,657
+Chikku, hope this isn't
+one of your pranks!
+
+315
+00:32:10,862 --> 00:32:11,829
+Look at that.
+
+316
+00:32:15,400 --> 00:32:16,765
+It's very big; isn't it?
+
+317
+00:32:24,275 --> 00:32:25,503
+What's going on?
+
+318
+00:32:27,779 --> 00:32:29,007
+Huh, who is this?
+
+319
+00:32:29,781 --> 00:32:31,248
+Go on take a guess!
+
+320
+00:32:31,482 --> 00:32:35,976
+I can't. Come on, who is this?
+Let go of me!
+
+321
+00:32:36,220 --> 00:32:39,348
+Atkan batkan dahi chatokan,
+<i>(Lord Krishna's childhood couplet)</i>
+
+322
+00:32:40,124 --> 00:32:43,616
+If you're Yashoda, then who am I...?
+<i>(Lord Krishna's childhood couplet)</i>
+
+323
+00:32:44,028 --> 00:32:45,256
+Mohan!
+
+324
+00:32:48,166 --> 00:32:49,258
+Mohan!
+
+325
+00:32:50,168 --> 00:32:51,260
+Kaveriamma.
+
+326
+00:32:54,639 --> 00:32:56,937
+Mohan... it's you, it's really you!
+
+327
+00:33:01,646 --> 00:33:05,605
+I can't believe my eyes!
+
+328
+00:33:06,985 --> 00:33:10,284
+Do you know who this is?
+This is Mohan, my Mohan!
+
+329
+00:33:10,989 --> 00:33:13,287
+The one I keep talking
+to you about.
+
+330
+00:33:13,825 --> 00:33:14,883
+Come...
+
+331
+00:33:17,495 --> 00:33:21,625
+Stop! Wait right here.
+Do not step inside. I'll be back.
+
+332
+00:34:05,843 --> 00:34:08,311
+Now you can come in!
+
+333
+00:34:11,682 --> 00:34:13,149
+Kaveriamma.
+- Yes?
+
+334
+00:34:15,520 --> 00:34:16,646
+Oh... what are you doing?
+
+335
+00:34:28,900 --> 00:34:35,829
+I can't express how happy
+I am to see you Mohan.
+
+336
+00:34:46,717 --> 00:34:52,519
+Let Gita come.
+I'll tell her I've won the bet.
+
+337
+00:34:53,458 --> 00:34:55,688
+Bet? What bet?
+
+338
+00:34:57,395 --> 00:35:02,526
+Gita always said
+"Your Mohan has forgotten you, Amma."
+
+339
+00:35:02,733 --> 00:35:03,529
+Really?
+
+340
+00:35:03,734 --> 00:35:07,693
+But I would always retort:
+"No, he will come to meet me."
+
+341
+00:35:08,239 --> 00:35:10,707
+And then we had a bet!
+
+342
+00:35:11,409 --> 00:35:14,867
+If you did come, she would have to
+treat me to an ice cream.
+
+343
+00:35:15,079 --> 00:35:17,047
+Ice cream? Kaveriamma!
+
+344
+00:35:17,482 --> 00:35:19,712
+Why?
+- Because you haven't changed a bit!
+
+345
+00:35:19,951 --> 00:35:21,885
+You haven't lost your
+appetite for ice-creams!
+
+346
+00:35:22,086 --> 00:35:22,882
+Why not?
+
+347
+00:35:23,087 --> 00:35:26,545
+Why not? Are ice creams meant only
+for kids? Can't we oldies enjoy it?
+
+348
+00:35:26,824 --> 00:35:27,722
+Sit!
+
+349
+00:35:28,259 --> 00:35:33,561
+All right, you win. And by the way,
+who says you're old?
+
+350
+00:35:37,335 --> 00:35:41,066
+So... who is this Gita?
+
+351
+00:35:41,506 --> 00:35:44,475
+Don't you remember?
+You often played with her as a child.
+
+352
+00:35:44,742 --> 00:35:48,200
+She used to visit our Delhi house
+with her mother.
+
+353
+00:35:48,746 --> 00:35:49,713
+Gita...
+
+354
+00:35:50,248 --> 00:35:54,207
+Are you referring to that
+'Gitlee' by any chance?
+
+355
+00:35:54,785 --> 00:35:57,948
+Yes!
+You called her that.
+
+356
+00:35:58,122 --> 00:36:01,023
+And this is Nandan
+Gita's younger brother.
+
+357
+00:36:01,392 --> 00:36:06,193
+But we lovingly call him Chikku.
+- Chikku! Hey Chikku!
+
+358
+00:36:07,865 --> 00:36:11,961
+He has faked a tummy ache today
+so that he can miss school.
+
+359
+00:36:22,880 --> 00:36:24,006
+How old are you?
+- Eight.
+
+360
+00:36:24,282 --> 00:36:25,681
+Which school do you go to?
+
+361
+00:36:25,883 --> 00:36:27,680
+I study in Navjeevan Paathshala.
+
+362
+00:36:27,885 --> 00:36:31,844
+My roll number is 6
+and I am in the fourth standard!
+
+363
+00:36:32,089 --> 00:36:33,181
+The motto of our school is
+
+364
+00:36:33,391 --> 00:36:36,417
+Books are a source of knowledge
+and knowledge is strength.
+
+365
+00:36:37,228 --> 00:36:39,025
+Your school seems to be a good one.
+
+366
+00:36:39,931 --> 00:36:42,525
+Why haven't you gone today?
+- I had a stomach ache.
+
+367
+00:36:42,767 --> 00:36:43,699
+Really?
+
+368
+00:36:44,735 --> 00:36:46,532
+Was the pain here?
+Or here?
+
+369
+00:36:48,239 --> 00:36:50,707
+Would you like to see my school?
+- No, not now.
+
+370
+00:36:50,908 --> 00:36:54,537
+I want to talk to Amma.
+- No ! Let's go right now.
+
+371
+00:36:54,745 --> 00:36:55,871
+All right Chikku.
+
+372
+00:36:56,447 --> 00:37:00,213
+Mohan, why don't you
+go visit the school with Chikku.
+
+373
+00:37:00,418 --> 00:37:02,886
+You can meet Gita as well.
+She teaches there.
+
+374
+00:37:03,321 --> 00:37:05,380
+Ok, but I thought Chikku had a
+stomach ache!
+
+375
+00:37:05,590 --> 00:37:09,219
+Ache? Oh yes!
+It was there, but it just went away!
+
+376
+00:37:09,427 --> 00:37:11,395
+Let's go to my school now!
+
+377
+00:37:22,607 --> 00:37:23,665
+That's Uncle Postman!
+
+378
+00:37:25,176 --> 00:37:26,473
+Not just postman my dear
+
+379
+00:37:26,777 --> 00:37:29,075
+... I'm the plough and the bull, field
+and seed, crop and the grains.
+
+380
+00:37:29,280 --> 00:37:30,247
+I am everything here!
+
+381
+00:37:30,481 --> 00:37:33,917
+I sort the letters, seal them
+and distribute them as well!
+
+382
+00:37:34,352 --> 00:37:37,753
+When on my bicycle, I'm the Postman
+and in my chair, Postmaster.
+
+383
+00:37:37,955 --> 00:37:42,255
+The name is Nivaaran Dayal Shrivastava.
+How can I help you?
+
+384
+00:37:43,127 --> 00:37:44,754
+Can I call America from here?
+
+385
+00:37:45,129 --> 00:37:49,589
+There is no ISD here, but you can get
+connected through Mizwa village.
+
+386
+00:37:49,800 --> 00:37:54,931
+By the way, there is no bank, no bond,
+and no registry in this village.
+
+387
+00:37:55,306 --> 00:37:58,275
+I apologise, for the trouble
+earlier today.
+
+388
+00:37:59,443 --> 00:38:03,311
+That's ok. You live abroad, right?
+- Yes.
+
+389
+00:38:05,316 --> 00:38:07,113
+I too happen to know some English.
+
+390
+00:38:08,719 --> 00:38:11,119
+What can I do for you?
+
+391
+00:38:11,522 --> 00:38:12,614
+Very good.
+
+392
+00:38:18,329 --> 00:38:21,127
+Look Mohan<i>bhaiyya</i> this is my school!
+<i>(bhaiyya - brother)</i>
+
+393
+00:38:22,533 --> 00:38:24,023
+I'm impressed, Chikku!
+
+394
+00:38:28,873 --> 00:38:29,965
+It was in 1942 that
+
+395
+00:38:30,207 --> 00:38:33,142
+the slogans of the 'Quit India Movement'
+were first heard in Bombay.
+
+396
+00:38:33,844 --> 00:38:38,304
+From Bombay to Lahore (in Pakistan),
+Lahore to Peshawari...
+
+397
+00:38:38,849 --> 00:38:42,808
+the Indian revolutionaries and the
+British soldiers were locked in conflict!
+
+398
+00:38:43,020 --> 00:38:47,320
+Blows were dealt in succession,
+bullets were whizzing and ricocheting.
+
+399
+00:38:47,525 --> 00:38:51,325
+But through all of it our protests were
+on, and we never raised our hands!
+
+400
+00:38:51,862 --> 00:38:53,727
+I got hit by a bullet on
+the shoulder as well.
+
+401
+00:38:54,365 --> 00:38:57,163
+Then they arrested us and
+threw us in prison
+
+402
+00:38:57,368 --> 00:39:00,997
+... we kept protesting- Inquilab zindabad!
+<i>(Long live the Revolution)</i>
+
+403
+00:39:01,205 --> 00:39:04,333
+Dada<i>ji</i>, did you have a beard then?
+- I wish I did!
+
+404
+00:39:04,542 --> 00:39:07,841
+Then the bullet would have got stuck
+in my beard and got lost!
+
+405
+00:39:10,448 --> 00:39:12,279
+I... am... going!
+
+406
+00:39:12,450 --> 00:39:14,475
+I... am... going!
+
+407
+00:39:15,386 --> 00:39:17,513
+We... both are... going!
+
+408
+00:39:17,722 --> 00:39:20,350
+We... both are... going!
+
+409
+00:39:20,891 --> 00:39:22,688
+We... all are... going!
+
+410
+00:39:22,893 --> 00:39:25,020
+We... all are... going!
+
+411
+00:39:25,896 --> 00:39:27,989
+Very good! Kamala, now you repeat...
+
+412
+00:39:30,234 --> 00:39:31,861
+I... am... going!
+
+413
+00:39:34,238 --> 00:39:36,206
+It's you!
+
+414
+00:39:36,907 --> 00:39:40,365
+I must have misunderstood your
+directions and got lost.
+
+415
+00:39:41,245 --> 00:39:44,373
+Excuse me! This is a school
+and a class is in progress.
+
+416
+00:39:44,582 --> 00:39:45,412
+I'm sorry.
+
+417
+00:39:45,616 --> 00:39:49,712
+Mohan bhaiyya this is Gita didi.
+And didi didi, this is Mohan bhayya...
+
+418
+00:39:49,920 --> 00:39:52,548
+He has come from Aamkarica!
+- Not Aamkarica, Chikku! America.
+
+419
+00:39:52,757 --> 00:39:55,555
+Chikku, what are you doing here?
+I thought you had a stomach ache!
+
+420
+00:39:55,760 --> 00:39:59,059
+Amma asked me to show
+Mohan bhaiyya the school so I just...
+
+421
+00:39:59,430 --> 00:40:01,557
+So you are Gita! Remember me?
+
+422
+00:40:01,766 --> 00:40:04,064
+I used to call you 'Gitlee'
+when we were kids.
+
+423
+00:40:08,606 --> 00:40:10,733
+The children are
+supposed to be studying.
+
+424
+00:40:11,442 --> 00:40:12,636
+I'm sorry.
+
+425
+00:40:16,947 --> 00:40:20,075
+Now I understand.
+Mathematics, Geography...
+
+426
+00:40:21,952 --> 00:40:23,749
+Oh yeah, by the way...
+
+427
+00:40:24,455 --> 00:40:27,913
+... you forgot your 50 rupees
+at the bookshop!
+
+428
+00:40:30,294 --> 00:40:32,091
+Thank you, will you please go now?
+
+429
+00:40:32,363 --> 00:40:35,059
+Yes. I'm very sorry.
+
+430
+00:40:39,069 --> 00:40:40,229
+I... am... going!
+
+431
+00:40:40,438 --> 00:40:41,928
+I... am... going!
+
+432
+00:40:42,139 --> 00:40:43,163
+Very good.
+
+433
+00:40:53,417 --> 00:40:54,384
+What's this?
+
+434
+00:40:54,985 --> 00:40:57,453
+This is a foot massager, that'll take
+care of your aching feet.
+
+435
+00:41:00,825 --> 00:41:02,452
+There is no electricity at the moment.
+- Why?
+
+436
+00:41:03,160 --> 00:41:07,119
+We have power failures quite often.
+- Oh, when will it resume?
+
+437
+00:41:07,665 --> 00:41:11,294
+Nothing can be said for sure.
+This happens 3-4 times a week.
+
+438
+00:41:14,338 --> 00:41:15,327
+Who are they?
+
+439
+00:41:16,173 --> 00:41:18,801
+Gita's parents Shanta and Jagmohan<i>ji...</i>
+
+440
+00:41:19,009 --> 00:41:21,637
+who started the school in Charanpur.
+
+441
+00:41:23,180 --> 00:41:27,082
+When Chikku was only five,
+Jagmohan<i>ji</i> passed away.
+
+442
+00:41:28,018 --> 00:41:31,317
+Gita was studying in a college
+in Delhi at that time.
+
+443
+00:41:32,356 --> 00:41:34,984
+As soon as she graduated,
+she came here...
+
+444
+00:41:35,192 --> 00:41:38,491
+... to help her mother with the
+running of the school.
+
+445
+00:41:39,029 --> 00:41:41,998
+But Shanta's health was on the decline,
+
+446
+00:41:43,200 --> 00:41:46,397
+till a point when she sent Gita to the
+Old Age Home to fetch me.
+
+447
+00:41:46,537 --> 00:41:51,668
+Before dying, Shanta entrusted
+the upkeep of Gita and Chikku to me.
+
+448
+00:42:10,895 --> 00:42:11,862
+Thanks.
+
+449
+00:42:13,564 --> 00:42:17,193
+Why did it take you so long, Gita?
+- I had to correct a few test papers.
+
+450
+00:42:18,168 --> 00:42:19,931
+Thought I may as well finish it there.
+
+451
+00:42:20,571 --> 00:42:24,701
+Didi, didi, look what
+Mohanbhaiyya got for me!
+
+452
+00:42:24,909 --> 00:42:27,707
+Guess what I'm going to
+cook for you Mohan!
+
+453
+00:42:27,912 --> 00:42:28,708
+Very nice.
+
+454
+00:42:29,179 --> 00:42:32,046
+Your favorite tadka daal,
+aloo ki sabzi and kheer.
+
+455
+00:42:32,683 --> 00:42:33,650
+Wow!
+
+456
+00:42:35,753 --> 00:42:38,221
+Gita! Now you will have to treat me
+to an ice-cream.
+
+457
+00:42:38,756 --> 00:42:39,882
+You lost the bet.
+
+458
+00:42:46,931 --> 00:42:50,230
+Oh Kaveriamma, I've missed your food.
+
+459
+00:42:50,768 --> 00:42:52,235
+The kheer was especially good.
+
+460
+00:42:53,337 --> 00:42:55,328
+I knew you would like it.
+
+461
+00:42:56,106 --> 00:42:57,073
+Enough about me.
+
+462
+00:42:58,342 --> 00:43:02,403
+Now tell us about yourself... and America.
+
+463
+00:43:03,948 --> 00:43:06,416
+Everything's fine in America.
+
+464
+00:43:07,117 --> 00:43:09,813
+I have all the comforts.
+I have all that I could ask for.
+
+465
+00:43:10,955 --> 00:43:12,752
+I'm glad to hear that.
+
+466
+00:43:13,290 --> 00:43:16,782
+And how is your nasha going on?
+<i>(nasha - Hindi slang for drugs)</i>
+
+467
+00:43:17,127 --> 00:43:18,321
+Nasha?
+
+468
+00:43:20,130 --> 00:43:21,757
+Why? Have you quit it?
+
+469
+00:43:25,469 --> 00:43:26,265
+Nasha?
+
+470
+00:43:26,637 --> 00:43:31,267
+Nasa? NASA??
+
+471
+00:43:31,475 --> 00:43:32,271
+That's what I meant.
+
+472
+00:43:32,476 --> 00:43:36,344
+My work at nasha... I mean NASA
+is going very well.
+
+473
+00:43:38,716 --> 00:43:40,547
+So, you're an astronaut?
+
+474
+00:43:42,987 --> 00:43:43,749
+No.
+
+475
+00:43:44,154 --> 00:43:49,456
+I'm a Project Manager for
+Global Precipitation Measurement! GPM.
+
+476
+00:43:51,328 --> 00:43:53,626
+Global Precipitation Measurement.
+
+477
+00:43:55,666 --> 00:43:56,564
+Very good.
+
+478
+00:43:56,767 --> 00:44:00,294
+Look at this Mohan bhaiyya!
+
+479
+00:44:00,771 --> 00:44:04,969
+Wow! Very good. You are a great artist!
+
+480
+00:44:05,843 --> 00:44:09,609
+Chikku, you bunked school today.
+And, you have to catch up with studies.
+
+481
+00:44:11,348 --> 00:44:13,908
+Good night Chikku!
+- Say good night!
+
+482
+00:44:22,192 --> 00:44:23,989
+I owe you an apology.
+
+483
+00:44:24,361 --> 00:44:26,488
+Apology? For what?
+
+484
+00:44:29,033 --> 00:44:30,227
+I'm sorry...
+
+485
+00:44:30,868 --> 00:44:32,836
+... that I wasn't there to take care of you
+
+486
+00:44:33,704 --> 00:44:35,103
+What are you talking about?
+
+487
+00:44:35,272 --> 00:44:36,762
+Let me talk Kaveriamma!
+
+488
+00:44:38,375 --> 00:44:40,536
+I'm sorry... that I wasn't there to
+take care of you.
+
+489
+00:44:42,379 --> 00:44:45,837
+I'm sorry... that I was not there
+when you needed me most.
+
+490
+00:44:48,385 --> 00:44:52,515
+I'm sorry... that you had to go
+to an Old Age Home.
+
+491
+00:44:54,058 --> 00:44:55,753
+Not another word now!
+
+492
+00:44:56,560 --> 00:44:57,527
+Son...
+
+493
+00:44:59,229 --> 00:45:01,595
+... these are all matters of destiny.
+
+494
+00:45:04,568 --> 00:45:06,035
+I have everything...
+
+495
+00:45:06,403 --> 00:45:07,529
+Everything, but you!
+
+496
+00:45:08,338 --> 00:45:10,101
+I miss you very much Kaveriamma.
+
+497
+00:45:11,075 --> 00:45:12,201
+Will you come with me?
+
+498
+00:45:12,743 --> 00:45:13,767
+Where?
+
+499
+00:45:14,344 --> 00:45:15,368
+America.
+
+500
+00:45:15,913 --> 00:45:20,213
+No, I'm fine here!
+
+501
+00:45:21,085 --> 00:45:23,781
+Just come with me, you'll love it there.
+
+502
+00:45:24,254 --> 00:45:28,384
+You'll get a lot of rest and peace.
+It's a much better life there.
+
+503
+00:45:32,162 --> 00:45:33,891
+Let me think about this.
+
+504
+00:45:37,935 --> 00:45:39,061
+Come on now...
+
+505
+00:45:43,373 --> 00:45:44,863
+You should go to sleep here.
+
+506
+00:45:45,442 --> 00:45:46,238
+Here?
+
+507
+00:45:47,778 --> 00:45:51,077
+If you don't mind,
+I will sleep in the caravan.
+
+508
+00:45:51,448 --> 00:45:53,075
+Now what new machine is this?
+
+509
+00:45:53,350 --> 00:45:55,079
+One that puts you to sleep!
+
+510
+00:45:55,452 --> 00:45:56,885
+Something like that!
+
+511
+00:45:57,621 --> 00:45:59,919
+Good Night.
+- Good Night.
+
+512
+00:46:03,627 --> 00:46:05,925
+Good Night.
+- Good Night.
+
+513
+00:47:45,796 --> 00:47:46,592
+Yes?
+
+514
+00:47:48,632 --> 00:47:49,599
+Yesss??
+
+515
+00:47:51,301 --> 00:47:52,734
+Sir, I am Mela Ram!
+
+516
+00:47:53,303 --> 00:47:55,669
+Hello. What do you want?
+
+517
+00:47:55,973 --> 00:47:57,531
+Sir, I have brought you breakfast.
+
+518
+00:47:57,808 --> 00:48:00,276
+Please try my breakfast.
+- Breakfast? Not now.
+
+519
+00:48:00,477 --> 00:48:03,446
+Sir please, I made it especially for you.
+
+520
+00:48:03,814 --> 00:48:05,941
+I am a very good cook.
+
+521
+00:48:06,316 --> 00:48:08,284
+Got it... means understood!
+
+522
+00:48:19,663 --> 00:48:23,793
+You're a good cook! I'm impressed.
+- Thank you sir.
+
+523
+00:48:28,505 --> 00:48:31,235
+You have come from America sir?
+
+524
+00:48:33,110 --> 00:48:34,304
+I have a question sir.
+
+525
+00:48:35,012 --> 00:48:37,310
+In America, are there a lot of highways?
+
+526
+00:48:37,848 --> 00:48:40,646
+Yes, there are. They are
+called freeways there.
+
+527
+00:48:41,184 --> 00:48:42,151
+Got it!
+
+528
+00:48:42,352 --> 00:48:43,649
+Means I understood.
+
+529
+00:48:45,455 --> 00:48:46,820
+One more question, sir.
+
+530
+00:48:49,026 --> 00:48:49,993
+Be comfortable.
+
+531
+00:48:50,527 --> 00:48:53,394
+Do they have <i>Dhabas</i> on these freeways?
+<i>(dhaba - an Indian fast food joint)</i>
+
+532
+00:48:53,697 --> 00:48:54,664
+Dhaba?
+- Yes.
+
+533
+00:48:56,333 --> 00:48:58,028
+Sort of. Why?
+
+534
+00:48:59,202 --> 00:49:00,328
+What do you think?
+
+535
+00:49:00,537 --> 00:49:04,667
+Will an Indian dhaba
+work on those freeways?
+
+536
+00:49:07,210 --> 00:49:09,178
+I think it'll work!
+- Will it work?
+
+537
+00:49:10,380 --> 00:49:16,046
+I think maybe... thanks for the dhaba,
+I mean breakfast!
+
+538
+00:49:16,887 --> 00:49:19,185
+Now if you'll excuse me,
+I've got to get ready!
+
+539
+00:49:19,389 --> 00:49:20,515
+Of course sir.
+
+540
+00:49:21,391 --> 00:49:22,688
+I'll meet you again sir.
+
+541
+00:49:23,226 --> 00:49:24,591
+Thank you, Thelaram.
+
+542
+00:49:24,895 --> 00:49:27,261
+Sir it's Mela Ram!
+- Sorry, Mela Ram.
+
+543
+00:49:28,398 --> 00:49:29,729
+Sir last question.
+
+544
+00:49:31,668 --> 00:49:33,693
+Sir I will give you a very good offer sir.
+
+545
+00:49:34,404 --> 00:49:35,871
+We'll open a dhaba in partnership.
+
+546
+00:49:36,139 --> 00:49:39,302
+I will give you 50%
+half share of all the money I make
+
+547
+00:49:40,077 --> 00:49:42,102
+I have even thought of a name
+for this dhaba.
+
+548
+00:49:42,913 --> 00:49:43,811
+It will be called...
+
+549
+00:49:44,014 --> 00:49:47,780
+...Mela Ram Dhaba. Ok?
+- Ok.
+
+550
+00:49:48,251 --> 00:49:50,549
+Happy?
+- Very happy.
+
+551
+00:49:50,754 --> 00:49:52,517
+It's a deal sir.
+
+552
+00:49:53,123 --> 00:49:54,590
+Jai Ramji ki!
+<i>(Lord Ram be praised)I</i>
+
+553
+00:49:55,425 --> 00:49:56,551
+Jai Ramji ki!
+<i>(Lord Ram be praised)I</i>
+
+554
+00:50:24,121 --> 00:50:25,418
+So this is your caravan!
+
+555
+00:50:25,956 --> 00:50:28,083
+Not mine. It belongs to a
+friend of Rahul's.
+
+556
+00:50:30,127 --> 00:50:32,322
+It's nice! Isn't it Gita?
+
+557
+00:50:34,131 --> 00:50:35,689
+Chikku was right.
+
+558
+00:50:35,966 --> 00:50:38,594
+Really, this car is exactly like a house.
+
+559
+00:50:58,955 --> 00:51:00,149
+There's a kitchen here...
+
+560
+00:51:00,424 --> 00:51:01,584
+a TV...
+
+561
+00:51:02,159 --> 00:51:03,558
+a bathroom...
+
+562
+00:51:05,262 --> 00:51:06,661
+a bed too.
+
+563
+00:51:08,198 --> 00:51:11,759
+Wow! This car is like a house on wheels!
+
+564
+00:51:13,003 --> 00:51:14,027
+Er... yes. Absolutely!
+
+565
+00:51:14,171 --> 00:51:15,365
+It's very comfortable.
+
+566
+00:51:15,806 --> 00:51:17,137
+Now we should be going.
+
+567
+00:51:17,340 --> 00:51:18,932
+We don't want to miss the Panchayat
+<i>( A village body for village governance)</i>
+
+568
+00:51:19,009 --> 00:51:25,312
+Come on. Let's go.
+Come on. Quickly.
+
+569
+00:51:25,749 --> 00:51:27,944
+District Council is deliberating
+upon all the demands...
+
+570
+00:51:28,185 --> 00:51:30,653
+...made in the last
+village panchayat meeting.
+
+571
+00:51:31,021 --> 00:51:33,489
+The decision will be taken soon.
+
+572
+00:51:34,024 --> 00:51:37,983
+Sadanand<i>ji</i>, please tell us when the
+remaining electric wires are being put up?
+
+573
+00:51:38,628 --> 00:51:41,062
+We plan to start
+work as soon as possible.
+
+574
+00:51:41,264 --> 00:51:45,166
+The Gram Panchayat has...
+- Just a moment, Sadanand Bajpei<i>ji.</i>
+
+575
+00:51:45,368 --> 00:51:45,993
+I've never seen a Panchayat before.
+
+576
+00:51:46,203 --> 00:51:48,000
+Whenever you are asked, all you say is
+"We plan to start work".
+
+577
+00:51:48,205 --> 00:51:50,332
+You are the Block Development Officer
+
+578
+00:51:50,540 --> 00:51:58,504
+You are well aware that we have been
+dealing with this problem for a long time
+
+579
+00:51:59,216 --> 00:52:02,617
+75% of the village is constantly plagued
+with electricity failures
+
+580
+00:52:02,886 --> 00:52:05,855
+and the remaining one-fourth
+still lives in darkness.
+
+581
+00:52:06,223 --> 00:52:11,183
+This is like covering your back
+while your front's open.
+
+582
+00:52:11,895 --> 00:52:13,362
+Then, what's the use of
+these electric wires?
+
+583
+00:52:13,563 --> 00:52:17,522
+Dada<i>ji</i>, the Government Surveyor has
+recorded his observations...
+
+584
+00:52:17,734 --> 00:52:19,361
+it is now just a matter of a few days.
+
+585
+00:52:19,569 --> 00:52:20,866
+A few days?
+
+586
+00:52:21,071 --> 00:52:23,539
+In a few days I'll be at Heaven's Door.
+
+587
+00:52:23,740 --> 00:52:25,708
+Then you can come
+light a bulb on my shrine.
+
+588
+00:52:26,243 --> 00:52:30,646
+Dadaji, don't say that,
+may you live a long life!
+
+589
+00:52:31,348 --> 00:52:34,715
+Please don't mind Dadaji, even I have
+a complaint against the village.
+
+590
+00:52:34,918 --> 00:52:38,547
+What?
+- One hears that Dukhi, Santram and...
+
+591
+00:52:39,256 --> 00:52:41,724
+... their boys
+steal electricity from the poles.
+
+592
+00:52:41,925 --> 00:52:45,053
+It's not us. It's Santram who's the culprit.
+
+593
+00:52:45,262 --> 00:52:47,389
+Hold your tongue! When did
+we steal electricity?
+
+594
+00:52:47,764 --> 00:52:50,392
+Now I understand why there was
+no power last evening.
+
+595
+00:52:54,604 --> 00:52:56,071
+Calm down everyone!
+
+596
+00:52:57,107 --> 00:53:02,067
+Sadanandji, this job
+should be done soon.
+
+597
+00:53:02,279 --> 00:53:04,577
+Or else we'll take the matter to
+the higher authorities.
+
+598
+00:53:04,948 --> 00:53:07,075
+Sangam, what is the next case?
+
+599
+00:53:08,718 --> 00:53:11,983
+Case No.35, the school!
+
+600
+00:53:15,458 --> 00:53:16,584
+Yes Gitaji?
+
+601
+00:53:17,961 --> 00:53:21,089
+I wish to continue teaching children
+in the existing premises.
+
+602
+00:53:21,298 --> 00:53:23,095
+The new alternate
+place you are suggesting...
+
+603
+00:53:23,466 --> 00:53:24,933
+... is too small...
+
+604
+00:53:25,135 --> 00:53:28,696
+... and then it's also too far. Children
+won't be able to walk so much everyday.
+
+605
+00:53:28,905 --> 00:53:31,066
+But why do you need such a big
+space for the school?
+
+606
+00:53:31,575 --> 00:53:34,043
+You don't even have enough
+children to fill up the classes
+
+607
+00:53:34,244 --> 00:53:35,939
+More children will come to
+study in the school.
+
+608
+00:53:36,146 --> 00:53:38,273
+That's what you've been saying
+for a year now!
+
+609
+00:53:38,648 --> 00:53:40,878
+She has been trying!
+We've all been trying!
+
+610
+00:53:41,084 --> 00:53:45,384
+Look Dadaji, we need the school
+space for the Panchayat.
+
+611
+00:53:45,655 --> 00:53:47,452
+Then the tehsildars also want to
+establish their office in the school.
+
+612
+00:53:47,557 --> 00:53:50,583
+The village also needs a spare
+room for the granary.
+
+613
+00:53:50,994 --> 00:53:53,792
+It will be the economic
+center of the village.
+
+614
+00:53:54,164 --> 00:53:58,794
+And the place we are offering you
+is good enough for teaching.
+
+615
+00:53:59,569 --> 00:54:00,627
+No, it won't be enough
+
+616
+00:54:01,004 --> 00:54:02,972
+I want to start a few more
+classes in the school.
+
+617
+00:54:03,506 --> 00:54:05,974
+I want to reinstate those children
+
+618
+00:54:06,343 --> 00:54:08,140
+who've left the school
+in the past couple of years.
+
+619
+00:54:09,779 --> 00:54:12,805
+And then there are some villagers who
+are not sending their children to school.
+
+620
+00:54:13,016 --> 00:54:15,814
+Today, I appeal to all of them to
+send their children to school.
+
+621
+00:54:20,690 --> 00:54:21,816
+All right, Gita.
+
+622
+00:54:22,525 --> 00:54:25,323
+If you can manage to enroll more
+children in the next three months
+
+623
+00:54:25,528 --> 00:54:26,825
+then we're ready to reconsider.
+
+624
+00:54:27,697 --> 00:54:29,665
+But if there are no new admissions...
+
+625
+00:54:30,200 --> 00:54:34,500
+then you must agree to move
+from the current premises.
+
+626
+00:54:36,039 --> 00:54:39,668
+This month's Panchayat is adjourned.
+
+627
+00:54:48,551 --> 00:54:51,019
+Come Mohan, let me introduce you
+to the members of the Panch.
+
+628
+00:54:58,728 --> 00:55:01,629
+This is my Mohan.
+He has just come from America.
+
+629
+00:55:01,898 --> 00:55:04,366
+Mohan... this is the head of
+our village, Vishnuduttji.
+
+630
+00:55:04,534 --> 00:55:05,466
+Hello.
+
+631
+00:55:07,737 --> 00:55:10,570
+Namaste! (Greetings)
+- My blessings, son!
+
+632
+00:55:10,740 --> 00:55:11,638
+Munishwarji.
+
+633
+00:55:12,542 --> 00:55:15,375
+God bless you my son.
+
+634
+00:55:15,578 --> 00:55:17,205
+Gungadinji.
+- Namaste.
+
+635
+00:55:17,414 --> 00:55:19,245
+Fatimabi...
+- May you live long my son.
+
+636
+00:55:19,416 --> 00:55:20,041
+... and Narayanji.
+
+637
+00:55:20,250 --> 00:55:21,717
+God bless you son.
+
+638
+00:55:21,918 --> 00:55:23,317
+May Lord Rama protect you.
+
+639
+00:55:24,087 --> 00:55:25,714
+What do you do in America?
+
+640
+00:55:26,823 --> 00:55:30,054
+I work in a company called NASA.
+
+641
+00:55:30,593 --> 00:55:32,458
+So, what does this
+company manufacture?
+
+642
+00:55:33,763 --> 00:55:35,390
+We make satellites.
+
+643
+00:55:37,934 --> 00:55:39,060
+Now what is that?
+
+644
+00:55:39,436 --> 00:55:40,733
+Oh come on, Fatima...
+
+645
+00:55:41,271 --> 00:55:45,002
+... you know those things in the sky.
+
+646
+00:55:45,208 --> 00:55:49,406
+Satellites er... satellites...
+- Let me explain.
+
+647
+00:55:50,947 --> 00:55:53,643
+Satellites are like
+the moon orbiting earth,
+
+648
+00:55:53,950 --> 00:55:56,077
+which help us to know when,
+where and how much it will rain
+
+649
+00:55:56,286 --> 00:55:57,583
+predict the changes in the atmosphere
+
+650
+00:55:57,787 --> 00:55:59,254
+they send us information
+about all these things.
+
+651
+00:55:59,456 --> 00:56:01,424
+That's it!
+- Isn't this what you had told me?
+
+652
+00:56:01,891 --> 00:56:07,420
+Wow Kaveri I'm impressed!
+I had no idea you knew so much...
+
+653
+00:56:07,630 --> 00:56:09,598
+... about these things.
+
+654
+00:56:09,799 --> 00:56:15,431
+All this work that you have described
+is done by our Sahdev out here
+
+655
+00:56:15,638 --> 00:56:17,265
+without rotating himself, believe me!
+
+656
+00:56:17,540 --> 00:56:19,531
+Hey Sahdev, tell us!
+
+657
+00:56:20,977 --> 00:56:22,444
+The sky is clear.
+
+658
+00:56:24,481 --> 00:56:28,110
+There will be no clouds in
+evidence for the next two days.
+
+659
+00:56:28,585 --> 00:56:30,951
+Very good! That's precisely what I do too.
+
+660
+00:56:46,336 --> 00:56:48,702
+Mohan bhaiyya! Look!
+That's the temple!
+
+661
+00:56:50,974 --> 00:56:52,339
+Beautiful!
+
+662
+00:56:54,344 --> 00:56:56,403
+Beautiful! What's this?
+
+663
+00:56:57,347 --> 00:56:58,974
+This is the specialty of our village.
+
+664
+00:56:59,682 --> 00:57:04,483
+These are the footprints of
+Lord Rama and Sita.
+
+665
+00:57:05,021 --> 00:57:05,988
+What?!
+
+666
+00:57:07,357 --> 00:57:10,815
+Ram and Sita's footprints!
+
+667
+00:57:14,697 --> 00:57:17,723
+Charanpur! Ok.
+
+668
+00:57:19,035 --> 00:57:22,937
+That explains the name of the village
+Charanpur. <i>(Charan means feet)</i>
+
+669
+00:57:56,739 --> 00:57:58,263
+How are you?
+- I'm all right.
+
+670
+00:57:58,908 --> 00:58:01,536
+And Kaveriamma? How is she?
+- She's fine.
+
+671
+00:58:02,745 --> 00:58:04,610
+I've been trying your cell phone.
+
+672
+00:58:05,582 --> 00:58:07,880
+There is no network coverage here.
+
+673
+00:58:08,751 --> 00:58:13,620
+Vinod I'm no longer in Delhi.
+I'm in a village called Charanpur.
+
+674
+00:58:14,090 --> 00:58:17,548
+Oh. Anyway now what about
+the GPM instrument concept
+
+675
+00:58:17,760 --> 00:58:19,728
+and risk reduction study
+that needs to be initialized?
+
+676
+00:58:20,263 --> 00:58:21,890
+I'll e-mail you the graphics right away!
+
+677
+00:58:22,098 --> 00:58:24,896
+You do that. But the internet
+connection here is weak.
+
+678
+00:58:25,101 --> 00:58:26,762
+I won't be able to
+download the graphics.
+
+679
+00:58:27,103 --> 00:58:30,300
+Why don't you Fed-Ex the CD to
+Rahul in Delhi? He'll send it to me.
+
+680
+00:58:30,773 --> 00:58:31,740
+Okay.
+
+681
+00:58:32,609 --> 00:58:33,943
+Come fast.
+
+682
+00:58:33,943 --> 00:58:36,571
+One more thing! The week will
+pass by very quickly
+
+683
+00:58:36,679 --> 00:58:38,237
+All right.
+
+684
+00:58:38,448 --> 00:58:40,507
+I am going to be here a
+little longer than I thought.
+
+685
+00:58:40,884 --> 00:58:42,215
+Kaveriamma has
+some pending work here
+
+686
+00:58:42,452 --> 00:58:44,920
+because of which she can't
+leave right away.
+
+687
+00:58:45,788 --> 00:58:46,618
+Ok. That's fine.
+
+688
+00:58:46,789 --> 00:58:48,416
+Can I have a word with John
+regarding this? Is he there?
+
+689
+00:58:48,625 --> 00:58:49,751
+Don't worry about that
+I will take care about that.
+
+690
+00:58:49,959 --> 00:58:52,393
+See you then.
+- Bye.
+
+691
+00:58:52,795 --> 00:58:53,989
+Jai Ramji ki.
+(Lord Ram be praised).
+
+692
+00:58:54,297 --> 00:58:59,667
+Well, well... the village lingo's getting
+a hold on you. Jai Ramji ki! Bye. - Bye.
+
+693
+00:58:59,769 --> 00:59:00,793
+One moment.
+
+694
+00:59:03,139 --> 00:59:06,108
+How much was that?
+518 rupees?
+
+695
+00:59:06,543 --> 00:59:07,635
+Five hundred eighteen rupees sir!
+
+696
+00:59:14,484 --> 00:59:15,883
+One moment sir.
+
+697
+00:59:16,653 --> 00:59:19,087
+Sir, you just mentioned
+the word "internet".
+
+698
+00:59:19,656 --> 00:59:20,816
+I've heard the word "international".
+
+699
+00:59:21,157 --> 00:59:25,685
+but 'lnternet'? What's that?
+I think I've heard it before.
+
+700
+00:59:26,162 --> 00:59:29,825
+Internet... Internet is a medium
+through which we can...
+
+701
+00:59:30,500 --> 00:59:33,560
+... connect and communicate
+with people in any part of the world.
+
+702
+00:59:34,003 --> 00:59:36,699
+No Post-office needed!
+This is called e-mail.
+
+703
+00:59:37,340 --> 00:59:42,710
+E-mail! Really?
+Fantastic!
+
+704
+00:59:43,513 --> 00:59:46,209
+If this e-mail is somehow
+installed in this village
+
+705
+00:59:46,516 --> 00:59:49,383
+I'll be in seventh heaven.
+- How is that?
+
+706
+00:59:49,686 --> 00:59:52,678
+Because then I wouldn't have
+to deliver any letters.
+
+707
+00:59:53,856 --> 00:59:57,053
+I would just sit here and
+email them all.
+
+708
+00:59:57,527 --> 01:00:00,655
+Email is indeed the summum bonum
+
+709
+01:00:00,863 --> 01:00:02,330
+it would break the walls that...
+
+710
+01:00:02,532 --> 01:00:06,400
+... separate home and the world.
+
+711
+01:00:07,971 --> 01:00:10,030
+Thank you sir.
+- Okay.
+
+712
+01:00:28,391 --> 01:00:30,018
+Time to get up!
+
+713
+01:00:30,893 --> 01:00:35,626
+Kaveriamma, don't wake me up!
+Haven't slept like this in years.
+
+714
+01:00:36,566 --> 01:00:38,761
+Get up. We have
+a lot of work to do now.
+
+715
+01:00:39,235 --> 01:00:42,363
+The guests will be here at eleven.
+The house needs to be cleaned.
+
+716
+01:00:43,072 --> 01:00:46,098
+What's going on?
+Who are the guests?
+
+717
+01:00:47,243 --> 01:00:50,770
+A potential groom is coming to
+see Gita with his parents.
+
+718
+01:00:51,581 --> 01:00:52,605
+What?
+
+719
+01:00:52,915 --> 01:00:55,042
+They are from Azamgarh.
+- Gita's marriage?
+
+720
+01:00:55,251 --> 01:00:56,548
+Yes!
+- Yes?
+
+721
+01:00:57,587 --> 01:00:58,713
+Gita's marriage... !
+
+722
+01:00:59,589 --> 01:01:01,216
+I forgot to tell you last night.
+
+723
+01:01:01,758 --> 01:01:05,250
+About two months ago, Vishwasji,
+the boy's father had written to me.
+
+724
+01:01:05,928 --> 01:01:07,657
+Now finally they'll be here today.
+
+725
+01:01:07,930 --> 01:01:09,727
+But what is the need for all this?
+- What do you mean?
+
+726
+01:01:09,932 --> 01:01:14,335
+I mean... I mean what's the rush?
+She's just a child!
+
+727
+01:01:16,606 --> 01:01:20,906
+What a strange thing to say!
+Come on, get ready.
+
+728
+01:01:21,444 --> 01:01:23,935
+Why should I get ready?
+As if they're coming to see me!
+
+729
+01:01:56,312 --> 01:01:58,610
+This is Gita.
+- Namaste!
+
+730
+01:01:59,148 --> 01:02:01,446
+This is Raghunath.
+- Namaste!
+
+731
+01:02:01,651 --> 01:02:02,515
+Please sit.
+
+732
+01:02:06,989 --> 01:02:08,456
+Excuse me; I'll just be back.
+
+733
+01:02:16,165 --> 01:02:19,794
+I've heard... you run a school here.
+- Yes.
+
+734
+01:02:30,346 --> 01:02:32,541
+We have a business in chemicals.
+
+735
+01:02:32,849 --> 01:02:33,975
+Really.
+
+736
+01:03:02,879 --> 01:03:05,143
+The demand that you are making
+is not acceptable to me.
+
+737
+01:03:06,048 --> 01:03:09,506
+Teaching is my profession
+and my passion.
+
+738
+01:03:10,052 --> 01:03:12,111
+And I'd like to continue
+this work even after marriage.
+
+739
+01:03:13,890 --> 01:03:16,256
+A woman's hands are full just
+with the household chores.
+
+740
+01:03:16,726 --> 01:03:20,355
+I disagree! I'd like to take care of the
+house as well as work.
+
+741
+01:03:20,563 --> 01:03:23,862
+Let me tell you, that we would not like the
+women of our household to work outside
+
+742
+01:03:24,400 --> 01:03:28,029
+Besides I fail to see why you would
+want to keep working after marriage?
+
+743
+01:03:28,738 --> 01:03:30,797
+What if I say the same to your son?
+
+744
+01:03:32,742 --> 01:03:35,609
+My parents too have brought me up
+with equal love and affection...
+
+745
+01:03:36,245 --> 01:03:37,803
+they expect me to live my life with
+
+746
+01:03:38,414 --> 01:03:41,941
+self-esteem,
+independence and self-reliance.
+
+747
+01:03:42,752 --> 01:03:47,883
+If your son has a desire to be something
+in life, to make a mark in society
+
+748
+01:03:48,424 --> 01:03:50,051
+then why can't women
+have the same desire?
+
+749
+01:03:51,093 --> 01:03:53,960
+Be it in any field women are
+making their mark equally.
+
+750
+01:03:56,432 --> 01:03:58,627
+There's more to a woman than
+just wearing bangles.
+
+751
+01:03:59,769 --> 01:04:02,067
+And after marriage, aren't the house
+and the children as much...
+
+752
+01:04:02,438 --> 01:04:04,406
+... a responsibility of the man
+as the woman?
+
+753
+01:04:05,441 --> 01:04:08,069
+Why can't the husband and wife
+work as a team?
+
+754
+01:04:09,445 --> 01:04:11,310
+Why should one of them sacrifice
+more than the other?
+
+755
+01:04:15,451 --> 01:04:18,648
+I don't accept the demand of not
+being allowed to work after marriage.
+
+756
+01:04:20,456 --> 01:04:23,516
+You mean... are you rejecting
+this proposal?
+
+757
+01:04:24,126 --> 01:04:25,320
+I have nothing else to say...
+
+758
+01:04:40,810 --> 01:04:44,803
+This is how the new generation thinks.
+
+759
+01:04:46,148 --> 01:04:50,346
+We should not carry this
+matter any further!
+
+760
+01:04:52,154 --> 01:04:54,782
+I'm sorry Shardaji, Vishwasji.
+
+761
+01:04:55,825 --> 01:04:57,122
+It's all right.
+
+762
+01:05:44,874 --> 01:05:48,275
+I'm upset with what happened today.
+- But I felt I was right.
+
+763
+01:05:49,045 --> 01:05:52,344
+I don't think you should have
+expressed your views in this way.
+
+764
+01:05:52,548 --> 01:05:53,742
+Whatever it is, this is
+against my principles.
+
+765
+01:05:54,216 --> 01:05:56,343
+Kaveriamma, Gita is right.
+
+766
+01:05:57,219 --> 01:05:58,618
+But Mohan, he was a nice boy.
+
+767
+01:05:58,888 --> 01:06:02,346
+You can change people's views
+about life over a period of time.
+
+768
+01:06:02,558 --> 01:06:06,961
+Well, you do have a point there.
+- No, I couldn't have changed him.
+
+769
+01:06:08,898 --> 01:06:13,767
+Habits can be altered over time but
+narrow opinions and beliefs cannot be.
+
+770
+01:06:14,070 --> 01:06:15,867
+I'm absolutely sure
+
+771
+01:06:16,072 --> 01:06:18,040
+that their next demand would
+be the dowry amount.
+
+772
+01:06:18,240 --> 01:06:22,540
+Quite possible. I completely
+agree with you.
+
+773
+01:06:23,245 --> 01:06:29,115
+This thinking is imbedded in our culture
+& tradition and it hampers the nation.
+
+774
+01:06:29,352 --> 01:06:30,319
+Excuse me.
+
+775
+01:06:30,586 --> 01:06:34,886
+Without culture and tradition the
+country would be left with no soul.
+
+776
+01:06:35,925 --> 01:06:38,792
+But Mohan, we are not talking
+about the country.
+
+777
+01:06:39,595 --> 01:06:42,792
+I know Kaveriamma,
+but it's all connected, isn't it?
+
+778
+01:06:43,933 --> 01:06:46,902
+What is this soul you talk off Gita?
+We are plagued with problems.
+
+779
+01:06:47,603 --> 01:06:49,798
+Will you disagree, when I say that
+illiteracy is rampant?
+
+780
+01:06:50,606 --> 01:06:53,006
+That we have administrative problems!
+
+781
+01:06:53,442 --> 01:06:55,239
+We are yet under-developed.
+
+782
+01:06:55,945 --> 01:06:59,904
+That's true! Illiteracy and
+poverty are hand in glove!
+
+783
+01:07:00,282 --> 01:07:03,581
+Kaveriamma, your village has
+not even got electricity yet.
+
+784
+01:07:04,286 --> 01:07:08,746
+Caste discrimination, overpopulation,
+unemployment and corruption...
+
+785
+01:07:09,291 --> 01:07:12,749
+... our state of affairs is pathetic.
+Pass me the salt.
+
+786
+01:07:13,462 --> 01:07:16,431
+You have drifted from our topic. But since
+you've brought this up, let me tell you...
+
+787
+01:07:16,632 --> 01:07:18,930
+... the Government is trying to find
+solutions for these problems.
+
+788
+01:07:19,135 --> 01:07:21,603
+Yes! Yes! We'll see how much good
+their solutions will bring.
+
+789
+01:07:21,804 --> 01:07:24,432
+The infrastructure that the Government
+has is not enough to cope with even...
+
+790
+01:07:24,640 --> 01:07:26,164
+... 1/4th of the existing population,
+
+791
+01:07:26,976 --> 01:07:29,171
+The Government has always failed
+in satisfying the peoples' needs.
+
+792
+01:07:29,979 --> 01:07:32,447
+The Government is making policies,
+making efforts.
+
+793
+01:07:32,648 --> 01:07:34,115
+What do you mean by 'efforts'?
+
+794
+01:07:34,316 --> 01:07:38,116
+Just to make resolutions and
+collect funds for them
+
+795
+01:07:38,320 --> 01:07:39,753
+is that where the
+Government's work ends?
+
+796
+01:07:40,322 --> 01:07:43,450
+Whether this money even reaches
+the grassroot level...
+
+797
+01:07:44,326 --> 01:07:47,056
+... whether the common man benefits
+or not from their resolutions...
+
+798
+01:07:47,496 --> 01:07:48,793
+... are they not responsible
+for that as well?
+
+799
+01:07:49,165 --> 01:07:50,598
+Yes they are.
+- Then...
+
+800
+01:07:50,833 --> 01:07:52,391
+But what do you think the
+Government is, after all?
+
+801
+01:07:52,668 --> 01:07:55,865
+The Government is a system, of
+which the public is also a part.
+
+802
+01:07:56,338 --> 01:07:59,671
+You, me, this village... all of us!
+
+803
+01:08:00,009 --> 01:08:01,806
+Now if the system is lacking
+in certain things, then...
+
+804
+01:08:02,011 --> 01:08:05,538
+... to rectify its weaknesses
+is our responsibility as well.
+
+805
+01:08:05,848 --> 01:08:09,807
+God helps only those
+who help themselves.
+
+806
+01:08:10,019 --> 01:08:12,988
+Yes Kaveriamma, but things
+are not going to change here.
+
+807
+01:08:13,689 --> 01:08:15,486
+Because no one wants to change!
+
+808
+01:08:16,525 --> 01:08:20,222
+It's easy for you to criticize.
+But are you doing anything about it? No!
+
+809
+01:08:20,362 --> 01:08:20,953
+Excuse me.
+
+810
+01:08:21,030 --> 01:08:23,555
+At least, I am not defending
+the government like you.
+
+811
+01:08:24,200 --> 01:08:28,500
+I'm building satellites to help
+technology advance.
+
+812
+01:08:28,704 --> 01:08:30,001
+For everyone mankind!
+
+813
+01:08:30,539 --> 01:08:32,006
+Some more curry?
+- No!
+
+814
+01:08:34,376 --> 01:08:35,843
+But you are doing it all there.
+
+815
+01:08:36,045 --> 01:08:38,172
+I'm doing all that I can here,
+at the village grass root level.
+
+816
+01:08:38,380 --> 01:08:40,348
+I'm trying to make this a better place!
+
+817
+01:08:41,050 --> 01:08:43,041
+Gita... you too are a typical Indian!
+
+818
+01:08:43,719 --> 01:08:45,584
+You Indians can't take criticism.
+
+819
+01:08:46,055 --> 01:08:47,420
+You Indians?
+
+820
+01:08:49,391 --> 01:08:51,916
+Sorry, I mean... we Indians... !
+
+821
+01:08:53,729 --> 01:08:56,197
+Anyway, we are aware that not much has
+changed in our country in a long time.
+
+822
+01:08:56,565 --> 01:08:58,863
+But I still want to try
+and make a difference.
+
+823
+01:09:00,569 --> 01:09:01,866
+You have given up all hope.
+
+824
+01:09:02,071 --> 01:09:03,197
+No I haven't..
+
+825
+01:09:03,739 --> 01:09:05,764
+Yes you have!
+- No I haven't!!
+
+826
+01:09:07,743 --> 01:09:08,869
+She's really a fighter, isn't she?
+
+827
+01:09:09,245 --> 01:09:10,872
+You're no less yourself!
+
+828
+01:09:12,081 --> 01:09:14,379
+Now what is to become of this girl?
+He was such a nice boy.
+
+829
+01:09:14,750 --> 01:09:16,377
+There are other boys...
+- I know
+
+830
+01:09:17,753 --> 01:09:19,721
+But it is not easy to please Gita.
+
+831
+01:09:21,090 --> 01:09:23,388
+She has too many expectations.
+
+832
+01:09:24,093 --> 01:09:25,720
+To top all this, there is the school case.
+
+833
+01:09:26,095 --> 01:09:29,462
+And until both these problems are solved
+you won't be able to leave with me.
+
+834
+01:09:30,432 --> 01:09:32,627
+I have a plan...
+let's split up the work.
+
+835
+01:09:33,269 --> 01:09:34,566
+I'm the boy... I mean...
+
+836
+01:09:34,770 --> 01:09:37,102
+... you find a boy and
+I will find children for the school.
+
+837
+01:09:37,773 --> 01:09:39,798
+We'll round off all of
+Gita's problems.
+
+838
+01:09:41,610 --> 01:09:42,736
+What did you say?
+
+839
+01:09:43,879 --> 01:09:45,437
+Nothing. Nothing at all!
+
+840
+01:09:49,118 --> 01:09:50,642
+Hail the Lord of Strength!
+
+841
+01:09:51,620 --> 01:09:53,588
+This is the first lesson in wrestling.
+
+842
+01:09:53,789 --> 01:09:54,983
+Remember it.
+
+843
+01:09:58,460 --> 01:10:00,087
+There's no letter for you Mohan babu.
+
+844
+01:10:00,462 --> 01:10:02,987
+You're a wrestler as well?
+
+845
+01:10:03,299 --> 01:10:05,267
+I have been wrestling
+since I was a child
+
+846
+01:10:05,801 --> 01:10:09,737
+and it's my favourite hobby.
+- Very good.
+
+847
+01:10:13,809 --> 01:10:15,606
+Just out of curiosity, till what
+grade have you studied?
+
+848
+01:10:15,811 --> 01:10:18,939
+I mean, you must have worked
+very hard to gain this post.
+
+849
+01:10:19,148 --> 01:10:20,115
+I am a graduate!
+
+850
+01:10:20,983 --> 01:10:23,008
+How fortunate you are!
+- Fortunate... yes!
+
+851
+01:10:23,319 --> 01:10:24,616
+But I've also studied very
+hard to attain this post.
+
+852
+01:10:24,920 --> 01:10:26,114
+I'm sure you studied hard
+
+853
+01:10:26,322 --> 01:10:30,019
+but at least you had the
+opportunity to go to High School.
+
+854
+01:10:31,160 --> 01:10:33,458
+I feel very sorry for the
+village children.
+
+855
+01:10:34,663 --> 01:10:36,153
+Why is that?
+- I'll explain.
+
+856
+01:10:37,166 --> 01:10:41,034
+What are your views on the school case?
+
+857
+01:10:41,837 --> 01:10:43,464
+The school case? It's very simple.
+
+858
+01:10:43,672 --> 01:10:46,505
+The school must move from here.
+That space is needed for the Panchayat.
+
+859
+01:10:46,842 --> 01:10:49,367
+That is why I feel bad for
+the children of the village.
+
+860
+01:10:49,845 --> 01:10:53,303
+Look... the Panchayat is not allowing for
+a High School to be started here
+
+861
+01:10:53,682 --> 01:10:57,049
+and what good is it going to be for
+children to have studied till 4th Std?
+
+862
+01:10:57,519 --> 01:11:01,979
+If they want to succeed in life like you
+then they must go to High School.
+
+863
+01:11:02,524 --> 01:11:03,991
+True... !
+
+864
+01:11:05,527 --> 01:11:06,551
+Look!
+
+865
+01:11:07,529 --> 01:11:11,158
+It's here the high school will stand.
+The children will study here.
+
+866
+01:11:11,867 --> 01:11:16,736
+Then they can start writing letters
+for their parents themselves.
+
+867
+01:11:17,206 --> 01:11:20,334
+Think about the work it will save you.
+
+868
+01:11:22,044 --> 01:11:23,511
+I think the school
+should not shift from here.
+
+869
+01:11:24,380 --> 01:11:26,348
+I will talk to people in the village.
+
+870
+01:11:26,548 --> 01:11:28,345
+You must!
+- Definitely
+
+871
+01:11:30,552 --> 01:11:32,850
+Praise the Lord of Might.
+- Praise the Lord of Might.
+
+872
+01:11:34,056 --> 01:11:35,080
+Mohanbabu...
+
+873
+01:11:35,224 --> 01:11:36,191
+Yes?
+
+874
+01:11:40,229 --> 01:11:42,288
+Why don't you drop by our
+wrestling ring sometime?
+
+875
+01:11:42,564 --> 01:11:44,088
+Sure, why not?
+
+876
+01:11:45,734 --> 01:11:47,497
+How about a wrestling session?
+
+877
+01:11:50,072 --> 01:11:50,766
+Sure!
+
+878
+01:11:57,413 --> 01:11:58,971
+Mohan babu,
+I have a surprise for you...
+
+879
+01:11:59,581 --> 01:12:01,879
+Here... have some pakodas with
+shimla mirch tandoori.
+
+880
+01:12:02,084 --> 01:12:04,052
+I've made it specially for you.
+
+881
+01:12:04,586 --> 01:12:08,454
+Is this all that you can make?
+- No sir, I can cook whatever you desire.
+
+882
+01:12:08,924 --> 01:12:11,222
+Got it. Listen Mela Ram...
+
+883
+01:12:11,427 --> 01:12:12,587
+Please don't say a word.
+
+884
+01:12:12,928 --> 01:12:15,055
+I know what you have on your mind.
+- What?
+
+885
+01:12:15,597 --> 01:12:17,997
+Actually I was thinking...
+you must have felt bad.
+
+886
+01:12:18,600 --> 01:12:20,067
+I'll give you 60%.
+
+887
+01:12:20,936 --> 01:12:23,063
+I'll give you 60% in partnership.
+
+888
+01:12:23,305 --> 01:12:24,397
+Okay.
+
+889
+01:12:24,606 --> 01:12:27,666
+Your lunch and dinner
+will be on the house!
+
+890
+01:12:27,943 --> 01:12:29,535
+I have changed the name of our dhaba.
+
+891
+01:12:30,446 --> 01:12:34,280
+We can call it Mohan's Mela Ram Dhaba
+
+892
+01:12:34,616 --> 01:12:36,675
+or Mela Ram's Mohan Dhaba.
+
+893
+01:12:37,286 --> 01:12:38,583
+You decide. Then we'll lock it.
+
+894
+01:12:38,787 --> 01:12:41,415
+The first one sounds ok.
+Mohan's Mela Ram Dhaba.
+
+895
+01:12:42,291 --> 01:12:45,021
+Ok then sir... so deal done, sir?
+
+896
+01:12:45,961 --> 01:12:48,088
+But before that,
+you'll have to help me.
+
+897
+01:12:48,297 --> 01:12:50,765
+Help? How?
+- I wish to send the kids from...
+
+898
+01:12:50,966 --> 01:12:53,491
+... your community to the school
+for which I need your help.
+
+899
+01:12:54,136 --> 01:12:55,228
+Understood.
+
+900
+01:12:56,305 --> 01:12:58,603
+But it's little difficult sir.
+
+901
+01:12:59,808 --> 01:13:01,366
+Well, then your going to America
+
+902
+01:13:01,744 --> 01:13:03,473
+also looks little 'difficult' to me.
+
+903
+01:13:03,645 --> 01:13:04,509
+It is easy sir.
+
+904
+01:13:04,813 --> 01:13:06,940
+I'm ready. Just tell me what I need to do.
+
+905
+01:13:07,649 --> 01:13:11,517
+Our children and their kids in
+the same school? Never!
+
+906
+01:13:11,987 --> 01:13:15,787
+Lions and sheep never drink water
+from the same pond, Mohanbabu.
+
+907
+01:13:22,498 --> 01:13:23,123
+So...
+
+908
+01:13:25,000 --> 01:13:25,864
+... what is your background?
+
+909
+01:13:28,504 --> 01:13:29,368
+I mean...
+
+910
+01:13:30,506 --> 01:13:32,030
+... what caste are you?
+
+911
+01:13:33,442 --> 01:13:35,205
+I'm a Brahmin!
+
+912
+01:13:37,012 --> 01:13:39,207
+Then learn to behave like one.
+
+913
+01:13:40,349 --> 01:13:41,577
+So what am I expected to do?
+
+914
+01:13:41,850 --> 01:13:45,081
+We've heard that you eat food,
+cooked by Mela Ram.
+
+915
+01:13:46,188 --> 01:13:48,088
+Are you aware what his caste is?
+
+916
+01:13:49,191 --> 01:13:52,752
+But what difference does that make?
+What age are you folks living in?
+
+917
+01:13:53,362 --> 01:13:55,557
+Don't you dare degrade our piety!
+
+918
+01:13:56,031 --> 01:13:58,431
+You've fallen, are you out to
+drag us down too?
+
+919
+01:13:59,034 --> 01:14:03,835
+And you Nivaaranji, seems like
+you've switched sides already!
+
+920
+01:14:04,706 --> 01:14:07,004
+I am only doing what I think is right.
+
+921
+01:14:07,709 --> 01:14:10,234
+If you have any objections
+you don't have to accept this.
+
+922
+01:14:25,561 --> 01:14:29,258
+Hey Birsa. Mohanbabu wants to
+have a word with you.
+
+923
+01:14:30,899 --> 01:14:33,527
+What has happened sir?
+Have we done anything wrong?
+
+924
+01:14:33,735 --> 01:14:36,795
+No, not at all.
+I just came to ask...
+
+925
+01:14:37,406 --> 01:14:39,374
+... if you would you like to send
+your children to school?
+
+926
+01:14:42,077 --> 01:14:45,945
+Huzoor, the villagers that do not
+allow us to work in the village...
+
+927
+01:14:46,748 --> 01:14:49,080
+... do you think they will agree
+to educate our children?
+
+928
+01:14:50,919 --> 01:14:54,616
+Don't worry.
+Your kids will go to school.
+
+929
+01:14:55,257 --> 01:14:59,717
+Also, of what use is studying, now that
+they are in their marriageable age?
+
+930
+01:15:00,262 --> 01:15:03,425
+My daughter Lajwa is going
+to be engaged.
+
+931
+01:15:05,434 --> 01:15:08,232
+Child marriage!
+
+932
+01:15:10,105 --> 01:15:13,734
+Can you not see our situation?
+We barely manage to fill our stomachs.
+
+933
+01:15:14,443 --> 01:15:16,172
+Who is going to pay their school fees?
+
+934
+01:15:17,446 --> 01:15:19,880
+Gitaji doesn't run the school for money.
+
+935
+01:15:20,616 --> 01:15:24,347
+Teaching is her passion... her life!
+
+936
+01:15:25,454 --> 01:15:27,251
+If we speak with her
+
+937
+01:15:27,456 --> 01:15:29,481
+we can assure you that
+she will help you.
+
+938
+01:15:29,791 --> 01:15:32,919
+The village folks don't
+want to see us around.
+
+939
+01:15:33,128 --> 01:15:34,322
+Just listen to me...
+
+940
+01:15:35,631 --> 01:15:36,825
+Let it be saheb.
+
+941
+01:15:38,133 --> 01:15:41,261
+Education is not in their destiny.
+
+942
+01:15:43,138 --> 01:15:44,662
+Not in my children's destiny.
+
+943
+01:15:50,979 --> 01:15:52,276
+What have you decided Vishnoji?
+
+944
+01:15:52,481 --> 01:15:54,210
+Studies are not going to
+fill an empty stomach!
+
+945
+01:15:54,483 --> 01:15:56,451
+Since pottery will be
+their livelihood
+
+946
+01:15:56,652 --> 01:15:58,415
+then why waste time studying?
+
+947
+01:15:59,154 --> 01:16:01,213
+Have you made these?
+They are beautiful.
+
+948
+01:16:01,990 --> 01:16:04,618
+Tell me. How much do
+you sell this pot for?
+
+949
+01:16:04,826 --> 01:16:06,794
+Thirty rupees.
+- What!
+
+950
+01:16:07,162 --> 01:16:08,959
+We have a contractor in the city,
+who buys it from us.
+
+951
+01:16:09,164 --> 01:16:11,462
+Sometimes we even get an extra
+five-ten rupees.
+
+952
+01:16:11,667 --> 01:16:14,192
+We won't sell it for less than thirty!
+
+953
+01:16:14,670 --> 01:16:16,797
+The price of this pot in the city
+is 100 rupees or more.
+
+954
+01:16:17,005 --> 01:16:20,839
+Maybe if you people were educated
+you wouldn't be fooled like this.
+
+955
+01:16:22,010 --> 01:16:24,570
+I know that this art has been
+passed down through generations.
+
+956
+01:16:25,013 --> 01:16:28,244
+I agree that your kids should
+carry on this tradition.
+
+957
+01:16:29,184 --> 01:16:31,311
+But in this day and age, it is
+crucial for them to be educated.
+
+958
+01:16:31,520 --> 01:16:32,919
+Is it not Nivaaranji?
+- Absolutely.
+
+959
+01:16:33,689 --> 01:16:37,250
+Because education will help them take
+this art to its deserving end...
+
+960
+01:16:37,859 --> 01:16:40,259
+... and earn appropriate prices.
+
+961
+01:16:40,696 --> 01:16:44,826
+You are selling us a dream!
+Don't show us these dreams.
+
+962
+01:16:57,879 --> 01:16:59,005
+Namaste Sarpanchji.
+
+963
+01:16:59,881 --> 01:17:02,509
+Welcome Nivaaranji.
+Welcome Mohanji.
+
+964
+01:17:02,684 --> 01:17:04,345
+Mohanbabu wanted to discuss...
+
+965
+01:17:04,553 --> 01:17:06,180
+I know, I know. Let me tell you...
+
+966
+01:17:07,055 --> 01:17:10,081
+Both my grandsons are
+enrolled in the school.
+
+967
+01:17:10,559 --> 01:17:13,426
+We have great respect for
+education in this house.
+
+968
+01:17:14,563 --> 01:17:17,031
+But I have heard that you have
+two grand daughters as well
+
+969
+01:17:17,232 --> 01:17:19,700
+and both of them have dropped out?
+
+970
+01:17:19,901 --> 01:17:22,028
+Oh yes, Kusum and Suman...
+
+971
+01:17:22,904 --> 01:17:24,929
+They have both studied
+till the fourth grade.
+
+972
+01:17:25,407 --> 01:17:27,637
+Now how much more can they study?
+
+973
+01:17:28,243 --> 01:17:29,767
+It's time for them
+to learn household work
+
+974
+01:17:30,245 --> 01:17:31,974
+cooking and such things.
+
+975
+01:17:32,247 --> 01:17:34,647
+After all, this is what will help
+them once they get married.
+
+976
+01:17:35,083 --> 01:17:36,516
+How can you say such things?
+
+977
+01:17:37,252 --> 01:17:39,311
+Education instills confidence in girls.
+
+978
+01:17:40,088 --> 01:17:41,715
+Don't you want to see
+them study and live their lives
+
+979
+01:17:41,923 --> 01:17:47,293
+with self-respect... independence and...
+self-reliance?
+
+980
+01:17:48,096 --> 01:17:50,121
+There's more to a woman
+than just wearing bangles.
+
+981
+01:17:50,766 --> 01:17:52,996
+Agreed Mohanji!
+
+982
+01:17:53,935 --> 01:17:56,403
+But Charanpur does not even
+have a High School
+
+983
+01:17:56,772 --> 01:17:58,330
+for these girls to study in.
+
+984
+01:17:59,274 --> 01:18:01,333
+But Mizwa village does.
+You could have sent them there.
+
+985
+01:18:01,943 --> 01:18:03,240
+But now you don't need to
+worry about that
+
+986
+01:18:03,945 --> 01:18:06,914
+because Gitaji is planning to open
+a High School in Charanpur.
+
+987
+01:18:07,949 --> 01:18:09,439
+If she has your support that is.
+
+988
+01:18:15,290 --> 01:18:16,552
+Do support us.
+
+989
+01:18:26,535 --> 01:18:28,366
+No Mohanbabu!
+Not possible.
+
+990
+01:18:28,637 --> 01:18:31,435
+But how long are you going to control the
+children's lives on the basis of caste?
+
+991
+01:18:31,640 --> 01:18:35,440
+Who are you to tell us what
+we should be doing?
+
+992
+01:18:36,311 --> 01:18:39,109
+How much do you know about the
+ways and problems of this village?
+
+993
+01:18:39,981 --> 01:18:41,608
+I accept that you were
+born in this country
+
+994
+01:18:41,817 --> 01:18:44,786
+but that doesn't mean you can
+go around giving sermons.
+
+995
+01:18:45,987 --> 01:18:49,946
+We understand perfectly what we need
+to do for the progress of our village.
+
+996
+01:18:50,325 --> 01:18:52,623
+But the only ones who stand to
+lose are the children.
+
+997
+01:18:52,828 --> 01:18:54,625
+Enough of this! I don't want
+to argue with you.
+
+998
+01:18:54,830 --> 01:18:55,922
+Father.
+
+999
+01:18:56,331 --> 01:19:00,199
+For heaven's sake, stay out
+of the village matters.
+
+1000
+01:19:01,002 --> 01:19:04,130
+Mohanbabu, you are just a visitor here
+
+1001
+01:19:04,339 --> 01:19:07,137
+roam around, enjoy the village...
+why get into all this?
+
+1002
+01:19:07,576 --> 01:19:10,977
+Attention!
+A movie is to be screened in Charanpur.
+
+1003
+01:19:11,179 --> 01:19:14,671
+Tonight the Panchayat has organized
+a movie screening in the village.
+
+1004
+01:19:15,183 --> 01:19:18,812
+You must come and watch...
+you'll enjoy!
+
+1005
+01:19:30,766 --> 01:19:34,395
+Get down.
+
+1006
+01:19:44,312 --> 01:19:46,576
+Ok sir, we'll meet later.
+
+1007
+01:19:47,449 --> 01:19:48,814
+Why? Won't you see the movie?
+
+1008
+01:19:49,017 --> 01:19:51,451
+I'll be sitting this side and
+watching the movie
+
+1009
+01:19:51,553 --> 01:19:52,520
+Okay.
+
+1010
+01:20:07,569 --> 01:20:08,934
+By the way, which film
+are they showing?
+
+1011
+01:20:09,237 --> 01:20:11,671
+Yaadon ki Baaraat! (Union of Memories)
+- Who's union?
+
+1012
+01:20:11,873 --> 01:20:15,934
+Union of Memories!
+- Oh, I heard... our union!
+
+1013
+01:20:17,345 --> 01:20:18,209
+Shut up
+
+1014
+01:20:18,480 --> 01:20:21,938
+Just kidding! It's one
+of my favorite films.
+
+1015
+01:20:22,184 --> 01:20:24,277
+Please turn off your lanterns
+the film is about to begin.
+
+1016
+01:20:26,855 --> 01:20:29,221
+Dear lords, kind patrons
+and art-lovers!
+
+1017
+01:20:29,524 --> 01:20:31,219
+Here's an important announcement:
+
+1018
+01:20:31,526 --> 01:20:35,963
+Mothers must keep a vigilant eye upon
+children during the screening.
+
+1019
+01:20:36,798 --> 01:20:39,790
+And please don't disturb your neighbour.
+
+1020
+01:20:39,968 --> 01:20:45,065
+So, presenting the separation
+and union of three brothers.
+
+1021
+01:20:45,674 --> 01:20:49,075
+Todays' movie is...
+Yaadon ki Baaraat.
+
+1022
+01:21:27,048 --> 01:21:30,506
+Sing us the song which you
+always sing on your birthday
+
+1023
+01:23:03,578 --> 01:23:04,636
+What happened?
+
+1024
+01:23:05,547 --> 01:23:08,277
+What happened to the movie?
+
+1025
+01:23:08,550 --> 01:23:10,017
+Not a power failure again!
+
+1026
+01:23:11,152 --> 01:23:12,244
+Chikku, it's just temporary.
+
+1027
+01:23:12,454 --> 01:23:13,944
+No, it won't come back.
+I know it won't.
+
+1028
+01:23:14,155 --> 01:23:15,952
+How much time will this take?
+
+1029
+01:23:16,157 --> 01:23:18,751
+It will take twenty minutes
+to start the generator.
+
+1030
+01:23:22,163 --> 01:23:23,391
+Hurry up.
+
+1031
+01:23:30,171 --> 01:23:31,763
+Don't cry now children!
+
+1032
+01:23:32,007 --> 01:23:33,474
+Everyone quiet!
+
+1033
+01:23:33,842 --> 01:23:34,706
+Sit down.
+
+1034
+01:23:34,909 --> 01:23:37,537
+All the children on the
+other side, quiet! Don't cry.
+
+1035
+01:23:37,912 --> 01:23:38,970
+Now, listen to me carefully.
+
+1036
+01:23:40,181 --> 01:23:44,811
+Everybody, now look up at the sky
+and tell me what you see.
+
+1037
+01:23:49,357 --> 01:23:50,824
+The stars!
+
+1038
+01:23:53,161 --> 01:23:58,292
+Now tell me... can you see the stars
+forming a plough?
+
+1039
+01:24:01,636 --> 01:24:02,830
+Plough?
+
+1040
+01:24:04,706 --> 01:24:07,368
+Yes, plough.
+Do you see it?
+
+1041
+01:24:11,212 --> 01:24:13,339
+No.
+- I'll help you.
+
+1042
+01:24:15,450 --> 01:24:16,280
+Look...
+
+1043
+01:24:16,684 --> 01:24:19,812
+... can you see that brightest star
+in the sky?
+
+1044
+01:24:20,755 --> 01:24:22,655
+Can you see it?
+-Yes.
+
+1045
+01:24:23,191 --> 01:24:26,627
+Along that star on the right
+are three stars in a line.
+
+1046
+01:24:27,395 --> 01:24:28,191
+Yes.
+
+1047
+01:24:30,799 --> 01:24:32,528
+Can you see them?
+- Yes.
+
+1048
+01:24:34,702 --> 01:24:39,036
+Now below the third star,
+five stars form a curve to the left.
+
+1049
+01:24:45,847 --> 01:24:48,714
+Can you see them?
+- Yes.
+
+1050
+01:24:49,017 --> 01:24:52,282
+Now look at them as one.
+
+1051
+01:24:57,058 --> 01:25:00,550
+Look closely. You will see
+the plough taking shape.
+
+1052
+01:25:20,148 --> 01:25:21,479
+I can see it!
+
+1053
+01:25:21,749 --> 01:25:23,114
+Yes, plough.
+
+1054
+01:25:27,889 --> 01:25:29,254
+So what we must understand is...
+
+1055
+01:25:29,958 --> 01:25:33,587
+... if we want, these stars
+
+1056
+01:25:33,695 --> 01:25:36,163
+... we can make anything out of them.
+
+1057
+01:25:37,699 --> 01:25:42,159
+But if we look at each star,
+Though it looks beautiful,
+
+1058
+01:25:44,472 --> 01:25:47,066
+... it is only a
+shimmering lone star.
+
+1059
+01:26:22,744 --> 01:26:25,975
+This star, the one yonder
+and every little star
+
+1060
+01:26:26,281 --> 01:26:29,444
+This star, the one yonder
+and every little star
+
+1061
+01:26:29,851 --> 01:26:33,048
+Fancy, the one who would
+love from afar
+
+1062
+01:26:33,288 --> 01:26:36,485
+This star, the one yonder
+and every little star
+
+1063
+01:26:36,691 --> 01:26:39,990
+Shouldst these but
+together shimmer
+
+1064
+01:26:40,195 --> 01:26:43,562
+Entire firmament is filled
+with glimmer
+
+1065
+01:26:43,798 --> 01:26:47,165
+Shouldst these but
+together shimmer
+
+1066
+01:26:47,368 --> 01:26:50,895
+Entire firmament is filled
+with glimmer
+
+1067
+01:26:51,105 --> 01:26:52,868
+Twinkling stars,
+a couple o' stars
+
+1068
+01:26:53,074 --> 01:26:55,406
+a handful, a hundred stars
+Shimmering luminaries
+
+1069
+01:26:55,610 --> 01:26:59,774
+every star's a fiery spark!
+
+1070
+01:27:31,779 --> 01:27:35,112
+Thou hast seen the rainbow
+
+1071
+01:27:35,350 --> 01:27:38,717
+Pray, how many art the hues?
+
+1072
+01:27:38,920 --> 01:27:42,219
+Seven colours so to speak
+
+1073
+01:27:42,423 --> 01:27:45,756
+Yet how many shades its company keep?
+
+1074
+01:27:45,994 --> 01:27:49,327
+Know this to begin,
+if the colours wert alone
+
+1075
+01:27:49,564 --> 01:27:52,863
+How couldst a rainbow be full blown?
+
+1076
+01:27:53,101 --> 01:27:56,559
+If we wert not to join hands,
+to fight cause unjust
+
+1077
+01:27:56,771 --> 01:27:59,467
+There wouldst be no public, nor trust
+
+1078
+01:27:59,674 --> 01:28:03,075
+Know thus and protest not,
+that the weak hath lost
+
+1079
+01:28:03,278 --> 01:28:07,044
+Hmmm... the star, star
+
+1080
+01:28:07,248 --> 01:28:10,411
+This star, the one yonder
+and every little star
+
+1081
+01:28:10,785 --> 01:28:13,982
+This star, the one yonder
+and every little star
+
+1082
+01:28:14,455 --> 01:28:17,515
+This star, the one yonder
+and every little star
+
+1083
+01:28:17,959 --> 01:28:20,928
+Fancy, the one who would
+love from afar
+
+1084
+01:28:21,195 --> 01:28:24,596
+Shouldst these but
+together shimmer
+
+1085
+01:28:24,799 --> 01:28:28,428
+Entire firmament is filled
+with glimmer
+
+1086
+01:28:28,636 --> 01:28:30,297
+Twinkling stars,
+a couple o' stars
+
+1087
+01:28:30,505 --> 01:28:32,996
+a handful, a hundred stars
+Shimmering luminaries
+
+1088
+01:28:33,207 --> 01:28:36,335
+every star's a fiery spark!
+
+1089
+01:29:16,384 --> 01:29:19,820
+Of drops well-gathered
+
+1090
+01:29:20,021 --> 01:29:23,388
+Doth a river swell
+
+1091
+01:29:23,591 --> 01:29:26,788
+Ocean too is of drops assembled
+
+1092
+01:29:27,028 --> 01:29:30,395
+But for the drops, it is but a naught
+
+1093
+01:29:30,598 --> 01:29:33,999
+Grasp this riddle;
+for if drop wert all alone
+
+1094
+01:29:34,202 --> 01:29:37,433
+It would be quite nothing.
+
+1095
+01:29:37,638 --> 01:29:41,074
+Wert we to leave others;
+desert one and all,
+
+1096
+01:29:41,275 --> 01:29:44,244
+Lonely our lot is, to appall.
+
+1097
+01:29:44,445 --> 01:29:48,040
+Why not unite then in a single current?
+
+1098
+01:29:48,249 --> 01:29:51,582
+Hmmm... the star, star
+
+1099
+01:29:51,786 --> 01:29:55,017
+This star, the one yonder
+and every little star
+
+1100
+01:29:55,390 --> 01:29:58,587
+This star, the one yonder
+and every little star
+
+1101
+01:29:59,060 --> 01:30:02,154
+Fancy, the one who would
+love from afar
+
+1102
+01:30:02,463 --> 01:30:05,557
+This star, the one yonder
+and every little star
+
+1103
+01:30:05,767 --> 01:30:09,203
+Shouldst these but
+together shimmer
+
+1104
+01:30:09,404 --> 01:30:13,033
+Entire firmament is filled
+with glimmer
+
+1105
+01:30:13,241 --> 01:30:14,833
+Twinkling stars,
+a couple o' stars
+
+1106
+01:30:15,042 --> 01:30:17,567
+a handful, a hundred stars
+Shimmering luminaries
+
+1107
+01:30:17,779 --> 01:30:20,873
+every star's a fiery spark!
+
+1108
+01:30:50,344 --> 01:30:57,250
+Peasant who wieldeth a plough,
+of earth reapeth gold
+
+1109
+01:30:57,452 --> 01:31:04,449
+Cowherd tending cows,
+of milk a river flows
+
+1110
+01:31:08,062 --> 01:31:14,934
+Blacksmith that mouldeth iron,
+every tool fashioneth
+
+1111
+01:31:15,303 --> 01:31:21,970
+Mud that a potter holdeth,
+turneth into pitcher
+
+1112
+01:31:22,176 --> 01:31:25,543
+All these art the fonts of labour
+And of desire to work a wish
+
+1113
+01:31:25,780 --> 01:31:29,238
+None inimical with any
+All art united in common dream
+
+1114
+01:31:29,584 --> 01:31:35,784
+Harken! Everyone's but a kin
+None an outsider to pin
+
+1115
+01:31:36,057 --> 01:31:39,458
+This simple truth, regard thou,
+my friend!
+
+1116
+01:31:39,660 --> 01:31:43,221
+Hmmm... the star, star
+
+1117
+01:31:43,431 --> 01:31:46,491
+This star, the one yonder
+and every little star
+
+1118
+01:31:47,268 --> 01:31:50,066
+This star, the one yonder
+and every little star
+
+1119
+01:31:50,671 --> 01:31:53,640
+Fancy, the one who would
+love from afar
+
+1120
+01:31:54,175 --> 01:31:57,303
+This star, the one yonder
+and every little star
+
+1121
+01:31:57,512 --> 01:32:00,811
+Shouldst these but
+together shimmer
+
+1122
+01:32:01,015 --> 01:32:04,644
+Entire firmament is filled
+with glimmer
+
+1123
+01:32:04,852 --> 01:32:06,479
+Twinkling stars,
+a couple o' stars
+
+1124
+01:32:06,721 --> 01:32:09,349
+a handful, a hundred stars
+Shimmering luminaries
+
+1125
+01:32:09,557 --> 01:32:13,152
+every star's a fiery spark!

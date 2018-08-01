@@ -1,0 +1,43 @@
+{
+    "title": "Shrek Forever After",
+    "year": 2010,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance"
+    ],
+    "runtime": [
+        "93"
+    ],
+    "rating": 6.3,
+    "plot": [
+        "The once hideous ogre Shrek is now living a good life with wife Fiona and his three children. But he soon has a meltdown in front of them and his friends during his kids' birthday party. He suddenly wants to be a real ogre like he was before he ever met Fiona. So he turns to devious deal maker Rumplestiltskin for help. At first, Shrek lives the life he once lost and everything is good. But he soon finds out that he has been set up by Rumplestiltskin, who now rules the land with an iron fist. Teaming with friends Donkey, Fiona and Puss in Boots, Shrek is in for the fight of his life as he tries to get his life back before time runs out.::Blazer346",
+        "Bored with his routine life as a middle-aged family father, and missing the days when he was a feared ogre, Shrek makes a deal with the rogue Rumpelstiltskin that ends up terribly wrong and threatens to change the lives of those he loves forever, and even his own existence.::MadMovieManiac",
+        "Bored of being a family man and celebrity among the villagers, Shrek makes a deal with the sneaky Rumplestiltskin to relieve his days of being feared and reviled. He is then transported to an alternate reality where he was never born, he never met Fiona and Rumpel rules the land. Shrek is soon in a race against time to restore his world before he vanishes for good.::Tom Daly",
+        "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away -- where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met -- he sets out to restore his world and reclaim his true love.::IMDb Editors",
+        "Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpel rules supreme.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.7524343464148716,
+        "linguistic_difficulty_percentage": 0.07376807317792859,
+        "words_per_minute": 72,
+        "common_words": {
+            "shrek": 65,
+            "ogre": 62,
+            "know": 59,
+            "fiona": 53,
+            "get": 51,
+            "day": 46,
+            "go": 38,
+            "donkey": 35,
+            "like": 30,
+            "love": 28
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "runtime": [
+        "189"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "When Raj (Shahrukh Khan) and Simran (Kajol) first met on an inter-rail holiday in Europe, it wasn't exactly Love at first sight but when Simran is taken back to India for an arranged marriage, things change. Encouraged by his father Dharamvir (Anupam Kher), Raj decides to fly down from London to not just win his Bride but her whole family and the blessings of her father Baldev Singh (Amrish Puri).::Official Source",
+        "Of Indian-origin Chaudhry Baldev Singh is settled in London, England with his family consisting of his wife Lajwanti 'Lajjo' and 2 daughters Rajeshwari alias 'Chukti', his eldest daughter being Simran. When Simran was much younger Baldev had set her marriage with his childhood friend's son Ajit back in India; but when Simran goes on a trip to Europe she meets with Raj Malhotra and both fall in love. When she confides to her dad he is enraged about this and immediately takes Simran to India - where she must undergo preparations for her marriage to Ajit.::gavin (racktoo@hotmail.com)",
+        "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiance. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+        "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.::Official Source"
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "English",
+            "Punjabi"
+        ],
+        "adult_language_percentage": 0.6693803708729082,
+        "linguistic_difficulty_percentage": 0.08141112618724558,
+        "words_per_minute": 58,
+        "common_words": {
+            "l": 526,
+            "one": 78,
+            "love": 76,
+            "come": 73,
+            "simran": 66,
+            "know": 65,
+            "raj": 62,
+            "go": 55,
+            "like": 53,
+            "away": 51
+        }
+    }
+}

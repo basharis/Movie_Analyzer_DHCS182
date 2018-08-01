@@ -1,0 +1,38 @@
+{
+    "title": "American Psycho",
+    "year": 2000,
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "Patrick Bateman is handsome, well educated and intelligent. He is twenty-seven and living his own American dream. He works by day on Wall Street, earning a fortune to complement the one he was born with. At night he descends into madness, as he experiments with fear and violence.::Lion Films",
+        "A wealthy New York investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.::Sean Christopher"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish",
+            "Cantonese"
+        ],
+        "adult_language_percentage": 1.793945434159711,
+        "linguistic_difficulty_percentage": 0.07474772642332128,
+        "words_per_minute": 78,
+        "common_words": {
+            "know": 54,
+            "patrick": 51,
+            "think": 45,
+            "really": 41,
+            "paul": 40,
+            "get": 40,
+            "oh": 39,
+            "wa": 34,
+            "uh": 34,
+            "allen": 32
+        }
+    }
+}

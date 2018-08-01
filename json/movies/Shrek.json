@@ -1,0 +1,43 @@
+{
+    "title": "Shrek",
+    "year": 2001,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "90"
+    ],
+    "rating": 7.9,
+    "plot": [
+        "When a green ogre named Shrek discovers his swamp has been 'swamped' with all sorts of fairytale creatures by the scheming Lord Farquaad, Shrek sets out with a very loud donkey by his side to 'persuade' Farquaad to give Shrek his swamp back. Instead, a deal is made. Farquaad, who wants to become the King, sends Shrek to rescue Princess Fiona, who is awaiting her true love in a tower guarded by a fire-breathing dragon. But once they head back with Fiona, it starts to become apparent that not only does Shrek, an ugly ogre, begin to fall in love with the lovely princess, but Fiona is also hiding a huge secret.::Film_Fan",
+        "Shrek, an ogre who lives in a swamp and loves taking mud baths but now his beloved swamp is taken away by the all powerful Lord Farquad. Lord Farquad is in love with a princess named Fiona who has a dirty little secret and the only way for Shrek to get his swamp back is to rescue Fiona, along with the talking mule, Donkey, and return her to Lord Farquad. After Shrek rescues Fiona, he starts to fall in love with her. Will he return Fiona, will he keep her, or will he get his swamp back?",
+        "Once upon a time, in a far away swamp, there lived an ogre named Shrek whose precious solitude is suddenly shattered by an invasion of annoying fairy tale characters. They were all banished from their kingdom by the evil Lord Farquaad. Determined to save their home -- not to mention his -- Shrek cuts a deal with Farquaad and sets out to rescue Princess Fiona to be Farquaad's bride. Rescuing the Princess may be small compared to her deep, dark secret.::Jwelch5742",
+        "Shrek is a big ogre who lives alone in the woods, feared by all the people in the land of Duloc. When Lord Farquaad, the ruler of Duloc, exiles all the fairy-tale beings to the woods, Shrek loses his peaceful life and his home becomes a refugee camp. So he sets out to find Lord Farquaad and convince him to take the fairy-tale beings back where they belong, and leave him alone. Lord Farquaad accepts, under one condition. Shrek must first go and find the beautiful young princess Fiona, who will become Farquaad's bride. So the big Ogre begins his quest, along with his newfound donkey friend...::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "In a faraway land called Duloc, a heartless ruler, the diminutive Lord Farquaad, has banished all the fairy tale beings from the land so it can be as boring as he is. But there are three characters who will stand in his way. The first is a green, smelly ogre with a heart of gold named Shrek, his faithful steed, Donkey, who will do anything but shut up, and the beautiful but tough Princess Fiona whom Lord Farquaad wishes to make his wife so he can become king of Duloc. What's to do in a screwy fairy tale like this?::Will",
+        "After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.::ReptilePatrol"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.8835426868213753,
+        "linguistic_difficulty_percentage": 0.03193527783691718,
+        "words_per_minute": 104,
+        "common_words": {
+            "oh": 109,
+            "shrek": 68,
+            "know": 67,
+            "like": 64,
+            "right": 62,
+            "get": 60,
+            "princess": 50,
+            "go": 47,
+            "look": 46,
+            "love": 45
+        }
+    }
+}

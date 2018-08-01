@@ -1,0 +1,36 @@
+{
+    "title": "Rocky III",
+    "year": 1982,
+    "genres": [
+        "Drama",
+        "Sport"
+    ],
+    "runtime": [
+        "99"
+    ],
+    "rating": 6.8,
+    "plot": [
+        "Three years and 10 successful title defenses after beating Apollo Creed, with whom he has become great friends, a now wealthy Rocky Balboa is considering retirement. Fame and complacency soon cause Balboa to lose his title to Clubber Lang, who inadvertently causes the death of Rocky's trainer Mickey. Rocky sinks into a depression, and Apollo decides to train Rocky for a rematch against Lang so Rocky can try to win the title back.::Todd Baldridge",
+        "After winning the ultimate title and being the world champion, Rocky falls into a hole and finds himself picked up by a former enemy.::Naz Al-Nassar"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.225633154259401,
+        "linguistic_difficulty_percentage": 0.02192742023900888,
+        "words_per_minute": 92,
+        "common_words": {
+            "come": 108,
+            "get": 100,
+            "rocky": 60,
+            "right": 59,
+            "fight": 59,
+            "go": 54,
+            "man": 50,
+            "gonna": 50,
+            "balboa": 49,
+            "got": 46
+        }
+    }
+}

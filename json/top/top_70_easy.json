@@ -1,0 +1,352 @@
+[
+    {
+        "rank": 1,
+        "title": "City Lights",
+        "score": 0.0
+    },
+    {
+        "rank": 2,
+        "title": "For a Few Dollars More",
+        "score": 0.0
+    },
+    {
+        "rank": 3,
+        "title": "Frasier",
+        "score": 0.0
+    },
+    {
+        "rank": 4,
+        "title": "In the Heat of the Night",
+        "score": 0.0
+    },
+    {
+        "rank": 5,
+        "title": "In the Mood for Love",
+        "score": 0.0
+    },
+    {
+        "rank": 6,
+        "title": "Ladri di biciclette",
+        "score": 0.0
+    },
+    {
+        "rank": 7,
+        "title": "Modern Times",
+        "score": 0.0
+    },
+    {
+        "rank": 8,
+        "title": "Monster's Ball",
+        "score": 0.0
+    },
+    {
+        "rank": 9,
+        "title": "Mulholland Dr.",
+        "score": 0.0
+    },
+    {
+        "rank": 10,
+        "title": "My Neighbor Totoro",
+        "score": 0.0
+    },
+    {
+        "rank": 11,
+        "title": "Once Upon a Time in America",
+        "score": 0.0
+    },
+    {
+        "rank": 12,
+        "title": "Paris, Texas",
+        "score": 0.0
+    },
+    {
+        "rank": 13,
+        "title": "Raging Bull",
+        "score": 0.0
+    },
+    {
+        "rank": 14,
+        "title": "Requiem for a Dream",
+        "score": 0.0
+    },
+    {
+        "rank": 15,
+        "title": "Sherlock Jr.",
+        "score": 0.0
+    },
+    {
+        "rank": 16,
+        "title": "Sling Blade",
+        "score": 0.0
+    },
+    {
+        "rank": 17,
+        "title": "Slumdog Millionaire",
+        "score": 0.0
+    },
+    {
+        "rank": 18,
+        "title": "Spring, Summer, Fall, Winter... and Spring",
+        "score": 0.0
+    },
+    {
+        "rank": 19,
+        "title": "Taare Zameen Par",
+        "score": 0.0
+    },
+    {
+        "rank": 20,
+        "title": "Tangerines",
+        "score": 0.0
+    },
+    {
+        "rank": 21,
+        "title": "The Color of Money",
+        "score": 0.0
+    },
+    {
+        "rank": 22,
+        "title": "The Grapes of Wrath",
+        "score": 0.0
+    },
+    {
+        "rank": 23,
+        "title": "The Iron Giant",
+        "score": 0.0
+    },
+    {
+        "rank": 24,
+        "title": "The Return",
+        "score": 0.0
+    },
+    {
+        "rank": 25,
+        "title": "The Revenant",
+        "score": 0.0
+    },
+    {
+        "rank": 26,
+        "title": "War for the Planet of the Apes",
+        "score": 0.0
+    },
+    {
+        "rank": 27,
+        "title": "Rio Bravo",
+        "score": 7e-05
+    },
+    {
+        "rank": 28,
+        "title": "Scarface",
+        "score": 7.7e-05
+    },
+    {
+        "rank": 29,
+        "title": "Dog Day Afternoon",
+        "score": 9.2e-05
+    },
+    {
+        "rank": 30,
+        "title": "Sex and the City",
+        "score": 9.3e-05
+    },
+    {
+        "rank": 31,
+        "title": "Inside Out",
+        "score": 0.000101
+    },
+    {
+        "rank": 32,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "score": 0.000102
+    },
+    {
+        "rank": 33,
+        "title": "Hotel Rwanda",
+        "score": 0.000104
+    },
+    {
+        "rank": 34,
+        "title": "The Graduate",
+        "score": 0.000109
+    },
+    {
+        "rank": 35,
+        "title": "Treti Muz",
+        "score": 0.00011
+    },
+    {
+        "rank": 36,
+        "title": "Jaws",
+        "score": 0.000113
+    },
+    {
+        "rank": 37,
+        "title": "Full Metal Jacket",
+        "score": 0.000114
+    },
+    {
+        "rank": 38,
+        "title": "Monsters, Inc.",
+        "score": 0.000114
+    },
+    {
+        "rank": 39,
+        "title": "Dallas Buyers Club",
+        "score": 0.000115
+    },
+    {
+        "rank": 40,
+        "title": "Coco",
+        "score": 0.000118
+    },
+    {
+        "rank": 41,
+        "title": "Phir Hera Pheri",
+        "score": 0.000121
+    },
+    {
+        "rank": 42,
+        "title": "Cool Hand Luke",
+        "score": 0.000126
+    },
+    {
+        "rank": 43,
+        "title": "Goodfellas",
+        "score": 0.000126
+    },
+    {
+        "rank": 44,
+        "title": "Darbareye Elly",
+        "score": 0.000128
+    },
+    {
+        "rank": 45,
+        "title": "Unforgiven",
+        "score": 0.000128
+    },
+    {
+        "rank": 46,
+        "title": "The Last Picture Show",
+        "score": 0.000129
+    },
+    {
+        "rank": 47,
+        "title": "Tokyo Story",
+        "score": 0.000133
+    },
+    {
+        "rank": 48,
+        "title": "Room",
+        "score": 0.000135
+    },
+    {
+        "rank": 49,
+        "title": "Superbad",
+        "score": 0.00014
+    },
+    {
+        "rank": 50,
+        "title": "Dial M for Murder",
+        "score": 0.000153
+    },
+    {
+        "rank": 51,
+        "title": "The Wages of Fear",
+        "score": 0.000156
+    },
+    {
+        "rank": 52,
+        "title": "High Noon",
+        "score": 0.00016
+    },
+    {
+        "rank": 53,
+        "title": "Lage Raho Munna Bhai",
+        "score": 0.00016
+    },
+    {
+        "rank": 54,
+        "title": "Magnolia",
+        "score": 0.000161
+    },
+    {
+        "rank": 55,
+        "title": "Whiplash",
+        "score": 0.00017
+    },
+    {
+        "rank": 56,
+        "title": "The Sixth Sense",
+        "score": 0.000184
+    },
+    {
+        "rank": 57,
+        "title": "Forrest Gump",
+        "score": 0.000204
+    },
+    {
+        "rank": 58,
+        "title": "Finding Nemo",
+        "score": 0.000205
+    },
+    {
+        "rank": 59,
+        "title": "Catch Me If You Can",
+        "score": 0.000206
+    },
+    {
+        "rank": 60,
+        "title": "Pan's Labyrinth",
+        "score": 0.000209
+    },
+    {
+        "rank": 61,
+        "title": "Touch of Evil",
+        "score": 0.000218
+    },
+    {
+        "rank": 62,
+        "title": "Rocky III",
+        "score": 0.000219
+    },
+    {
+        "rank": 63,
+        "title": "The Thing",
+        "score": 0.000223
+    },
+    {
+        "rank": 64,
+        "title": "Arsenic and Old Lace",
+        "score": 0.000224
+    },
+    {
+        "rank": 65,
+        "title": "To Kill a Mockingbird",
+        "score": 0.000226
+    },
+    {
+        "rank": 66,
+        "title": "Warrior",
+        "score": 0.00023
+    },
+    {
+        "rank": 67,
+        "title": "Song of the Sea",
+        "score": 0.000231
+    },
+    {
+        "rank": 68,
+        "title": "The Hidden Fortress",
+        "score": 0.000231
+    },
+    {
+        "rank": 69,
+        "title": "The Straight Story",
+        "score": 0.000232
+    },
+    {
+        "rank": 70,
+        "title": "Chungking Express",
+        "score": 0.000232
+    }
+]

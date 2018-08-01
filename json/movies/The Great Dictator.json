@@ -1,0 +1,39 @@
+{
+    "title": "The Great Dictator",
+    "year": 1940,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "125"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "20 years after the end of WWI, in which the nation of Tomainia was on the losing side, Adenoid Hynkel has risen to power as the ruthless dictator of the country. He believes in a pure Aryan state and the decimation of the Jews. This situation is unknown to a simple Jewish Tomainian barber who has been hospitalized since a WWI battle. Upon his release the barber, who had been suffering from memory loss about the war, is shown the new persecuted life of the Jews by many living in the Jewish ghetto, including a washerwoman named Hannah with whom he begins a relationship. The barber is ultimately spared such persecution by Commander Schultz, whom he saved in that WWI battle. The lives of all Jews in Tomainia are eventually spared with a policy shift by Hynkel himself, who is doing so for ulterior motives. But those motives include a desire for world domination, starting with the invasion of neighboring Osterlich, which may be threatened by Benzino Napaloni, the dictator of neighboring Bacteria. Ultimately Schultz, who has turned traitor against Hynkel's regime, and the barber may be able to join forces to take control of the situation, using Schultz's inside knowledge of the regime's workings and the barber's uncanny resemblance to one of those in power.::Huggo",
+        "During the last days of the First World War, a clumsy soldier saves the life of devoted military pilot Schultz. Unfortunately, their flight from the advancing enemy ends in a severe crash with the clumsy soldier losing his memory. After many years in the hospital, the amnesia patient gets released and reopens his old barber shop in the Jewish ghetto. But times have changed in the country of Tomania: Dictator Adenoid Hynkel, who accidentally looks very similar to the barber, has imposed his merciless grip on the country, and Jewish people are discriminated against. One day the barber gets in trouble and is brought before a commanding officer, who turns out to be his old comrade Schultz. The ghetto enjoys protection from then on. Meanwhile, Dictator Hynkel develops big plans: he wants to become Dictator of the whole world and needs a scapegoat for the public. Soon Schultz is being arrested for being too Jewish-friendly, and all Jews except those who managed to flee are transported into Concentration Camps. Hynkel is planning to march into Osterlich to show off against Napaloni, Dictator of Bacteria, who has already deployed his troops along the small country's other border. Meanwhile, Schultz and the barber manage to escape, disguised in military uniforms. Luckily, Schultz and the barber are picked up by Tomanian forces and the barber is mixed up with Hynkel himself. The small barber now gets the once-in-a-lifetime chance to speak to the people of Osterlich and all of Tomania, who listen eagerly on the radio.::Julian Reischl <julianreischl@mac.com>",
+        "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Esperanto"
+        ],
+        "adult_language_percentage": 1.0044313146233381,
+        "linguistic_difficulty_percentage": 0.11816838995568685,
+        "words_per_minute": 81,
+        "common_words": {
+            "come": 65,
+            "yes": 60,
+            "get": 59,
+            "oh": 55,
+            "good": 44,
+            "right": 39,
+            "well": 39,
+            "u": 39,
+            "go": 38,
+            "excellency": 37
+        }
+    }
+}

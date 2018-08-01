@@ -1,0 +1,42 @@
+{
+    "title": "The Third Man",
+    "year": 1949,
+    "genres": [
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "104"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has led to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime.::Mark Thompson <mrt@oasis.icl.co.uk>",
+        "Pulp novelist Holly Martins, portrayed by Joseph Cotten, has traveled to Vienna because his friend, Harry Lime, portrayed by Orson Welles, has offered him a job. However, upon his arrival, Martins is told that Lime died in an accident. Driven to investigate Lime's death, Martins soon discovers incredible dark secrets about Lime's life and death.::trivwhiz",
+        "In the post Second World War, the unemployed pulp fiction writer Holly Martins arrives in Vienna to meet with his old friend from school, Harry Lime, who has offered him a job. On the arrival, he learns that Harry has just died, hit by a truck in front of his building, and he goes to his funeral. Holly Martins sees a beautiful woman, Anna Schmidt, and a friend of Harry and sooner he learns that Anna was Harry's lover. Maj. Calloway, who is commanding the investigation, offers the ticket to Holly return home, but while waiting for the trip, he talks to two friends of Harry that tell that they had been the firsts to help his friend. However, the porter of Harry's building tells that there was a mysterious third man that helped Harry and Holly Martins becomes intrigued with the inconsistency and decides to investigate further. Sooner he discloses that Harry Lime was the leader of a gang that robbed penicillin from the military hospital to adulterate and resell it, and has caused the death and anomalies in many children. He continues to investigate and he has a great surprise when he finds who the third man is.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "An American pulp writer arrives in post-WWII Vienna only to find that the friend who waited for him is killed under mysterious circumstances. The ensuing mystery entangles him in his friend's involvement in the black market, with the multinational police, and with his Czech girlfriend.::Keith Loh <loh@sfu.ca>",
+        "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "adult_language_percentage": 1.2018965707354725,
+        "linguistic_difficulty_percentage": 0.011026574043444702,
+        "words_per_minute": 87,
+        "common_words": {
+            "wa": 97,
+            "harry": 69,
+            "know": 60,
+            "like": 53,
+            "oh": 53,
+            "martins": 53,
+            "well": 51,
+            "mr": 50,
+            "uh": 45,
+            "yes": 43
+        }
+    }
+}

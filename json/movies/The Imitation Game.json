@@ -1,0 +1,44 @@
+{
+    "title": "The Imitation Game",
+    "year": 2014,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+    ],
+    "runtime": [
+        "114"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.::Studio Canal",
+        "Three specific time periods in the life of Cambridge University Mathematics professor Alan Turing are presented. The first is the span of WWII, at the beginning of which he, an expert of puzzle solving, is hired by the British government to work on a team, whose secret project is to break what is largely seen as the unbreakable secret code behind the Nazis' communications machine, named Enigma, which if they can would give the Allies an advantage and possibly even end the war. The problem is that Enigma is recoded every day, so that even if the team can decipher a coded message transmitted by the Nazis, that code would be obsolete by the next day. There are 159,000,000,000,000,000,000 possible codes that could be input into Enigma. A largely arrogant, antisocial, solitary and literal minded man, Alan is the bane of the team's existence, especially that of his superior, Commander Denniston, and Hugh Alexander, who is hired as the team's initial leader. While Hugh and the rest of the team work on breaking the day-to-day codes, believing that being the only way to learn the secret of Enigma, Alan works by himself on developing a machine, one somewhat with artificial intelligence, which he believes is what is required not just to break a daily code, but break any code immediately when it is input into Enigma. One problem Alan has is convincing Denniston to fund the machine to the tune of \u00a3100,000. The tone of the team slowly changes with the inclusion of Joan Clarke, the only female. Joan not only adds another brilliant mind to the team, but also provides Alan with a sense of how to behave socially to get things accomplished in a team setting. Joan's participation in the project is threatened by traditional values, not by chauvinistic thoughts from her male team members, but that of her parents, who see her place in the world as someone's wife. The second is 1928, when Alan is a youth attending boarding school. Even then, he is seen as being different and is bullied because of it. His only real friend at the school is Christopher Morcom, \"Christopher\" which is what he would end up naming his machine, more than just because Christopher Morcom was his friend. The third is 1951, after Alan's Manchester home is reported broken into by his neighbor. Because nothing was stolen, Alan is quick to dismiss the police. But lead investigator, Detective Robert Nock, believes Alan is hiding something in dismissing them so quickly. What the police discover has far reaching consequences for Alan's life, but not without Nock wanting first to know what is hidden beneath the information on the surface.::Huggo",
+        "During the World War II, the mathematician Alan Turing joins a team of code-breakers at top-secret facility at Bletchley Park to try to decipher the code of the German enigma machine. Turing is a homosexual genius and during two years, he and his team successfully develop another machine to decipher the enigma.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Out in the world, one who is compelled to create is considered abnormal. Society is hard on the non-conformist. A creator may solve impossible puzzles with his brain or write symphony; he turns nothing into something. Success in his endeavor may result in the masses of society clustering at the median to call him \"genius.\" But, beware: this means they can neither understand the achievement nor hope to equal the mind who made it. The same masses who eagerly accept his gifts with the one hand will turn around and push him into a snake pit with the other. Such is the cautionary tale of Alan Mathison Turing, master of the puzzle and father of the modern computer.::LA-Lawyer",
+        "In 1939, newly created British intelligence agency MI6 recruits Cambridge mathematics alumnus Alan Turing to crack Nazi codes, including Enigma -- which cryptanalysts had thought unbreakable. Turing's team, including Joan Clarke, analyze Enigma messages while he builds a machine to decipher them. Turing and team finally succeed and become heroes, but in 1952, the quiet genius encounters disgrace when authorities reveal he is gay and send him to prison.::Jwelch5742",
+        "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.::huskybeagle2001"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German"
+        ],
+        "adult_language_percentage": 1.687360713148679,
+        "linguistic_difficulty_percentage": 0.07428632070465882,
+        "words_per_minute": 82,
+        "common_words": {
+            "alan": 58,
+            "well": 57,
+            "one": 51,
+            "know": 50,
+            "think": 45,
+            "oh": 41,
+            "like": 38,
+            "turing": 38,
+            "right": 37,
+            "machine": 35
+        }
+    }
+}

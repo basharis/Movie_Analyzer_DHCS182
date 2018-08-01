@@ -1,0 +1,40 @@
+{
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "genres": [
+        "Biography",
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "runtime": [
+        "180"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Jordan Belfort is a Long Island penny stockbroker who served 22 months in prison for defrauding investors in a massive 1990s securities scam that involved widespread corruption on Wall Street and in the corporate banking world, including shoe designer Steve Madden.::anonymous",
+        "In the early 1990s, Jordan Belfort teamed with his partner Donny Azoff and started brokerage firm Stratford-Oakmont. Their company quickly grows from a staff of 20 to a staff of more than 250 and their status in the trading community and Wall Street grows exponentially. So much that companies file their initial public offerings through them. As their status grows, so do the amount of substances they abuse, and so do their lies. They draw attention like no other, throwing lavish parties for their staff when they hit the jackpot on high trades. That ultimately leads to Belfort featured on the cover of Forbes Magazine, being called \"The Wolf Of Wall St.\". With the FBI onto Belfort's trading schemes, he devises new ways to cover his tracks and watch his fortune grow. Belfort ultimately comes up with a scheme to stash their cash in a European bank. But with the FBI watching him like a hawk, how long will Belfort and Azoff be able to maintain their elaborate wealth and luxurious lifestyles?::halo1k",
+        "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.::mystic80"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 4.451897454745934,
+        "linguistic_difficulty_percentage": 0.050537535605990995,
+        "words_per_minute": 120,
+        "common_words": {
+            "fucking": 219,
+            "know": 188,
+            "get": 166,
+            "like": 143,
+            "fuck": 142,
+            "right": 125,
+            "wa": 120,
+            "yeah": 112,
+            "jordan": 107,
+            "got": 106
+        }
+    }
+}

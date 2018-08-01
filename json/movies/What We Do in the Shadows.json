@@ -1,0 +1,39 @@
+{
+    "title": "What We Do in the Shadows",
+    "year": 2014,
+    "genres": [
+        "Comedy",
+        "Horror"
+    ],
+    "runtime": [
+        "86"
+    ],
+    "rating": 7.6,
+    "plot": [
+        "Follow the lives of Viago (Taika Waititi), Deacon (Jonathan Brugh), and Vladislav (Jemaine Clement) - three flatmates who are just trying to get by and overcome life's obstacles-like being immortal vampires who must feast on human blood. Hundreds of years old, the vampires are finding that beyond sunlight catastrophes, hitting the main artery, and not being able to get a sense of their wardrobe without a reflection-modern society has them struggling with the mundane like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts.::Production",
+        "Prowling the streets of Wellington in New Zealand, four nocturnal flatmates, Vladislav, the Lord Byron wannabe, Viago, the frilly dandy, Deacon, the rebellious youngster and Petyr, the ancient blood-sucking fiend invite a documentary crew to record their daily lives. However, as if struggling to fit in the modern world isn't enough, when the pack turns the human Nick into a fresh vampire, the chemistry within the group will be disturbed with unforeseen consequences. Who said being a creature of the night is easy?::Nick Riganas",
+        "Viago, Deacon, and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Spanish"
+        ],
+        "adult_language_percentage": 2.1443572454957445,
+        "linguistic_difficulty_percentage": 0.02210677572676025,
+        "words_per_minute": 105,
+        "common_words": {
+            "yeah": 81,
+            "vampire": 80,
+            "wa": 80,
+            "like": 78,
+            "stu": 70,
+            "okay": 64,
+            "know": 53,
+            "guy": 51,
+            "look": 44,
+            "go": 42
+        }
+    }
+}

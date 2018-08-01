@@ -1,0 +1,42 @@
+{
+    "title": "Up",
+    "year": 2009,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "runtime": [
+        "96"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Carl Fredricksen as a boy wanted to explore South America and find the forbidden Paradise Falls. About 64 years later he gets to begin his journey along with a Boy Scout named Russel by lifting his house with thousands of balloons. On their journey they make many new friends including a talking dog and figure out that someone has evil plans. Carl soon realizes that this evildoer is his childhood idol. Will they be able to defeat him and find Paradise Falls?",
+        "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Carl's worst nightmare comes true when he discovers a little boy named Russell is a stowaway aboard the balloon-powered house.::Jwelch5742",
+        "Determined to save his home and keep the promise he made to his wife, widower Carl Fredricksen embarks on a journey to the mysterious Paradise Falls in an airship of his own invention. Along the way he meets his childhood hero, forms a bond with a boy who has an absent father, and realizes the preciousness of the life he lived as well as the one he now finds himself living.::David J. Rizzo",
+        "After the death of his wife and an incident at home, an old man, Carl Fredericksen, is forced into a retirement home. However, he still wants to go on the adventure to South America he and his wife planned. Ultimately, the adventure involves a flying house, a young boy, a talking dog and a strange, large bird.::grantss",
+        "Carl Fredricksen is a little boy and a dreamer who idolizes the adventurer Charles Muntz. When he meets Ellie, who also worships Muntz, they become close friends. However Charles Muntz falls into disgrace, accused of forging the skeleton of the monster of Paradise Falls. He travels in his blimp to South America to bring the monster back alive but is never seen again. Eventually Carl grows up and marries Ellie. They promise each other that they would travel together to Paradise Falls and build a house there. Many years later, Ellie dies and Carl, who's lonely, refuses to move from their house despite the offers of the owner of a construction company. When Carl accidentally hits a worker that damaged his mailbox, he is sentenced to move to a retirement home. However, he uses many balloons to float his house in order to travel to Paradise Falls. Adventure ensues.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.::Anonymous Man"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.799827064418504,
+        "linguistic_difficulty_percentage": 0.043233895373973194,
+        "words_per_minute": 48,
+        "common_words": {
+            "get": 52,
+            "bird": 34,
+            "go": 32,
+            "kevin": 29,
+            "fredricksen": 26,
+            "take": 22,
+            "know": 22,
+            "one": 22,
+            "like": 21,
+            "want": 21
+        }
+    }
+}

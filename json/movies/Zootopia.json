@@ -1,0 +1,44 @@
+{
+    "title": "Zootopia",
+    "year": 2016,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+    ],
+    "runtime": [
+        "108"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde, a wily fox who makes her job even harder.::Jwelch5742",
+        "From the biggest elephant to the tiniest shrew, the city of Zootopia is a beautiful metropolis where all animals live peacefully with one another. Determined to prove her worth, Judy Hopps becomes the first official bunny cop on the police force. When 14 predator animals go missing, Judy immediately takes the case. Partnering with a smooth talking fox named Nick Wilde, Judy must piece together all the clues as to where the predators are and who is behind it all.::Blazer346",
+        "Being the first one is never easy, especially for Judy Hopps, the first bunny cop. When strange things happen in the city, Judy decides that she will try to solve the case, but she only has 48 hours to do so. To help her, she partners with a con artist fox named Nick Wilde, even though he makes the job harder.::Aken Purnomo",
+        "In a world where animals have no intention of eating each other, a little bunny named Judy Hopps who grew up on a farm leaves her family to pursue her dreams of being the first bunny cop in Zootopia. While there, she runs into a con artist fox named Nick Wilde, and they have to work together after an incident threatens Zootopia.",
+        "Judy Hopps has had the dream of being the first bunny police officer since she was a kid, and when she moved to Zooptopia- a city where animals live in harmony- that dream becomes a reality. But when she teams up with a mysterious, sly fox, a Zootopia wide scandal reveals that maybe not ALL animals live in harmony.",
+        "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.253538212697129,
+        "linguistic_difficulty_percentage": 0.0606550748079256,
+        "words_per_minute": 91,
+        "common_words": {
+            "wa": 62,
+            "know": 54,
+            "right": 48,
+            "gonna": 39,
+            "try": 37,
+            "hopps": 37,
+            "bunny": 36,
+            "go": 36,
+            "officer": 34,
+            "one": 34
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Amores Perros",
+    "year": 2000,
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "154"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "On the brink of the new Millennium in the bustling City of Mexico, one horrible car accident intertwines inextricably the lives of three perfect strangers. Octavio, a rebellious adolescent who is secretly in love with his sister-in-law, dreams of escaping his miserable life, and for this reason, he enters reluctantly the obscure world of dog fighting with his lethal dog Cofi. And then unexpectedly, Valeria, a stunning woman and famous supermodel, will cross paths with Octavio, while in the meantime, her pampered little dog Richie manages to vanish into thin air in the confined space of her apartment. Lastly, Chivo, an ex-guerrilla vagabond, after abandoning his little daughter, unable to make up for lost time, he channels his love to the city's strays and a mortally wounded Rottweiler. In the end, even though all the weary characters, men and beasts, wish for a bright future, in this life-changing journey in the pursuit of love, sometimes infidelity, sin and death can get in the way.::Nick Riganas",
+        "Three interconnected stories about the different strata of life in Mexico City all resolve with a fatal car accident. Octavio is trying to raise enough money to run away with his sister-in-law, and decides to enter his dog Cofi into the world of dogfighting. After a dogfight goes bad, Octavio flees in his car, running a red light and causing the accident. Daniel and Valeria's new-found bliss is prematurely ended when she loses her leg in the accident. El Chivo is a homeless man who cares for stray dogs and is there to witness the collision.::Anonymous",
+        "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.::LVJeff"
+    ],
+    "language": {
+        "id": [
+            "Spanish"
+        ],
+        "adult_language_percentage": 3.6146576023876635,
+        "linguistic_difficulty_percentage": 0.0331619963521804,
+        "words_per_minute": 39,
+        "common_words": {
+            "get": 38,
+            "come": 35,
+            "wa": 35,
+            "dog": 33,
+            "know": 33,
+            "got": 32,
+            "go": 30,
+            "want": 28,
+            "richie": 25,
+            "right": 24
+        }
+    }
+}

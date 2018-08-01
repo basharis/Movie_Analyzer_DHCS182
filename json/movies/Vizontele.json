@@ -1,0 +1,35 @@
+{
+    "title": "Vizontele",
+    "year": 2001,
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "The film is about the introduction of television to a small village in southeast Anatolia in 1974. Employing a tragicomic language, it tells of the efforts of Emin who is the village idiot and Nazmi who is the mayor of the village. Emin and Nazmi attempt to start the broadcasting of television in their village and face various difficulties in this process.::BKM"
+    ],
+    "language": {
+        "id": [
+            "Turkish"
+        ],
+        "adult_language_percentage": 1.4839572192513368,
+        "linguistic_difficulty_percentage": 0.12032085561497327,
+        "words_per_minute": 68,
+        "common_words": {
+            "l": 235,
+            "get": 62,
+            "lt": 53,
+            "wa": 44,
+            "one": 40,
+            "mayor": 37,
+            "go": 35,
+            "like": 32,
+            "emin": 30,
+            "vizontele": 30
+        }
+    }
+}

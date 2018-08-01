@@ -1,0 +1,41 @@
+{
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": [
+        "Comedy",
+        "Crime"
+    ],
+    "runtime": [
+        "117"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "When \"The Dude\" Lebowski is mistaken for a millionaire Lebowski, two thugs urinate on his rug to coerce him into paying a debt he knows nothing about. While attempting to gain recompense for the ruined rug from his wealthy counterpart, he accepts a one-time job with high pay-off. He enlists the help of his bowling buddy, Walter, a gun-toting Jewish-convert with anger issues. Deception leads to more trouble, and it soon seems that everyone from porn empire tycoons to nihilists want something from The Dude.::J. Lake",
+        "There are two men named Jeffrey Lebowski. One is a lazy, pot smoking, White Russian drinking, hippie who goes by \"The Dude\". The other is a self-made, handicapped, multimillionaire war veteran who lives in a huge mansion with a full time assistant. Their paths cross when the millionaire's trophy wife owes money to a known pornographer. The thugs hired by this man confront The Dude because he has the same name. The Dude, wanting payback for his now destroyed rug, seeks out the millionaire Lebowski. What follows takes the Dude and his bowling buddies Walter and Donnie on a weird tale of intrigue, kidnapping, pornography, nihilists, White Russians, and more White Russians.::halo1k",
+        "Jeffrey \"The Dude\" Lebowski is the ultimate Los Angeles slacker, until one day his house is broken into and his rug is peed on by two angry gangsters who have mistaken him for Jeffrey Lebowski, the Los Angeles millionaire, whose wife owes some bad people some big money. The Dude becomes entangled in the plot when he goes to visit the real Lebowski in order to get some retribution for his soiled rug, and is recruited to be the liason between Lebowski and the captors of his now \"kidnapped\" wife.::Alex Barron <resevoirdog@earthlink.net>",
+        "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Hebrew",
+            "Spanish"
+        ],
+        "adult_language_percentage": 4.237535231800953,
+        "linguistic_difficulty_percentage": 0.10691029254543687,
+        "words_per_minute": 87,
+        "common_words": {
+            "man": 127,
+            "dude": 122,
+            "fuck": 91,
+            "lebowski": 85,
+            "fucking": 84,
+            "know": 72,
+            "money": 58,
+            "wa": 55,
+            "yeah": 55,
+            "uh": 47
+        }
+    }
+}

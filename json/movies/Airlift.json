@@ -1,0 +1,41 @@
+{
+    "title": "Airlift",
+    "year": 2016,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "130"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "It is in this scenario that Ranjit Katyal (played by Akshay Kumar), a wealthy and powerful Indian businessman, who has always seen himself as a Kuwaiti, rather than an Indian, realizes that he no longer wields any influence on the Iraqis, and that he and his family are in as much danger as anyone else. Ranjit unknowingly becomes the man who all 170,000 Indians look up to for getting them out safely from Kuwait. Airlift is the story of Indians stranded in Kuwait during this traumatic time. A story of how they, with the help of Ranjit Katyal, managed to survive the Iraqi invasion, and against all odds traveled a thousand kilometers across the border into Amman, Jordan. From Amman, 170,000 Indians were brought home by the largest and the most successful evacuation ever attempted by any country, in the history of the world. Over 59 days, the Indian government systematically flew over 488 Air India commercial flights into a war zone to evacuate all 170,000 Indians and safely bring them back home. Airlift is an uplifting and entertaining edge-of-the-seat thriller and is the story of the biggest ever human evacuation in the history of mankind.::T-Series",
+        "Ranjit Katiyal is an influential businessman in Kuwait, who with his contacts and familiarity with the land, organizes a labor camp that shelters fleeing Indians during the 1990 war. He simultaneously negotiates with the Iraqi government and co-ordinates with the Indian government enabling the safe passage of Indians. The entire movement in real life took 488 Air India flights in 59 days and is the largest humanitarian evacuation in the world.::alex.mjacko@gmail.com",
+        "Airlift is a movie about about how 1 lac, 70 thousand Indians were safely moved out of war torn Kuwait in Year 1990. It is shown that one man named Ranjit Katyal (fictional character) was mainly responsible for safety of all this Indians in Kuwait. Ranjit could have fled to safety all alone but chooses to save life of other Indians First.::muvi-fan-73",
+        "When Iraq invades Kuwait in August, 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen."
+    ],
+    "language": {
+        "id": [
+            "Hindi",
+            "Malayalam",
+            "Arabic"
+        ],
+        "adult_language_percentage": 0.5617977528089888,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 62,
+        "common_words": {
+            "go": 74,
+            "ranjit": 70,
+            "sir": 69,
+            "mr": 49,
+            "get": 48,
+            "come": 45,
+            "people": 40,
+            "u": 39,
+            "wa": 38,
+            "know": 33
+        }
+    }
+}

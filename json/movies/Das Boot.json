@@ -1,0 +1,43 @@
+{
+    "title": "Das Boot",
+    "year": 1981,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "War"
+    ],
+    "runtime": [
+        "149"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "It is 1942 and the German submarine fleet is heavily engaged in the so-called \"Battle of the Atlantic\" to harass and destroy British shipping. With better escorts of the destroyer class, however, German U-boats have begun to take heavy losses. \"Das Boot\" is the story of the crew of one such U-Boat, with the film examining how these submariners maintained their professionalism as soldiers and attempted to accomplish impossible missions, all the while attempting to understand and obey the ideology of the government under which they served.::Anthony Hughes <husnock31@hotmail.com>",
+        "A look at the lives of the officers and men of the U-96, a German U-boat patrolling the north Atlantic during World War II. Led by Capt.-Lt. Heinrich Lehmann-Willenbrock, the men, for the most part, are seasoned veterans of undersea duty. For the new recruits, including military journalist Lt. Werner, it's all a bit of an eye opener. The quarters are cramped with men sharing bunks - while one is on duty, the other gets sleep - and there's barely enough room for more that two men in passageways at any one time. Their trip is also marked by lengthy periods of boredom while they search for enemy shipping to attack and periods of absolute terror when they find themselves under attack by Allied naval vessels. Throughout it all, the men band together, cynical about just what they are doing but also proud of their accomplishments.::garykmcd",
+        "1941 and the Battle of the Atlantic - German U-boats versus freighters supplying Britain - is underway. We see this struggle from the side of the crew of a German U-boat, U-96. We see the relaxation and fun in port, the boredom of patrol, the tension of stalking a convoy, and the sheer terror when they become the hunted.::grantss",
+        "In October 1941, the German Capt.-Lt. Henrich Lehmann-Willenbrock of the U-96 U-Boat receives the war correspondent Lt. Werner to cover the work in the submarine during their mission in the Atlantic Ocean. They sail out of the shipyard La Rochelle and along the next weeks, Werner learns the lives, loves, fear and behavior of the young crew, the veteran Captain and his officers. The skilled captain hunts British vessels to sink and dives to depths below the limit of the boat to escape from the destroyers. Near Christmas, they plan to return to La Rochelle; but out of the blue, Captain Henrich receives and order to cross the Strait of Gibraltar to go to Italy. But the captain knows how protected the area is and plans a means to lure the British Navy. Will the U-96 succeed in crossing the Strait of Gibraltar?::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "German",
+            "English",
+            "French"
+        ],
+        "adult_language_percentage": 1.9501950195019502,
+        "linguistic_difficulty_percentage": 0.135013501350135,
+        "words_per_minute": 44,
+        "common_words": {
+            "u": 61,
+            "one": 49,
+            "get": 47,
+            "metre": 41,
+            "sir": 36,
+            "full": 30,
+            "good": 29,
+            "captain": 28,
+            "engine": 28,
+            "come": 27
+        }
+    }
+}

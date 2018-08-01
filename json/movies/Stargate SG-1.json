@@ -1,0 +1,38 @@
+{
+    "title": "Stargate SG-1",
+    "year": 1997,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "44"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "General Hammond summons Colonel Jack O'Neill out of retirement to embark on a secret rescue mission. O'Neill confesses that he disobeyed orders to destroy the Stargate on Planet Abydos, and that scientist Daniel Jackson may still be alive. Arriving on Abydos with his team, O'Neill meets up once again with the scientist, who has discovered a giant elaborate cartouche in hieroglyphics. All signs point to the fact that this is a map of many Stargates that exist throughout the galaxy - a development that makes the dream of the SG-1 team to travel throughout the universe in time a reality.::Sean Fitzgibbons",
+        "A secret military team, SG-1, is formed to explore other planets through the recently discovered Stargates.::Sean Fitzgibbons <lobot@mail.idt.net>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.5307402760351319,
+        "linguistic_difficulty_percentage": 0.12547051442910914,
+        "words_per_minute": 90,
+        "common_words": {
+            "go": 27,
+            "jackson": 26,
+            "right": 23,
+            "back": 20,
+            "come": 18,
+            "okay": 18,
+            "like": 17,
+            "symbol": 16,
+            "know": 15,
+            "got": 15
+        }
+    }
+}

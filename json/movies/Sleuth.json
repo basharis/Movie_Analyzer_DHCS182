@@ -1,0 +1,39 @@
+{
+    "title": "Sleuth",
+    "year": 1972,
+    "genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "138"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Andrew Wyke is a famous and successful author of detective novels. Milo Tindle comes to him with a strange request - that Mr Wyke divorce his wife so that Tindle can marry her. Mr Wyke is not particularly perturbed by this - he and his wife have drifted apart and he is having an affair with another woman anyway - but uses the meeting and Mr Tindle's request as a chance to play a game, a game with potentially deadly consequences.::grantss",
+        "Milo Tindle and Andrew Wyke have something in common, Andrew's wife. In an attempt to find a way out of this without costing Andrew a fortune in alimony, he suggests Milo pretend to rob his house and let him claim the insurance on the stolen jewelry. The problem is that they don't really like each other and each cannot avoid the zinger on the other. The plot has many shifts in which the advantage shifts between Milo and Andrew.::John Vogel <jlvogel@comcast.net>",
+        "In England, the Italian English hairdresser Milo Tindle is invited by the successful writer of detective stories Andrew Wyke to visit his isolated house. The lower class Milo is the lover of Andrew's wife, who is used to have a comfortable life, and he intends to marry her. Andrew proposes Milo to steal his jewelry simulating a burglary. Milo would make a fortune selling the jewels to an intermediary; and Andrew would be reimbursed by the insurance company and would not pay alimony.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Italian"
+        ],
+        "adult_language_percentage": 1.9233320068974664,
+        "linguistic_difficulty_percentage": 0.1061148693460671,
+        "words_per_minute": 54,
+        "common_words": {
+            "know": 53,
+            "wa": 52,
+            "see": 48,
+            "like": 46,
+            "want": 46,
+            "yes": 39,
+            "right": 30,
+            "think": 29,
+            "wife": 29,
+            "get": 28
+        }
+    }
+}

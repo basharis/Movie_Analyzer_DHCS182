@@ -1,0 +1,41 @@
+{
+    "title": "Infernal Affairs",
+    "year": 2002,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "101"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.::Aya",
+        "The setting is the never-ending war between the police and the Triads of Hong Kong. Chan is a cop who's been assigned to undercover work inside the Triads for so long that he's been able to rise through the ranks to a position of some authority. Lau, meanwhile, is a secret member of the Triads who has infiltrated the police force with an equal level of success. As they feed their bosses information on the plans and counter-plans of the organizations they pretend to serve, they both begin to feel the stresses of their double lives as they become torn between the oppressive obligations they owe to their superiors and the growing camaraderie they share with the foot soldiers around them. As the two organizations become increasingly aware of the moles in their midsts, the race is on for Chan and Lau to try and get out of the game alive.::Jean-Marc Rocher <rocher@fiberbit.net>",
+        "A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.::Nozoma"
+    ],
+    "language": {
+        "id": [
+            "Cantonese",
+            "English",
+            "Thai"
+        ],
+        "adult_language_percentage": 1.0684983781721047,
+        "linguistic_difficulty_percentage": 0.09540164090822362,
+        "words_per_minute": 51,
+        "common_words": {
+            "know": 39,
+            "good": 33,
+            "take": 26,
+            "want": 26,
+            "boss": 26,
+            "cop": 23,
+            "wa": 22,
+            "wong": 22,
+            "sam": 21,
+            "let": 21
+        }
+    }
+}

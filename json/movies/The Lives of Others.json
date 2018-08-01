@@ -1,0 +1,39 @@
+{
+    "title": "The Lives of Others",
+    "year": 2006,
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "137"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "Gerd Wiesler is an officer with the Stasi, the East German secret police. The film begins in 1984 when Wiesler attends a play written by Georg Dreyman, who is considered by many to be the ultimate example of the loyal citizen. Wiesler has a gut feeling that Dreyman can't be as ideal as he seems, and believes surveillance is called for. The Minister of Culture agrees but only later does Wiesler learn that the Minister sees Dreyman as a rival and lusts after his partner Christa-Maria. The more time he spends listening in on them, the more he comes to care about them. The once rigid Stasi officer begins to intervene in their lives, in a positive way, protecting them whenever possible. Eventually, Wiesler's activities catch up to him and while there is no proof of wrongdoing, he finds himself in menial jobs - until the unbelievable happens.::garykmcd",
+        "East Berlin, 1984. The Cold War is still raging and the communist bloc does not trust its own citizens. A secret police agent is tasked with conducting surveillance on a writer and his lover. Over time, rather than being coldly distant, he finds himself being absorbed by their private lives.::grantss",
+        "1985, East Berlin: The Stasi (East German secret police) bugs the apartment of a famous writer. A staunch party-line Stasi officer is put in charge of the electronic eavesdropping. Gradually the intelligence officer becomes a silent accomplice .::Wiedemann & Berg Film",
+        "In the early 1980s, Georg Dreyman (a successful dramatist) and his longtime companion Christa-Maria Sieland (a popular actress), were huge intellectual stars in (former) East Germany, although they secretly don't always toe the party line. One day, the Minister of Culture becomes interested in Christa, so the secret service agent Wiesler is instructed to observe and sound out the couple, but their life fascinates him more and more.::fippi2000",
+        "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.::Shannon Patrick Sullivan <shannon@mun.ca>"
+    ],
+    "language": {
+        "id": [
+            "German"
+        ],
+        "adult_language_percentage": 0.9210888094583447,
+        "linguistic_difficulty_percentage": 0.05499037668408029,
+        "words_per_minute": 53,
+        "common_words": {
+            "know": 57,
+            "wa": 37,
+            "good": 30,
+            "like": 27,
+            "one": 27,
+            "go": 27,
+            "yes": 25,
+            "dreyman": 24,
+            "think": 22,
+            "tell": 21
+        }
+    }
+}

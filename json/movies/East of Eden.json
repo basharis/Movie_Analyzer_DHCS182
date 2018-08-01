@@ -1,0 +1,38 @@
+{
+    "title": "East of Eden",
+    "year": 1955,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "118"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "In the Salinas Valley, in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother Aron for the love of their father Adam. Cal is frustrated at every turn, from his reaction to the war, to how to get ahead in business and in life, to how to relate to estranged mother.::Ed Stephan <stephan@cc.wwu.edu>",
+        "Cal Trask is a particularly unhappy young man. He sees himself as the black sheep of the family and is always competing with his brother Aron, who seems to be perfect in almost every way. Aron is also their father's favorite and Cal desperately wants his father's love and affection. It's the period leading up to America's entry into World War I and these are tumultuous times. After his father loses most of his fortune trying to ship refrigerated lettuce to New York, Cal decides to speculate on a crop of beans and makes a small fortune but he soon realizes that he can't buy his father's loves either. Cal's discovery that his mother is alive - he and Aron were told that she had died - and that she is a madam leads to a final, tragic result for all three of the Trask men.::garykmcd",
+        "In 1917, in Monterey, California, Cal is a youngster needy of fatherly love. His father Adam Trask is a farmer that favors his brother Aron and they believe that their mother died when they were children. One day, Cal discovers that his mother Kate is still alive and is the owner of a brothel in the nearby Salinas. However he keeps his discovery in secret and does not tell to his father and brother. When Adam decides to invest in the transportation of frozen lettuce, there is a problem on the railroad and he loses his saving. Cal contacts Kate and borrows five thousand dollars to invest in the promising bean business since the United States has entered in the World War I to recover his father's money and earn his love. Meanwhile Aron's girlfriend Abra and Cal fall in love with each other. Cal is well succeeded in his business and decides to give a surprise birthday party organized by Abra to his father to give his money as a birthday gift. The reaction of Adam and Aron trigger a series of incidents with tragic consequences.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "1917. Young adult twin brothers Aron and Cal Trask, the only offspring of widowed Salinas, California rancher Adam Trask, are like night and day. Aron, the \"good\" son, more resembles their righteous-minded father. Cal, however, is a brooding young man who knows he has badness in his heart and probably his blood. Adam admits he has never understood Cal, who in turn truly craves his father's love, which Aron already has. Cal scares Aron's girlfriend Abra, the two who will probably get married after Aron finishes school. Aron and Cal's mother, who is never mentioned and who they don't remember, died shortly after giving birth to them. The interrelationships between Aron, Cal, Adam and Abra have the potential to change: as the United States enters the war; as Adam wants to leave a legacy to the world, namely to figure out a way to ship perishable produce, most specifically lettuce he plans to grow on what has largely been his fallow land, using the new technology of refrigeration, to feed the country, making money not to factor into the equation; with Cal wanting to make money to show his father he is worth something, the war economy which provides some opportunities; and with Cal secretly discovering that Kate, the cold-hearted, ruthless but financially successful madam operating the brothel in Monterey fifteen miles away on the coast, is probably his biological mother, and is not dead as his father has always told them.::Huggo",
+        "A wilful young man contends against his brother for the attention of their religious father while reconnecting with his estranged mother and falling for his brother's girlfriend."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9208832557678978,
+        "linguistic_difficulty_percentage": 0.10892167541340728,
+        "words_per_minute": 85,
+        "common_words": {
+            "know": 80,
+            "cal": 69,
+            "get": 62,
+            "go": 60,
+            "aron": 60,
+            "wa": 59,
+            "like": 58,
+            "want": 57,
+            "good": 56,
+            "come": 55
+        }
+    }
+}

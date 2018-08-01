@@ -1,0 +1,50 @@
+{
+    "title": "Wonder Woman",
+    "year": 2017,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "War"
+    ],
+    "runtime": [
+        "141"
+    ],
+    "rating": 7.5,
+    "plot": [
+        "Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when a pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers and her true destiny.",
+        "Raised in a sheltered island and trained to become a warrior, Amazon-Princess Diana Prince discovers the end-less war going on in the outside world. She embarks on a journey to end the war of all wars - whilst discovering her true power as well.::Ubaid Samadi",
+        "When army pilot Steve Trevor crashes on the warriors' secluded island paradise, disrupting the fictitious all-female sanctuary of Themyscira created by the Gods of Olympus, Princess Diana of the immortal Amazons aids for his rescue and wins the decisive right to escort him home, heading to an early 20th Century London to stop the war she believes is influenced by the God Ares. Leaving behind the only life she's ever known and entering the cynical world of men for the first time, torn between a mission to promote peace and her own warrior upbringing, as a \"Wonder Woman,\" Diana must fight evil in a \"war to end all wars,\" while hoping to unlock the potential of a humanity she doesn't always understand.::Asif Ahsan Khan",
+        "Set in 1918, Princess Diana grows up on the Amazon island of Themyscira. American pilot Steve Trevor crashes offshore of the island and is rescued by Diana. After he tells Diana about World War I, she leaves her home in order to end the war.::chris hackney",
+        "Before she was Wonder Woman she was Diana, princess of the Amazons, trained warrior. When a pilot crashes and tells of conflict in the outside world, she leaves home to fight a war to end all wars, discovering her full powers and true destiny.::Tiffany Adachi",
+        "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.::Tiffany Adachi"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Dutch",
+            "French",
+            "Spanish",
+            "Chinese",
+            "Greek, Ancient (to 1453)",
+            "North American Indian"
+        ],
+        "adult_language_percentage": 1.9688752652676258,
+        "linguistic_difficulty_percentage": 0.10610705022400377,
+        "words_per_minute": 60,
+        "common_words": {
+            "diana": 62,
+            "go": 60,
+            "war": 53,
+            "know": 51,
+            "get": 43,
+            "come": 43,
+            "wa": 34,
+            "let": 33,
+            "see": 32,
+            "ares": 32
+        }
+    }
+}

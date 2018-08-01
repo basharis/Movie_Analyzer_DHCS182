@@ -1,0 +1,65 @@
+[
+    {
+        "title": "The Meaning of Life",
+        "year": 1983,
+        "genres": [
+            "Comedy",
+            "Musical"
+        ],
+        "runtime": [
+            "107"
+        ],
+        "rating": 7.6,
+        "plot": [
+            "Why are we here, what's it all about? The Monty Python-team is trying to sort out the most important question on Earth: what is the meaning of life? They do so by exploring the various stages of life, starting with birth. A doctor seems more interested in his equipment than in delivering the baby or caring for the mother, a Roman Catholic couple have quite a lot of children because 'every sperm is sacred'. In the growing and learning part of life, catholic schoolboys attend a rather strange church service and ditto sex education lesson. Onto war, where an officer's plan to attack is thwarted by his underlings wanting to celebrate his birthday and an officer's leg is bitten off by presumably an African tiger. At middle age a couple orders 'philosophy' at a restaurant, after which the film continues with live organ transplants. The autumn years are played in a restaurant, which, after being treated to the song 'Isn't It Awfully Nice to Have a Penis?' by an entertainer, sees the arrival of an extremely fat man. He can eat a lot, but also throw up quite copiously. The Grim Reaper brings for the final stage of human life, death, a visit to a mansion, where the people are rather interested in him. But life doesn't stop at death. It's onto heaven, where it's always Christmas.::Arnoud Tiele (imdb@tiele.nl)",
+            "The Monty Python group examines the meaning and purpose of life in a series of sketches from conception to death and beyond. In typical Monty Python fashion they satirize and humourize almost everyone.::Baldach Jones <baldach@rocketmail.com>",
+            "The comedy team takes a look at life in all its stages in their own uniquely silly way.::Kenneth Chisholm"
+        ],
+        "language": {
+            "id": [
+                "English"
+            ],
+            "adult_language_percentage": 2.219079734580659,
+            "linguistic_difficulty_percentage": 0.08702273468943762,
+            "words_per_minute": 85,
+            "common_words": {
+                "oh": 78,
+                "sir": 76,
+                "yes": 70,
+                "well": 68,
+                "good": 50,
+                "come": 49,
+                "right": 40,
+                "one": 40,
+                "life": 36,
+                "get": 31
+            }
+        }
+    },
+    {
+        "title": "The Holy Grail",
+        "year": 2017,
+        "genres": "None",
+        "runtime": 110,
+        "rating": "NR",
+        "plot": "None",
+        "language": {
+            "id": "None",
+            "adult_language_percentage": 2.187358575954141,
+            "linguistic_difficulty_percentage": 0.1508523155830442,
+            "words_per_minute": 72,
+            "common_words": {
+                "l": 147,
+                "sir": 59,
+                "grail": 39,
+                "knight": 38,
+                "lt": 31,
+                "king": 28,
+                "one": 28,
+                "got": 27,
+                "right": 27,
+                "u": 27
+            }
+        }
+    }
+]

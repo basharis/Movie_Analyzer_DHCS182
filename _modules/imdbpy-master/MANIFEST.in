@@ -1,0 +1,10 @@
+#
+# MANIFEST.in
+#
+# Manifest template for creating the Distutils source distribution.
+#
+
+recursive-include imdb/locale *
+global-exclude *~
+global-exclude __pycache__
+

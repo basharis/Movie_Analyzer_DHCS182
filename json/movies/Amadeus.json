@@ -1,0 +1,44 @@
+{
+    "title": "Amadeus",
+    "year": 1984,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Music"
+    ],
+    "runtime": [
+        "160"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Antonio Salieri believes that Wolfgang Amadeus Mozart's music is divine and miraculous. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. He began his career as a devout man who believes his success and talent as a composer are God's rewards for his piety. He's also content as the respected, financially well-off, court composer of Austrian Emperor Joseph II. But he's shocked to learn that Mozart is such a vulgar creature, and can't understand why God favored Mozart to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is ready to take revenge against God and Mozart for his own musical mediocrity.::Khaled Salem",
+        "Claiming to have murdered the composer Wolfgang Amadeus Mozart, the elderly Antonio Salieri recounts to a priest his dealings with the brilliant composer. Salieri was court composer to Austrian Emperor Joseph II when Mozart and he first met. The Emperor, a major patron of the arts, immediately commissioned Mozart to write an opera in German, rather than the customary Italian. Mozart is childish, arrogant, annoying and brilliant all at once and Salieri is simultaneously in awe and green with envy at his genius. Salieri uses Mozart's difficult relationship with his father and his guilt over being a bad son to drive him slightly mad and into a downward spiral of ill health, leading to his death.::garykmcd",
+        "It is the early 19th century. An old man is thrown into an insane asylum after trying to commit suicide. He is Antonio Salieri and in the asylum he is visited by a priest, to whom he confesses that he killed Mozart. He then recounts his time as court composer to Emperor Joseph II of Austria. Mozart appears at the court and is hired by the Emperor to produce an opera. His genius is quite evident. Salieri is a devout Christian man and believes all musical talent and inspiration is given by God. Mozart's personal life and extracurricular activities appall Salieri. He cannot reconcile Mozart's talent and his lifestyle and sets out to drive him from the court. Initially his aim is to undermine him but over time his intentions turn deadlier.::grantss",
+        "Wolfgang Amadeus Mozart is a remarkably talented young Viennese composer who unwittingly finds a fierce rival in the disciplined and determined Antonio Salieri. Resenting Mozart for both his hedonistic lifestyle and his undeniable talent, the highly religious Salieri is gradually consumed by his jealousy and becomes obsessed with Mozart's downfall, leading to a devious scheme that has dire consequences for both men.::Jwelch5742",
+        "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporary composer who was insanely jealous of Mozart's talent and claimed to have murdered him."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Italian",
+            "Latin",
+            "German"
+        ],
+        "adult_language_percentage": 1.313932023020958,
+        "linguistic_difficulty_percentage": 0.11944836572917797,
+        "words_per_minute": 57,
+        "common_words": {
+            "wa": 63,
+            "mozart": 62,
+            "yes": 56,
+            "one": 53,
+            "know": 50,
+            "well": 43,
+            "majesty": 43,
+            "come": 39,
+            "music": 39,
+            "think": 38
+        }
+    }
+}

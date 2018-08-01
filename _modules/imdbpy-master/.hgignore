@@ -1,0 +1,18 @@
+syntax: glob
+.cache
+.tox
+__pycache__
+build
+dist
+.cache
+.tox
+__pycache__
+*.egg-info
+*.mo
+*.pyc
+*.pyo
+*.so
+*.pyd
+*~
+*.swp
+setuptools-*.egg

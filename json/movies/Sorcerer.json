@@ -1,0 +1,41 @@
+{
+    "title": "Sorcerer",
+    "year": 1977,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "121"
+    ],
+    "rating": 7.7,
+    "plot": [
+        "A gangster, a crooked banker, a hitman and an arab terrorist are stranded and on the run in a small village in South America. Their only chance of escape is to drive two trucks filled with unstable nitroglycerin up a long and rocky mountain road in order to plug an escalating oil refinery blaze. With their deadly cargo likely to explode at the slightest bump, the four men must put aside their differences and work together to survive.",
+        "A group of outcasts from different backgrounds and nationalities are forced by misfortune to work in an oil-drilling operation in South America. When fire breaks out of control, four of the outcasts are given the opportunity to earn enough money to get out by transporting six crates of unstable dynamite through miles of jungle in two ancient trucks.::Keith Loh <loh@sfu.ca>, David Lee (dave@madebydave.com)",
+        "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous South American jungle.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish",
+            "French",
+            "German"
+        ],
+        "adult_language_percentage": 1.592505854800937,
+        "linguistic_difficulty_percentage": 0.0156128024980484,
+        "words_per_minute": 52,
+        "common_words": {
+            "get": 60,
+            "go": 41,
+            "like": 39,
+            "got": 38,
+            "one": 35,
+            "right": 34,
+            "see": 29,
+            "come": 28,
+            "take": 28,
+            "let": 27
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Fiddler on the Roof",
+    "year": 1971,
+    "genres": [
+        "Drama",
+        "Family",
+        "Musical",
+        "Romance"
+    ],
+    "runtime": [
+        "181"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "At the beginning of the twentieth century, Jews and Orthodox Christians live in the little village of Anatevka in the pre-revolutionary Russia of the Czars. Among the traditions of the Jewish community, the matchmaker arranges the match and the father approves it. The milkman Reb Tevye is a poor man that has been married for twenty-five years with Golde and they have five daughters. When the local matchmaker Yente arranges the match between his older daughter Tzeitel and the old widow butcher Lazar Wolf, Tevye agrees with the wedding. However Tzeitel is in love with the poor tailor Motel Kamzoil and they ask permission to Tevye to get married that he accepts to please his daughter. Then his second daughter Hodel (Michele Marsh) and the revolutionary student Perchik decide to marry each other and Tevye is forced to accept. When Perchik is arrested by the Czar troops and sent to Siberia, Hodel decides to leave her family and homeland and travel to Siberia to be with her beloved Perchik. When his third daughter Chava decides to get married with the Christian Fyedka, Tevye does not accept and considers that Chava has died. Meanwhile the Czar troops evict the Jewish community from Anatevka.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "It's pre-revolutionary Russia in the largely Jewish community of Anatevka, Ukraine, whose residents are ruled by community and cultural traditions. For poor dairy farmer Tevye and his wife Golde, those traditions include getting the town matchmaker, Yente, to find their five daughters - the three oldest, Tzeitel, Hodel and Chava, who are barely of marrying age - suitable wealthy husbands, especially important since the girls will have no dowries. Tzeitel, not yet twenty, doesn't like that Yente only chooses old men, she who is mutually in love with the poor tailor, Motel. Motel doesn't believe Tevye would approve of a union between him and Tzeitel because of Motel's poor socioeconomic state, and without someone arranging the union. Hodel understands these traditions better than her elder sister, Hodel who has her sights on the rabbi's son, because of what he is, not because of who he is. Chava accepts her fate, marriage still being years away, but she hopes for someone she will love while she now focuses on her love of books. Change away from those traditions is in the air, which is confirmed by Perchik, a young man, a student espousing Marxist ideals, recently arrived from Kiev. This change may affect what happens matrimonially with Tzeitel, Hodel and Chava. But this change is also in the form of anti-Jewish sentiments sweeping across Europe, which may affect what happens to Tevye, his family, and the Jewish community in Anatevka as a whole.::Huggo",
+        "In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.::Shannon Patrick Sullivan <shannon@mun.ca>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Hebrew",
+            "Russian"
+        ],
+        "adult_language_percentage": 0.8520526723470179,
+        "linguistic_difficulty_percentage": 0.05163955589981926,
+        "words_per_minute": 64,
+        "common_words": {
+            "good": 78,
+            "dai": 76,
+            "papa": 63,
+            "like": 60,
+            "tevye": 57,
+            "tzeitel": 52,
+            "well": 51,
+            "man": 50,
+            "know": 49,
+            "say": 48
+        }
+    }
+}

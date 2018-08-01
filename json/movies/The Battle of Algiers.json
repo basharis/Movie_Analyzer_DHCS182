@@ -1,0 +1,41 @@
+{
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "121"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "A film commissioned by the Algerian government that shows the Algerian revolution from both sides. The French foreign legion has left Vietnam in defeat and has something to prove. The Algerians are seeking independence. The two clash. The torture used by the French is contrasted with the Algerian's use of bombs in soda shops. A look at war as a nasty thing that harms and sullies everyone who participates in it.::John Vogel <jlvogel@comcast.net>",
+        "In 1954, the National Liberation Front of Algiers shots many French policemen beginning a movement for the independence of their country; in return, the Chief of Police plants a bomb in the Arab quarter, killing many dwellers. The NLF sends three women with bombs to two bars and the Air France office in the European quarter, killing many people. The French government sends the military forces under the command of the abusive Colonel Mathieu that does not respect the human rights and uses torture to destroy the NLF command. In 1962, the Algerians finally achieve their aimed independence.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "1954. France, after the independence of the nations comprising Indochina, turns its attention to incidents in French Algeria, which they have ruled for approximately one hundred thirty years. The National Liberation Front (FLN) is leading the resistance in Algeria against their colonial rulers, the FLN who the French authorities believe, or want to believe, comprise only a small minority of the Muslim Algerian population in wanting Algerian independence. Specific incidents in this battle in Algiers between 1954 and the time of independence in 1962 are presented. The FLN began their campaign in shooting military police in the Casbah, the predominantly Muslim quarter of the city, as they were able to blend back into the scene with the support of the populace. These initial one by one attacks escalated on both sides to mass killings, where collateral damage was seen as being acceptable. Both sides also worked toward the United Nations discussion on the issue, each wanting global support for their cause. The events largely focus on two people, one on each side. The first is Ali La Pointe, a lifelong petty criminal and illiterate who the FLN recruited after being politicized while in prison. The second is French paratrooper Colonel Mathieu, a lead French strategist whose main goal is to dismantle the FLN activities by \"cutting off the head of the tapeworm\".::Huggo",
+        "Filmed in a semi-documentary format, this film deals with the battle of Algiers (1956-57) part of the broader fight for Algerian independence (1954-62) from French colonial rule. The rebels began their attacks by shooting policeman and other government officials. When they start bombing public places in the European sector - caf\u00e9s, restaurants, the Air France office - the authorities send in crack military units. Through large-scale arrests and torture, the colonel in charge focuses on locating and eliminating the leaders of the movement.::garykmcd",
+        "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.::Chthon2 <mezzodon@yahoo.com>"
+    ],
+    "language": {
+        "id": [
+            "French",
+            "Arabic",
+            "English"
+        ],
+        "adult_language_percentage": 2.0453008789722786,
+        "linguistic_difficulty_percentage": 0.1352265043948614,
+        "words_per_minute": 48,
+        "common_words": {
+            "fln": 34,
+            "go": 33,
+            "u": 32,
+            "get": 28,
+            "come": 27,
+            "know": 24,
+            "must": 24,
+            "let": 22,
+            "ali": 22,
+            "take": 21
+        }
+    }
+}

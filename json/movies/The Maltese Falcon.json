@@ -1,0 +1,38 @@
+{
+    "title": "The Maltese Falcon",
+    "year": 1941,
+    "genres": [
+        "Film-Noir",
+        "Mystery"
+    ],
+    "runtime": [
+        "100"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Spade and Archer is the name of a San Francisco detective agency. That's for Sam Spade and Miles Archer. The two men are partners, but Sam doesn't like Miles much. A knockout, who goes by the name of Miss Wonderly, walks into their office; and by that night everything's changed. Miles is dead. And so is a man named Floyd Thursby. It seems Miss Wonderly is surrounded by dangerous men. There's Joel Cairo, who uses gardenia-scented calling cards. There's Kasper Gutman, with his enormous girth and feigned civility. Her only hope of protection comes from Sam, who is suspected by the police of one or the other murder. More murders are yet to come, and it will all be because of these dangerous men -- and their lust for a statuette of a bird: the Maltese Falcon.::J. Spurlin",
+        "In this film-noir classic, hard-boiled San Francisco private eye Sam Spade is a man with questionable morals but unquestionably good at what he does. One day, Spade is approached by Miss Wonderly, a woman who offers him considerable money in exchange for the protection of her safety from a man named Floyd Thursby. What follows is a series of murders, corruption and uncertainty all tied up in a classic web of mystery and deceit and leading to one particular macguffin: a prized Maltese falcon statuette.::Kyle Perez",
+        "Sam Spade is a partner in a private-eye firm who finds himself hounded by police when his partner is killed whilst tailing a man. The girl who asked him to follow the man turns out not to be who she says she is, and is really involved in something to do with the 'Maltese Falcon', a gold-encrusted life-sized statue of a falcon, the only one of its kind.::Graeme Roy <gsr@cbmamiga.demon.co.uk>",
+        "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.::J. Spurlin"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.4222911817946728,
+        "linguistic_difficulty_percentage": 0.0344797862253254,
+        "words_per_minute": 116,
+        "common_words": {
+            "l": 461,
+            "wa": 84,
+            "know": 82,
+            "got": 65,
+            "get": 56,
+            "sir": 53,
+            "lt": 52,
+            "well": 49,
+            "come": 45,
+            "right": 44
+        }
+    }
+}

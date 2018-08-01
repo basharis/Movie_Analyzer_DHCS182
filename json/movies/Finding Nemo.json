@@ -1,0 +1,43 @@
+{
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "100"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again.::David Morris",
+        "Marlin, a clown fish, is overly cautious with his son, Nemo, who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.::Jwelch5742",
+        "When his son, Nemo is taken from him by a diver, Marlin the clown fish sets off on a journey to rescue him. Together with Dory, a blue tang fish with short term memory loss, they set off through the oceans, whilst joining a club with sharks, dodging jellyfish, and hooking a ride with turtles. Whilst this is happening, Nemo and his new tank friends hatch a plan to escape from their new home.::FilmFanUk",
+        "Marlin (a clown fish) is a widower who only has his son Nemo left of his family after a predator attack. Years later, on Nemo's first day of school, he's captured by a scuba diver and taken to live in a dentist office's fish tank. Marlin and his new absent-minded friend Dory set off across the ocean to find Nemo, while Nemo and his tank mates scheme on how to get out of the tank before he becomes the dentist's niece's new pet.::TonyB",
+        "A tale which follows the comedic and eventful journeys of two fish, the fretful Marlin and his young son Nemo, who are separated from each other in the Great Barrier Reef when Nemo is unexpectedly taken from his home and thrust into a fish tank in a dentist's office overlooking Sydney Harbor. Buoyed by the companionship of a friendly but forgetful fish named Dory, the overly cautious Marlin embarks on a dangerous trek and finds himself the unlikely hero of an epic journey to rescue his son. Meanwhile, the young Nemo hatches a few daring plans of his own to return home safely.::Sujit R. Varma",
+        "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.0951893551688843,
+        "linguistic_difficulty_percentage": 0.020470829068577275,
+        "words_per_minute": 97,
+        "common_words": {
+            "nemo": 90,
+            "get": 78,
+            "hey": 73,
+            "oh": 65,
+            "ok": 63,
+            "dory": 61,
+            "go": 60,
+            "right": 59,
+            "know": 52,
+            "dad": 51
+        }
+    }
+}

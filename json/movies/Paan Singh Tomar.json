@@ -1,0 +1,39 @@
+{
+    "title": "Paan Singh Tomar",
+    "year": 2012,
+    "genres": [
+        "Action",
+        "Biography",
+        "Crime",
+        "Sport",
+        "Thriller"
+    ],
+    "runtime": [
+        "135"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Paan Singh Tomar is a Hindi-language film, based on the true story of a runner employed by the Army and has won Gold medal at Indian National Games but forced to become notorious baaghi. It is directed by Tigmanshu Dhulia.::Anonymous",
+        "The story of Paan Singh Tomar, an Indian athlete and seven-time national steeplechase champion who becomes one of the most feared dacoits in Chambal Valley after his retirement.::Akshay"
+    ],
+    "language": {
+        "id": [
+            "Hindi"
+        ],
+        "adult_language_percentage": 2.5551684088269457,
+        "linguistic_difficulty_percentage": 0.09502692429521697,
+        "words_per_minute": 70,
+        "common_words": {
+            "color": 71,
+            "singh": 67,
+            "sir": 67,
+            "go": 65,
+            "p": 64,
+            "paan": 55,
+            "get": 54,
+            "yes": 40,
+            "let": 40,
+            "come": 38
+        }
+    }
+}

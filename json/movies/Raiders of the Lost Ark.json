@@ -1,0 +1,45 @@
+{
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "runtime": [
+        "115"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to humanly existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.::John Wiggins",
+        "As the Third Reich continues its reign of terror, Adolf Hitler is on a quest for the legendary Ark of the Covenant- resting place of the Ten Commandments- whose supernatural powers, legend says, can wipe out entire armies. The U.S. Government turns to Dr. Indiana Jones, for the mission. Relentlessly pursued by Hitler's henchmen, Indy infiltrates their massive digging operation in a race against time to discover the Well of the Souls, where the Ark has lain undisturbed for centuries.::Jwelch5742",
+        "Renowned archeologist and expert in the occult, Dr. Indiana Jones, is hired by the U.S. Government to find the Ark of the Covenant, which is believed to still hold the ten commandments. Unfortunately, agents of Hitler are also after the Ark. Indy, and his ex-flame Marion, escape from various close scrapes in a quest that takes them from Nepal to Cairo.::Colin Tinto <cst@imdb.com>",
+        "The year is 1936. Archeology professor Indiana Jones narrowly escapes death in a South American temple with a gold idol - by poison dart, fall, and finally a giant boulder that chases him out the front. An old enemy, Rene Belloq, steals the idol and then orders Hovito indians after Indy. Indy, however, escapes back to the USA, where Army Intelligence officers are waiting for him at his university. They tell him about a flurry of Nazi archaeological activity near Cairo, which Indy determines to be the possible resting place of the Ark of the Covenant - the chest that carried the 10 Commandments. The Ark is believed to carry an incredibly powerful energy that must not fall into Nazi hands. Indiana is immediately sent overseas, stopping in Nepal to pick up an old girlfriend (his old professor's daughter) and then meeting up in Cairo with his friend Sallah. But danger lurks everywhere in the form of Nazi thugs, and poisonous snakes in the Ark's resting place. After Belloq, hired by the Nazis, makes off again with the Ark, Indy & Marion are determined to get it back, and they overpower the pilot of a German plane. But Indy finds himself confronted with a giant German thug, and after a frightening hand-to-hand fight Indy & Marion blow up the plane. Now the Nazis must drive the Ark to Cairo, but Indy regains control of the Ark after running the convoy off the road, one vehicle at a time. Once again the Nazis recapture the Ark...and Marion, heading for a Nazi-controlled island. There, Belloq will open the Ark...to demonstrate the horrific power it can unleash upon the world!::Derek O'Cain",
+        "Spring 1936. In the thick jungle of the South American continent, a renowned archeologist and expert on the occult is studying fragments of a map, when one of his exploration party pulls a gun. The archeologist pulls out a bullwhip and with such disarms the turncoat, sending him running - thus does Dr. Henry \"Indiana\" Jones stay alive. He and a guide enter a dank and oppressively vast cave that contains several traps created by the ancient race which hid inside a famous handheld statue; Indy barely escapes such traps but is cornered by native tribesmen served by Belloq, an old enemy who arrogantly makes off with the statue, while Indy must flee for his life and escape on a friend's seaplane. Back in the US two agents from US Army intelligence tell him of Nazi German activities in archeology, including a gigantic excavation site in Egypt - a site that an intercepted cable indicates to Indy is the location of the Ark of the Covenant, the powerful chest bearing the Ten Commandments, that the Nazis can use to obliterate any enemy. Indy must recruit a former girlfriend (the daughter of his old professor) and an old chum in Cairo to infiltrate the Nazi site and make off with the Ark, but along the way Indy gets involved in a series of fights, chases, and traps, before the Nazis learn the full power of the Ark.::Michael Daly",
+        "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.::Colin Tinto <cst@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Hebrew",
+            "Spanish",
+            "Arabic",
+            "Nepali"
+        ],
+        "adult_language_percentage": 1.5027582271257371,
+        "linguistic_difficulty_percentage": 0.09511128019783147,
+        "words_per_minute": 45,
+        "common_words": {
+            "get": 39,
+            "jones": 38,
+            "ark": 37,
+            "know": 35,
+            "well": 29,
+            "indy": 27,
+            "come": 26,
+            "wa": 23,
+            "go": 23,
+            "marion": 23
+        }
+    }
+}

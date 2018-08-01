@@ -1,0 +1,40 @@
+{
+    "title": "The Tale of the Princess Kaguya",
+    "year": 2013,
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "runtime": [
+        "137"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "An old man makes a living by selling bamboo. One day, he finds a princess in a bamboo. The princess is only the size of a finger. Her name is Kaguya. When Kaguya grows up, 5 men from prestigious families propose to her. Kaguya asks the men to find memorable marriage gifts for her, but the 5 men are unable to find what Kaguya wants. Then, the Emperor of Japan proposes to her.::Anonymous",
+        "Deep into a swaying and lush bamboo forest, Okina, an elderly farmer, stumbles upon a mysteriously glowing bamboo stalk, that from within, a minuscule fairy-like creature enfolded in a royal robe sprouts before his amazed eyes. Without delay, the ageing man rushes to his wife, Ona, only to witness, much to their surprise, the tiny nymph transform into a baby. In the end, as the infant grows exponentially into a fine girl, the humble couple will take her to the capital, Kyoto, to make her an aristocratic and well-mannered lady worthy of Japan's most powerful suitors. But is this Princess Kaguya's fate?::Nick Riganas",
+        "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her, but ultimately she must confront her fate, the punishment for her crime.::GKIDS"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 0.7175226586102719,
+        "linguistic_difficulty_percentage": 0.0377643504531722,
+        "words_per_minute": 19,
+        "common_words": {
+            "kaya": 33,
+            "girl": 18,
+            "know": 16,
+            "must": 14,
+            "wa": 14,
+            "gold": 12,
+            "u": 11,
+            "found": 9,
+            "one": 9,
+            "think": 9
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Oldboy",
+    "year": 2003,
+    "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "120"
+    ],
+    "rating": 8.4,
+    "plot": [
+        "Abducted on a rainy night in 1988, the obnoxious drunk, Oh Dae-Su, much to his surprise, wakes up locked in a windowless and dilapidated hotel room, for an unknown reason. There, his invisible and pitiless captors will feed him, clothe him and sedate him to avoid committing suicide, and as his only companion and a window to the world is the TV in his stark cell, the only thing that helps Oh Dae-Su keep going is his daily journal. But then, unexpectedly, after fifteen long years in captivity, the perplexed prisoner is deliberately released, encouraged to track down his tormentor to finally get his retribution. Nevertheless, who would hate Oh Dae-Su so much he would deny him of a quick and clean death?::Nick Riganas",
+        "An average man is kidnapped and imprisoned in a shabby cell for 15 years without explanation. He then is released, equipped with money, a cellphone and expensive clothes. As he strives to explain his imprisonment and get his revenge, Oh Dae-Su soon finds out that his kidnapper has a greater plan for him and is set onto a path of pain and suffering in an attempt to uncover the motive of his mysterious tormentor.::Jacksrevenge",
+        "On the day of his daughter's birthday, Ho Dae-su gets completely drunk and is arrested. His best friend No Joo-hwan releases him from the police station, and while calling home from a phone booth, Dae-su vanishes. Indeed he has been abducted and imprisoned in a room for fifteen years. One day, he is suddenly released, receives clothes, money and a cellular and meets the Japanese chef Mido, and they feel a great attraction for each other. However, Dae-su seeks for his captor and the reason of his long imprisonment. While looking for revenge, Dae-su discloses deep secrets from the past.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+    ],
+    "language": {
+        "id": [
+            "Korean"
+        ],
+        "adult_language_percentage": 2.838752269351378,
+        "linguistic_difficulty_percentage": 0.09902624195411786,
+        "words_per_minute": 50,
+        "common_words": {
+            "wa": 45,
+            "know": 39,
+            "go": 35,
+            "joe": 35,
+            "hey": 32,
+            "right": 31,
+            "let": 31,
+            "okay": 28,
+            "get": 28,
+            "please": 26
+        }
+    }
+}

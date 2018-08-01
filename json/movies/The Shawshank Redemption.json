@@ -1,0 +1,39 @@
+{
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "142"
+    ],
+    "rating": 9.3,
+    "plot": [
+        "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.::J-S-Golden",
+        "Story of a hot-shot American banker Andrew Dufresne who finds himself to be an inmate at the Shawshank prison for a crime he says he didn't commit, the murder of his wife and her lover. The movie revolves around Andy's take on this drastic transformation, his journey as an inmate in the prison during which he befriends Red, a fellow inmate as well as gains the respect of his friends.::Rajat Sindhu",
+        "After the murder of his wife, hotshot banker Andrew Dufresne is sent to Shawshank Prison, where the usual unpleasantness occurs. Over the years, he retains hope and eventually gains the respect of his fellow inmates, especially longtime convict \"Red\" Redding, a black marketeer, and becomes influential within the prison. Eventually, Andrew achieves his ends on his own terms.::Reid Gagle",
+        "Andy Dufresne is sent to Shawshank Prison for the murder of his wife and her secret lover. He is very isolated and lonely at first, but realizes there is something deep inside your body that people can't touch or get to....'HOPE'. Andy becomes friends with prison 'fixer' Red, and Andy epitomizes why it is crucial to have dreams. His spirit and determination lead us into a world full of imagination, one filled with courage and desire. Will Andy ever realize his dreams?::Andy Haque",
+        "Bank Merchant Andy Dufresne is convicted of the murder of his wife and her lover, and sentenced to life imprisonment at Shawshank prison. Life seems to have taken a turn for the worse, but fortunately Andy befriends some of the other inmates, in particular a character known only as Red. Over time Andy finds ways to live out life with relative ease as one can in a prison, leaving a message for all that while the body may be locked away in a cell, the spirit can never be truly imprisoned.::Dave Moody",
+        "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.::Carl Schultz"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 4.233067729083665,
+        "linguistic_difficulty_percentage": 0.099601593625498,
+        "words_per_minute": 84,
+        "common_words": {
+            "color": 203,
+            "wa": 78,
+            "andy": 73,
+            "get": 65,
+            "like": 60,
+            "know": 55,
+            "man": 52,
+            "say": 49,
+            "got": 45,
+            "time": 44
+        }
+    }
+}

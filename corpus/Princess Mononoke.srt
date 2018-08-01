@@ -1,0 +1,1094 @@
+{368}{503}In ancient times the land|lay covered in forest...
+{505}{659}...where from ages long past|dwelt the spirits of the gods.
+{1693}{1803}PRINCESS MONONOKE
+{2137}{2161}Yakul!
+{2317}{2340}Ashitaka!
+{2361}{2432}Oracle says to get back to the village.
+{2433}{2478}The Old Man, too.
+{2481}{2543}- He says something's wrong.|- No birds.
+{2545}{2568}No animals...
+{2571}{2683}I'll go to him. You get back home.
+{3591}{3641}Something's coming!
+{3804}{3837}What is it?
+{3839}{3898}It's not a person...
+{3899}{3977}Oracle's called everyone in.
+{3994}{4028}There!
+{4726}{4779}A demon god!
+{5278}{5312}Yakul, run!
+{5928}{5991}It'll attack the village!
+{5994}{6034}Ashitaka!
+{6037}{6119}Don't touch it!|Its curse will be on you!
+{6141}{6173}Yakul!
+{6732}{6780}Quiet your rage, I beg you!
+{6782}{6897}O forest god who cannot be|without name, why do you rampage so?
+{7294}{7352}- A monster!|- Run!
+{7390}{7461}Stop! Do not destroy our village!
+{7463}{7509}Stop! Still your rage!
+{7618}{7645}Get up!
+{8973}{9036}- It's down!|- Ashitaka!
+{9038}{9065}Bring Oracle!
+{9067}{9096}Watch the fire!
+{9136}{9163}Ashitaka!
+{9239}{9310}Don't touch it! It's no ordinary wound!
+{9311}{9383}He's hurt! Where's Oracle?!
+{9386}{9449}All of you, stay back!
+{9462}{9489}Oracle!
+{9490}{9572}Pour this water over it...slowly.
+{9907}{9990}O raging god unknown to us...
+{9992}{10060}...l bow before you.
+{10086}{10196}Where you have fallen we will|raise a mound and perform rites.
+{10198}{10265}Bear us no hate, and be at peace.
+{10304}{10382}You loathsome rabble!
+{10407}{10501}You shall know my hatred|and my grief!.
+{11440}{11522}This is very, very bad.
+{11523}{11618}The boar-spirit came from|far to the west.
+{11619}{11718}A poison within him goaded him on,|rotting his flesh...
+{11719}{11863}...drawing evil as he ran,|making a monster of him.
+{11890}{11918}Prince Ashitaka...
+{11952}{12008}Show your right arm.
+{12212}{12235}Oracle!
+{12268}{12387}Prince Ashitaka, are you steeled|to gaze upon your fate?
+{12389}{12476}Yes. I was resolved|when I let my arrow fly.
+{12532}{12633}The scar will seep into your bones|and you will die.
+{12748}{12800}Can nothing be done?!
+{12802}{12883}He was defending the girls,|and the village!
+{12885}{12937}Can we but sit and wait?
+{12956}{13017}You cannot change your fate.
+{13019}{13125}You can, though, rise to meet it.
+{13127}{13163}Look.
+{13211}{13283}This was inside the boar's body.
+{13299}{13429}He was in agony. It shattered|his bones, tore at his entrails...
+{13431}{13523}What else could|have made him that way?
+{13540}{13642}Calamity has befallen|the land of the west.
+{13644}{13755}Journey there, and see|with eyes unclouded.
+{13769}{13860}There might be a way|to lift the curse.
+{13913}{14076}More than 500 years have gone since|the Mikado drove us into this land.
+{14077}{14168}Now we hear how his power fades...
+{14169}{14260}...and the fangs of his Shoguns|are broken.
+{14261}{14373}But the blood of our tribe|likewise grows thin.
+{14386}{14508}And now, bitter fate...|the youth who was one day to lead us...
+{14510}{14587}...must journey far to the west.
+{14965}{15072}The law forbids that we watch|as you go. Farewell.
+{15793}{15819}Brother!
+{15821}{15873}Kaya, you can't be here!
+{15889}{15981}I don't care. Remember me by this.
+{16097}{16143}But it's your jeweled dagger!
+{16161}{16217}Keep it with you to guard you.
+{16219}{16328}I'll think of you...|be sure of that.
+{16331}{16408}As will l, Kaya.
+{18556}{18586}Fighting?
+{18795}{18820}Move up!
+{18896}{18935}A warrior!
+{18938}{18985}His head is mine!
+{19240}{19269}Stop!
+{19466}{19506}My arm!
+{19535}{19593}Don't let him get away!
+{19597}{19655}Let me pass!
+{20014}{20049}A demon!
+{20368}{20413}The scar's growing...
+{20686}{20751}This gruel tastes like hot water!
+{20851}{20899}There he is!
+{21054}{21085}Will this do?
+{21086}{21137}This isn't money!
+{21154}{21194}Give back my rice!
+{21208}{21268}Could I see that, please?
+{21291}{21321}Hm?!
+{21323}{21422}Woman, this is pure gold!
+{21454}{21529}Is it coins you want? I'll pay you.
+{21531}{21561}Give me this.
+{21577}{21665}Is there a money-changer here?
+{21666}{21717}No?
+{21727}{21859}I'm just a simple priest, but I'd say|this is worth three sacks of rice!
+{21861}{21890}Wait, young sir!
+{21892}{21933}That's mine! Give it back!
+{21954}{22037}Hey! Don't be in such a rush!
+{22054}{22191}No need to thank me.|It's I who should thank you.
+{22193}{22292}I saw what you did before|against those samurai.
+{22314}{22405}You fight like one possessed!
+{22490}{22584}Ah, you see those men, too?|Keep your gold hidden, my lad.
+{22601}{22675}Hearts have grown hard|throughout the land.
+{22696}{22782}They'll rob you in your sleep.|Shall we run?
+{23033}{23111}So the boar became a monster...
+{23127}{23249}I tracked it back to where|the samurai attacked the village, but...
+{23251}{23286}You lost it.
+{23288}{23328}See over there?
+{23346}{23484}When I was last this way,|there was a fine village here.
+{23487}{23591}There was a flood, maybe,|or a landslide. I'm sure many died.
+{23631}{23720}The land teems with the twittering|of bitter ghosts...
+{23722}{23828}...dead from war, sick or starved|and fallen where they stood...
+{23830}{23931}A curse, you say?|This world is a curse.
+{23992}{24031}Ah, this is good!
+{24073}{24168}I shouldn't have gotten into|that fight. I killed two men.
+{24169}{24235}You saved me that task.
+{24236}{24306}Give me your bowl.
+{24308}{24339}We all die.
+{24354}{24405}Some now, some later.
+{24407}{24471}Hm, an elegant bowl...
+{24472}{24579}You remind me of the old tales...
+{24598}{24665}A brave people, far to the east...
+{24667}{24752}...who used stone arrowheads|and rode red elk...the Emishi.
+{24911}{24991}First, though,|avoid the jaws of death.
+{24992}{25069}Or so my old teacher used to say.
+{25071}{25129}Eat, my lad. It's your rice!
+{25182}{25229}Would you know what this is?
+{25337}{25361}No.
+{25375}{25504}It was in the body of the giant boar.|It's what killed him.
+{25743}{25819}Far to the west...
+{25821}{25919}...deep in the mountains,|is the forest of the Deer God.
+{25920}{25959}There no man may tread.
+{25961}{25998}The forest of the Deer God?
+{26000}{26119}They say the beasts there are giants,|as they were in ages past.
+{26936}{26981}I knew he'd go...
+{27744}{27831}It's not far now!|Stay on your guard!
+{27859}{27892}Here they come!
+{27895}{27924}The wolves!
+{28108}{28190}Calm the oxen! Don't rush!|Form your ranks!
+{28193}{28239}Keep your powder dry!
+{28255}{28299}Let them come in range!
+{28480}{28532}Number 1 , fire!
+{28952}{29004}Number 2, fire!
+{29153}{29218}They weren't much, as monsters go.
+{29220}{29295}Those were just the pups.|Where's the mother?
+{29464}{29491}It's Moro!
+{29643}{29680}Come on!
+{30007}{30042}Got her!
+{30044}{30124}She's a god.|She won't die from that.
+{30315}{30359}She did some damage...
+{30360}{30395}Move them out.
+{30396}{30439}What about the ones who fell?
+{30441}{30483}Form up and move out!
+{30969}{31000}He's breathing!
+{31021}{31053}Hang on!
+{32540}{32645}I am Ashitaka! I have come|from far to the east!
+{32646}{32733}Are you ancient gods|of the forest of the Deer God?
+{33129}{33155}Leave!
+{33641}{33705}A kodama? Are they here, too?
+{33760}{33822}You're hurt. Keep still.
+{33950}{34046}They won't harm you.|They're a sign the woods are healthy.
+{34048}{34098}They'll bring their lord!
+{34100}{34155}Who? The wolf?
+{34158}{34252}No, a huge monster!
+{34311}{34345}It's gone!
+{34474}{34574}Yakul's not afraid.|There's no danger here.
+{34614}{34701}We beg passage|through your woods.
+{34986}{35029}Let's go back! Please!
+{35050}{35150}There's a trail across the river.|We'll never get through these woods!
+{35163}{35219}The current's too strong.
+{35221}{35306}And if we don't get this man back soon,|it'll be too late.
+{35435}{35518}Are you showing us the way,|or getting us lost?
+{35869}{35966}Sir! These things|aren't helping us get home.
+{35968}{36011}There's more and more of them!
+{36490}{36583}This is your mother? A fine tree!
+{37571}{37676}That girl and the wolves...|so this is where they live...
+{37691}{37807}We're getting in deeper, sir.|This way leads into the other world.
+{37808}{37857}Yes, let's take a rest.
+{38141}{38171}Tracks...
+{38318}{38419}Three toes...and still fresh.
+{39699}{39739}Sir! What's wrong?
+{40535}{40634}Are you all right, sir?|You're awfully pale...
+{40660}{40706}I told you!
+{40707}{40762}Did you see something?
+{40763}{40799}Forget it.
+{40831}{40897}Hang on a little longer.
+{40899}{40941}I'm sorry.
+{41094}{41137}It's gone...
+{41191}{41278}Why does he suddenly feel so light?
+{41280}{41350}Hey! It doesn't hurt!
+{41383}{41443}I'm cured!...ow! No, it's broken.
+{41578}{41682}Sir! You're exactly right!|We're back at the ironworks!
+{42454}{42486}It's a fort!
+{42487}{42539}Lady Eboshi's ironworks.
+{42541}{42613}They melt iron sand into iron.
+{42623}{42655}Hey!
+{42680}{42728}Hey!
+{42755}{42826}- Someone's coming from the woods!|- The wolf princess?
+{42846}{42928}It's me! Koroku the ox-driver!
+{43027}{43098}It's true! He's crossing the lake!
+{43123}{43235}What's all this noise?!|Be quiet when I'm writing!
+{43237}{43303}Koruku's come back from the dead!
+{43305}{43330}What?!
+{43620}{43663}You're not a ghost.
+{43665}{43737}- Where are the others?|- Four of you fell...
+{43750}{43786}It's just us left.
+{43864}{43920}It's never the guards that die.
+{43922}{43954}Move!
+{43968}{44051}Who's the man in the hood, sir?
+{44053}{44090}An outsider...
+{44123}{44264}Listen, Riflemen...this gentleman|carried your man all the way here.
+{44266}{44307}Thank him.
+{44318}{44402}Ow! Don't grab me there!
+{44429}{44499}Hey, you! Wait!
+{44781}{44849}First, my thanks|for bringing back our men.
+{44852}{44911}But something bothers me...
+{44913}{44999}You got here in less than|half the time we did...
+{45001}{45079}...through the Deer God's forest,|carrying two...
+{45080}{45136}Koroku! You're alive!
+{45138}{45176}Toki!
+{45266}{45357}Look at that leg! How are you|going to drive oxen now?!
+{45359}{45388}But...but...
+{45390}{45483}Scaring me half to death!|The wolf-god should've eaten you!
+{45485}{45540}Then I could find a better husband!
+{45541}{45608}Toki! They're all listening!
+{45611}{45680}Toki, save your love-talk for later.
+{45707}{45765}And you! Leaving them there to die!
+{45768}{45857}Some escort you are!|You don't do any real work here.
+{45859}{45906}At least act when there's danger!
+{45908}{45955}What could I do?
+{45957}{46039}Thank you. My husband's an idiot,|but I'm glad he's safe.
+{46054}{46140}Good. I was afraid maybe|I'd done something wrong.
+{46264}{46337}You look very handsome.|Show us your face.
+{46339}{46367}Gonza...
+{46396}{46493}I would like to thank the traveler.|Bring him to me later.
+{46495}{46519}Koroku...
+{46555}{46627}It's good you're back. I apologize.
+{46652}{46758}Don't say that, Milady. He'll just|take advantage of you.
+{46776}{46878}Forgive me, Toki. I shouldn't|have let it happen.
+{46880}{46972}If you hadn't been there, Milady...
+{46973}{47022}...the wolves would've got them all.
+{47080}{47160}Go and rest, Traveler.
+{47276}{47329}Hey! You are handsome!
+{47991}{48071}We had to fight off Moro|to bring this rice, you know.
+{48072}{48108}Dish it out!
+{48146}{48188}Where?
+{48190}{48227}Him?
+{48229}{48285}Toki was right!
+{48287}{48334}- He is handsome!|- A bit young...
+{48336}{48400}That never stopped you before!
+{48416}{48472}Quiet out there! We lost two men!
+{48473}{48526}There's lots of handsome men here!
+{48528}{48577}Bunch of cowherds!
+{48579}{48695}Come over to our place, Traveler!|Forget this stinking barn!
+{48697}{48807}Watch your mouth! We risked our lives|to bring the rice you're eating.
+{48810}{48888}And who made the iron|that bought that rice?
+{48889}{48946}We work those bellows|all night long!
+{48967}{49042}I would like to see where you work,|if you don't mind...
+{49044}{49068}Really?
+{49070}{49123}We'll have to work in make-up!
+{49124}{49164}Rouge, too?
+{49189}{49260}Don't forget! We'll be waiting!
+{49292}{49362}Don't mind them, sir.
+{49388}{49453}Lady Eboshi spoils them.
+{49455}{49506}A good town has happy women.
+{49522}{49597}But women working the bellows|in an ironworks?
+{49599}{49668}Their presence defiles the iron.
+{49680}{49780}Milady buys up the contract|of every brothel girl she finds!
+{49782}{49833}She's kind, that's all.
+{49835}{49882}There's rice on your face, old man.
+{49884}{49983}But she's not afraid|of ancient laws, or of curses.
+{49984}{50055}Or of gods, either.
+{50056}{50124}You should've seen her with Nago!
+{50126}{50152}'Nago'?
+{50154}{50243}A huge boar-god. He ruled|the forest around here.
+{50246}{50317}We couldn't get near the mountains.
+{50319}{50396}All we could do was|sit here and look up at them.
+{50430}{50489}The sand down below was worked out.
+{50505}{50617}Lots of people had their eye on|this place. The boars got them all.
+{50619}{50712}To get sand, we have to|clear the trees.
+{50724}{50760}Nago got mad.
+{51158}{51203}There they go again!
+{51260}{51348}Then Lady Eboshi came along|with her guns.
+{52003}{52045}Sir? What's wrong?
+{52131}{52177}Does your arm hurt?
+{52178}{52250}I was just thinking about that boar...
+{52258}{52339}He must have died full of hate.
+{52488}{52557}Sorry to keep you waiting...
+{52558}{52596}That's good iron.
+{52608}{52672}We were late with|tomorrow's shipment.
+{52731}{52797}Let's have a rest. Tell the others.
+{52829}{52916}Some think you're spying|for the samurai, or the wolf princess.
+{52945}{53017}Many have their eyes on our iron.
+{53019}{53066}May I ask why you're here?
+{53221}{53267}I'm sure you know this.
+{53291}{53410}It shattered the bones of a giant boar,|rotted his flesh and made him a monster.
+{53427}{53543}When I tried to stop him, I was left|with this scar: a curse unto death.
+{53557}{53638}Where is your land?|I've never seen an elk like yours.
+{53660}{53742}Between north and east.|That's all I will say.
+{53744}{53840}Answer when you're asked|or I'll cut you in two!
+{53852}{53910}What do you plan to do?
+{53945}{54004}See with eyes unclouded.
+{54024}{54072}'Eyes unclouded'?
+{54188}{54221}I see.
+{54222}{54281}Come. I'll show you my secret.
+{54282}{54312}Milady!
+{54313}{54359}Take over, Gonza.
+{55826}{55891}My garden, where none dare come.
+{55905}{55961}Come, if you wish|to know my secret.
+{56158}{56193}Good evening.
+{56370}{56429}We've just finished.
+{56465}{56497}It's still heavy.
+{56499}{56561}You hold it so lightly...
+{56564}{56633}Too light and it'll fall apart.
+{56647}{56751}They aren't for me.|They're for the other women here.
+{56765}{56809}Won't that be a sight!
+{56812}{56902}This is the new gun|these people have contrived.
+{56904}{56953}The Chinese ones are too heavy.
+{56970}{57049}It will kill monsters|and pierce samurai armor.
+{57065}{57154}Beware! Lady Eboshi|wants to rule the world!
+{57176}{57255}I'm sorry to rush you.|I'll send sake later.
+{57257}{57293}Won't that be nice!
+{57337}{57430}You stole the boar's woods|and made a monster of him.
+{57431}{57507}Now will you breed new hatreds|with those guns?
+{57533}{57583}I regret that you suffer.
+{57585}{57653}I fired that shot.
+{57664}{57747}It is me that brainless pig|should have cursed.
+{58176}{58245}Would your right hand like to kill me?
+{58261}{58319}To lift the curse, my left would, too.
+{58320}{58379}But I fear it would not stop there.
+{58393}{58464}Must it kill us all to be at peace?
+{58466}{58570}Milady...Osa speaks.
+{58579}{58695}Milady...do not scorn|the young man's strength.
+{58720}{58814}Young man, I too am cursed.
+{58815}{58900}I know well your rage|and your grief.
+{58903}{59020}I know this, but I beg you|not to kill this lady.
+{59022}{59165}She is the only one|who looked upon us as human.
+{59187}{59250}Without fear of our disease...
+{59252}{59362}...she washed our rotting flesh,|bandaged us...
+{59432}{59459}Osa...
+{59461}{59548}Life is suffering. It is hard.
+{59551}{59663}The world is cursed, people are cursed,|but still we wish to live...
+{59665}{59728}Forgive my foolish raving...
+{60198}{60238}They're back.
+{60254}{60368}At night they come to plant trees|and take back the mountain.
+{60371}{60451}Ashitaka, will you stay here|and work with me?
+{60474}{60532}Do you want even|the Deer God's woods?
+{60535}{60642}Without the ancient gods,|the wild ones are mere beasts.
+{60654}{60778}With the forest gone and the wolves|with it, this will be a land of riches.
+{60779}{60821}That girl will be human.
+{60850}{60874}Who?
+{60888}{60970}Mononoke, the wild girl whose soul|the wolves stole.
+{60971}{61027}She lives to kill me.
+{61160}{61251}It is said the blood of the Deer God|will cure disease.
+{61252}{61383}It could cure these people,|and perhaps even lift your curse.
+{61384}{61477}Milady...what do you think?
+{61489}{61567}Very well made. Perfect|for ruling the world.
+{61569}{61627}But it's still a bit heavy.
+{61629}{61654}Oh, dear!
+{62300}{62350}Look who's here!
+{62363}{62410}Let me work the bellows.
+{62411}{62455}Huh? Hey, wait!
+{62524}{62560}May I try?
+{62592}{62644}If he insists...
+{62941}{62994}You really came!
+{62995}{63042}What did I tell you?
+{63043}{63118}Look, she's fixing her kimono!
+{63143}{63195}You'll never keep that pace.
+{63217}{63252}It's hard work.
+{63255}{63318}Yep. We work four days' straight.
+{63338}{63381}Is life hard here?
+{63383}{63494}Yeah, but it's better than|life in the towns.
+{63496}{63585}We eat our fill,|and the men know their place.
+{63599}{63631}I see...
+{64723}{64782}- You go tomorrow?|- Stay longer!
+{64784}{64822}Work here!
+{64824}{64901}Thank you, but there is someone|I must meet.
+{65057}{65085}She's here!
+{65225}{65262}The wolf princess!
+{66170}{66194}It's her!
+{66217}{66254}Stop!
+{66266}{66301}I don't want to fight you!
+{66425}{66473}She's after Milady!
+{66731}{66833}Build up the fires! Riflemen to|the stockade! Keep her inside!
+{66835}{66912}Stay at your posts!
+{66925}{66981}She's up on the roof!.
+{66983}{67051}Don't get excited! Keep working!
+{67053}{67092}The fire mustn't go out!
+{67118}{67209}- Is she alone?|- Yes. We have her cornered.
+{67210}{67264}It's Milady she came for.
+{67265}{67321}Oh well...come on.
+{67533}{67621}Can you hear me, Princess Mononoke?|I'm here.
+{67654}{67709}If you would avenge your tribe...
+{67730}{67830}...here are some who seek|vengeance for husbands...
+{67832}{67882}...killed by wolves.
+{67884}{67944}Come out!|We have a score to settle!
+{68187}{68229}There she is!
+{68302}{68380}Out of the way! You'll get hit!
+{68543}{68588}It's a trap! Stop!
+{68615}{68706}Wolf-God Princess!|Go back to the woods!
+{68794}{68859}Don't die for nothing!
+{68877}{68909}I knew it!
+{68910}{68964}Let him do as he likes.
+{69464}{69518}Got her! She's falling!
+{69520}{69554}Stay back!
+{69565}{69624}Even cut off, the head can still bite.
+{69678}{69719}Aim where she falls.
+{70167}{70204}Fire!
+{70409}{70453}Stay back!
+{70659}{70683}Wake up!
+{70827}{70855}No!
+{71324}{71348}Get her!
+{71349}{71393}Don't let her go!
+{71394}{71423}Kill her!
+{71513}{71564}Are you all right, sir?
+{71792}{71848}Out of my way!
+{71988}{72061}Villain! You're one of them, too!
+{72128}{72156}Halt!
+{72254}{72287}Step aside.
+{72694}{72742}What are you doing?!
+{72744}{72787}The girl is mine.
+{72830}{72882}I'm sure she'll make a lovely wife.
+{72894}{72969}There is a demon inside you.|And in her.
+{73106}{73222}Look on this! It is the form|of the hate within me!
+{73234}{73291}It rots my flesh,|and summons my death!
+{73321}{73364}Do not make the hate grow!
+{73366}{73439}Enough talk of your curse!
+{73441}{73479}I'll cut that arm off!.
+{73602}{73641}Milady!
+{73708}{73750}Someone take her!
+{73898}{73961}Don't worry. She'll be all right.
+{74083}{74131}I will take the girl!
+{74152}{74228}Wait! You don't treat|Lady Eboshi like that!
+{74305}{74333}Don't move!
+{74622}{74661}Kiyo, no!
+{74793}{74825}He still walks...
+{74980}{75043}- How's Milady?|- Safe, sir.
+{75045}{75143}Bring me my gun!|Riflemen, assemble here!
+{75145}{75183}They won't get away!
+{75219}{75259}Toki, quick!
+{75382}{75425}You're...
+{75786}{75826}You can't pass, sir.
+{75839}{75900}The gate can't be opened|without leave.
+{75986}{76021}Turn back, please...
+{76022}{76109}You helped one of us.|We don't want to harm you.
+{76138}{76233}I came on my own two feet.|I will leave on them.
+{76269}{76337}It takes ten men|to open that gate!
+{76530}{76577}Sir, no! You'll die!
+{76788}{76832}He moved it!
+{77001}{77044}Move aside!
+{77136}{77170}Wolves!
+{77172}{77196}Flint!
+{77210}{77269}Stop! Your princess is safe!
+{77341}{77373}I'm coming!
+{77374}{77408}Yakul, let's go!
+{77526}{77561}I thank you.
+{77726}{77760}He's gone...
+{78313}{78341}Wait!
+{78385}{78424}He's mine!
+{78701}{78787}Did they shoot you?|Are you dead?
+{78878}{78955}Why did you stop me?|Speak while you still live!
+{79000}{79064}I didn't want you to die.
+{79067}{79166}I'm not afraid to die|if it will drive the humans away!
+{79185}{79250}I knew that when I first saw you.
+{79252}{79335}You've wasted your life|by getting in my way!
+{79432}{79508}I'll cut your throat!|That'll shut you up!
+{79543}{79567}Live...
+{79570}{79631}I don't listen to humans!
+{79678}{79737}You're beautiful...
+{79819}{79908}What's wrong, San?|Shall I crunch him for you?
+{80195}{80227}The apes...
+{80261}{80366}Apes! Do you mean disrespect|to the tribe of Moro?
+{80390}{80442}This is our forest.
+{80444}{80496}Give us man.
+{80498}{80578}Give us man and go.
+{80580}{80636}Leave, before my fangs find you.
+{80648}{80688}Go.
+{80690}{80743}We eat man.
+{80747}{80780}We eat him.
+{80792}{80834}Let us eat man.
+{80835}{80937}Why would the tribe of the apes...
+{80939}{80995}...want to eat a man?
+{81010}{81116}We eat man. We have his strength.
+{81118}{81200}We want strength|to drive humans away.
+{81203}{81312}You won't get that power|by eating a man.
+{81314}{81409}All that will do is turn you|into something else!
+{81422}{81560}We plant trees.|Humans destroy them.
+{81562}{81638}Forest does not come back.|We kill humans.
+{81654}{81752}The Deer God is with us.|Don't give up. Plant your trees.
+{81754}{81806}We will fight for you to the last!
+{81819}{81916}Deer God will not fight. We die.
+{81918}{81998}Wolf girl not care.|Wolf girl human.
+{82038}{82121}You monkey! I'll break your neck!
+{82196}{82228}Stop it!
+{82436}{82479}It's all right.
+{82481}{82580}You go ahead. I'll take care|of the human.
+{82582}{82622}What about him?
+{82623}{82659}Can we eat him?
+{82731}{82792}No. Go on.
+{82970}{83027}Come here. Let's be friends.
+{83043}{83117}Help me carry your master.
+{85889}{85983}You're smart. You know|not to set foot on this island.
+{86021}{86057}Humans stink!
+{86298}{86362}Go where you will. You're free.
+{88575}{88618}There he is!
+{88638}{88706}The night-walker! At last!
+{88718}{88754}Quick! Come and look!
+{88776}{88849}There's why we've been sitting|in these stinking bearskins!
+{88868}{88914}Don't look! You'll go blind!
+{88930}{88999}This from the West Land's|best hunter?
+{89001}{89068}This is a charter from the Mikado...
+{89070}{89135}...allowing us|to subdue the Deer God!
+{89274}{89344}At night he becomes|the night-walker.
+{89346}{89412}As night becomes day|he changes form.
+{89414}{89519}He's vanishing...over there!
+{91503}{91531}Jiko!
+{91533}{91575}I know.
+{91594}{91630}Over there.
+{91947}{92003}There's hundreds of them.
+{92005}{92063}They're not from these woods.
+{92064}{92121}They're lords of some other mountain.
+{92308}{92356}It's Okkoto!
+{92357}{92423}From the South Island?
+{92424}{92473}There's no mistaking those tusks.
+{92492}{92551}Looks like he brought his whole tribe!
+{92626}{92674}He's seen us! Fall back!
+{92996}{93047}Come on! Jump!
+{94328}{94370}There's no wound!
+{94615}{94647}Yakul...
+{95210}{95312}If you're awake thankYakul.|He watched you the whole time.
+{95359}{95403}How do you know his name?
+{95428}{95550}He's told me all about you,|your village, your forest...
+{95568}{95656}The Deer God brought you|back to life, so I'll help you.
+{95696}{95785}I had this dream...a golden deer...
+{95787}{95815}Eat.
+{95946}{95970}Chew.
+{98123}{98212}We're here to kill the humans|and save the forest.
+{98213}{98260}Why are there humans here?
+{98262}{98321}The girl is San, my daughter.
+{98323}{98457}The humans are everywhere. Go back|to your mountain and kill them there.
+{98474}{98559}We kill for the forest|of the Deer God.
+{98561}{98618}Why is there a man here?
+{98637}{98731}The Deer God healed his wound.|We must give him back.
+{98733}{98864}The Deer God saved him?|The Deer God healed his wound?!
+{98888}{98959}Why did he not save Nago?
+{98961}{99044}Is he not guardian of the forest?!
+{99046}{99148}The Deer God gives life,|and takes it away.
+{99150}{99238}Have you boars forgotten even that?
+{99250}{99351}No! You begged the Deer God for him.
+{99353}{99400}You did not beg for Nago!
+{99416}{99517}He feared death...l, like him...
+{99519}{99621}...carry within me|a poisoned human stone.
+{99622}{99729}Nago fled. I remain,|and contemplate my death.
+{99731}{99777}Go to the Deer God!
+{99778}{99857}I have lived long enough, San.
+{99858}{99937}The Deer God will take my life.
+{99949}{100014}No, Mother! You've protected|the Deer God!
+{100028}{100148}We are not fooled! Nago was beautiful|and strong. Our brother would not run!
+{100164}{100226}You wolves ate him!
+{100239}{100307}Silence! You slander my mother!
+{100315}{100382}Hear me, O wild mountain gods...
+{100405}{100473}It was I who killed Nago.
+{100490}{100584}He had become a demon,|and attacked our village.
+{100596}{100682}A huge boar. Here is my proof.
+{100822}{100922}I came to this land to ask|the Deer God to lift this curse.
+{100944}{101030}He healed my wound,|but the scar remains.
+{101070}{101174}I must suffer until|the curse destroys me.
+{101282}{101375}Okkoto! Good! Someone who can listen.
+{101490}{101515}Okkoto, wait!
+{101529}{101569}You mustn't eat him!
+{101618}{101722}You are Moro's daughter.|I have heard of you.
+{101760}{101794}Your eyes...
+{101809}{101878}Stand back. I will not eat him.
+{101887}{101914}Wolf-God Princess...
+{101935}{102027}Do not fear. I tell of Nago's end.
+{102345}{102430}My thanks to you, young one.
+{102432}{102584}It grieves us that a demon|has come from our tribe.
+{102624}{102713}Lord Okkoto...do you know|how I may lift the curse?
+{102745}{102875}Leave this forest. When next we meet,|I will have to kill you.
+{102887}{102995}You cannot win against|the guns of the humans.
+{102997}{103131}Look on my tribe, Moro.|We grow small, and we grow stupid.
+{103133}{103188}To go on in this manner...
+{103189}{103277}...is to end as game|the humans hunt for meat.
+{103279}{103395}To risk all on a final battle|is to play into human hands.
+{103410}{103491}I ask not for the help of wolves.
+{103501}{103657}Should we die even to the very last,|we will leave the humans in awe.
+{104267}{104303}The Deer God!
+{104692}{104752}Keep the oxen together!
+{104833}{104877}Hold your fire...let them come!
+{104906}{104934}Fire!
+{105079}{105113}Reload! Quick!
+{105474}{105563}That damned Eboshi's fighting|the wrong enemy!
+{105565}{105628}You go on ahead and hide.
+{106142}{106195}Here they come!
+{106330}{106364}Chief...
+{106366}{106399}Well done.
+{106416}{106492}We're moving out. Tell the others.
+{106602}{106640}Hello, Jiko.
+{106642}{106753}The Emperor presses, and you sport|with country samurai...
+{106769}{106853}Lord Asano sets them against me.
+{106862}{106930}Asano? A powerful man...
+{106932}{106989}He wants my iron.
+{106990}{107032}Greedy, isn't he.
+{107052}{107121}But now is no time to fight men.
+{107122}{107191}The boars are gathering in the forest.
+{107214}{107267}Give him the iron.
+{107269}{107359}Keep your promise to the Emperor,|then smash Asano.
+{107362}{107446}Quick, Milady!|Asano's men are coming!
+{107574}{107646}Speak of the devil! A messenger.
+{107648}{107716}A messenger.|Remember your manners.
+{107786}{107825}Welcome home!
+{107893}{107943}Aren't you going to see him?
+{108026}{108150}Eboshi, Mistress of the ironworks,|you have fought well!
+{108179}{108294}I bring a message from my lord.|Open your gates!
+{108296}{108367}We hear you fine from there!
+{108369}{108438}Milady took this mountain|from the boars!
+{108439}{108493}Now it's worth something|and you want it!
+{108495}{108530}On your way!
+{108532}{108595}You have no respect, woman!
+{108598}{108635}No respect?
+{108637}{108754}We haven't had respect|since we were born!
+{108756}{108816}You want iron? Have some!
+{109005}{109077}They're really something!
+{109079}{109144}Samurai or forest god,|they don't care.
+{109161}{109242}Eboshi's women don't lack courage.
+{109288}{109333}What good is this paper?
+{109348}{109427}Well, it's helped in getting|the best hunters and trackers.
+{109429}{109499}We're after gods, not just beasts.
+{109533}{109577}Yes, Milady?
+{109585}{109649}Do you know who this paper is from?
+{109660}{109695}The Mikado.
+{109697}{109752}- Mikado?|- Who's he?
+{109766}{109801}The Emperor.
+{109818}{109892}They're really something!
+{109903}{109937}Off you go.
+{109978}{110084}As we make iron here,|the forest grows weak.
+{110086}{110135}That way costs fewer lives.
+{110155}{110215}We've spent too much time|and money.
+{110217}{110312}We didn't send 40 riflemen|just for the iron.
+{110314}{110385}So the Emperor says, at least.
+{110388}{110507}Surely he doesn't believe that the|Deer God's head confers immortality?
+{110510}{110614}I'm not privy to the thoughts|of the Emperor.
+{110616}{110646}Best not to be.
+{110677}{110713}You have my word.
+{110715}{110820}The boars will be easier|than Moro and her tribe.
+{110844}{110934}Call out that shady bunch|you've got hidden under the cliff.
+{110950}{111050}So I'm found out, am l?
+{111052}{111108}One more thing...
+{111118}{111168}Did a young man pass by here?
+{111185}{111252}Riding a red elk?
+{111266}{111298}He left.
+{111767}{111815}They make my skin crawl!
+{111816}{111908}They're not ordinary hunters.|They're special scouts.
+{111927}{111975}Let us go with you!
+{111977}{112016}Don't trust those men!
+{112032}{112099}We can't help you from here|if anything happens!
+{112101}{112142}We've learned how to shoot...
+{112158}{112234}That's the reason I want you here.
+{112247}{112315}I fear humans more than forest gods.
+{112344}{112432}With the Deer God dead,|things will become clear.
+{112434}{112529}Is the Deer God's head|all the Emperor really wants?
+{112552}{112639}We may have to fight|the riflemen, too.
+{112665}{112748}We can't trust men.|Stay on your toes.
+{112762}{112862}Don't worry about Lady Eboshi.|I'll protect her.
+{112864}{112920}- You will, will you?|- What?!
+{112922}{112979}Maybe if you were a woman...
+{114659}{114691}Does it hurt?
+{114744}{114832}You could end it all|by jumping, you know.
+{114834}{114911}When your strength returns,|the scar will grow restless.
+{114940}{114999}I feel like I've slept for days.
+{115016}{115079}I dreamed San was tending to me.
+{115082}{115248}I hoped you would cry out in your sleep,|so I could bite off your head.
+{115250}{115298}A beautiful woods...
+{115300}{115343}Are the boars moving yet?
+{115358}{115452}Go back into the cave, boy.|You can't hear it...
+{115454}{115523}The cry of the woods|trampled under by boars...
+{115550}{115667}I sit here listening to it|and to the crumbling of my body...
+{115669}{115727}...and wait for that woman...
+{115728}{115813}...dreaming of the moment|I crush her head in my jaws.
+{115828}{115911}Can't humans and the forest|live together in peace?
+{115921}{115958}Can't this be stopped?
+{115960}{116023}The humans are gathering.
+{116024}{116087}Their fire will reach even here.
+{116089}{116171}And San? Do you intend|to take her with you?
+{116173}{116267}How like a human|to think only of himself!.
+{116284}{116423}She is a daughter of our tribe.|When the woods die, so will she.
+{116426}{116488}Set her free! She's human!
+{116504}{116539}Silence, boy!
+{116540}{116612}What can you do for her?
+{116634}{116776}The humans who violated the forest|threw her in my path as they ran from me.
+{116779}{116859}Now she cannot be human,|and she cannot be wolf.
+{116861}{116945}My poor, ugly,|lovely daughter...
+{116948}{117007}Can you save her?!
+{117053}{117121}I don't know,|but together we can live.
+{117176}{117293}How? Will you join with San|and fight the human race?
+{117312}{117377}No. All that does is cause more hatred.
+{117391}{117498}There is nothing you can do, boy.
+{117500}{117576}Soon the scar will kill you.
+{117578}{117634}Leave here when the sun rises.
+{117975}{117999}Can you walk?
+{118067}{118131}Thanks to you and the Deer God.
+{119600}{119662}Yakul! Were you worried?
+{119779}{119832}My legs are so weak!
+{120592}{120655}It's so quiet...where are the kodama?
+{120816}{120881}I can smell the ironworks...
+{121047}{121139}Thank you for guiding me.|I have a favor to ask you.
+{121189}{121237}Give this to San.
+{121443}{121475}Let's go.
+{122225}{122282}What a stench!
+{122284}{122398}That's not just smoke.|It's to blunt our sense of smell.
+{122400}{122423}That woman!
+{122660}{122695}She knows we're here...
+{122697}{122775}- It's a foolish trap.|- A trap?
+{122787}{122886}They're trying to lure the boars|out of the woods.
+{122888}{122931}They're planning something.
+{122933}{123028}We've got to warn them!|They'll be killed!
+{123047}{123106}Okkoto is no fool.
+{123108}{123216}The boars know it's a trap,|but still they'll charge.
+{123218}{123279}They are a proud race.
+{123297}{123393}The last one alive|will still be charging forward.
+{123512}{123549}They're cutting trees.
+{123551}{123595}To anger them.
+{123657}{123719}Mother, this is farewell.
+{123720}{123785}The smoke will blind Okkoto.
+{123787}{123822}I will be his eyes.
+{123845}{123888}As you will.
+{123890}{123990}Although there is a life for you|with that boy...
+{123998}{124043}I hate humans!
+{124330}{124390}From Ashitaka? For me?
+{124480}{124504}It's pretty...
+{124523}{124565}You two go with San.
+{124568}{124658}- I will stay with the Deer God.|- Let's go.
+{125164}{125257}The tribe of Moro fights with you!|Where is Okkoto?
+{125332}{125363}Thank you.
+{127416}{127448}The ironworks!
+{127588}{127616}Let's go!
+{127708}{127733}Who goes there?!
+{127740}{127764}Samurai!
+{127814}{127838}Halt!
+{127864}{127899}Let me pass!
+{128298}{128333}Who was that?!
+{128429}{128489}He's stopping them!
+{128504}{128546}Don't waste your arrows!
+{129130}{129157}Quick!
+{129159}{129197}You're right! It is him!
+{129199}{129223}In the flesh!
+{129224}{129280}Ashitaka!
+{129281}{129305}Toki?
+{129317}{129348}Are you all right?
+{129350}{129383}As you see us!
+{129385}{129494}They thought they'd catch us|while the men were away!
+{129496}{129535}We showed 'em!
+{129536}{129604}- They thought we'd be easy!|- Where's Lady Eboshi?
+{129607}{129718}She took every man who could move|and went to kill the Deer God.
+{129720}{129767}We're cut off and can't reach her!
+{129770}{129852}The Deer God?|So that sound before...
+{129854}{129917}Sir! I've still got your bow!
+{129919}{129980}What about his saddle and cloak?!
+{129982}{130019}- But...|- Useless!
+{130034}{130074}Koroku, thanks!
+{130076}{130139}I'll bring help. Can you hold out?
+{130142}{130225}We'll pour hot iron on them|if we have to!
+{130227}{130263}Hurry, Ashitaka!
+{130265}{130314}Bring Lady Eboshi!
+{130438}{130467}Missed!
+{130468}{130516}They're bringing boats. Hurry!
+{130518}{130612}Bring Lady Eboshi! We'll fight, too!
+{130653}{130699}I'll be back!
+{130767}{130820}We'll be here!
+{130898}{130931}Get that man!
+{131170}{131216}They're after us, Yakul!
+{132247}{132295}Burning flesh...
+{132440}{132472}Yakul!
+{133405}{133432}Stay back!
+{133750}{133786}Show me the wound...
+{133832}{133894}Wait here. I'll be right back.
+{133965}{134000}Stay, I said!
+{134264}{134301}We're almost there...
+{135366}{135396}Who goes there?!
+{135413}{135495}Outsiders are not allowed here.
+{135516}{135627}I have a message for Lady Eboshi.
+{135639}{135729}She's not here. State your business|and I'll pass it on.
+{135746}{135798}I will speak to her! Where is she?!
+{135801}{135890}Young sir...so you're alive...
+{135905}{135949}You've had a bad time...
+{135951}{135996}There's still men buried.
+{135997}{136025}It was horrible...
+{136041}{136089}The ironworks are under attack.
+{136107}{136209}There's still time. The women are|holding the inner stockade.
+{136211}{136243}The bastards!
+{136245}{136301}Asano waited till we left!
+{136314}{136357}Where's Lady Eboshi?
+{136358}{136424}She's gone after the Deer God.
+{136425}{136469}Call her back!
+{136486}{136543}If you're done, get out of here!
+{136545}{136568}Back to work!
+{136571}{136612}And the ironworks?
+{136613}{136655}Now wait a minute!
+{136665}{136718}They want to abandon the ironworks!
+{136737}{136784}If we wait we'll be too late!
+{136786}{136826}Send a messenger!
+{136828}{136903}The woods are huge.|He'd never find her!
+{136906}{136975}Send one of your trackers!
+{136990}{137054}Lady Eboshi's being used.
+{137071}{137149}Were there any wolves|with the boars?
+{137151}{137206}San, er, the wolf girl?
+{137208}{137292}I don't know...it was pitch black|when they came at us.
+{137294}{137340}She was there.
+{137350}{137420}We were in the front...
+{137422}{137448}And?
+{137450}{137549}I don't know. Suddenly|I didn't know what was going on.
+{137551}{137630}The scouts put us out there|to lure the boars in.
+{137632}{137683}There were mines underneath us...
+{137684}{137737}...and grenades from above.
+{139022}{139058}Where's San?!
+{139146}{139221}Be still! I want to help you.
+{139307}{139395}A wolf!. There's a wolf|still alive over here!
+{139397}{139424}Sir, what...
+{139532}{139555}Sir!
+{139557}{139610}Move! What are you doing, boy?!
+{139636}{139724}He's going to take me to Eboshi.
+{139726}{139796}So you're with them, are you?
+{139808}{139840}Move.
+{139857}{139946}What's more important, the head of|the Deer God or the ironworks?!
+{139962}{139991}Poison darts!
+{140140}{140169}Stop!
+{140326}{140377}Give me a hand!
+{140622}{140658}He's out!
+{140936}{141011}Go through the swamp|and hide near the lake.
+{141021}{141085}The riflemen are with them.|Be careful.
+{141099}{141174}Take this. My last arrow's broken.
+{141226}{141257}You go with them.
+{141259}{141300}Take care of him!
+{141389}{141440}Find San! That's where Eboshi is!
+{141726}{141808}Don't fall behind the scouts.|Today we finish this!
+{141877}{141904}Jiko...
+{141906}{141953}Well? How does it look?
+{141955}{142073}Okkoto's hurt. He and the girl|are going to the Deer God.
+{142089}{142169}So they're going to ask him|for help...stay with them.
+{142186}{142248}But stay hidden, or he won't appear.
+{142250}{142300}Of course.
+{142321}{142392}Is that boar's blood on his face?
+{142402}{142468}That's how they trick the boars.
+{142662}{142744}Keep going! We're almost at|the Deer God's pond.
+{143163}{143199}Something's coming!
+{143266}{143341}Something's wrong, Okkoto!|Just a bit further!
+{143359}{143404}Something bad is coming.
+{143406}{143477}There's too much blood.|I can't smell what it is.
+{143595}{143620}The apes!
+{143623}{143664}You did this.
+{143666}{143722}It is your fault. Forest will die.
+{143736}{143830}Is this how you thank those|who fought for your forest?
+{143833}{143885}You brought ruin.
+{143886}{143950}Things neither animal nor human!
+{143965}{144024}Neither animal nor human?
+{144171}{144229}- They're here!|- It's the end!
+{144695}{144720}Warriors!
+{144802}{144841}They've returned!
+{144874}{145014}My warriors have returned|from the land of the dead!
+{145110}{145233}Forward, my warriors!|To the Deer God!
+{145386}{145479}Okkoto, no! Your warriors|haven't come back to life!
+{145610}{145669}They wear boar skins|to hide their scent!
+{145672}{145704}They're men!
+{145769}{145859}Stop! They want us to take them|to the Deer God!
+{145966}{146014}Come out, Deer God!
+{146015}{146155}If you are lord of this forest,|revive my warriors to slay the humans.
+{146202}{146251}Okkoto! Still your heart!
+{146271}{146347}We're surrounded! He's done for.|Leave him!
+{146350}{146419}No! Then he'll become a demon!
+{146438}{146527}Tell Mother it's the Deer God|the humans want!
+{146540}{146598}She'll know what to do!
+{146642}{146696}We can't let our kind die out!
+{146730}{146761}Go!
+{147225}{147345}I'll kill the first one that moves,|and tell the whole forest what you are!
+{147608}{147644}Ashitaka?
+{147797}{147821}Bastards!
+{147993}{148095}I burn! A flame bursts from within me!
+{148131}{148172}No!
+{148175}{148244}No, Okkoto! Don't turn into a demon!
+{148291}{148327}Okkoto!
+{148392}{148416}An answer!
+{148510}{148535}What is it?
+{148536}{148576}- San's in danger!|- Let's go!
+{149260}{149295}I'm hot!
+{149510}{149537}No!
+{149539}{149613}I don't want to be a monster!|Okkoto!
+{149892}{149925}Too slow! Get on!
+{150271}{150309}A wolf!.
+{150372}{150395}Eboshi!
+{150562}{150602}Go on ahead!
+{150635}{150685}Eboshi, listen!
+{150688}{150720}Stop!
+{150722}{150746}Ashitaka?
+{150766}{150878}The samurai are attacking the ironworks!|The women are fighting back!
+{150891}{150920}Leave the Deer God!
+{150944}{151035}The men are heading back!|They're waiting for you!
+{151049}{151105}What proof do you have?
+{151107}{151191}None! I would have stayed|and fought if I could!
+{151205}{151290}So it's 'don't kill the Deer God,|kill the samurai,' is it?
+{151303}{151401}No! Can't the forest|and the ironworks live together?
+{151459}{151503}Whose side is he on?
+{151504}{151531}Let's go back!
+{151551}{151676}I've done all I can for the women.|They can defend themselves.
+{151730}{151797}There's the pond. He's around here!
+{151829}{151883}It's now or never. Stay alert.
+{151908}{151947}Do we need her?
+{151949}{152034}We're killing a god.|Let her do it for us.
+{152677}{152720}Moro! Are you dead?
+{152722}{152755}San!
+{152756}{152788}Where are you?
+{152809}{152841}San!
+{153025}{153051}Ashitaka!
+{153233}{153257}Okkoto...
+{153456}{153480}Leave, boy.
+{153512}{153573}If we fight, the Deer God won't come.
+{153685}{153753}Okkoto! Be still!
+{153853}{153944}Okkoto! Give me the girl!|Where is San?
+{153964}{154036}San, can you hear me?|It's me, Ashitaka!
+{154188}{154218}San!
+{154385}{154425}Shut him up!
+{154537}{154583}Shoot him down!
+{155164}{155193}San!
+{155257}{155289}San!
+{155357}{155392}Ashitaka!
+{155490}{155521}San!
+{155524}{155549}Ashitaka!
+{155737}{155889}And here I was saving my last bit|of strength for that woman...
+{155891}{155940}Close up!
+{156361}{156422}Stay away from him.
+{156424}{156466}The curse will fall on you.
+{156695}{156736}Can you not even speak now?
+{156765}{156872}Well done. Fall back|and tend to the wounded.
+{156906}{156967}A horrible sight!
+{157168}{157192}There he is!
+{157497}{157561}Give me back my daughter!
+{158084}{158120}Ashitaka...
+{158122}{158180}Can you save San?
+{158408}{158449}The Deer God...
+{158709}{158741}Don't shoot!
+{159076}{159176}Eboshi! Your enemy is not|the Deer God!
+{159189}{159221}Guns can't hurt him...
+{159222}{159255}Only through the head...
+{159491}{159515}San!
+{159758}{159790}Don't die!
+{160447}{160512}Is the Deer God taking life?!
+{160999}{161047}He's starting to change!
+{161049}{161085}Watch closely.
+{161102}{161151}This is how you kill a god.
+{161154}{161216}He is also the god of death.
+{161229}{161281}Do not shrink back.
+{161675}{161714}Stop!
+{161787}{161811}Eboshi!
+{162104}{162168}You damn freak!
+{162408}{162463}Got him! Get the head!
+{163404}{163470}Jiko! Bring the box!
+{163485}{163557}The porters are dead! Quick!
+{163595}{163681}Don't touch the body!|It'll draw your life into it!
+{163778}{163830}One head, as promised.
+{164038}{164077}Milady!
+{164079}{164136}Moro's head...it moved by itself!.
+{164149}{164237}Come on, hurry! Run!
+{164239}{164262}Jiko!
+{164341}{164383}Run!
+{164784}{164812}To the island!
+{164815}{164848}I can't swim!
+{164850}{164890}Then wade!
+{165566}{165619}Give her to me! I'll kill her!
+{165621}{165696}Moro's already taken her revenge.
+{165709}{165734}Milady!
+{165736}{165766}Help me!
+{165849}{165908}Don't waste your sympathy...
+{165921}{165992}I promised Toki I'd bring you back.
+{166133}{166200}He's looking for his head.|We can't stay here.
+{166202}{166225}San!
+{166239}{166266}Help me!
+{166267}{166331}No! You're on their side!
+{166333}{166378}Take that woman and go away!
+{166455}{166503}Keep away! I hate humans!
+{166532}{166611}I am human...and so are you.
+{166614}{166684}Shut up! I'm a wolf!.
+{166717}{166753}Keep back!
+{166891}{166968}I'm sorry. I tried to stop it.
+{167140}{167239}It's over. Everything.|The forest is dead.
+{167462}{167569}No, it's not. We're still alive.|Help me.
+{168192}{168236}Wait! Help us!
+{168239}{168305}A little crisis and they're useless!
+{168385}{168427}Don't stop!
+{168562}{168603}The head's moving!
+{168677}{168719}It's calling him here!
+{169760}{169787}That's fixed it.
+{169789}{169819}Thanks.
+{169828}{169865}It's very quiet...
+{169867}{169906}They're waiting for dawn.
+{169932}{170011}I wonder if that young man|found Eboshi...
+{170013}{170133}I'm sure he did.|She's probably almost here now.
+{170188}{170284}Look at that face! Hey, Koroku!
+{170286}{170358}Let him sleep for now.
+{170599}{170660}I don't like the sound of that...
+{170962}{170991}The night-walker!
+{171322}{171377}Hold your positions!
+{171390}{171438}He's coming this way!
+{171439}{171463}Run!
+{171480}{171569}We guard the ironworks!|We promised Milady we would.
+{171714}{171765}It's him! Ashitaka!
+{171894}{171917}Get out!
+{171937}{172005}The Deer God's coming after his head!
+{172020}{172071}Touch that muck and you're dead!
+{172087}{172149}Run into the lake!|The water'll slow it up!
+{172170}{172255}The men and Lady Eboshi are coming|from the other side!
+{172257}{172330}I'm going to give the head back!
+{172332}{172356}Hurry!
+{172368}{172413}He's coming!
+{172414}{172450}What do we do?!
+{172452}{172477}Stay calm!
+{172490}{172525}To the lake!
+{172530}{172588}Stay calm! Help the injured!
+{172826}{172869}Not that way!
+{173262}{173304}There goes the roof...
+{173441}{173528}Once the forge starts to burn,|it's all over.
+{173547}{173631}As long as we're alive, we'll manage.|Move out deeper.
+{174067}{174107}There they are!
+{174398}{174423}Go!
+{174447}{174479}Wait!
+{174519}{174570}You're still alive? Good!
+{174589}{174654}I'll give the head back.|Put it down and run.
+{174657}{174777}Give it back now? Don't be stupid.|The sun's coming up.
+{174779}{174868}Look...a brainless, swollen|life-sucking god of death.
+{174870}{174905}When the sun comes up, he'll vanish.
+{174919}{174963}He's coming, Jiko. Quick!
+{174966}{175083}Wanting all between heaven and hell|is the human condition.
+{175095}{175127}I don't want to kill you...
+{175147}{175187}Oh, dear...
+{175190}{175253}Don't look so stern...
+{175413}{175446}Run!
+{175909}{175933}Ashitaka!
+{176129}{176154}Uh-oh...
+{176223}{176259}We're surrounded!
+{176283}{176323}Come on, sun!
+{176325}{176350}Open it!
+{176352}{176401}Don't you understand? It's too late!
+{176416}{176478}Don't waste time talking to him!
+{176480}{176528}Human hands must return it!
+{176550}{176618}Well, I warned you...
+{176973}{177005}O Deer God...
+{177008}{177053}We return your head!
+{177072}{177120}Be at peace!
+{177378}{177425}Here he comes!
+{178173}{178204}He's stopped...
+{178206}{178234}The men!
+{178547}{178587}Milady!
+{178589}{178629}Careful, she's hurt!
+{179328}{179362}He's falling!
+{179511}{179553}Hang on! Don't let go!
+{181162}{181247}I didn't know the Deer God|made the flowers bloom...
+{182000}{182045}San, look!
+{182776}{182848}Even if they grow back,|they won't be the Deer God's woods.
+{182870}{182910}The Deer God is dead.
+{182928}{183013}The Deer God can't die.|He is life itself.
+{183014}{183072}Life and death are his to give and take.
+{183090}{183127}He's telling us we should live.
+{183334}{183432}I like you, but I can't forgive|what people have done.
+{183434}{183522}That's all right. You live in the|forest, and I'll live at the ironworks.
+{183542}{183570}Together we'll live.
+{183590}{183649}Yakul and I will visit you.
+{183934}{184045}Can you believe it?|Saved thanks to a wolf!.
+{184061}{184154}Someone bring Ashitaka.|I want to thank him.
+{184156}{184253}We'll start over again.|We'll build a good village.
+{184270}{184355}I give up...you can't win against fools!
+{184954}{185073}VOICES
+{185100}{185337}Ashitaka MATSUDA Yoji|San ISHI DA Yuriko
+{185364}{185601}Lady Eboshi TANAKA Yuko|Jiko KOBAYASHI Kaoru
+{185628}{185865}Koroku NISHI MURA Masahiko|Gonza KAMIJYO Tsunehiko
+{185892}{186129}Moro MIWA Akihiro|Oracle MORI Mitsuko
+{186156}{186393}Okkoto MORISHIGE Hisaya
+{186754}{186993}Chief Executive Producer|TOKUMA Yasuyoshi
+{186996}{187233}Executive Producers|UJlE Seiichiro & NARITA Yutaka
+{187236}{187473}Original Story and Screenplay by|MIYAZAKI Hayao
+{187476}{187714}Producer|SUZUKI Toshio
+{187717}{187954}Original Music by|HISAISHI Joe
+{187957}{188194}Theme song ''Mononoke Hime'' Lyrics by|MIYAZAKI Hayao, Music by HISAISHI Joe
+{188197}{188434}Performed by|MERA Yoshikazu
+{188797}{189034}English Translation by|Stephen ALPERT, MORIYOSHI Haruyo
+{189037}{189274}and Ian MACDOUGALL
+{189995}{190162}Produced by|Tokuma Shoten
+{190187}{190354}Nippon Television Network
+{190379}{190546}Dentsu
+{190571}{190738}and Studio Ghibli
+{191435}{191623}Directed by|MIYAZAKI Hayao

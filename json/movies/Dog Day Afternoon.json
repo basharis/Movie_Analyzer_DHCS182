@@ -1,0 +1,39 @@
+{
+    "title": "Dog Day Afternoon",
+    "year": 1975,
+    "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "125"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Based upon a real-life story that happened in the early seventies in which the Chase Manhattan Bank in Gravesend, Brooklyn, was held siege by a bank robber determined to steal enough money for his male lover to undergo a sex change operation. On a hot summer afternoon, the First Savings Bank of Brooklyn is held up by Sonny and Sal, two down-and-out characters. Although the bank manager and female tellers agree not to interfere with the robbery, Sonny finds that there's actually nothing much to steal, as most of the cash has been picked up for the day. Sonny then gets an unexpected phone call from Police Captain Moretti, who tells him the place is surrounded by the city's entire police force. Having few options under the circumstances, Sonny nervously bargains with Moretti, demanding safe escort to the airport and a plane out of the country in return for the bank employees' safety.::alfiehitchie",
+        "At the end of the banking day on August 22, 1972, Sonny, Sal and Stevie enter a small branch of the First Brooklyn Savings Bank. After all the customers have left and the bank is about to close, they, armed, proceed to rob it. But the robbery does not go according to Sonny's plan, he who is the leader. One problem after another arises, which ultimately leads to a standoff, them locked inside with ten hostages - the male bank manager, the male security guard, and eight female tellers and clerks - and the police, the media and a hoard of on-lookers outside. Despite Sonny and Sal having a suicide pact if things go wrong, Sonny tries to negotiate a way out, he figuring that the hostages are their only saving grace. As Sonny deals with the authorities - primarily \"good cop\" Moretti who seems to give Sonny whatever he wants, and \"bad cop\" Sheldon, an FBI agent who plays hardball with Sonny - the public, watching the interactions, have mixed emotions about what Sonny is doing, some who are sympathetic to him as a person. As the situation turns into a circus both inside and outside the bank, the emotions are brought up a notch when Sonny's second wife is brought to the scene, \"she\" who is able to shed some light on why Sonny needs the money. As day turns to night, the standoff continues until...::Huggo",
+        "A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.5036954915003693,
+        "linguistic_difficulty_percentage": 0.009238728750923873,
+        "words_per_minute": 86,
+        "common_words": {
+            "right": 165,
+            "get": 130,
+            "know": 103,
+            "got": 103,
+            "sonny": 101,
+            "come": 93,
+            "go": 82,
+            "yeah": 74,
+            "okay": 60,
+            "sal": 59
+        }
+    }
+}

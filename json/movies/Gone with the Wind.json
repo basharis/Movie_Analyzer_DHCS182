@@ -1,0 +1,40 @@
+{
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "genres": [
+        "Drama",
+        "History",
+        "Romance",
+        "War"
+    ],
+    "runtime": [
+        "238"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Scarlett is a woman who can deal with a nation at war, Atlanta burning, the Union Army carrying off everything from her beloved Tara, the carpetbaggers who arrive after the war. Scarlett is beautiful. She has vitality. But Ashley, the man she has wanted for so long, is going to marry his placid cousin, Melanie. Mammy warns Scarlett to behave herself at the party at Twelve Oaks. There is a new man there that day, the day the Civil War begins. Rhett Butler. Scarlett does not know he is in the room when she pleads with Ashley to choose her instead of Melanie.::Dale O'Connor <daleoc@interaccess.com>",
+        "The epic tale of a woman's life during one of the most tumultuous periods in America's history. From her young, innocent days on a feudalistic plantation to the war-torn streets of Atlanta; from her first love whom she has always desired to three husbands; from the utmost luxury to absolute starvation and poverty; from her innocence to her understanding and comprehension of life.::Luke C.",
+        "This tale of the Old South from the start of the Civil War through to the period of reconstruction focuses on the beautiful Scarlett O'Hara. Before the start of the war life at the O'Hara plantation, Tara, could only be described as genteel. As for the young Scarlett, she is without doubt the most beautiful girl in the area and is always the belle of the ball. She is very much looking forward to a barbecue at the nearby Wilkes plantation as she will get to see the man she loves, Ashley Wilkes. She is more than a little dismayed when she hears that he is to marry his cousin Melanie Hamilton and in a fit of anger, she decides to marry Melanie's brother. War is soon declared and as always seems to be the case, men march off to battle thinking that it will only last a few weeks. Now living in Atlanta, Scarlett sees the ravages that war brings. She also becomes re-acquainted with Rhett Butler, whom she had first met at the Wilkes barbecue. Now a widow, she still pines for the married Ashley and dreams of his return. With the war lost however, she returns to Tara and faces the hardship of keeping her family together and Tara from being sold at auction to collect the taxes. She has becomes hardened and bitter and will do anything, including marrying her sister's beau, to ensure she will never again be poor and hungry. After becoming a widow for the second time, she finally marries the dashing Rhett but they soon find themselves working at cross-purposes, their relationship seemingly doomed from the outset.::garykmcd",
+        "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.::Carl Schultz"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.9327377824487652,
+        "linguistic_difficulty_percentage": 0.06130670870555263,
+        "words_per_minute": 95,
+        "common_words": {
+            "scarlett": 192,
+            "oh": 125,
+            "know": 124,
+            "miss": 124,
+            "go": 118,
+            "ashley": 114,
+            "come": 105,
+            "like": 94,
+            "get": 93,
+            "want": 86
+        }
+    }
+}

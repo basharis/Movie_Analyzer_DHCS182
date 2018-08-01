@@ -1,0 +1,42 @@
+{
+    "title": "La La Land",
+    "year": 2016,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "Musical",
+        "Romance"
+    ],
+    "runtime": [
+        "128"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.::Eirini",
+        "The story of aspiring actress Mia and dedicated jazz musician Sebastian, who struggle to make ends meet while pursuing their dreams in a city known for destroying hopes and breaking hearts. With modern-day Los Angeles as the backdrop, this musical about everyday life explores what more important: a once-in-a-lifetime love or the spotlight.::Jwelch5742",
+        "In Hollywood, Mia and Sebastian are struggling to make it in their respective respective careers, about which each has extreme passion. Mia is an actress who dropped out of college and moved from small-town Nevada five years ago to pursue her dream. She is enamored with old-tome Hollywood - the movies she grew up on - but hates the cattle-herding feeling of going on auditions and her belief that she needs to schmooze at social events to get ahead in the business. Sebastian is a jazz pianist, his style of jazz in the vein of traditionalists Charlie Parker and Thelonious Monk. He wants to do his part to preserve that tradition, especially as he knows that that style of music is dying. He has trouble emotionally playing music he doesn't like just to get a paying gig. He dreams of opening his own jazz club, most specifically in what used to be a famous jazz club that has since been converted to a tapas-bar-cum-salsa-dance-club. Partly because of their individual struggles and partly because of the situations, their first few chance meetings are antagonistic. But they eventually become attracted to each other largely because of the passion for their dreams that they see in each other. But there are many obstacles to a happily-ever-after. They may be able to endure the struggling-artist life for so long before those struggles take their toll. The pursuit of their individual dreams may take all their energies with nothing left for their relationship. And any compromise each may make in getting ahead may change the person with whom each has fallen in love.::Huggo",
+        "Jammed in a wide stretch of highway in sun-kissed Los Angeles, morning commuters are two particular dream-following hopefuls: Sebastian, a suavely charming soft-spoken jazz pianist whom life's got on the ropes; and brilliant actress Mia. Sebastian, a purist with an undiluted taste in music, has a serious plan for the future. Mia, an incurable romantic mesmerized by the allure of the old Hollywood, is consumed between meaningless auditions. These two proper L.A. dreamers are simply meant for each other despite getting off to a bad start. They keep running into each other under the city's starry nights and plum-hued sunrises and a magical old-school tap-dance romance timidly commences. This is the kind of effervescent love that defies reason, that inspires one to have long walks while gazing at the Milky Way of the city's flickering lights, but life is as exciting as it is challenging, and the two idealists begin to veer from their dreams. Does true love exist only in the movies? Do dreams ever come true?::Nick Riganas",
+        "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.6169665809768637,
+        "linguistic_difficulty_percentage": 0.06426735218508997,
+        "words_per_minute": 60,
+        "common_words": {
+            "know": 94,
+            "yeah": 67,
+            "okay": 55,
+            "gonna": 53,
+            "wa": 47,
+            "like": 46,
+            "right": 45,
+            "good": 42,
+            "one": 40,
+            "oh": 40
+        }
+    }
+}

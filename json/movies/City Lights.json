@@ -1,0 +1,41 @@
+{
+    "title": "City Lights",
+    "year": 1931,
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "87"
+    ],
+    "rating": 8.6,
+    "plot": [
+        "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.::John J. Magee <magee@helix.mgh.harvard.edu>",
+        "Charmingly simple story of The Little Tramp who meets a lovely blind girl selling flowers on the sidewalk who mistakes him for a wealthy duke. When he learns that an operation may restore her sight, he sets off to earn the money she needs to have the surgery. In a series of comedy adventures that only Chaplin could pull off, he eventually succeeds, even though his efforts land him in jail. While he is there, the girl has the operation and afterwards yearns to meet her benefactor. The tear-inducing closing scene, in which she discovers that he is not a wealthy duke but only The Little Tramp, is one of the highest moments in movies.::alfiehitchie",
+        "A little tramp living in the big city has a profound effect on two people he meets. The first is a wealthy man, who the tramp saves from killing himself during the wealthy man's drunken stupor. However, the relationship between the wealthy man and the tramp continually changes depending on the drunken or sober state of the wealthy man. The second is a poor blind flower girl, who lives with her destitute grandmother. The kindness of the tramp toward her makes her fall in love with him, as he is with her. By circumstance, she believes that he is a wealthy man. When he learns that an expensive operation can restore her eyesight, the tramp does whatever he can to earn the money to pay for the operation, even if the result is that she will find out that he is not the wealthy man she believes and which by association may make her change her blind opinion of him.::Huggo",
+        "The Little Tramp meets and falls in love with a young blind girl who sells flowers on the street corner. He also befriends an eccentric millionaire who drinks too much and only recognizes him when he is drunk. The Little Tramp gives the girl a ride home in the millionaire's car and she thinks he is rich. After a boisterous party at the millionaire's house, the rich man wakes up and has no idea who the Little Tramp is or why he is there and so throws him out on his ear. When the blind girl and her grandmother fall behind in the rent and face eviction, he tries working and even enters a boxing competition to raise the money they need, but nothing works out. He gets the money from the millionaire but is accused of theft and ends up in jail, but not before getting her enough money to not only pay the rent but to also seek treatment for her blindness. When he's released from jail, they meet again.::garykmcd",
+        "This classic story of love, tragedy and hope centers around a homeless tramp whom meets and instantly falls in love with a beautiful, albeit blind, flower seller. The tramp, desperate to win her love over, convinces the woman that he is a millionaire and can pay for her to get her sight back. We then follow the ebbs and flows of The Little Tramp's adventures in his pursuit to make good on his promise to The Flower Girl.::Kyle Perez",
+        "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.::J. S. Golden"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.6085192697768762,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 5,
+        "common_words": {
+            "sir": 6,
+            "take": 6,
+            "get": 5,
+            "morning": 5,
+            "home": 4,
+            "back": 4,
+            "see": 4,
+            "money": 4,
+            "city": 3,
+            "friend": 3
+        }
+    }
+}

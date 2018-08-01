@@ -1,0 +1,41 @@
+{
+    "title": "The Departed",
+    "year": 2006,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "runtime": [
+        "151"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "In South Boston, the state police force is waging war on Irish-American organized crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate run by gangland chief Frank Costello. While Billy quickly gains Costello's confidence, Colin Sullivan, a hardened young criminal who has infiltrated the state police as an informer for the syndicate is rising to a position of power in the Special Investigation Unit. Each man becomes deeply consumed by their double lives, gathering information about the plans and counter-plans of the operations they have penetrated. But when it becomes clear to both the mob and the police that there is a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy - and each must race to uncover the identity of the other man in time to save themselves. But is either willing to turn on their friends and comrades they've made during their long stints undercover?::Anonymous",
+        "Two just-graduated officers from Massachusetts State Police Academy follow opposite sides of the law: Billy Costigan is assigned to work undercover with the Irish mobster Frank Costello to get evidence to arrest him. His true identity is known only by his superiors Dignam and Oliver Queenan. The prot\u00e9g\u00e9 of Costello, Colin Sullivan, is promoted in the Massachusetts State Police and is the informer of Costello. Each police officer gives his best effort trying to disclose the identity of the other \"rat.\"::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A tale of two cops, though on different sides of the law. Colin Sullivan (played by Matt Damon) is a Massachusetts State police detective. He has risen through the ranks to head up a special department. Public Enemy Number 1 is Frank Costello (Jack Nicholson), a crime network kingpin, and Sullivan's main target. However, Sullivan is a paid informant for Costello, giving him tip-offs on police raids and other useful information. Meanwhile, Billy Costigan (Leonardo DiCaprio) works for Costello. However, he is actually an undercover policeman, spying on Costello. In due course, both know that there is a rat in their organization, but don't know their identity. A deadly cat-and-mouse game ensues, with both trying to uncover the other without being discovered themselves.::grantss",
+        "Years ago, a powerful Irish mafia figure placed a small selection of his youngest, brightest men into the Massachusetts State Police Academy as cadets. Their purpose is to eventually rise within the prestigious ranks of the state police department, to serve as the eyes and ears of their boss. While somewhere else, a young cadet was assigned with an equally dangerous task: infiltrate the Irish syndicate headed by the man sending in his own to the Massachusetts State Police. Now, one cadet is an up and coming police official with a torn allegiance to his job and to the criminal mastermind that put him there. While the other cadet is the trusted number two of that man, only finding his professional duties are becoming blurred with his current state. But new clues have lead to unfortunate discoveries, when both sides realize they're being watched by the enemy.::mystic80",
+        "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Cantonese"
+        ],
+        "adult_language_percentage": 3.722012212852573,
+        "linguistic_difficulty_percentage": 0.02907822041291073,
+        "words_per_minute": 91,
+        "common_words": {
+            "fucking": 161,
+            "know": 144,
+            "right": 121,
+            "yeah": 105,
+            "get": 104,
+            "got": 82,
+            "guy": 80,
+            "fuck": 76,
+            "wa": 69,
+            "cop": 56
+        }
+    }
+}

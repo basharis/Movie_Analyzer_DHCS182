@@ -1,0 +1,44 @@
+{
+    "title": "Schindler's List",
+    "year": 1993,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "195"
+    ],
+    "rating": 8.9,
+    "plot": [
+        "Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.::Harald Mayr <marvin@bike.augusta.de>",
+        "The incredible true story of the enigmatic and opportunistic businessman Oskar Schindler, who saved the lives of more than 1,100 Jews during the Holocaust. Schindler's List chronicles the trials and triumph of one man who made a difference and the tribulations of those who survived one of the darkest chapters in human history because of his actions.::Spiricom",
+        "Businessman Oskar Schindler arrives in Krakow in 1939, ready to make his fortune from World War II, which has just started. After joining the Nazi party primarily for political expediency, he staffs his factory with Jewish workers for similarly pragmatic reasons. When the SS begins exterminating Jews in the Krakow ghetto, Schindler arranges to have his workers protected to keep his factory in operation, but soon realizes that in so doing, he is also saving innocent lives.::Jwelch5742",
+        "The true story of Czech born Oskar Schindler, a businessman who tried to make his fortune during the Second World War by exploiting cheap Jewish labour, but ended up penniless having saved over 1000 Polish Jews from almost certain death during the Holocaust.::Rob Hartill",
+        "\"Schindler's List\" is the based-on-truth story of Nazi Czech business man Oskar Schindler, who uses Jewish labor to start a factory in occupied Poland. As World War II progresses, and the fate of the Jews becomes more and more clear, Schindler's motivations switch from profit to human sympathy and he is able to save over 1100 Jews from death in the gas chambers.::Anthony Hughes <husnock31@hotmail.com>",
+        "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Hebrew",
+            "German",
+            "Polish"
+        ],
+        "adult_language_percentage": 1.656880881524974,
+        "linguistic_difficulty_percentage": 0.040215555376819756,
+        "words_per_minute": 63,
+        "common_words": {
+            "know": 78,
+            "good": 60,
+            "man": 44,
+            "one": 41,
+            "come": 38,
+            "schindler": 38,
+            "stern": 38,
+            "wa": 38,
+            "right": 38,
+            "go": 37
+        }
+    }
+}

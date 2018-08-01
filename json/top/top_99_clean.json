@@ -1,0 +1,497 @@
+[
+    {
+        "rank": 1,
+        "title": "Modern Times",
+        "score": 0.003704
+    },
+    {
+        "rank": 2,
+        "title": "Swades",
+        "score": 0.00428
+    },
+    {
+        "rank": 3,
+        "title": "Mimi wo sumaseba",
+        "score": 0.00432
+    },
+    {
+        "rank": 4,
+        "title": "Singin' in the Rain",
+        "score": 0.004613
+    },
+    {
+        "rank": 5,
+        "title": "My Neighbor Totoro",
+        "score": 0.004681
+    },
+    {
+        "rank": 6,
+        "title": "The Pursuit of Happyness",
+        "score": 0.004819
+    },
+    {
+        "rank": 7,
+        "title": "The Sound of Music",
+        "score": 0.005016
+    },
+    {
+        "rank": 8,
+        "title": "Dial M for Murder",
+        "score": 0.00529
+    },
+    {
+        "rank": 9,
+        "title": "Chungking Express",
+        "score": 0.005346
+    },
+    {
+        "rank": 10,
+        "title": "Frasier",
+        "score": 0.005405
+    },
+    {
+        "rank": 11,
+        "title": "Mulholland Dr.",
+        "score": 0.00557
+    },
+    {
+        "rank": 12,
+        "title": "Citizen Kane",
+        "score": 0.005589
+    },
+    {
+        "rank": 13,
+        "title": "Airlift",
+        "score": 0.005618
+    },
+    {
+        "rank": 14,
+        "title": "Toy Story 2",
+        "score": 0.005659
+    },
+    {
+        "rank": 15,
+        "title": "Drishyam",
+        "score": 0.005741
+    },
+    {
+        "rank": 16,
+        "title": "The Elephant Man",
+        "score": 0.00594
+    },
+    {
+        "rank": 17,
+        "title": "City Lights",
+        "score": 0.006085
+    },
+    {
+        "rank": 18,
+        "title": "La La Land",
+        "score": 0.00617
+    },
+    {
+        "rank": 19,
+        "title": "The Philadelphia Story",
+        "score": 0.006197
+    },
+    {
+        "rank": 20,
+        "title": "Brief Encounter",
+        "score": 0.006202
+    },
+    {
+        "rank": 21,
+        "title": "Lage Raho Munna Bhai",
+        "score": 0.006243
+    },
+    {
+        "rank": 22,
+        "title": "In the Mood for Love",
+        "score": 0.00642
+    },
+    {
+        "rank": 23,
+        "title": "La Dolce Vita",
+        "score": 0.006437
+    },
+    {
+        "rank": 24,
+        "title": "Roman Holiday",
+        "score": 0.006489
+    },
+    {
+        "rank": 25,
+        "title": "Dilwale Dulhania Le Jayenge",
+        "score": 0.006694
+    },
+    {
+        "rank": 26,
+        "title": "Barry Lyndon",
+        "score": 0.006813
+    },
+    {
+        "rank": 27,
+        "title": "The Graduate",
+        "score": 0.006872
+    },
+    {
+        "rank": 28,
+        "title": "Paris, Texas",
+        "score": 0.006944
+    },
+    {
+        "rank": 29,
+        "title": "It's a Wonderful Life",
+        "score": 0.007006
+    },
+    {
+        "rank": 30,
+        "title": "Darbareye Elly",
+        "score": 0.007158
+    },
+    {
+        "rank": 31,
+        "title": "Taketori monogatari",
+        "score": 0.007175
+    },
+    {
+        "rank": 32,
+        "title": "Strangers on a Train",
+        "score": 0.007205
+    },
+    {
+        "rank": 33,
+        "title": "Kahaani",
+        "score": 0.007235
+    },
+    {
+        "rank": 34,
+        "title": "Ookami kodomo no Ame to Yuki",
+        "score": 0.007282
+    },
+    {
+        "rank": 35,
+        "title": "Song of the Sea",
+        "score": 0.007378
+    },
+    {
+        "rank": 36,
+        "title": "North by Northwest",
+        "score": 0.007415
+    },
+    {
+        "rank": 37,
+        "title": "Bajrangi Bhaijaan",
+        "score": 0.007426
+    },
+    {
+        "rank": 38,
+        "title": "Rear Window",
+        "score": 0.007436
+    },
+    {
+        "rank": 39,
+        "title": "Dogville",
+        "score": 0.007443
+    },
+    {
+        "rank": 40,
+        "title": "Arsenic and Old Lace",
+        "score": 0.007452
+    },
+    {
+        "rank": 41,
+        "title": "Shrek Forever After",
+        "score": 0.007524
+    },
+    {
+        "rank": 42,
+        "title": "The Best Years of Our Lives",
+        "score": 0.007574
+    },
+    {
+        "rank": 43,
+        "title": "Laura",
+        "score": 0.007681
+    },
+    {
+        "rank": 44,
+        "title": "Ratatouille",
+        "score": 0.007712
+    },
+    {
+        "rank": 45,
+        "title": "Sunset Blvd.",
+        "score": 0.007746
+    },
+    {
+        "rank": 46,
+        "title": "All the President's Men",
+        "score": 0.007754
+    },
+    {
+        "rank": 47,
+        "title": "Coco",
+        "score": 0.007793
+    },
+    {
+        "rank": 48,
+        "title": "Solaris",
+        "score": 0.007814
+    },
+    {
+        "rank": 49,
+        "title": "The Gold Rush",
+        "score": 0.007911
+    },
+    {
+        "rank": 50,
+        "title": "Up",
+        "score": 0.007998
+    },
+    {
+        "rank": 51,
+        "title": "The Wizard of Oz",
+        "score": 0.008164
+    },
+    {
+        "rank": 52,
+        "title": "The Prestige",
+        "score": 0.00817
+    },
+    {
+        "rank": 53,
+        "title": "Kis Uykusu",
+        "score": 0.0082
+    },
+    {
+        "rank": 54,
+        "title": "Aladdin",
+        "score": 0.008214
+    },
+    {
+        "rank": 55,
+        "title": "Wild Strawberries",
+        "score": 0.00823
+    },
+    {
+        "rank": 56,
+        "title": "Fitzcarraldo",
+        "score": 0.008315
+    },
+    {
+        "rank": 57,
+        "title": "Casablanca",
+        "score": 0.008319
+    },
+    {
+        "rank": 58,
+        "title": "Doctor Zhivago",
+        "score": 0.008489
+    },
+    {
+        "rank": 59,
+        "title": "Babam ve Oglum",
+        "score": 0.00851
+    },
+    {
+        "rank": 60,
+        "title": "Fiddler on the Roof",
+        "score": 0.008521
+    },
+    {
+        "rank": 61,
+        "title": "The Nightmare Before Christmas",
+        "score": 0.008625
+    },
+    {
+        "rank": 62,
+        "title": "The Truman Show",
+        "score": 0.008751
+    },
+    {
+        "rank": 63,
+        "title": "The Incredibles",
+        "score": 0.008758
+    },
+    {
+        "rank": 64,
+        "title": "Shrek",
+        "score": 0.008835
+    },
+    {
+        "rank": 65,
+        "title": "Dancer in the Dark",
+        "score": 0.008884
+    },
+    {
+        "rank": 66,
+        "title": "Ladri di biciclette",
+        "score": 0.008923
+    },
+    {
+        "rank": 67,
+        "title": "The Social Network",
+        "score": 0.008932
+    },
+    {
+        "rank": 68,
+        "title": "Room",
+        "score": 0.00903
+    },
+    {
+        "rank": 69,
+        "title": "The Shining",
+        "score": 0.009068
+    },
+    {
+        "rank": 70,
+        "title": "Wings of Desire",
+        "score": 0.009115
+    },
+    {
+        "rank": 71,
+        "title": "Double Indemnity",
+        "score": 0.009141
+    },
+    {
+        "rank": 72,
+        "title": "The Big Sleep",
+        "score": 0.009144
+    },
+    {
+        "rank": 73,
+        "title": "The Diving Bell and the Butterfly",
+        "score": 0.009203
+    },
+    {
+        "rank": 74,
+        "title": "East of Eden",
+        "score": 0.009209
+    },
+    {
+        "rank": 75,
+        "title": "The Lives of Others",
+        "score": 0.009211
+    },
+    {
+        "rank": 76,
+        "title": "Barfi!",
+        "score": 0.009239
+    },
+    {
+        "rank": 77,
+        "title": "The Grapes of Wrath",
+        "score": 0.009315
+    },
+    {
+        "rank": 78,
+        "title": "Gone with the Wind",
+        "score": 0.009327
+    },
+    {
+        "rank": 79,
+        "title": "Inception",
+        "score": 0.009331
+    },
+    {
+        "rank": 80,
+        "title": "Contratiempo",
+        "score": 0.009371
+    },
+    {
+        "rank": 81,
+        "title": "Spider-Man 2",
+        "score": 0.009516
+    },
+    {
+        "rank": 82,
+        "title": "Life Is Beautiful",
+        "score": 0.009578
+    },
+    {
+        "rank": 83,
+        "title": "The 400 Blows",
+        "score": 0.009636
+    },
+    {
+        "rank": 84,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "score": 0.009685
+    },
+    {
+        "rank": 85,
+        "title": "Blade Runner",
+        "score": 0.009716
+    },
+    {
+        "rank": 86,
+        "title": "Rio Bravo",
+        "score": 0.009724
+    },
+    {
+        "rank": 87,
+        "title": "Groundhog Day",
+        "score": 0.009768
+    },
+    {
+        "rank": 88,
+        "title": "Incredibles 2",
+        "score": 0.009954
+    },
+    {
+        "rank": 89,
+        "title": "Children of Heaven",
+        "score": 0.010012
+    },
+    {
+        "rank": 90,
+        "title": "His Girl Friday",
+        "score": 0.010021
+    },
+    {
+        "rank": 91,
+        "title": "Zindagi Na Milegi Dobara",
+        "score": 0.010025
+    },
+    {
+        "rank": 92,
+        "title": "The Great Dictator",
+        "score": 0.010044
+    },
+    {
+        "rank": 93,
+        "title": "My Sassy Girl",
+        "score": 0.010084
+    },
+    {
+        "rank": 94,
+        "title": "Catch Me If You Can",
+        "score": 0.010084
+    },
+    {
+        "rank": 95,
+        "title": "Kind Hearts and Coronets",
+        "score": 0.010085
+    },
+    {
+        "rank": 96,
+        "title": "Sherlock Jr.",
+        "score": 0.010127
+    },
+    {
+        "rank": 97,
+        "title": "Grave of the Fireflies",
+        "score": 0.010224
+    },
+    {
+        "rank": 98,
+        "title": "High Noon",
+        "score": 0.010242
+    },
+    {
+        "rank": 99,
+        "title": "Stalag 17",
+        "score": 0.010279
+    }
+]

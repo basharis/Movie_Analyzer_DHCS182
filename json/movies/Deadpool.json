@@ -1,0 +1,42 @@
+{
+    "title": "Deadpool",
+    "year": 2016,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "108"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.::20th Century Fox",
+        "Wade Wilson is a small-time mercenary. He meets Vanessa and falls in love. Life is idyllic until one day he is diagnosed with terminal cancer. Things look bleak but a man appears who says he can be cured, through a treatment that gives him superhero powers. After initially turning him down, Wilson agrees, and meets the man behind the project, Ajax. While undergoing the treatment he discovers that it will involve him becoming a mutant, and he will need to undergo several painful tests to discover what his mutant abilities are. Plus, Ajax is a sadist. The treatment results in Wilson getting powers of accelerated healing but also leaves him terribly disfigured. Ajax tries to keep him a prisoner but he escapes. He now has two aims: find Vanessa and make Ajax pay for what he did to him. Killing Ajax may not be as easy it seems, as Ajax is also a mutant and the meddling superhero Colossus and his sidekick Negasonic Teenage Warhead keep getting in the way. Oh, and Wade Wilson is now operating under an alias: Deadpool.::grantss",
+        "Wade Wilson, a soldier turned mercenary who's devoid of emotions meets a woman named Vanessa and he decides to settle down. But when he learns he has cancer, he's worried about dying on her. But a man approaches him and says he can give him a cure and also powers and abilities. he agrees and the man in charge of him is a guy named Francis. Wade has the procedure and he is endowed with healing abilities but is also disfigured. Francis says he can fix his disfigurement but doesn't. Wade gets away from him and tries to go back to Vanessa but doesn't because of how he looks. So he sets out to find Francis by going after everyone who knows him. He makes a suit to hide his disfigurement and adopts the name Deadpool.::rcs0411@yahoo.com",
+        "After a fast-talking mercenary is diagnosed with terminal cancer, he finds the possibility of healing in a scientific experience of a covert organization. Recovered, with accelerated healing factor and an unusual sense of humor, he adopts the alter-ego Deadpool to seek revenge against the man who destroyed his life (and his face).::MadMovieManiac",
+        "After being diagnosed with terminal cancer on the same day his girlfriend (Monica Baccarin) accepts his marriage proposal, former Special Ops agent Wade Wilson (Ryan Reynolds) is approached by a shady organization offering a cure to his cancer. Wade accepts and meets a psychopath, Ajax, actually Francis Freeman, (Ed Skrein) who injects Wade with a strange serum, supposedly the cure to his cancer. Francis, along with his assistant Angel Dust (Gina Cariano) proceed to put Wade through unbearable torture, leaving him with horrible burn-like scars in his entire body and an accelerated healing factor. But Wade doesn't forget, as he's pissed and wants his face back to normal. Armed with two katanas, pistols, and a red suit and mask, Wade becomes Deadpool, and makes it his mission to hunt Francis down and get revenge.::Germaine Jackson",
+        "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.::Bill Smith"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 3.391484689520556,
+        "linguistic_difficulty_percentage": 0.07319751128461632,
+        "words_per_minute": 75,
+        "common_words": {
+            "oh": 66,
+            "like": 65,
+            "wade": 44,
+            "go": 42,
+            "right": 39,
+            "yeah": 38,
+            "get": 34,
+            "gonna": 34,
+            "wa": 34,
+            "fuck": 33
+        }
+    }
+}

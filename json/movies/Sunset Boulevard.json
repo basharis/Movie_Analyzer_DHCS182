@@ -1,0 +1,40 @@
+{
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "genres": [
+        "Drama",
+        "Film-Noir"
+    ],
+    "runtime": [
+        "110"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "In Hollywood of the 50's, the obscure screenplay writer Joe Gillis is not able to sell his work to the studios, is full of debts and is thinking in returning to his hometown to work in an office. While trying to escape from his creditors, he has a flat tire and parks his car in a decadent mansion in Sunset Boulevard. He meets the owner and former silent-movie star Norma Desmond, who lives alone with her butler and driver Max Von Mayerling. Norma is demented and believes she will return to the cinema industry, and is protected and isolated from the world by Max, who was her director and husband in the past and still loves her. Norma proposes Joe to move to the mansion and help her in writing a screenplay for her comeback to the cinema, and the small-time writer becomes her lover and gigolo. When Joe falls in love for the young aspirant writer Betty Schaefer, Norma becomes jealous and completely insane and her madness leads to a tragic end.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Desperate for cash, screenwriter Joe Gillis has a chance meeting with a faded silent film star. Norma Desmond lives in her crumbling Sunset Boulevard mansion with only her butler to keep her company. She has become a sad demented recluse convinced that the outside world is clamoring for her dramatic return. Enticing him with the prospect of script work she puts him up in her mansion and he becomes ever more involved and entangled in her life.::B.A. Black",
+        "Joe Gillis is a struggling hack B-movie Hollywood screenwriter who is having problems making ends meet, his car, a symbol to him of independence, which is threatened to be repossessed due to he being behind in payments. In eluding the repossessors, Joe stumbles onto the decaying Sunset Boulevard mansion of fifty year old faded silent movie star Norma Desmond, who has largely been forgotten by the movie going public. The only other person besides Norma living at the mansion is Norma's valet, Max, whose unofficial job is to prime Norma's fragile but larger than life ego. It is somewhat due to Max's lies about the public still clamoring for her that a delusional Norma is working toward her return to pictures in what is a vanity project. Even if her script was any good, the lead role should be filled by someone half Norma's age. Joe senses an opportunity to act as Norma's ghost writer, he only wanting to make a quick buck to pay off his creditors, not caring if the movie gets produced. In maneuvering to do the ghost writing work, Joe may be unprepared for what else Norma has in store for him in her need to be loved and wanted. As Joe gets seduced by the comfort that Norma's wealth can afford, it may be too late for him when he finally comes to the realization about what he really wants and how much he has to forgo in stoking Norma's ego.::Huggo",
+        "In this dark film-noir tale, aging silent film queen, Norma Desmond, refuses to accept that her time in the limelight has finished - she lives as a recluse with the deranged beliefs that her stardom is as strong as ever. After meeting Joe Gillis, a young, hack screenwriter, she hires him to write a screenplay starring her as an effort to set up her comeback in film. The screenwriter believes he can manipulate her, but soon learns the difficulty of such a task. Furthermore, his ambivalence about their relationship, coupled with Norma's demented unwillingness to let go, leads to some damaging consequences for both parties involved.::Kyle Perez",
+        "An aging silent film queen refuses to accept that her stardom has ended. She hires a young screenwriter to help set up her movie comeback. The screenwriter believes he can manipulate her, but he soon finds out he is wrong. The screenwriters ambivalence about their relationship and her unwillingness to let go leads to a situation of violence, madness, and death.::Jwelch5742",
+        "A screenwriter is hired to rework a faded silent film star's script, only to find himself developing a dangerous relationship.::Noah Orent"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.7745617611088463,
+        "linguistic_difficulty_percentage": 0.10191602119853241,
+        "words_per_minute": 89,
+        "common_words": {
+            "wa": 92,
+            "want": 44,
+            "got": 43,
+            "get": 41,
+            "norma": 38,
+            "like": 37,
+            "come": 36,
+            "know": 36,
+            "see": 36,
+            "joe": 32
+        }
+    }
+}

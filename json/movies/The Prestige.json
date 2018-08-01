@@ -1,0 +1,42 @@
+{
+    "title": "The Prestige",
+    "year": 2006,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "130"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "In the end of the Nineteenth Century, in London, Robert Angier, his beloved wife Julia McCullough and Alfred Borden are friends and assistants of a magician. When Julia accidentally dies during a performance, Robert blames Alfred for her death and they become enemies. Both become famous and rival magicians, sabotaging the performance of the other on the stage. When Alfred performs a successful trick, Robert becomes obsessed trying to disclose the secret of his competitor with tragic consequences.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "Set in London in the 1800's, two rival magicians read each others diary containing the secrets of their magic tricks and personal life. As we go back in time when the diaries were written, both magicians become obsessed with their rival's best trick. The tricks, as shown to the audience, look the same, but neither magician can figure out how his opponent does it.::gary",
+        "Two magicians who used to be partners battle over years in order to create a flawless method for the ultimate disappearing trick, \"the Transported Man\", turns into an informal war between them and soon, they will do anything to be able to preform the trick sooner and better than the other; which as time passes makes their friends and loved ones get away from them and little-by-little destroys their lives until they eventually succeed to preform the trick- each by a very different way.::J. S. Golden",
+        "In Victorian London, illusionist Alfred Borden is on trial for the murder of fellow illusionist Robert Angier. Borden's indictment is largely possible because of the eyewitness account of John Cutter, who saw Borden backstage in the area where Angier was killed. At the end of one of his shows, Angier fell through a trap door in the stage floor into a clear water-filled tank below, that tank which is a prop for one of Angier's tricks performed earlier in the show. Angier ended up drowning as the tank was locked after he fell into it. Borden, Angier and Cutter have a shared largely turbulent history, which also provides motive. Early in their magic careers, both Borden and Angier worked under \"Milton the Magician\", while Angier's wife Julia worked as his on-stage assistant, and Cutter as his ing\u00e9nieur - staging the tricks and providing the apparatus required - work that he still does for others. Based on a specific incident during this stage of their relationship led to both Borden and Angier striking out creating their own shows and they having a feud which was not only in the professional realm but a personal one, where each man wanted to ruin the other. While Borden is arguably more accomplished in the technical aspects of the illusions, Angier is the more accomplished showman. In the professional realm, they tried to outdo each other, especially in the illusions considered either the most dangerous and/or mysterious, those two being catching the shot bullet trick, and more so the transported man trick. In the process of their feud, they seemingly were not averse to any means, even with collateral damage of others. The question is if those means extend to murder, especially of the other.::Huggo",
+        "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences. From the time that they first met as young magicians on the rise, Robert Angier and Alfred Borden were competitors. However, their friendly competition evolves into a bitter rivalry making them fierce enemies-for-life and consequently jeopardizing the lives of everyone around them. Set against the backdrop of turn-of-the-century London.::RopeOfSilicone.com",
+        "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.816963466128144,
+        "linguistic_difficulty_percentage": 0.1009730126675234,
+        "words_per_minute": 83,
+        "common_words": {
+            "know": 79,
+            "trick": 76,
+            "mr": 61,
+            "one": 57,
+            "well": 48,
+            "angier": 47,
+            "see": 46,
+            "wa": 46,
+            "right": 46,
+            "get": 43
+        }
+    }
+}

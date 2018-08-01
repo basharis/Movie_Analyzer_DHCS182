@@ -1,0 +1,39 @@
+{
+    "title": "Fitzcarraldo",
+    "year": 1982,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "runtime": [
+        "158"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Fitzcarraldo is an obsessed opera lover who wants to build an opera in the jungle. To accomplish this he first has to make a fortune in the rubber business, and his cunning plan involves hauling an enormous river boat across a small mountain with aid from the local Indians.::Rune Sandnes <rune@nvg.unit.no>",
+        "Deep in the heart of the Peruvian jungle, on the banks of the Amazon river, is the town of Iquitos. It is the early-1900s and the area is booming due to the rubber trade. Living in Iquitos is Brian Sweeney Fitzgerald, \"Fitzcarraldo\", an entrepreneur whose ideas and ventures often exceed practicality. His latest idea - build an opera house in or near Iquitos.::grantss",
+        "The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.::Raymond Spum"
+    ],
+    "language": {
+        "id": [
+            "German",
+            "Spanish",
+            "Italian"
+        ],
+        "adult_language_percentage": 0.8314855875831485,
+        "linguistic_difficulty_percentage": 0.05543237250554324,
+        "words_per_minute": 11,
+        "common_words": {
+            "ship": 17,
+            "go": 11,
+            "come": 10,
+            "know": 10,
+            "back": 7,
+            "make": 7,
+            "u": 7,
+            "say": 7,
+            "see": 7,
+            "one": 7
+        }
+    }
+}

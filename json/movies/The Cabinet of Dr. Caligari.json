@@ -1,0 +1,41 @@
+{
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "76"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. It is the annual fair in Holstenwall. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep. When Alan asks Cesare about his future, Cesare answers that he will die before dawn. The next morning Alan is found dead. Francis suspects Cesare of being the murderer, and starts spying on him and Dr. Caligari. The following night Cesare is going to stab Jane in her bed, but softens when he sees the beautiful woman, and instead of committing another murder, he abducts her. Jane's father awakens because of the noise, and he and some servants follow the fleeing Cesare. When Cesare cannot outrun his pursuers anymore, he gently places Jane down on the ground, and runs away. Francis and the police investigate the caravan of Dr. Caligari, but the doctor succeeds in slipping away. Francis pursues the fleeing Dr. Caligari, and sees him disappear into a madhouse. Francis enters the madhouse, where he is sure he will find the truth behind all these mysterious events.::Maths Jesperson {maths.jesperson1@comhem.se}",
+        "At a fair in the village of Hostenwall, Dr. Caligari obtains a permit to set up his tent show featuring Cesare the 23 year-old Somnabulist who has slept for 23 years. Francis and his friend Alan visit the popular show and Alan asks Cesare in his trance-like state to tell him his future. Cesare predicts that he will die that night and when Alan is in fact found dead in the morning it seems to be just one of many such crimes recently. Frances is determined to find his friend's killer, all the more so after Cesare tries to kidnap his fianc\u00e9e. He follows him to an insane asylum but not all is as it seems.::garykmcd",
+        "A young man named Francis is relaying a story to an elderly man of the recent ordeal he and his fianc\u00e9e Jane have undergone, Jane's affections for which he and his friend Alan had once competed. That ordeal involves two unsolved murders and an attempted abduction. While the police initially suspect a man who is indeed a criminal as the murderer in these two instances, Francis believes the murderer is a Dr. Caligari, and his pawn, a sleepwalker named Cesare. Francis and Alan first spotted Dr. Caligari and Cesare as a carnival sideshow act. Francis' belief is that Dr. Caligari is using an unwitting Cesare to to commit these acts of murder. As Francis nears the conclusion of his story, details contained within are shown not to be as their appear on the surface.::Huggo",
+        "A man named Francis relates a story about his best friend Alan and his fianc\u00e9e Jane. Alan takes him to a fair where they meet Dr. Caligari, who exhibits a somnambulist, Cesare, that can predict the future. When Alan asks how long he has to live, Cesare says he has until dawn. The prophecy comes to pass, as Alan is murdered, and Cesare is a prime suspect. Cesare creeps into Jane's bedroom and abducts her, running from the townspeople and finally dying of exhaustion. Meanwhile, the police discover a dummy in Cesare's cabinet, while Caligari flees. Francis tracks Caligari to a mental asylum. He is the director! Or is he?::Rick Gregory <rag.apa@email.apa.org>",
+        "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.::Alan Smithee"
+    ],
+    "language": {
+        "id": [
+            "None"
+        ],
+        "adult_language_percentage": 2.8315946348733236,
+        "linguistic_difficulty_percentage": 0.14903129657228018,
+        "words_per_minute": 8,
+        "common_words": {
+            "caligari": 14,
+            "somnambulist": 8,
+            "cesare": 8,
+            "dr": 5,
+            "town": 5,
+            "murder": 5,
+            "fair": 4,
+            "let": 4,
+            "know": 4,
+            "cabinet": 3
+        }
+    }
+}

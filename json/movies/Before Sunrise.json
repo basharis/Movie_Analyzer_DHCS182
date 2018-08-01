@@ -1,0 +1,42 @@
+{
+    "title": "Before Sunrise",
+    "year": 1995,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "101"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "American tourist Jesse and French student Celine meet by chance on the train from Budapest to Vienna. Sensing that they are developing a connection, Jesse asks Celine to spend the day with him in Vienna, and she agrees. So they pass the time before his scheduled flight the next morning together. How do two perfect strangers connect so intimately over the course of a single day? What is that special thing that bonds two people so strongly? As their bond turns to love, what will happen to them the next morning when Jesse flies away?::randywong70@comcast.net",
+        "Jesse, an American, has been traveling around Europe on his own aimlessly for the past few weeks on his Eurail pass. His last stop, where he is currently heading, is Vienna, from where he will catch a flight home tomorrow morning. Celine, a Parisienne, had been in Budapest visiting her grandmother. She is currently heading back to Paris to resume her studies at the Sorbonne. Jesse and Celine meet by chance on the same westbound train out of Budapest. The connection they feel from their short conversation on the train is enough for Jesse to suggest at the last minute that she get off the train with him in Vienna and that they spend time together in Vienna - just wandering around the city as was his original plan as he doesn't have the money for a hotel - before he needs to go to the airport, and at which time she will board the next train to Paris. If it ends up she feels uncomfortable with him as time progresses, she could ditch him at any point. Celine agrees. As they wander from place to place in Vienna, they talk about their philosophies of life and love. They also talk about logistical issues regarding their time, such as why Jesse was in Europe to begin with, what they are feeling for each other, if there is a future for them together and if so what that future may look like taking into consideration both their current lots in life.::Huggo",
+        "Two young people, a French graduate student and an American tourist, meet briefly on a train traveling through Europe. Each enjoy talking to each other so much that they decide to get off the train together in Vienna. As they wander the city together and their night progresses, their connection makes the idea of separating the next morning a difficult choice.::Kyle Perez",
+        "A French grad student named Celine meets an American boy named Jesse on the Budapest-Vienna train. They get off the train in Vienna and hang out for a while.::Anonymous",
+        "Before Sunrise is a romance between a young American (Jesse) and a French student (Celine). A chance encounter on the train incites intrigue, and Jesse provocatively suggests that Celine postpones her return to France and embarks instead on a spontaneous expedition to Vienna. In the course of their 14-hour relationship, the two share in their love for the unrehearsed and their appreciation for the unexpected as they explore in a powerful meeting of hearts and minds.::Hong Kong Arts Centre",
+        "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.::jgp3553@yahoo.com"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "French"
+        ],
+        "adult_language_percentage": 1.5483182060864922,
+        "linguistic_difficulty_percentage": 0.08542445274959957,
+        "words_per_minute": 92,
+        "common_words": {
+            "know": 116,
+            "wa": 99,
+            "like": 81,
+            "yeah": 71,
+            "think": 55,
+            "right": 49,
+            "really": 47,
+            "would": 39,
+            "say": 36,
+            "people": 35
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "The Queen",
+    "year": 2006,
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "103"
+    ],
+    "rating": 7.3,
+    "plot": [
+        "Diana the 'People's Princess' has died in a car accident in Paris. The Queen and her family decide that for the best, they should remain hidden behind the closed doors of Balmoral Castle. The heartbroken public do not understand and request that the Queen comforts her people. This also puts pressure on newly elected Tony Blair, who constantly tries to convince the monarchy to address the public.::Film_Fan",
+        "In 1997, after the death of Lady Di in a car accident in Paris, the reluctant Queen and The Establishment do not accept to honor the \"People's Princess\" as a member of the Royal Family. However, the public and the media question the utility of the monarchy and the just-elected Prime Minister Tony Blair advises the Queen to make a public speech mourning the loss of Diana.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "This film looks at the reaction of Britain's Royal Family and that of newly elected Prime Minister Tony Blair in the immediate aftermath of Princess Diana's death in a car crash in Paris on August 31, 1997. As far as the Queen is concerned, Diana's death is a private matter given that she was no longer an \"HRH\". Blair, however, realizes that the public has taken a different view, feeling the loss of the \"People's Princess\", as he calls her. Tucked away at Balmoral, their Scottish retreat, the Royal Family appears oblivious to the public's reaction. Soon however, public opinion turns against them, forcing Blair to offer stern and not necessarily welcome advice.::garykmcd",
+        "Following the death of Princess Diana in an auto accident, Great Britain's Queen Elizabeth II and Prime Minister Tony Blair struggle to reach a compromise in how the royal family should publicly respond to the tragedy. In the balance is the family's need for privacy and the public's demand for an outward show of mourning.::Jwelch5742",
+        "The Queen is an intimate behind the scenes glimpse at the interaction between HM Queen Elizabeth II and Prime Minister Tony Blair during their struggle following the death of Diana, to reach a compromise between what was a private tragedy for the royal family and the public's demand for an overt display of mourning.::Apiary",
+        "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "French"
+        ],
+        "adult_language_percentage": 1.055473735886107,
+        "linguistic_difficulty_percentage": 0.12272950417280314,
+        "words_per_minute": 79,
+        "common_words": {
+            "yes": 57,
+            "wa": 52,
+            "one": 51,
+            "people": 48,
+            "think": 43,
+            "prime": 37,
+            "minister": 37,
+            "queen": 37,
+            "oh": 33,
+            "diana": 31
+        }
+    }
+}

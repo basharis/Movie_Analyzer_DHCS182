@@ -1,0 +1,38 @@
+{
+    "title": "The Longest Yard",
+    "year": 2005,
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Sport"
+    ],
+    "runtime": [
+        "113"
+    ],
+    "rating": 6.4,
+    "plot": [
+        "Paul \"Wrecking\" Crewe was a revered football superstar back in his day, but that time has since faded. But when a messy drunk driving incident lands him in jail, Paul finds he was specifically requested by Warden Hazen (James Cromwell), a duplicitous prison official well aware of Paul's athletic skills. Paul has been assigned the task of assembling a team of convicts, to square off in a big football game against the sadistic guards. With the help of fellow convict Caretaker, and an old legend named Nate Scarborough to coach, Crewe is ready for what promises to be a very interesting game. It's only the warden and the guards who have no idea who or what they're up against, with Paul the driving force behind the new team.::mystic80",
+        "When ex-football star Paul Crewe is thrown into prison, he is assigned the job of creating a football team to take on Warden Hazen's team. Together with the Warden and the legendary Coach Nate Scarborough, Crewe begins to recruit his new team.::FilmFanUk",
+        "Prison inmates form a football team to challenge the prison guards.::monkeykingma"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.0843157596906536,
+        "linguistic_difficulty_percentage": 0.009431293030274452,
+        "words_per_minute": 93,
+        "common_words": {
+            "get": 92,
+            "got": 88,
+            "go": 81,
+            "right": 67,
+            "yeah": 66,
+            "come": 62,
+            "crewe": 62,
+            "let": 59,
+            "gonna": 58,
+            "hey": 52
+        }
+    }
+}

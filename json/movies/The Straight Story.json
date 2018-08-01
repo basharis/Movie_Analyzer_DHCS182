@@ -1,0 +1,38 @@
+{
+    "title": "The Straight Story",
+    "year": 1999,
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "runtime": [
+        "112"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "\"The Straight Story\" chronicles a trip made by 73-year-old Alvin Straight from Laurens, Iowa, to Mt. Zion, Wis., in 1994 while riding a lawn mower. The man undertook his strange journey to mend his relationship with his ill, estranged, 75-year-old brother Lyle.::Christian Sandberg",
+        "Seventy-three year old Alvin Straight is a simple living and stubborn man who lives on his social security. He needs to do things on his own terms. He is in failing health. Both his hips are shot, which requires him to use two canes to walk. He is diabetic. He has emphysema from years of smoking. And he has poor eyesight. Beyond the obvious maladies, he doesn't tell his mentally disabled daughter Rose, who lives with him, of many of these issues. He learns that his brother Lyle Straight, from who he has been estranged for ten years, has just suffered a heart attack. Because of both his and Lyle's mortality, Alvin wants to make peace with his brother before it's too late, which means traveling from his home in the rural town of Laurens, Iowa to Lyle's home in rural Mount Zion, Wisconsin. As with other issues in his life, he needs to make the trip on his own terms, which means on his own. As he doesn't possess a driver's license and since his eyesight is bad, he decides to make the trip driving his aged riding lawn mover towing a trailer which will carry his gear and double as his sleeping quarters. After one mis-start, he is on his way. On that trip, he affects and is affected by those he encounters. But he just hopes that he can finish the trip the way he started it, and before either he, Lyle or the lawn mower give out for good.::Huggo",
+        "Alvin Straight is a very old man with a quiet life in a small country town. When his brother gets seriously sick, he decides to put away their differences and visit him after many, many years. So, alone, he begins a long journey through hundreds of miles, just to see again his brother, even if it's the last thing he will ever do... Based on a real story.::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "An old man makes a long journey by lawnmower to mend his relationship with an ill brother.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.462056161522395,
+        "linguistic_difficulty_percentage": 0.023207240659085637,
+        "words_per_minute": 38,
+        "common_words": {
+            "uh": 60,
+            "well": 45,
+            "alvin": 37,
+            "dad": 30,
+            "wa": 25,
+            "get": 24,
+            "one": 23,
+            "got": 19,
+            "oh": 18,
+            "yeah": 18
+        }
+    }
+}

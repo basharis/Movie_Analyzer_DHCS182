@@ -1,0 +1,39 @@
+{
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "runtime": [
+        "126"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.::Jim Beaver <jumblejim@prodigy.net>",
+        "Dobbs and Curtin meet up in Mexico, and go to work for a contractor, Pat McCormick, who takes them away to remote site and tells them they will be paid when the job is finished. When they are finished, they return to town to find McCormick to get their wages. McCormick gives them a few dollars, and says he'll just go to the bank and pick up the payroll for them. Dobbs and Curtin then meet up with an old prospector, who claims the hills are still full of gold, and if they can get the cash, he'll go with them. They eventually get the cash from McCormick after a little \"persuasion\", and all three set off for the hills as good friends, but will they return that way ?::Colin Tinto <cst@imdb.com>",
+        "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.::Karl Krejci"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Spanish"
+        ],
+        "adult_language_percentage": 1.1838501634420002,
+        "linguistic_difficulty_percentage": 0.04417351356126866,
+        "words_per_minute": 89,
+        "common_words": {
+            "get": 82,
+            "got": 67,
+            "good": 64,
+            "go": 62,
+            "like": 55,
+            "right": 53,
+            "gold": 50,
+            "come": 49,
+            "know": 49,
+            "wa": 48
+        }
+    }
+}

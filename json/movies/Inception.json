@@ -1,0 +1,44 @@
+{
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "148"
+    ],
+    "rating": 8.8,
+    "plot": [
+        "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.::Warner Bros. Pictures",
+        "Dominic Cobb is an industrial spy who instead of breaking into a person's home, office, or even computer, gets the information he needs by getting into the person's mind through their dreams. Cobb is also a fugitive who misses his children. Someone approaches Cobb and wants to hire him but instead of getting information out, the man wants Cobb to implant something, a process called 'inception', which is not easy to do. Cobb is hesitant to do it but when the man offers to help Cobb go back to his children, Cobb agrees. So he assembles his team but when they begin, there are things Cobb didn't tell his team that could jeopardize the job and when they occur they're not sure if they should continue.::rcs0411@yahoo.com",
+        "Dominic Cobb is the foremost practitioner of the artistic science of extraction - inserting oneself into a subject's dreams to obtain hidden information without the subject knowing - a concept taught to him by his professor father-in-law, Dr. Stephen Miles. Dom's associates are Miles' former students, who Dom requires as he himself has given up being the dream architect for reasons he won't disclose. Dom's primary associate, Arthur, believes it has something to do with Dom's deceased wife, Mal, who often figures prominently and violently in those dreams, or Dom's want to \"go home\" i.e. get back to his own reality, which includes two young children. Dom's work is generally in corporate espionage. As the subjects don't want the information to get into the wrong hands, the clients have zero tolerance for failure. Dom is also a wanted man as many of his past subjects have learned what Dom has done to them. One of those subjects, Mr. Saito, offers Dom a job he can't refuse: to take the concept one step further into inception, namely planting thoughts into the subject's dreams without them knowing. Inception can fundamentally alter that person as a being. Saito's target is Robert Michael Fischer, the heir to an energy business empire, which has the potential to rule the world if continued on the current trajectory. Beyond the complex logistics of the dream architecture of the case and some unknowns concerning Fischer himself, the biggest obstacles in success for the team become worrying about one aspect of inception which Cobb fails to disclose to the other team members prior to the job, and Cobb's newest associate Ariadne's belief that Cobb's own subconscious, especially as it relates to Mal, may be taking over what happens in the dreams.::Huggo",
+        "Mr Cobb a unique Con Artist can enter anyones Dream and extract the most valuable ideas and secrets of people with the help of Inception (a Dream Sharing Technology) when the state of mind is at its vulnerable best. Cobbs ability has made him the face of Corporate Spy hence a wanted man too. Seeing his abilities he is approached by Saito to carry out an almost impossible mission not to steal but to plant the idea into the mind of the legal heir of a Billion Dollar Enterprenauer. Mr Cobb with some specialists must do the impossible in order to get back his life in a completely different \"world of Dreams\" facing his own Demons.::Mahesh Shelatkar",
+        "Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.::Jwelch5742",
+        "A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.::Skip_4591"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "adult_language_percentage": 0.9330845107971207,
+        "linguistic_difficulty_percentage": 0.07997867235403892,
+        "words_per_minute": 50,
+        "common_words": {
+            "know": 76,
+            "dream": 71,
+            "wa": 45,
+            "need": 37,
+            "u": 35,
+            "want": 33,
+            "go": 30,
+            "cobb": 29,
+            "mr": 28,
+            "fischer": 28
+        }
+    }
+}

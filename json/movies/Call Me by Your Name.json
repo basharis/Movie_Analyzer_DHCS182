@@ -1,0 +1,41 @@
+{
+    "title": "Call Me by Your Name",
+    "year": 2017,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "132"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "CALL ME BY YOUR NAME, the new film by Luca Guadagnino, is a sensual and transcendent tale of first love, based on the acclaimed novel by Andr\u00e9 Aciman. It's the summer of 1983 in the north of Italy, and Elio Perlman (Timoth\u00e9e Chalamet), a precocious 17-year-old young man, spends his days in his family's 17th century villa transcribing and playing classical music, reading, and flirting with his friend Marzia (Esther Garrel). Elio enjoys a close relationship with his father (Michael Stuhlbarg), an eminent professor specializing in Greco-Roman culture, and his mother Annella (Amira Casar), a translator, who favor him with the fruits of high culture in a setting that overflows with natural delights. While Elio's sophistication and intellectual gifts suggest he is already a fully-fledged adult, there is much that yet remains innocent and unformed about him, particularly about matters of the heart. One day, Oliver (Armie Hammer), a 24-year-old American college graduate student working on his doctorate, arrives as the annual summer intern tasked with helping Elio's father. Amid the sun-drenched splendor of the setting, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.::Sony Pictures Classics",
+        "In early-1980s northern Italy, amid the lush Mediterranean landscapes of a serene and golden summer, 17-year-old, Elio, visits the family's summer villa to spend his vacation with his father and Greco-Roman culture professor, Mr Perlman, his translator mother, Annella, and the American doctoral student who works there as an intern, Oliver. But, little by little, over the course of six fleeting weeks, a timid friendship between Elio and Oliver will prepare the ground for an unexpected bond, as the unexplored emotions of first love start boiling over. Could this sun-kissed romance in Lombardy be the prelude to maturity?::Nick Riganas",
+        "In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant."
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Italian",
+            "French",
+            "German",
+            "Hebrew"
+        ],
+        "adult_language_percentage": 1.2175754367390152,
+        "linguistic_difficulty_percentage": 0.15881418740074113,
+        "words_per_minute": 42,
+        "common_words": {
+            "know": 51,
+            "come": 49,
+            "oliver": 43,
+            "elio": 43,
+            "go": 41,
+            "good": 35,
+            "yeah": 34,
+            "like": 32,
+            "well": 26,
+            "think": 26
+        }
+    }
+}

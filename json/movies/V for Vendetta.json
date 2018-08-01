@@ -1,0 +1,41 @@
+{
+    "title": "V for Vendetta",
+    "year": 2005,
+    "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "132"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "Tells the story of Evey Hammond and her unlikely but instrumental part in bringing down the fascist government that has taken control of a futuristic Great Britain. Saved from a life-and-death situation by a man in a Guy Fawkes mask who calls himself V, she learns a general summary of V's past and, after a time, decides to help him bring down those who committed the atrocities that led to Britain being in the shape that it is in.::ameelmore",
+        "Set against the futuristic landscape of totalitarian Britain, V For Vendetta tells the story of a mild-mannered young woman named Evey who is rescued from a life-and-death situation by a masked vigilante known only as \"V.\" Incomparably charismatic and ferociously skilled in the art of combat and deception, V ignites a revolution when he detonates two London landmarks and takes over the government-controlled airwaves, urging his fellow citizens to rise up against tyranny and oppression. As Evey uncovers the truth about V's mysterious background, she also discovers the truth about herself - and emerges as his unlikely ally in the culmination of his plot to bring freedom and justice back to a society fraught with cruelty and corruption.::Alex W",
+        "In the not too distant future, Britain is filled with torture cells, unfair punishments, prejudice against minorities. However in the midst of all this chaos, one man known only by the name V dares to stand up to the government and is labeled as a terrorist. One night V rescues a mild young woman called Evey Hammond and an unlikely bond between the two emerges which results with Evey becoming Vs ally. But though V may be charismatic and have a passion for justice he also is bitter and has his own personal hatred of the government for something they did to him long ago. As November the 5th, the day V says he and those who will follow him will stand up to the government once and for all approaches, Detective Finch becomes more and more determined to uncover the truth about V, however his search leads him to ask to question whether or not he is on the right side.::x_babyangel",
+        "In this obscure and Gothic tale, one attractive girl, Evey gets involved accidentally in a terrorist attack, perpetrated by a masked and megalomaniac character, V. V is following the same steps of Guy Fawkes, a sort of terrorist of the XVII century, who wanted to blow up the English Parlament in London. However, in the present time, the Orwellian London lives under the fascist government of chancellor Adam, and V will fight against his regime, using the power of powder, blowing up important buildings. Evey will be chased by the secret police, thinking that she's the accomplice of V, who will accomplish Fawkes' mission of destroying the Parlament on the 5th of November, in this mixture of The Phantom of the Opera, George Orwell's 1984 and Batman.::Alejandro Frias",
+        "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.380952380952381,
+        "linguistic_difficulty_percentage": 0.22267899965741694,
+        "words_per_minute": 88,
+        "common_words": {
+            "wa": 112,
+            "know": 75,
+            "one": 43,
+            "like": 34,
+            "think": 33,
+            "want": 33,
+            "yes": 30,
+            "man": 28,
+            "terrorist": 28,
+            "oh": 28
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Underground",
+    "year": 2016,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "Thriller"
+    ],
+    "runtime": [
+        "43"
+    ],
+    "rating": 7.8,
+    "plot": [
+        "With the country on the brink of Civil War, the struggle for freedom is more dangerous than ever. Underground tells the story of American heroes and their harrowing journey to freedom, with legendary Harriet Tubman blazing the trail.::WGN America"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 4.019892250310816,
+        "linguistic_difficulty_percentage": 0.04144218814753419,
+        "words_per_minute": 56,
+        "common_words": {
+            "come": 35,
+            "go": 19,
+            "know": 17,
+            "u": 12,
+            "eric": 12,
+            "look": 11,
+            "okay": 11,
+            "yes": 10,
+            "going": 10,
+            "die": 10
+        }
+    }
+}

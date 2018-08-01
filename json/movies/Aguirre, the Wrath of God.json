@@ -1,0 +1,43 @@
+{
+    "title": "Aguirre, the Wrath of God",
+    "year": 1972,
+    "genres": [
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "runtime": [
+        "95"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "A few decades after the destruction of the Inca empire, a Spanish expedition leaves the mountains of Peru and goes down the Amazon river in search of gold and wealth. Soon, they come across great difficulties and Don Aguirres, a ruthless man who cares only about riches, becomes their leader. But will his quest lead them to \"the golden city\", or to certain destruction?::Chris Makrozahopoulos <makzax@hotmail.com>",
+        "South America, 16th Century. Spanish explorer Don Lope de Aguirre leads an expedition down the Amazon river to find the fabled city of El Dorado. Beset on all sides by unfriendly natives, the journey will turn out to be a treacherous one. An even bigger enemy to the party is themselves, as they start to turn on each other. Even more problematic is their leader, who is quite oppressive and does not appear to be entirely sane.::grantss",
+        "A band of ruthless conquistadors venture up a river in sixteenth century South America in search of fortune only to find that the journey rapidly becomes more perilous. Morale and feelings of loyalty to Spain deteriorate thus power struggles ensue amongst the soldiers.::Ben Parish <parishb@cs.man.ac.uk>",
+        "In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Quechua",
+            "Spanish",
+            "German"
+        ],
+        "adult_language_percentage": 2.6279770052012044,
+        "linguistic_difficulty_percentage": 0.13687380235422938,
+        "words_per_minute": 38,
+        "common_words": {
+            "get": 25,
+            "one": 19,
+            "men": 19,
+            "indians": 17,
+            "god": 17,
+            "u": 17,
+            "go": 15,
+            "wa": 15,
+            "must": 14,
+            "ursua": 14
+        }
+    }
+}

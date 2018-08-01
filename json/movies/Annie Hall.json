@@ -1,0 +1,41 @@
+{
+    "title": "Annie Hall",
+    "year": 1977,
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "runtime": [
+        "93"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "Alvy Singer, a forty year old twice divorced, neurotic, intellectual Jewish New York stand-up comic, reflects on the demise of his latest relationship, to Annie Hall, an insecure, flighty, Midwestern WASP aspiring nightclub singer. Unlike his previous relationships, Alvy believed he may have worked out all the issues in his life through fifteen years of therapy to make this relationship with Annie last, among those issues being not wanting to date any woman that would want to date him, and thus subconsciously pushing those women away. Alvy not only reviews the many ups and many downs of their relationship, but also reviews the many facets of his makeup that led to him starting to date Annie. Those facets include growing up next to Coney Island in Brooklyn, being attracted to the opposite sex for as long as he can remember, and enduring years of Jewish guilt with his constantly arguing parents.::Huggo",
+        "Comedian Alvy Singer examines the rise and fall of his relationship with struggling nightclub singer Annie Hall. Speaking directly to the audience in front of a bare background, Singer reflects briefly on his childhood and his early adult years before settling in to tell the story of how he and Annie met, fell in love, and struggled with the obstacles of modern romance, mixing surreal fantasy sequences with small moments of emotional drama.::Jwelch5742",
+        "The story of comedian Alvy Singer is recounted through a series of flashbacks that examines where his relationship with the titular lady all went wrong. Annie Hall is a aspiring nightclub singer and Alvy is a struggling writer and one day the two meet, hit it off together and eventually fall in love. The trial and tribulations of this modern romance highlights the comedy, emotion and sadness the two go through.::Kyle Perez",
+        "Romantic adventures of neurotic New York comedian Alvy Singer and his equally neurotic girlfriend Annie Hall. The film traces the course of their relationship from their first meeting, and serves as an interesting historical document about love in the 1970s.::Scott Renshaw <as.idc@forsythe.stanford.edu>",
+        "After breaking up with his girlfriend Annie Hall, neurotic comedian Alvy Singer goes on a stream of conciousness journey through his memories of their relationship, trying to find out what caused them to part ways. He often breaks the fourth wall, speaking to the camera, entering peoples' stories, and even using animation.::rmlohner",
+        "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German"
+        ],
+        "adult_language_percentage": 1.536893280012546,
+        "linguistic_difficulty_percentage": 0.05488904571473379,
+        "words_per_minute": 137,
+        "common_words": {
+            "wa": 115,
+            "know": 111,
+            "oh": 83,
+            "like": 82,
+            "think": 77,
+            "get": 70,
+            "yeah": 64,
+            "well": 57,
+            "alvy": 54,
+            "really": 51
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Solaris",
+    "year": 1971,
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "167"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "The Solaris mission has established a base on a planet that appears to host some kind of intelligence, but the details are hazy and very secret. After the mysterious demise of one of the three scientists on the base, the main character is sent out to replace him. He finds the station run-down and the two remaining scientists cold and secretive. When he also encounters his wife who has been dead for ten years, he begins to appreciate the baffling nature of the alien intelligence.::Dan Ellis",
+        "Psychologist Kris Kelvin is sent to a space station orbiting the moon of a distant planet. Once built to hold over 80 people, the station now has only 3 occupants. The space station has long been a troublesome issue with many occupants suffering from delusions while there. Kelvin arrives to learn that one of the three, Gibarian, has died leaving only two others as inhabitants. Soon, Kelvin is also seeing things that cannot be.::garykmcd",
+        "Kris Kelvin is a renowned psychologist, about to head to the space station orbiting the planet Solaris. Several years earlier Solaris was the focal point of scientific research. Then a research party met with a fatal accident while exploring the surface and a member of the rescue party reported seeing strange apparitions. This dimmed the scientific community's interest in the planet to the extent that the space station's crew has decreased from 85 to only 3. When Dr Kelvin arrives he immediately senses that something strange is afoot.::grantss",
+        "This film probes man's thoughts and conscience, as it follows a psychologist who is sent to a space station situated over the mysterious Solaris Ocean. The two other scientists there tell the psychologist of strange occurrences in the station, and the Ocean's eerie ability to materialize their thoughts. After being in the station for a while, the psychologist finds himself becoming very attached to its alternate reality...::Philip Brubaker <coda@nando.net>",
+        "When the scientist Fechner disappears in the surface of the mysterious Solaris Ocean, the experienced helicopter pilot Henri Berton crosses a fog seeking out Fechner and has weird visions. His statement is presented to a commission of scientists that believe he had hallucinations. However, the widowed psychologist Kris Kelvin is assigned to the space station that orbits Solaris to check the mental health of the three remaining scientists that are still working there. He first meets Dr. Snaut, who tells him that Dr. Gibarian committed suicide, and later he meets Dr. Sartorius and he realizes that the scientists have strange behaviors. When he encounters his wife Hari, who died ten years ago, in the space station, the scientists explain to Kris that the Solaris Ocean has the ability to materialize the innermost thoughts in neutrons beings. Kris questions whether the appearance of his beloved wife is a curse or a blessing.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.::Karl Krejci"
+    ],
+    "language": {
+        "id": [
+            "Russian",
+            "German"
+        ],
+        "adult_language_percentage": 0.7813696951126091,
+        "linguistic_difficulty_percentage": 0.1072468208978091,
+        "words_per_minute": 39,
+        "common_words": {
+            "wa": 46,
+            "know": 42,
+            "like": 36,
+            "kris": 28,
+            "one": 24,
+            "understand": 23,
+            "come": 22,
+            "time": 22,
+            "u": 22,
+            "snaut": 21
+        }
+    }
+}

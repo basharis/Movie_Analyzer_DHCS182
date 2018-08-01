@@ -1,0 +1,38 @@
+{
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "runtime": [
+        "135"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery. After many years of struggle, he eventually triumphed over his tragedy, and finally - late in life - received the Nobel Prize.::Universal Pictures and DreamWorks Pictures",
+        "At Princeton University, John Nash struggles to make a worthwhile contribution to serve as his legacy to the world of mathematics. He finally makes a revolutionary breakthrough that will eventually earn him the Nobel Prize. After graduate school he turns to teaching, becoming romantically involved with his student Alicia. Meanwhile the government asks his help with breaking Soviet codes, which soon gets him involved in a terrifying conspiracy plot. Nash grows more and more paranoid until a discovery that turns his entire world upside down. Now it is only with Alicia's help that he will be able to recover his mental strength and regain his status as the great mathematician we know him as today.::rmlohner",
+        "John Nash goes through a myriad of highs and lows from his time as a Mathematics student in graduate school at Princeton in the late 1940's to his Nobel Prize win for Economics in 1994. A brilliant but somewhat arrogant and antisocial man, Nash preferred to spend his time with his thoughts, which were primarily of seeing mathematical formula associated with everyday occurrences, than with people. Two people he did make a connection with were Charles, his roommate at Princeton, and Alicia Larde, one of his students when he was teaching at M.I.T. in the early 1950's. He and Alicia eventually marry. As time goes on, Nash lives more and more within himself which causes major problems in his life. But Alicia stands by her husband to his redemption to the Nobel Prize win. Nash learns that his graduate school colleagues, with whom he had a cordial but somewhat distant relationship, are closer friends than he imagined, although in his later life he really does miss Charles' company more than anything despite knowing that spending time with Charles is not in his or anyone's best interest.::Huggo",
+        "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.::Chw"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.2256068538791052,
+        "linguistic_difficulty_percentage": 0.17848643503093764,
+        "words_per_minute": 62,
+        "common_words": {
+            "john": 113,
+            "know": 59,
+            "wa": 45,
+            "nash": 44,
+            "get": 35,
+            "well": 32,
+            "go": 31,
+            "come": 31,
+            "see": 29,
+            "right": 28
+        }
+    }
+}

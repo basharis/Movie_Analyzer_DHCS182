@@ -1,0 +1,42 @@
+{
+    "title": "The Pianist",
+    "year": 2002,
+    "genres": [
+        "Biography",
+        "Drama",
+        "Music",
+        "War"
+    ],
+    "runtime": [
+        "150"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "In this adaptation of the autobiography \"The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,\" Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw.::Jwelch5742",
+        "A brilliant pianist, a Polish Jew, witnesses the restrictions Germans place on Jews in the Polish capital, from restricted access to the building of the Warsaw ghetto. As his family is rounded up to be shipped off to the German Nazi labor camps, he escapes deportation and eludes capture by living in the ruins of Warsaw.::Anonymous",
+        "The true story of Wladyslaw Szpilman who, in the 1930s, was known as the most accomplished piano player in all of Poland, if not Europe. At the outbreak of the Second World War, however, Szpilman becomes subject to the anti-Jewish laws imposed by the conquering Germans. By the start of the 1940s, Szpilman has seen his world go from piano concert halls to the Jewish Ghetto of Warsaw and then must suffer the tragedy of his family deported to a German concentration camps, while Szpilman is conscripted into a forced German Labor Compound. At last deciding to escape, Szpilman goes into hiding as a Jewish refugee where he is witness to the Warsaw Ghetto Uprising (April 19, 1943 - May 16, 1943) and the Warsaw Uprising (1 August to 2 October 1944)::Anthony Hughes <husnock31@hotmail.com>",
+        "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "adult_language_percentage": 2.124670763827919,
+        "linguistic_difficulty_percentage": 0.07023705004389816,
+        "words_per_minute": 37,
+        "common_words": {
+            "come": 45,
+            "know": 36,
+            "go": 31,
+            "u": 30,
+            "take": 28,
+            "going": 28,
+            "get": 26,
+            "got": 25,
+            "jews": 23,
+            "look": 21
+        }
+    }
+}

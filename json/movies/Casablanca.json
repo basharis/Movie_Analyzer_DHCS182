@@ -1,0 +1,43 @@
+{
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "runtime": [
+        "102"
+    ],
+    "rating": 8.5,
+    "plot": [
+        "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.::Kyle Perez",
+        "In World War II Casablanca, Rick Blaine, exiled American and former freedom fighter, runs the most popular nightspot in town. The cynical lone wolf Blaine comes into the possession of two valuable letters of transit. When Nazi Major Strasser arrives in Casablanca, the sycophantic police Captain Renault does what he can to please him, including detaining a Czechoslovak underground leader Victor Laszlo. Much to Rick's surprise, Lazslo arrives with Ilsa, Rick's one time love. Rick is very bitter towards Ilsa, who ran out on him in Paris, but when he learns she had good reason to, they plan to run off together again using the letters of transit. Well, that was their original plan....::Gary Jackson <garyjack5@cogeco.ca>",
+        "During World War II, Europeans who were fleeing from the Germans, sought refuge in America. But to get there they would first have to go Casablanca and once they get there, they have to obtain exit visas which are not very easy to come by. Now the hottest spot in all of Casablanca is Rick's Cafe which is operated by Rick Blaine, an American expatriate, who for some reason can't return there, and he is also extremely cynical. Now it seems that two German couriers were killed and the documents they were carrying were taken. Now one of Rick's regulars, Ugarte entrusts to him some letters of transit, which he intends to sell but before he does he is arrested for killing the couriers. Captain Renault, the Chief of Police, who is neutral in his political views, informs Rick that Victor Laszlo, a resistance leader from Czechoslovakia, is in Casablanca and will do anything to get an exit visa but Renault has been \"told\" by Major Strasser of the Gestapo, to keep Laszlo in Casablanca. Laszlo goes to Rick's to meet Ugarte, because he was the one Ugarte was going to sell the letters to. But since Ugarte was arrested he has to find another way. Accompanying him is Ilsa Lund, who knew Rick when he was in Paris, and when they meet some of Rick's old wounds reopen. It is obvious that Rick's stone heart was because of her leaving him. And when they learn that Rick has the letters, he refuses to give them to him, because \"he doesn't stick his neck out for anyone\".::rcs0411@yahoo.com",
+        "Rick Blaine, who owns a nightclub in Casablanca, Morocco, discovers his old flame Ilsa is in town with her husband, Victor Laszlo. Laszlo is a resistance leader from Czechoslovakia, and with Germans on his tail, Ilsa knows Rick can help them get out of the country - but will he?::Anonymous",
+        "A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.::Pat Dunne"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "French",
+            "German",
+            "Italian"
+        ],
+        "adult_language_percentage": 0.831869858582124,
+        "linguistic_difficulty_percentage": 0.0277289952860708,
+        "words_per_minute": 106,
+        "common_words": {
+            "know": 61,
+            "rick": 56,
+            "get": 52,
+            "one": 52,
+            "wa": 52,
+            "yes": 50,
+            "good": 46,
+            "come": 40,
+            "time": 40,
+            "casablanca": 39
+        }
+    }
+}

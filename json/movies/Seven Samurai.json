@@ -1,0 +1,40 @@
+{
+    "title": "Seven Samurai",
+    "year": 1954,
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "runtime": [
+        "207"
+    ],
+    "rating": 8.7,
+    "plot": [
+        "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village.::Colin Tinto <cst@imdb.com>",
+        "In the Sixteenth Century, in Japan, a poor village is frequently looted by armed bandits losing their crop of rice. Their patriarch Grandpa advises the villagers to hire a Ronin to defend their village. Four farmers head to town to seek out their possible protectors, but they just can offer three meals of rice per day and lodging for the samurai. They succeed in hiring the warming-hearted veteran Kambei Shimada that advises that they need six other samurai to protect their lands. Kambei recruits the necessary five samurai and the brave jester Kikuchiyo and move to the village. After a feared reception, Kambei plots a defense strategy and the samurai start training the farmers how to defend their lands and families for the battle that approaches.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "After being attacked by a group of bandits several times, a group of villagers seek help of seven Samurai in order to fight the bandits once and for all. This is the story of how they made their pass through the enemy's massive army and their tremendous epic war with the bandits. The seven samurai will do anything in order to win the battle; however, there are still a lot of obstacles and problems they must solve.::J. S. Golden",
+        "A village is constantly attacked by well armed bandits. One day after an attack they seek the wisdom of an elder who tells them they cannot afford weapons, but they can find men with weapons, samurai, who will fight for them, if they find samurai who are in down on their luck and wondering where their next meal will come from. They find a very experienced samurai with a good heart who agrees to recruit their party for them. He selects five genuine samurai and one who is suspect but the seven return to the village to protect it from the forty plus bandits.::John Vogel <jlvogel@comcast.net>",
+        "In 16th century Japan, farmers in a small village face the prospect of again losing their crops to a band of roving thieves. Their solution is to go to the nearest city and see if they can hire samurai to protect them. The farmers are poor and can only offer food and lodging but they soon recruit Kambei Shimada who determines that they will need a total of seven samurai to properly guard the village. Slowly, he recruits other samurai for their task and once complete, move to the village. There they teach the farmers basic self defense and fortify the village itself. When the bandits attack, they are prepared but suffer many losses.::garykmcd",
+        "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.::Jon Reeves <jreeves@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 2.728494623655914,
+        "linguistic_difficulty_percentage": 0.06720430107526883,
+        "words_per_minute": 35,
+        "common_words": {
+            "samurai": 60,
+            "one": 47,
+            "go": 38,
+            "like": 35,
+            "bandit": 33,
+            "u": 33,
+            "man": 33,
+            "come": 33,
+            "let": 32,
+            "get": 29
+        }
+    }
+}

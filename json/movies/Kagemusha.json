@@ -1,0 +1,38 @@
+{
+    "title": "Kagemusha",
+    "year": 1980,
+    "genres": [
+        "Drama",
+        "History",
+        "War"
+    ],
+    "runtime": [
+        "180"
+    ],
+    "rating": 8.0,
+    "plot": [
+        "When a powerful warlord in medieval Japan dies, a poor thief recruited to impersonate him finds difficulty living up to his role and clashes with the spirit of the warlord during turbulent times in the kingdom.::Keith Loh <loh@sfu.ca>",
+        "In 1572, there is a civil war in Japan, and three powerful clans, leaded by the lords Shingen Takeda (Tatsuya Nakadai), Nobunaga Oda (Daisuke Ryu) and Ieyasu Tokugawa (Masayuki Yui), dispute the conquest of Kyoto. When Shingen is mortally wounded, the Takeda clan hides the incident and uses a poor thief to be the double of the strategist Shingen and keep the respect of their enemies. Along the years, Kagemusha incorporates the spirit of the warrior of the dead warlord.::Claudio Carvalho, Rio de Janeiro, Brazil",
+        "A petty thief with an utter resemblance to a samurai warlord is hired as the lord's double. When the warlord later dies the thief is forced to take up arms in his place.::Daniel Jos. Leary"
+    ],
+    "language": {
+        "id": [
+            "Japanese"
+        ],
+        "adult_language_percentage": 2.0557491289198606,
+        "linguistic_difficulty_percentage": 0.13937282229965156,
+        "words_per_minute": 31,
+        "common_words": {
+            "lord": 82,
+            "wa": 41,
+            "shingen": 39,
+            "ha": 28,
+            "must": 27,
+            "father": 26,
+            "castle": 26,
+            "like": 24,
+            "well": 24,
+            "mountain": 24
+        }
+    }
+}

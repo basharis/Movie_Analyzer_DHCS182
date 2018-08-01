@@ -1,0 +1,39 @@
+{
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genres": [
+        "Drama"
+    ],
+    "runtime": [
+        "126"
+    ],
+    "rating": 8.3,
+    "plot": [
+        "A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.::Dima & Danielle",
+        "A young adult by the name of Will Hunting has always been living in the slums. He spends his nights at bars and batting cages with his best friends. However, he has an amazing talent in Mathematics. When Will is almost sent to jail, a professor at MIT decides to bail him out under the condition that he works with him for math every week and that he visits a therapist. Little does he know that the therapist, Sean, will change his life in so many ways.::Eric",
+        "A janitor at MIT, Will Hunting has a gift for math and chemistry that can take him light-years beyond his blue-collar roots, but he doesn't realize his potential and can't even imagine leaving his childhood Boston South End neighborhood, his construction job, or his best friend. To complicate matters, several strangers enter the equation: a brilliant math professor who discovers, even envies, Will's gifts, an empathetic shrink who identifies with Will's blue-collar roots, and a beautiful, gifted pre-med student who shows him, for the first time in his life, the possibility of love.::Damien Saunders <dvs@rainbow.net.au>",
+        "Will Hunting is a genius who's living a rough life in South Boston, while being employed at a prestigious college in Boston, he's discovered by a Fields Medal winning Professor who eventually tries to get Will to turn his life around with the help of Sean Maguire, as Will begins to realize that there's more to himself then he thinks there is.::Ryan Harder <hotshotharder@hotmail.com>",
+        "Will Hunting is a boy genius who was severely abused as a child and has been in trouble with the law ever since. When Will finally agrees to get counseling to keep himself out of jail and with his girlfriend, he meets Sean, the therapist who will change his life. Good Will Hunting tells the poignant story of Will and Sean's coming to terms with the blows life has dealt them and with the questions that lie in the future.::Anuja <anujav@excite.com>",
+        "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.::Colin Tinto <cst@imdb.com>"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 2.4613024682749964,
+        "linguistic_difficulty_percentage": 0.10458792358109051,
+        "words_per_minute": 113,
+        "common_words": {
+            "know": 142,
+            "yeah": 130,
+            "right": 98,
+            "like": 97,
+            "fuckin": 92,
+            "wa": 88,
+            "get": 75,
+            "got": 71,
+            "come": 70,
+            "oh": 64
+        }
+    }
+}

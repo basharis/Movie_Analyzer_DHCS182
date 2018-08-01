@@ -1,0 +1,40 @@
+{
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "161"
+    ],
+    "rating": 8.2,
+    "plot": [
+        "The film deals with the situation of British prisoners of war during World War II who are ordered to build a bridge to accommodate the Burma-Siam railway. Their instinct is to sabotage the bridge but, under the leadership of Colonel Nicholson, they are persuaded that the bridge should be constructed as a symbol of British morale, spirit and dignity in adverse circumstances. At first, the prisoners admire Nicholson when he bravely endures torture rather than compromise his principles for the benefit of the Japanese commandant Saito. He is an honorable but arrogant man, who is slowly revealed to be a deluded obsessive. He convinces himself that the bridge is a monument to British character, but actually is a monument to himself, and his insistence on its construction becomes a subtle form of collaboration with the enemy. Unknown to him, the Allies have sent a mission into the jungle, led by Warden and an American, Shears, to blow up the bridge.::alfiehitchie",
+        "During WWII, the Japanese have set up a POW camp in Indochina on an island on the banks of the Kwai River. The primary purpose of this location is so that the Japanese can use the labor of the POWs to construct a railway bridge over the river, the bridge which will be a vital link for the Japanese forces in the war. It needs to be completed in five month's time. The camp is presided over by Colonel Saito, a man ruled by a mixture of Japanese cultural tradition and the need to win the war at any cost, even if it includes torture and other measures against the Geneva Convention. Among the officers at the camp are Colonel Nicholson, the senior British officer for who the principle of the matter is foremost regardless of the consequences; Major Clipton, the pragmatic medical officer; and US Navy Commander Shears who is more concerned about his own well being and that of those around him than he is about the big picture of the war. Against the assertions of its futility by both Saito and Nicholson, three POWs try to escape - among them being Shears - with all being shot. Everyone believes Shears is dead, but he manages to survive and make it out of the jungle back to safety. At the camp, a battle of wills ensues between Nicholson and Saito, specifically regarding the illegal use of POW officers as laborers to build the bridge. Nicholson wins the respect of the POWs because of this standoff. But Nicholson ultimately has other thoughts, namely taking control of the building of a proper, well made bridge to replace the haphazard one currently being directed by Saito. Nicholson's rationale is that it will raise the morale of the POWs by giving them something constructive to do, while demoralizing the enemy by showing them the superiority of the British. Meanwhile, as Shears is convalescing at a beach-side military hospital in Ceylon, he is certain he will get his wish of a medical discharge. His plans are disrailed when he is asked to participate in a British led four man commando mission to destroy the bridge under the command of Major Warden, the antithesis of Shears in that he can only see the big picture without seeing the personal cost to those around him. This offer is one that Shears cannot refuse. The four understand the risks - the perils of the jungle and the Japanese - but they may not fully realize that their biggest threat for carrying out the mission successfully is Nicholson's pride.::Huggo",
+        "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.::Chris White"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Japanese",
+            "Thai"
+        ],
+        "adult_language_percentage": 1.3546151422870945,
+        "linguistic_difficulty_percentage": 0.1470124960621653,
+        "words_per_minute": 59,
+        "common_words": {
+            "sir": 114,
+            "yes": 60,
+            "officer": 54,
+            "good": 48,
+            "bridge": 47,
+            "well": 46,
+            "work": 44,
+            "colonel": 40,
+            "know": 40,
+            "u": 37
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "The Invisible Guest",
+    "year": 2016,
+    "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "106"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "Adri\u00e1n Doria, a wealthy businessman named Man of the Year due to his high-tech company and his trade agreements with the Asian market, meets Virginia Goodman, a veteran lawyer expert in witness preparation and judicial declaration, recommended by Adri\u00e1n's lawyer Felix Leiva in order to create a credible defense. Arrested by the police in a mountain hotel room with the corpse of his lover at his side, photographer Laura Vidal, Adri\u00e1n talks Virginia about the crime and his relationship with Laura, revealing that both suffered a car crash where a man called Daniel Garrido died, and how Laura manipulated Adri\u00e1n to avoid the jail by Daniel's death. At the same time that F\u00e9lix is looking for a clue that it could change the course of the events, Virginia and Adri\u00e1n keep talking about the case but her, unconvinced of the Adri\u00e1n's testimony, forces him to clear the dark points of his history, in a puzzle where the truth and the lie are easily exchangeable.::Chockys",
+        "The international young entrepreneur Adri\u00e1n Doria seems to have it all in life; wealth, recognition, fame, and above all, a family and a caring wife on his side. But his perfect life is about to crumble like a pack of cards when Doria is found locked in a hotel room next to a dead body, and as a result, he now stands accused of murder. Under those circumstances and with less than three hours to come up with an impregnable defence as a last-minute eyewitness threatens to turn his case around, Adrian will seek help from the esteemed witness preparation expert, Virginia Goodman, while the clock is ticking. Eventually, as the night drags on, diverse interpretations of the incident will emerge, nevertheless, even though there can be more than one sides to a story, in fact, only one can be absolutely real.::Nick Riganas",
+        "While the clock is ticking, with the aid of a witness preparation expert, a successful entrepreneur accused of murder has less than three hours to come up with an impregnable defence.::Nick Riganas"
+    ],
+    "language": {
+        "id": [
+            "Spanish"
+        ],
+        "adult_language_percentage": 0.9371118889014339,
+        "linguistic_difficulty_percentage": 0.0790335327989161,
+        "words_per_minute": 83,
+        "common_words": {
+            "wa": 108,
+            "know": 69,
+            "police": 46,
+            "laura": 36,
+            "tell": 36,
+            "doria": 35,
+            "garrido": 35,
+            "would": 34,
+            "get": 33,
+            "mr": 31
+        }
+    }
+}

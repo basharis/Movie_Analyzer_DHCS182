@@ -1,0 +1,43 @@
+{
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "runtime": [
+        "127"
+    ],
+    "rating": 7.3,
+    "plot": [
+        "Peter Parker is an unhappy man: after two years of fighting crime as Spider-Man, his life has begun to fall apart. The girl he loves is engaged to someone else, his grades are slipping, he cannot keep any of his jobs, and on top of it, the newspaper Daily Bugle is attacking him viciously, claiming that Spider-Man is a criminal. He reaches the breaking point and gives up the crime fighter's life, once and for all. But after a failed fusion experiment, eccentric and obsessive scientist Dr. Otto Octavius is transformed into super villain Doctor Octopus, Doc Ock for short, having four long tentacles as extra hands. Peter guesses it might just be time for Spider-Man to return, but would he act upon it?::Soumitra",
+        "It's been two years since Peter Parker transformed into Spider-Man, and he is still trying to balance life perfectly. His love for Mary Jane is becoming much stronger, as he finds it hard to not let her down. His friendship with Harry Osborn is at risk, as the young Harry is frustrated with Spider-Man getting away with his father's death. And if this wasn't enough for the super hero, a new enemy is in town. Dr. Otto Octavius is involved in a freak scientific accident and becomes the dangerous Doctor Octopus.::Film_Fan",
+        "When a failed nuclear fusion experiment results in an explosion that kills his wife, Dr. Otto Octavius is transformed into Dr. Octopus, a cyborg with deadly metal tentacles. Doc Ock blames Spider-Man for the accident and seeks revenge. Meanwhile, Spidey's alter ego, Peter Parker, faces fading powers and self-doubt. Complicating matters are his best friend's hatred for Spider-Man and his true love's sudden engagement to another man.::Jwelch5742",
+        "Peter Parker's having a rough time. His double life as the super hero Spider-Man is having a devastating impact on his civilian life. Things are so bad he declares that he's quitting and never putting on the suit again. However, his sense of duty forces him to become a hero again when the brilliant scientist Dr. Otto Octavius is transformed in an accident and becomes Dr. Octopus. With four metal tentacles sticking out of his back, he'll prove to be a more than worthy opponent for Spider-Man.::rmlohner",
+        "Peter Parker can't seem to catch any kind of break. Being Spider-Man has brought him nothing but problems as far as his personal life is concerned. Not only that, Mary Jane Watson is engaged to astronaut John Jameson, and Peter may lose her forever. Things are so bad for him that he is pushed past his breaking point, so he decides that he doesn't want to be a super hero anymore, until a freak accident transforms Dr. Otto Octavius into Dr. Octopus, a super-villain with four metal tentacles protruding from his torso. Peter realizes that only Spider-Man can stop him but, of course, problems arise. Mary Jane gets caught in the middle, and Harry Osborn, who still blames the web-slinger for the death of his father Norman Osborn, also the Green Goblin, wants him dead. Spider-Man will have to push himself past his limits if he's going to survive.::Roguemaster83",
+        "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.::Skip4591"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Russian",
+            "Chinese"
+        ],
+        "adult_language_percentage": 0.9515570934256056,
+        "linguistic_difficulty_percentage": 0.10092272202998846,
+        "words_per_minute": 54,
+        "common_words": {
+            "wa": 42,
+            "know": 36,
+            "spider": 36,
+            "get": 35,
+            "peter": 33,
+            "want": 33,
+            "right": 27,
+            "go": 27,
+            "got": 27,
+            "oh": 24
+        }
+    }
+}

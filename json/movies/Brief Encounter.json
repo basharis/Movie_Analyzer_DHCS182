@@ -1,0 +1,38 @@
+{
+    "title": "Brief Encounter",
+    "year": 1945,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "runtime": [
+        "86"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "At a caf\u00e9 on a railway station, housewife Laura Jesson meets doctor Alec Harvey. Although they are both already married, they gradually fall in love with each other. They continue to meet every Thursday in the small caf\u00e9, although they know that their love is impossible.::Mattias Thuresson",
+        "Laura Jesson and Dr. Alec Harvey spend each Thursday in Milford - Laura running her shopping errands and catching a movie picture and Alec doing rounds at the hospital - before each boards a train at the end of the afternoon going in the opposite direction to their respective homes of Catchworth and Chorley. They meet accidentally enough in the Milford Junction refreshment room while waiting for their respective trains when Alec helps Laura remove a piece of coal dust from her eye. Over the course of a few weeks seeing each other only on Thursdays, Laura and Alec fall in love. The problem is that each is already happily married with a family, and neither wants to hurt their own spouse. Laura tries unsuccessfully to avoid meeting up with Alec as her emotional need to see him takes over. They have to decide how to deal with what looks to be a doomed but life long romance with each other, while hiding their encounters from anyone, especially their friends and acquaintances who may see them together in Milford.::Huggo",
+        "When Laura Jesson and Dr. Alec Harvey meet by chance at a railway station, little do they realize they will soon fall deeply in love. Laura travels to the city to shop and see a movie every Thursday and Alec soon joins her for lunch and then a film. Both are married and have children but they enjoy each others company. As they come to realize they are truly in love, they also must deal with the torment that come from the realization that any future for them is out of the question.::garykmcd",
+        "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 0.6202039314622096,
+        "linguistic_difficulty_percentage": 0.052559655208661835,
+        "words_per_minute": 110,
+        "common_words": {
+            "wa": 107,
+            "yes": 61,
+            "go": 46,
+            "one": 44,
+            "train": 41,
+            "see": 40,
+            "know": 36,
+            "come": 35,
+            "must": 35,
+            "got": 34
+        }
+    }
+}

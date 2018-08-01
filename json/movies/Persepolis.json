@@ -1,0 +1,41 @@
+{
+    "title": "Persepolis",
+    "year": 2007,
+    "genres": [
+        "Animation",
+        "Biography",
+        "Drama",
+        "War"
+    ],
+    "runtime": [
+        "96"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In 1970s Iran, Marjane 'Marji' Statrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own. With Marji dangerously refusing to remain silent at this injustice, her parents send her abroad to Vienna to study for a better life. However, this change proves an equally difficult trial with the young woman finding herself in a different culture loaded with abrasive characters and profound disappointments that deeply trouble her. Even when she returns home, Marji finds that both she and homeland have changed too much and the young woman and her loving family must decide where she truly belongs.::Kenneth Chisholm (kchishol@rogers.com)",
+        "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.::anonymous"
+    ],
+    "language": {
+        "id": [
+            "French",
+            "English",
+            "Persian",
+            "German"
+        ],
+        "adult_language_percentage": 2.4724860545756067,
+        "linguistic_difficulty_percentage": 0.15076134479119555,
+        "words_per_minute": 69,
+        "common_words": {
+            "wa": 65,
+            "like": 27,
+            "go": 27,
+            "one": 24,
+            "shah": 24,
+            "yes": 22,
+            "get": 21,
+            "right": 20,
+            "u": 20,
+            "know": 20
+        }
+    }
+}

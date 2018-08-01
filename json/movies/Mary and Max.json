@@ -1,0 +1,40 @@
+{
+    "title": "Mary and Max",
+    "year": 2009,
+    "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+    ],
+    "runtime": [
+        "92"
+    ],
+    "rating": 8.1,
+    "plot": [
+        "In the mid-1970's, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. She's Mary Dinkle, the only child of an alcoholic mother and a distracted father. He's Max Horowitz, an overweight man with Asperger's, living alone in New York. He writes back, with chocolate. Thus begins a 20-year correspondence, interrupted by a stay in an asylum and a few misunderstandings. Mary falls in love with a neighbor, saves money to have a birthmark removed and deals with loss. Max has a friendship with a neighbor, tries to control his weight, and finally gets the dream job. Will the two ever meet face to face?::<jhailey@hotmail.com>",
+        "\"Mary and Max\" is a poignant story that chronicles a pen-pal relationship between two very different people which spans nearly 2 decades across 2 continents. Though living entirely different lives, the two bond over their mutual eccentricities and isolation: Mary Dinkle is a chubby, lonely eight-year-old with an unfortunate birthmark on her forehead. She lives in the suburbs of Melbourne, Australia, Max Horovitz is a morbidly obese, 44-year-old formerly Jewish atheist with Asperger's Syndrome who resides amidst the chaos of New York City. \"Mary and Max\" chronicles the lives of Mary, who grows up to become a successful writer, and Max, who grows from middle to old age. Over their years of communication, they each offer each other support, advice and the opportunity to see life in a different perspective.::Kyle Perez",
+        "It is a simple tale of pen-friendship between two very different people; Mary Dinkle, living in the suburbs of Melbourne, Australia and New Yorker with Aspergers, Max Horowitz. Spanning 20 years and 2 continents, Mary and Max's friendship survives much more than the average diet of life's ups and downs.::Icon",
+        "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.::Anonymous"
+    ],
+    "language": {
+        "id": [
+            "English",
+            "Yiddish"
+        ],
+        "adult_language_percentage": 1.487680148768015,
+        "linguistic_difficulty_percentage": 0.20145668681233533,
+        "words_per_minute": 70,
+        "common_words": {
+            "wa": 89,
+            "mary": 61,
+            "max": 53,
+            "like": 48,
+            "one": 33,
+            "friend": 29,
+            "would": 25,
+            "chocolate": 25,
+            "found": 19,
+            "day": 19
+        }
+    }
+}

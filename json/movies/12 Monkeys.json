@@ -1,0 +1,40 @@
+{
+    "title": "12 Monkeys",
+    "year": 2015,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "runtime": [
+        "42"
+    ],
+    "rating": 7.7,
+    "plot": [
+        "In the year 2043, scavenger James Cole (Aaron Stanford) has been recruited by a team of \"Project Splinter\" scientists led by physicist Katarina Jones (Barbara Sukowa), to travel back in time to the year 2015, and stop the release of a deadly virus by the enigmatic organization known as the \"Army of the 12 Monkeys\". In Cole's original time-line, the virus caused a plague that resulted in the death of seven billion humans in the year 2017, and its on-going mutations will mean the eventual end of the human race. In the 2015 time-line, Cole will meet and enlist the help of brilliant virologist Dr. Cassandra \"Cassie\" Railly (Amanda Schull); the two are brought together because a recording mentioning Cole, that Cassie made after the viral outbreak, is uncovered by Jones in the future time-line, prompting her to select Cole for the mission. Cole will also encounter a seemingly unstable math genius named Jennifer Goines (Emily Hampshire), whose father Cole has been tasked to kill, Cassie's ex-boyfriend Aaron Marker (Noah Bean), and the dangerous high-ranking members of the Army of the 12 Monkeys, \"Pallid Man\" (Tom Noonan) and Olivia (Alisen Down). In the future time-line, Cole will also have to deal with his best friend Jos\u00e9 Ramse (Kirk Acevedo), and a man named Theodore Deacon (Todd Stashwick), who leads a brutal pack of scavengers from which Cole and Ramse fled. Meanwhile, Cole and Cassie will try to unveil the identity and whereabouts of the mysterious leader of the Army of the 12 Monkeys, who is only known as \"The Witness\", and is always one step ahead of them.::ahmetkozan",
+        "Inspired by the classic blockbuster film, which commemorated its 20th anniversary in 2015, 12 Monkeys explores the provocative story of a time traveler from a decimated future in a high-stakes race against the clock. Utilizing a dangerous and untested method of time travel, he journeys from 2043 to the present day on a mission to locate and eradicate the source of a deadly plague that will all but annihilate the human race.::ahmetkozan",
+        "Follows the journey of a time traveler from the post-apocalyptic future who appears in present day on a mission to locate and eradicate the source of a deadly plague that will nearly destroy the human race.::Syfy"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.29917325338421,
+        "linguistic_difficulty_percentage": 0.1362769146906514,
+        "words_per_minute": 262,
+        "common_words": {
+            "wa": 97,
+            "know": 84,
+            "get": 49,
+            "right": 49,
+            "want": 44,
+            "see": 42,
+            "got": 40,
+            "go": 40,
+            "come": 38,
+            "cole": 37
+        }
+    }
+}

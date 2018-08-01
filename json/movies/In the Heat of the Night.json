@@ -1,0 +1,40 @@
+{
+    "title": "In the Heat of the Night",
+    "year": 1988,
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "runtime": [
+        "60"
+    ],
+    "rating": 7.5,
+    "plot": [
+        "Bill Gillespie is a police chief in a small town in the American South, and later becomes sheriff of the county. As Bill tries to solve crimes and catch criminals, aided by his capable investigator Virgil Tibbs and police lieutenant Bubba Skinner, he must navigate tricky small-town politics. Racial tensions often run high in the South and this theme is frequently explored. Bill's personal life is often portrayed in this TV drama, as well.::Tad Dibbern <DIBBERN_D@a1.mscf.upenn.edu>",
+        "In a continuation of the film of the same name, Virgil Tibbs returns home to Sparta, Mississippi from Philadelphia with his wife Althea for the funeral of his mother when he is offered the position of chief of detectives for the town's mostly Caucasian police force. At first there is tension between not only Virgil and Chief Bill Gillespie, but also between Virgil and Sgt. (and later Captain) Bubba Skinner. However, not only do they learn to work together, but they all eventually become very close friends against the backdrop of the \"New South\".::Brian Washington <Sargebri@att.net>",
+        "Inspired by the movie which starred Sidney Poitier and Rod Steiger. Howard Rollins and Caroll O'Connor are playing their respectively. Rollins plays Virgil Tibbs a detective from Philadelphia, who returns to his home of Sparta, Mississipi and is asked by a politician, who wants to use him as pawn to garner the black vote, if he wants to be the police department's Chief of Detectives. Of course, Bill Gillespie the Police Chief, who is played by O'Connor, has his reservations but somehow they learn to work together and quite well. Rollins who would have some problems, would not be there regularly, and would eventually be written off, as having his character become a lawyer and leave the police department. Gillespie would be removed as the Police Chief and would be replaced by Hampton Forbes, and would be named County Sheriff and would work with Forbes.::rcs0411@yahoo.com",
+        "The cases and adventures of the police forces in and around Sparta, Mississippi.::Kenneth Chisholm"
+    ],
+    "language": {
+        "id": [
+            "English"
+        ],
+        "adult_language_percentage": 1.6133405639913234,
+        "linguistic_difficulty_percentage": 0.0,
+        "words_per_minute": 122,
+        "common_words": {
+            "know": 60,
+            "well": 59,
+            "got": 52,
+            "right": 52,
+            "colbert": 41,
+            "get": 40,
+            "come": 39,
+            "man": 39,
+            "wa": 37,
+            "chief": 36
+        }
+    }
+}

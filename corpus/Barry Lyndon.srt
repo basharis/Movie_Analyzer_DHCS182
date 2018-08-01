@@ -1,0 +1,4418 @@
+1
+00:00:04,200 --> 00:00:07,192  X1:117 X2:601 Y1:482 Y2:509
+<i>Corporal Barry, eight paces forward...</i>
+
+2
+00:00:08,320 --> 00:00:09,309  X1:302 X2:417 Y1:482 Y2:504
+<i>... march!</i>
+
+3
+00:00:21,320 --> 00:00:22,548  X1:261 X2:457 Y1:482 Y2:509
+Corporal Barry.
+
+4
+00:00:27,120 --> 00:00:30,112  X1:169 X2:549 Y1:448 Y2:509
+You're a gallant soldier,
+and evidently of good stock...
+
+5
+00:00:30,640 --> 00:00:32,995  X1:140 X2:579 Y1:482 Y2:509
+...but you're idle and unprincipled.
+
+6
+00:00:33,640 --> 00:00:35,596  X1:134 X2:582 Y1:482 Y2:504
+You're a bad influence on the men.
+
+7
+00:00:36,360 --> 00:00:39,909  X1:152 X2:566 Y1:448 Y2:509
+And for all your bravery,
+I'm sure you'll come to no good.
+
+8
+00:00:43,120 --> 00:00:45,680  X1:160 X2:558 Y1:482 Y2:509
+I hope the Colonel is mistaken.
+
+9
+00:00:46,760 --> 00:00:51,038  X1:108 X2:609 Y1:448 Y2:509
+I have fallen into bad company,
+but I've only done as other soldiers do.
+
+10
+00:00:51,440 --> 00:00:54,079  X1:216 X2:502 Y1:448 Y2:509
+I've never had a friend
+or protector before...
+
+11
+00:00:54,160 --> 00:00:56,879  X1:178 X2:542 Y1:448 Y2:509
+...to show that I was worthy
+of better things.
+
+12
+00:00:58,000 --> 00:01:01,197  X1:153 X2:566 Y1:448 Y2:504
+The Colonel may say I'm ruined,
+and send me to the Devil.
+
+13
+00:01:01,440 --> 00:01:04,557  X1:183 X2:535 Y1:448 Y2:509
+But, I would go to the Devil
+to serve the Regiment.
+
+14
+00:01:08,640 --> 00:01:11,154  X1:218 X2:501 Y1:482 Y2:509
+<i>Corporal Barry, fall in.</i>
+
+15
+00:01:21,040 --> 00:01:25,192  X1:128 X2:596 Y1:448 Y2:509
+<i>The war ended and Barry's regiment</i>
+<i>was garrisoned in the Capital.</i>
+
+16
+00:01:27,720 --> 00:01:32,475  X1:087 X2:637 Y1:448 Y2:509
+<i>He had, for some time, ingratiated himself</i>
+<i>with Captain Potzdorf...</i>
+
+17
+00:01:33,640 --> 00:01:36,598  X1:164 X2:554 Y1:448 Y2:509
+<i>... whose confidence in him</i>
+<i>was about to bring its reward.</i>
+
+18
+00:01:46,000 --> 00:01:47,274  X1:194 X2:523 Y1:482 Y2:509
+Good morning, Redmond.
+
+19
+00:01:47,360 --> 00:01:48,918  X1:206 X2:512 Y1:482 Y2:509
+Good morning, Captain.
+
+20
+00:01:50,040 --> 00:01:53,874  X1:133 X2:586 Y1:448 Y2:504
+I should like you to meet my uncle,
+the Minister of Police.
+
+21
+00:01:55,080 --> 00:01:56,957  X1:169 X2:548 Y1:482 Y2:509
+Good morning, Herr Minister.
+
+22
+00:01:59,080 --> 00:02:00,229  X1:286 X2:431 Y1:482 Y2:504
+Redmond...
+
+23
+00:02:00,360 --> 00:02:04,638  X1:102 X2:614 Y1:448 Y2:509
+...I've spoken to the Minister regarding
+your services and your fortune is made.
+
+24
+00:02:05,160 --> 00:02:07,151  X1:134 X2:584 Y1:482 Y2:509
+We shall get you out of the Army...
+
+25
+00:02:07,240 --> 00:02:10,710  X1:133 X2:586 Y1:448 Y2:507
+...appoint you to the Police Bureau,
+and, in time...
+
+26
+00:02:11,680 --> 00:02:15,309  X1:194 X2:525 Y1:448 Y2:509
+...we'll allow you to move
+in a better sphere.
+
+27
+00:02:17,000 --> 00:02:18,399  X1:231 X2:486 Y1:482 Y2:509
+Thank you, Captain.
+
+28
+00:02:21,440 --> 00:02:25,831  X1:146 X2:571 Y1:448 Y2:509
+Your loyalty to me and service
+to the Regiment has pleased me.
+
+29
+00:02:28,160 --> 00:02:31,596  X1:163 X2:556 Y1:448 Y2:509
+Now there is another occasion
+on which you can assist us.
+
+30
+00:02:33,000 --> 00:02:34,399  X1:255 X2:462 Y1:482 Y2:509
+If you succeed...
+
+31
+00:02:36,880 --> 00:02:38,552  X1:172 X2:546 Y1:482 Y2:509
+...your reward will be secure.
+
+32
+00:02:40,320 --> 00:02:41,878  X1:239 X2:478 Y1:482 Y2:509
+I'll do my best, sir.
+
+33
+00:02:50,520 --> 00:02:55,036  X1:100 X2:618 Y1:448 Y2:509
+There is a gentleman in Berlin
+in the service of the Empress of Austria.
+
+34
+00:02:55,960 --> 00:02:58,872  X1:196 X2:521 Y1:448 Y2:504
+He calls himself
+the Chevalier de Balibari.
+
+35
+00:03:00,200 --> 00:03:02,555  X1:096 X2:623 Y1:482 Y2:509
+He appears to be a professional gambler.
+
+36
+00:03:04,000 --> 00:03:05,319  X1:259 X2:459 Y1:482 Y2:504
+He's a libertine:
+
+37
+00:03:06,080 --> 00:03:08,230  X1:160 X2:559 Y1:482 Y2:509
+Fond of women, of good food...
+
+38
+00:03:09,120 --> 00:03:10,633  X1:230 X2:489 Y1:482 Y2:509
+...polished, obliging.
+
+39
+00:03:13,120 --> 00:03:15,475  X1:078 X2:640 Y1:482 Y2:509
+He speaks French and German indifferently.
+
+40
+00:03:16,600 --> 00:03:20,070  X1:177 X2:543 Y1:448 Y2:504
+But we have reason to fancy
+that Monsieur de Balibari...
+
+41
+00:03:21,120 --> 00:03:23,588  X1:110 X2:609 Y1:482 Y2:509
+...is a native of your country of Ireland.
+
+42
+00:03:25,600 --> 00:03:28,319  X1:124 X2:592 Y1:482 Y2:509
+And that he has come here as a spy.
+
+43
+00:03:39,200 --> 00:03:41,111  X1:174 X2:542 Y1:482 Y2:509
+Your knowledge of English...
+
+44
+00:03:41,440 --> 00:03:44,750  X1:179 X2:541 Y1:448 Y2:509
+...makes you an ideal choice
+to go into his service...
+
+45
+00:03:45,720 --> 00:03:48,234  X1:170 X2:549 Y1:448 Y2:509
+...and find out whether or not
+he is a spy.
+
+46
+00:03:51,320 --> 00:03:53,515  X1:132 X2:587 Y1:482 Y2:509
+Does this assignment interest you?
+
+47
+00:03:55,400 --> 00:03:59,518  X1:131 X2:588 Y1:448 Y2:509
+Minister, I'm interested in anything
+that can be of service to you...
+
+48
+00:03:59,680 --> 00:04:01,272  X1:209 X2:510 Y1:482 Y2:509
+...and Captain Potzdorf.
+
+49
+00:04:12,480 --> 00:04:14,835  X1:121 X2:595 Y1:482 Y2:509
+You will not know a word of English.
+
+50
+00:04:16,080 --> 00:04:20,835  X1:101 X2:618 Y1:448 Y2:509
+If the Chevalier remarks on your accent,
+say you are Hungarian.
+
+51
+00:04:21,920 --> 00:04:23,478  X1:213 X2:504 Y1:482 Y2:504
+You served in the war.
+
+52
+00:04:23,960 --> 00:04:26,838  X1:101 X2:616 Y1:482 Y2:509
+You left the Army for medical reasons...
+
+53
+00:04:28,440 --> 00:04:31,591  X1:106 X2:613 Y1:448 Y2:509
+...then served Monsieur de Quellenberg
+for two years.
+
+54
+00:04:32,280 --> 00:04:35,909  X1:116 X2:601 Y1:448 Y2:509
+He's now with the Army in Silesia,
+but you'll have a certificate from him.
+
+55
+00:05:00,080 --> 00:05:01,718  X1:175 X2:544 Y1:482 Y2:509
+<i>Good morning, Your Honour.</i>
+
+56
+00:05:19,760 --> 00:05:22,718  X1:185 X2:532 Y1:448 Y2:509
+<i>So you are the young man</i>
+<i>recommended by Seebach.</i>
+
+57
+00:05:24,760 --> 00:05:28,070  X1:204 X2:515 Y1:448 Y2:509
+<i>Yes, Your Honour,</i>
+<i>here are my credentials.</i>
+
+58
+00:05:38,320 --> 00:05:40,231  X1:188 X2:534 Y1:482 Y2:509
+<i>Your name is Lazlo Zilagy?</i>
+
+59
+00:05:43,280 --> 00:05:44,679  X1:244 X2:475 Y1:482 Y2:507
+<i>Yes, Your Honour.</i>
+
+60
+00:05:47,560 --> 00:05:50,518  X1:197 X2:523 Y1:448 Y2:509
+<i>Monsieur de Quellenberg</i>
+<i>recommends you highly.</i>
+
+61
+00:05:52,760 --> 00:05:54,796  X1:168 X2:549 Y1:482 Y2:509
+<i>Monsieur is a very good man.</i>
+
+62
+00:06:02,760 --> 00:06:04,478  X1:192 X2:526 Y1:482 Y2:509
+<i>It was imprudent of him...</i>
+
+63
+00:06:05,200 --> 00:06:08,078  X1:184 X2:534 Y1:448 Y2:509
+<i>... but when Barry saw</i>
+<i>the Chevalier's splendour...</i>
+
+64
+00:06:09,080 --> 00:06:10,593  X1:220 X2:498 Y1:482 Y2:504
+<i>... and noble manner...</i>
+
+65
+00:06:11,120 --> 00:06:13,793  X1:151 X2:570 Y1:448 Y2:504
+<i>... he felt unable to keep disguise</i>
+<i>with him.</i>
+
+66
+00:06:15,560 --> 00:06:17,630  X1:128 X2:592 Y1:482 Y2:504
+<i>Those who have never been exiled...</i>
+
+67
+00:06:18,360 --> 00:06:21,670  X1:173 X2:549 Y1:448 Y2:509
+<i>... know not what it is to hear</i>
+<i>a friendly voice in captivity...</i>
+
+68
+00:06:22,760 --> 00:06:26,196  X1:101 X2:618 Y1:482 Y2:504
+<i>... and would not understand the cause...</i>
+
+69
+00:06:26,440 --> 00:06:29,432  X1:200 X2:518 Y1:448 Y2:509
+<i>... of the burst of feeling</i>
+<i>now about to take place.</i>
+
+70
+00:06:32,840 --> 00:06:34,910  X1:165 X2:555 Y1:482 Y2:509
+<i>You seem the right one to me.</i>
+
+71
+00:06:38,400 --> 00:06:39,958  X1:202 X2:518 Y1:482 Y2:509
+<i>Thank you, Your Honour.</i>
+
+72
+00:06:46,640 --> 00:06:47,868  X1:285 X2:434 Y1:482 Y2:509
+<i>Are you ill?</i>
+
+73
+00:06:53,640 --> 00:06:54,595  X1:329 X2:389 Y1:482 Y2:504
+Sir...
+
+74
+00:06:55,320 --> 00:06:57,436  X1:120 X2:599 Y1:482 Y2:509
+...I have a confession to make to you.
+
+75
+00:06:59,440 --> 00:07:00,714  X1:255 X2:462 Y1:482 Y2:504
+I'm an Irishman.
+
+76
+00:07:02,080 --> 00:07:03,718  X1:177 X2:541 Y1:482 Y2:509
+My name is Redmond Barry.
+
+77
+00:07:07,080 --> 00:07:09,640  X1:105 X2:612 Y1:482 Y2:509
+I was abducted into the Prussian Army.
+
+78
+00:07:11,080 --> 00:07:13,310  X1:119 X2:599 Y1:482 Y2:509
+Now I've been put into your service...
+
+79
+00:07:14,120 --> 00:07:18,557  X1:116 X2:601 Y1:448 Y2:507
+...by my Captain Potzdorf
+and his uncle, the Minister of Police...
+
+80
+00:07:22,120 --> 00:07:25,271  X1:222 X2:497 Y1:448 Y2:509
+...to serve as a watch
+upon your... actions...
+
+81
+00:07:27,480 --> 00:07:31,268  X1:138 X2:581 Y1:482 Y2:509
+...and to give information to them.
+
+82
+00:07:51,720 --> 00:07:56,350  X1:114 X2:605 Y1:448 Y2:509
+<i>The Chevalier was much affected</i>
+<i>at thus finding one of his countrymen.</i>
+
+83
+00:07:57,920 --> 00:07:59,831  X1:206 X2:512 Y1:482 Y2:504
+<i>For he too was an exile.</i>
+
+84
+00:08:00,920 --> 00:08:03,115  X1:171 X2:545 Y1:482 Y2:509
+<i>And a friendly voice, a look...</i>
+
+85
+00:08:04,000 --> 00:08:06,833  X1:195 X2:527 Y1:448 Y2:509
+<i>... brought the old country</i>
+<i>back to his memory.</i>
+
+86
+00:08:10,680 --> 00:08:13,672  X1:170 X2:548 Y1:448 Y2:509
+He is very religious
+and attends church regularly.
+
+87
+00:08:14,080 --> 00:08:16,799  X1:092 X2:625 Y1:482 Y2:504
+After Mass he comes home for breakfast.
+
+88
+00:08:20,960 --> 00:08:23,269  X1:111 X2:607 Y1:482 Y2:509
+He then takes an airing in his carriage.
+
+89
+00:08:23,360 --> 00:08:26,636  X1:183 X2:538 Y1:448 Y2:509
+<i>Barry presented his reports</i>
+<i>regularly to the Minister.</i>
+
+90
+00:08:27,680 --> 00:08:31,036  X1:160 X2:557 Y1:448 Y2:504
+<i>The details were arranged</i>
+<i>beforehand with the Chevalier.</i>
+
+91
+00:08:32,480 --> 00:08:35,233  X1:127 X2:591 Y1:482 Y2:504
+<i>He was instructed to tell the truth...</i>
+
+92
+00:08:36,000 --> 00:08:38,673  X1:215 X2:506 Y1:448 Y2:509
+<i>... as much as his story</i>
+<i>would possibly bear.</i>
+
+93
+00:08:40,440 --> 00:08:44,399  X1:154 X2:565 Y1:448 Y2:509
+<i>The information he gave</i>
+<i>was very minute and accurate...</i>
+
+94
+00:08:45,080 --> 00:08:46,832  X1:173 X2:546 Y1:482 Y2:509
+<i>... though not very important.</i>
+
+95
+00:09:07,400 --> 00:09:09,118  X1:173 X2:551 Y1:482 Y2:509
+<i>Wine or punch, Your Honour?</i>
+
+96
+00:09:09,840 --> 00:09:10,750  X1:326 X2:395 Y1:482 Y2:504
+<i>Wine.</i>
+
+97
+00:09:11,880 --> 00:09:15,475  X1:121 X2:599 Y1:448 Y2:504
+<i>It was agreed that Barry should keep</i>
+<i>his character of valet.</i>
+
+98
+00:09:16,640 --> 00:09:20,269  X1:113 X2:605 Y1:448 Y2:509
+<i>That, before strangers,</i>
+<i>he should not know a word of English.</i>
+
+99
+00:09:21,280 --> 00:09:25,751  X1:114 X2:604 Y1:448 Y2:509
+<i>And that he should keep a lookout</i>
+<i>on the trumps when serving the wine.</i>
+
+100
+00:09:27,800 --> 00:09:29,518  X1:182 X2:536 Y1:482 Y2:509
+<i>Having excellent eyesight...</i>
+
+101
+00:09:30,240 --> 00:09:31,958  X1:193 X2:525 Y1:482 Y2:509
+<i>... and a natural aptitude...</i>
+
+102
+00:09:32,920 --> 00:09:36,356  X1:121 X2:599 Y1:448 Y2:504
+<i>... he was able to give his dear patron</i>
+<i>much assistance...</i>
+
+103
+00:09:36,640 --> 00:09:39,313  X1:206 X2:515 Y1:448 Y2:509
+<i>... against his opponents</i>
+<i>at the green table.</i>
+
+104
+00:09:40,880 --> 00:09:43,872  X1:199 X2:521 Y1:448 Y2:509
+<i>Lf, for instance, he wiped</i>
+<i>the table with a napkin...</i>
+
+105
+00:09:44,360 --> 00:09:46,828  X1:116 X2:603 Y1:482 Y2:509
+<i>... the enemy was strong in Diamonds.</i>
+
+106
+00:09:48,600 --> 00:09:50,989  X1:101 X2:617 Y1:482 Y2:509
+<i>If he adjusted a chair it meant Ace King.</i>
+
+107
+00:09:51,080 --> 00:09:54,390  X1:108 X2:609 Y1:482 Y2:509
+<i>If he said, "Punch or wine, My Lord?"...</i>
+
+108
+00:09:54,600 --> 00:09:56,636  X1:135 X2:584 Y1:482 Y2:507
+<i>... Hearts were meant, and so forth.</i>
+
+109
+00:10:08,160 --> 00:10:09,832  X1:203 X2:518 Y1:482 Y2:509
+<i>The Prince of Tübingen...</i>
+
+110
+00:10:10,000 --> 00:10:13,515  X1:153 X2:568 Y1:448 Y2:504
+<i>... who had intimate connections</i>
+<i>with the Great Frederick...</i>
+
+111
+00:10:15,120 --> 00:10:18,430  X1:157 X2:565 Y1:448 Y2:509
+<i>... was passionately fond of play</i>
+<i>as were the gentlemen...</i>
+
+112
+00:10:18,640 --> 00:10:20,995  X1:126 X2:592 Y1:482 Y2:509
+<i>... of almost all the Courts of Europe.</i>
+
+113
+00:10:21,200 --> 00:10:23,430  X1:166 X2:554 Y1:482 Y2:507
+<i>You owe 15,500 frederick d'or.</i>
+
+114
+00:10:57,440 --> 00:10:58,509  X1:287 X2:431 Y1:482 Y2:504
+Chevalier...
+
+115
+00:11:02,360 --> 00:11:04,191  X1:177 X2:541 Y1:482 Y2:509
+...though I cannot say how...
+
+116
+00:11:05,800 --> 00:11:07,870  X1:149 X2:569 Y1:482 Y2:509
+...I believe you have cheated me.
+
+117
+00:11:15,680 --> 00:11:17,671  X1:148 X2:569 Y1:482 Y2:509
+I deny Your Grace's accusation...
+
+118
+00:11:18,440 --> 00:11:21,113  X1:177 X2:542 Y1:448 Y2:509
+...and beg you to say
+how you have been cheated.
+
+119
+00:11:23,560 --> 00:11:24,675  X1:275 X2:442 Y1:482 Y2:504
+I don't know.
+
+120
+00:11:25,640 --> 00:11:27,312  X1:198 X2:520 Y1:482 Y2:504
+But I believe I have been.
+
+121
+00:11:29,400 --> 00:11:33,188  X1:217 X2:502 Y1:448 Y2:507
+Your Grace owes me
+15,500 frederick d'or...
+
+122
+00:11:34,400 --> 00:11:36,311  X1:155 X2:563 Y1:482 Y2:509
+...which I have honourably won.
+
+123
+00:11:38,480 --> 00:11:39,549  X1:287 X2:431 Y1:482 Y2:504
+Chevalier...
+
+124
+00:11:42,080 --> 00:11:45,470  X1:138 X2:582 Y1:448 Y2:509
+...if you will have your money now
+you must fight for it.
+
+125
+00:11:47,560 --> 00:11:49,198  X1:214 X2:503 Y1:482 Y2:509
+If you will be patient...
+
+126
+00:11:50,440 --> 00:11:53,034  X1:143 X2:577 Y1:448 Y2:504
+...maybe I will pay you something
+another time.
+
+127
+00:11:56,800 --> 00:12:01,237  X1:145 X2:573 Y1:448 Y2:504
+Your Grace, if I am to be so tame
+as to take this...
+
+128
+00:12:01,960 --> 00:12:05,191  X1:127 X2:592 Y1:448 Y2:509
+...then I must give up an honourable
+and lucrative occupation.
+
+129
+00:12:07,160 --> 00:12:09,230  X1:146 X2:571 Y1:482 Y2:504
+I have said all there is to be said.
+
+130
+00:12:10,600 --> 00:12:13,751  X1:147 X2:570 Y1:448 Y2:509
+I am at your disposal
+for whatever purposes you wish.
+
+131
+00:12:16,000 --> 00:12:17,115  X1:284 X2:434 Y1:482 Y2:509
+Good night.
+
+132
+00:12:38,480 --> 00:12:40,152  X1:201 X2:517 Y1:482 Y2:504
+Was the Prince cheated?
+
+133
+00:12:42,560 --> 00:12:46,030  X1:179 X2:539 Y1:448 Y2:507
+In as far as I am able to tell,
+Herr Minister, no.
+
+134
+00:12:46,560 --> 00:12:48,630  X1:141 X2:577 Y1:482 Y2:509
+I believe he won the money fairly.
+
+135
+00:12:52,960 --> 00:12:55,076  X1:124 X2:593 Y1:482 Y2:504
+What are the Chevalier's intentions?
+
+136
+00:12:56,200 --> 00:12:57,349  X1:278 X2:440 Y1:482 Y2:504
+I'm not sure.
+
+137
+00:12:57,880 --> 00:13:02,158  X1:119 X2:599 Y1:448 Y2:509
+The Prince told him that if he wanted
+his money he'd have to fight for it.
+
+138
+00:13:05,560 --> 00:13:08,154  X1:097 X2:620 Y1:482 Y2:509
+A meeting with the Prince is impossible.
+
+139
+00:13:12,120 --> 00:13:14,429  X1:103 X2:614 Y1:482 Y2:504
+The Prince has left him no other choice.
+
+140
+00:13:40,600 --> 00:13:44,513  X1:094 X2:626 Y1:448 Y2:509
+Will you be able to return here tomorrow
+without arousing suspicion?
+
+141
+00:13:46,280 --> 00:13:48,953  X1:136 X2:583 Y1:448 Y2:504
+I know they won't allow a meeting
+with the Prince.
+
+142
+00:13:49,240 --> 00:13:53,472  X1:096 X2:624 Y1:448 Y2:509
+But if I say that, do you know any reason
+why he'll pay me what he owes?
+
+143
+00:13:55,040 --> 00:13:58,032  X1:181 X2:537 Y1:448 Y2:504
+You must tell them I intend
+to demand satisfaction.
+
+144
+00:13:59,120 --> 00:14:01,156  X1:149 X2:569 Y1:482 Y2:509
+Don't look so downcast, my boy.
+
+145
+00:14:01,720 --> 00:14:05,508  X1:111 X2:605 Y1:448 Y2:509
+They cannot harm me,
+the Austrian Embassy will see to that.
+
+146
+00:14:06,160 --> 00:14:10,278  X1:132 X2:586 Y1:448 Y2:509
+The worst they can do is send me
+out of this dreary country of theirs.
+
+147
+00:14:11,560 --> 00:14:14,393  X1:176 X2:541 Y1:482 Y2:509
+If they should, don't worry...
+
+148
+00:14:15,280 --> 00:14:17,191  X1:168 X2:550 Y1:482 Y2:509
+...you shall not be left behind.
+
+149
+00:14:17,840 --> 00:14:19,319  X1:228 X2:490 Y1:482 Y2:504
+Have no fear of that.
+
+150
+00:14:21,400 --> 00:14:25,029  X1:146 X2:572 Y1:448 Y2:509
+The King has determined to send
+the Chevalier out of the country.
+
+151
+00:14:26,120 --> 00:14:28,315  X1:108 X2:611 Y1:482 Y2:509
+Has he already demanded satisfaction?
+
+152
+00:14:30,200 --> 00:14:33,192  X1:124 X2:595 Y1:482 Y2:509
+Not yet, but I believe he intends to...
+
+153
+00:14:34,320 --> 00:14:35,639  X1:250 X2:468 Y1:482 Y2:509
+...possibly today.
+
+154
+00:14:36,600 --> 00:14:38,556  X1:135 X2:583 Y1:482 Y2:504
+Then this must be done tomorrow.
+
+155
+00:14:39,000 --> 00:14:40,877  X1:154 X2:563 Y1:482 Y2:509
+All the arrangements are made.
+
+156
+00:14:45,680 --> 00:14:49,559  X1:194 X2:524 Y1:448 Y2:509
+You said he takes a drive
+after breakfast every day.
+
+157
+00:14:50,840 --> 00:14:51,795  X1:306 X2:410 Y1:482 Y2:507
+Yes, sir.
+
+158
+00:14:53,000 --> 00:14:56,037  X1:149 X2:569 Y1:448 Y2:509
+Is there any reason he should do
+any different tomorrow?
+
+159
+00:14:57,360 --> 00:14:58,315  X1:314 X2:405 Y1:482 Y2:507
+No, sir.
+
+160
+00:14:59,000 --> 00:14:59,910  X1:321 X2:396 Y1:482 Y2:504
+Good.
+
+161
+00:15:01,600 --> 00:15:04,592  X1:154 X2:562 Y1:448 Y2:509
+When the Chevalier comes out
+to his carriage in the morning...
+
+162
+00:15:04,840 --> 00:15:08,037  X1:164 X2:554 Y1:448 Y2:504
+...two Officers will meet him
+and escort him to the frontier.
+
+163
+00:15:08,920 --> 00:15:10,990  X1:135 X2:583 Y1:482 Y2:509
+His baggage will be sent after him.
+
+164
+00:15:11,320 --> 00:15:12,389  X1:297 X2:421 Y1:482 Y2:504
+Excellent.
+
+165
+00:15:24,160 --> 00:15:26,355  X1:142 X2:575 Y1:482 Y2:509
+<i>At ten o'clock the next morning...</i>
+
+166
+00:15:27,000 --> 00:15:29,036  X1:178 X2:541 Y1:482 Y2:504
+<i>... the Chevalier de Balibari...</i>
+
+167
+00:15:29,600 --> 00:15:32,273  X1:097 X2:622 Y1:482 Y2:509
+<i>... went out for his regular morning drive.</i>
+
+168
+00:15:41,400 --> 00:15:43,118  X1:182 X2:536 Y1:482 Y2:509
+Where's my servant, Lazlo?
+
+169
+00:15:43,560 --> 00:15:45,915  X1:110 X2:608 Y1:482 Y2:509
+I will let down the steps, Your Honour.
+
+170
+00:15:56,400 --> 00:15:57,549  X1:234 X2:484 Y1:482 Y2:504
+What is this about?
+
+171
+00:15:57,640 --> 00:15:58,993  X1:247 X2:471 Y1:482 Y2:509
+Please get inside.
+
+172
+00:16:01,560 --> 00:16:02,993  X1:238 X2:479 Y1:482 Y2:504
+Am I under arrest?
+
+173
+00:16:03,520 --> 00:16:05,397  X1:174 X2:543 Y1:482 Y2:509
+We're driving to the frontier.
+
+174
+00:16:06,440 --> 00:16:09,955  X1:119 X2:597 Y1:448 Y2:504
+Frontier? But I'm on my way
+to the Austrian Ambassador's house.
+
+175
+00:16:10,840 --> 00:16:13,308  X1:180 X2:538 Y1:448 Y2:504
+My orders are to escort you
+to the frontier...
+
+176
+00:16:13,400 --> 00:16:15,630  X1:108 X2:611 Y1:482 Y2:509
+...and see you safely across the border.
+
+177
+00:16:16,080 --> 00:16:17,832  X1:145 X2:573 Y1:482 Y2:509
+But, I'm not going to the frontier.
+
+178
+00:16:17,920 --> 00:16:21,833  X1:121 X2:597 Y1:448 Y2:504
+I have very important business
+at the Austrian Ambassador's house.
+
+179
+00:16:22,360 --> 00:16:26,478  X1:102 X2:615 Y1:448 Y2:509
+My orders are to take Your Honour
+to the frontier by any means necessary.
+
+180
+00:16:27,080 --> 00:16:28,399  X1:213 X2:504 Y1:482 Y2:509
+If you come willingly...
+
+181
+00:16:28,480 --> 00:16:31,358  X1:122 X2:595 Y1:448 Y2:509
+...I'm to give you this purse
+on behalf of the Prince of Tübingen...
+
+182
+00:16:31,440 --> 00:16:33,476  X1:148 X2:570 Y1:482 Y2:509
+...containing 2,000 frederick d'or.
+
+183
+00:16:43,160 --> 00:16:45,037  X1:176 X2:541 Y1:482 Y2:509
+All Europe shall hear of this.
+
+184
+00:16:51,120 --> 00:16:54,590  X1:118 X2:599 Y1:482 Y2:509
+<i>And so, without papers or passport...</i>
+
+185
+00:16:55,680 --> 00:16:58,353  X1:194 X2:525 Y1:448 Y2:504
+<i>... and under the eyes</i>
+<i>of two Prussian Officers...</i>
+
+186
+00:16:58,680 --> 00:17:03,117  X1:100 X2:622 Y1:448 Y2:509
+<i>... Barry was escorted across the frontier</i>
+<i>into Saxony and freedom.</i>
+
+187
+00:17:04,760 --> 00:17:09,151  X1:111 X2:612 Y1:448 Y2:509
+<i>The Chevalier himself had uneventfully</i>
+<i>crossed the frontier the night before.</i>
+
+188
+00:17:21,160 --> 00:17:25,438  X1:134 X2:586 Y1:448 Y2:509
+<i>By these wonderful circumstances,</i>
+<i>Barry was once more free...</i>
+
+189
+00:17:26,560 --> 00:17:29,074  X1:139 X2:583 Y1:448 Y2:509
+<i>... and began his professional work</i>
+<i>as a gamester...</i>
+
+190
+00:17:29,920 --> 00:17:34,550  X1:105 X2:614 Y1:448 Y2:509
+<i>... resolving, thenceforward and forever,</i>
+<i>to live the life of a gentleman.</i>
+
+191
+00:17:36,920 --> 00:17:38,148  X1:270 X2:450 Y1:482 Y2:504
+<i>The four wins.</i>
+
+192
+00:17:39,400 --> 00:17:43,359  X1:096 X2:626 Y1:448 Y2:509
+<i>Soon he and the Chevalier were received</i>
+<i>in all the Courts of Europe...</i>
+
+193
+00:17:44,480 --> 00:17:45,833  X1:219 X2:499 Y1:482 Y2:509
+<i>... and were speedily...</i>
+
+194
+00:17:45,920 --> 00:17:49,230  X1:174 X2:544 Y1:448 Y2:509
+<i>... in the very best society</i>
+<i>where play was patronized...</i>
+
+195
+00:17:49,680 --> 00:17:52,797  X1:154 X2:567 Y1:448 Y2:509
+<i>... and professors of that science</i>
+<i>always welcome.</i>
+
+196
+00:17:56,040 --> 00:17:57,109  X1:293 X2:427 Y1:482 Y2:504
+<i>The seven.</i>
+
+197
+00:17:57,840 --> 00:17:59,193  X1:235 X2:489 Y1:482 Y2:509
+<i>Why not the seven?</i>
+
+198
+00:18:00,960 --> 00:18:02,188  X1:279 X2:437 Y1:482 Y2:509
+<i>All... all, yes.</i>
+
+199
+00:18:07,080 --> 00:18:08,479  X1:269 X2:450 Y1:482 Y2:504
+<i>No more bets.</i>
+
+200
+00:18:14,320 --> 00:18:15,548  X1:255 X2:463 Y1:482 Y2:504
+<i>Number seven...</i>
+
+201
+00:18:15,640 --> 00:18:16,629  X1:311 X2:408 Y1:482 Y2:504
+<i>... loses.</i>
+
+202
+00:18:24,920 --> 00:18:26,319  X1:257 X2:461 Y1:482 Y2:509
+<i>Place your bets.</i>
+
+203
+00:18:29,280 --> 00:18:32,989  X1:143 X2:575 Y1:448 Y2:509
+Chevalier, will you give me credit
+for 5,000 louis d'or, please?
+
+204
+00:18:34,040 --> 00:18:35,519  X1:221 X2:496 Y1:482 Y2:507
+Of course, Lord Ludd.
+
+205
+00:18:47,080 --> 00:18:48,274  X1:266 X2:453 Y1:482 Y2:504
+<i>Five thousand.</i>
+
+206
+00:18:50,440 --> 00:18:52,317  X1:175 X2:544 Y1:482 Y2:509
+<i>Now, everything on the four.</i>
+
+207
+00:18:55,840 --> 00:18:58,308  X1:131 X2:589 Y1:482 Y2:509
+<i>Yes, I know, everything on the four.</i>
+
+208
+00:19:09,920 --> 00:19:11,148  X1:269 X2:450 Y1:482 Y2:504
+<i>No more bets.</i>
+
+209
+00:19:17,120 --> 00:19:18,348  X1:267 X2:453 Y1:482 Y2:504
+<i>The four loses.</i>
+
+210
+00:19:32,040 --> 00:19:33,439  X1:237 X2:481 Y1:482 Y2:509
+<i>It is not important.</i>
+
+211
+00:19:35,520 --> 00:19:37,715  X1:255 X2:463 Y1:482 Y2:509
+<i>Now, I'm weary.</i>
+
+212
+00:19:38,760 --> 00:19:41,433  X1:165 X2:555 Y1:482 Y2:504
+<i>I would like dinner. Shall we?</i>
+
+213
+00:19:44,120 --> 00:19:45,872  X1:215 X2:504 Y1:482 Y2:507
+Excuse me, Lord Ludd.
+
+214
+00:19:47,280 --> 00:19:48,599  X1:246 X2:472 Y1:482 Y2:509
+If you don't mind.
+
+215
+00:19:49,800 --> 00:19:50,835  X1:296 X2:422 Y1:482 Y2:504
+Not at all.
+
+216
+00:19:53,280 --> 00:19:57,990  X1:112 X2:607 Y1:448 Y2:509
+<i>They always played on credit with</i>
+<i>any person of honour or noble lineage.</i>
+
+217
+00:19:59,080 --> 00:20:01,071  X1:106 X2:615 Y1:482 Y2:509
+<i>They never pressed for their winnings...</i>
+
+218
+00:20:01,320 --> 00:20:04,118  X1:209 X2:512 Y1:448 Y2:509
+<i>... or declined to receive</i>
+<i>promissory notes.</i>
+
+219
+00:20:05,640 --> 00:20:08,791  X1:124 X2:597 Y1:448 Y2:504
+<i>But woe to the man who did not pay</i>
+<i>when the note became due.</i>
+
+220
+00:20:09,560 --> 00:20:12,552  X1:149 X2:571 Y1:448 Y2:504
+<i>Barry was sure to wait upon him</i>
+<i>with his bill.</i>
+
+221
+00:20:13,200 --> 00:20:14,838  X1:191 X2:530 Y1:482 Y2:504
+<i>There were few bad debts.</i>
+
+222
+00:20:14,960 --> 00:20:15,870  X1:313 X2:405 Y1:482 Y2:504
+<i>Saluez.</i>
+
+223
+00:20:16,600 --> 00:20:20,115  X1:134 X2:585 Y1:448 Y2:504
+<i>It was Barry's skill with the sword,</i>
+<i>and readiness to use it...</i>
+
+224
+00:20:20,560 --> 00:20:23,597  X1:149 X2:572 Y1:448 Y2:509
+<i>... that maintained the reputation</i>
+<i>of the firm, so to speak.</i>
+
+225
+00:20:23,680 --> 00:20:24,669  X1:296 X2:424 Y1:482 Y2:509
+<i>On guard!</i>
+
+226
+00:21:13,120 --> 00:21:14,951  X1:204 X2:513 Y1:482 Y2:509
+I will pay you today, sir.
+
+227
+00:21:16,560 --> 00:21:18,596  X1:158 X2:562 Y1:482 Y2:507
+<i>Thus, it will be seen, their life...</i>
+
+228
+00:21:18,760 --> 00:21:22,673  X1:105 X2:613 Y1:448 Y2:509
+<i>... for all its splendour,</i>
+<i>was not without danger and difficulty...</i>
+
+229
+00:21:23,880 --> 00:21:26,519  X1:125 X2:596 Y1:448 Y2:504
+<i>... requiring talent and determination</i>
+<i>for success.</i>
+
+230
+00:21:27,640 --> 00:21:30,950  X1:136 X2:583 Y1:448 Y2:509
+<i>And required them to live</i>
+<i>a wandering and disconnected life.</i>
+
+231
+00:21:32,720 --> 00:21:36,759  X1:139 X2:580 Y1:448 Y2:509
+<i>And, though they were swimming</i>
+<i>upon the high tide of fortune...</i>
+
+232
+00:21:37,240 --> 00:21:41,279  X1:100 X2:618 Y1:448 Y2:509
+<i>... and prospering with the cards,</i>
+<i>they had little to show for their labour...</i>
+
+233
+00:21:41,520 --> 00:21:44,034  X1:209 X2:512 Y1:448 Y2:504
+<i>... but some fine clothes</i>
+<i>and a few trinkets.</i>
+
+234
+00:21:56,400 --> 00:22:00,837  X1:082 X2:636 Y1:448 Y2:509
+<i>Five years in the Army,</i>
+<i>and considerable experience of the world...</i>
+
+235
+00:22:01,840 --> 00:22:05,879  X1:121 X2:599 Y1:448 Y2:509
+<i>... had dispelled any romantic notions</i>
+<i>regarding love...</i>
+
+236
+00:22:06,600 --> 00:22:08,670  X1:128 X2:591 Y1:482 Y2:509
+<i>... with which Barry commenced life.</i>
+
+237
+00:22:09,320 --> 00:22:13,279  X1:085 X2:633 Y1:448 Y2:509
+<i>And he had it in mind,</i>
+<i>as many gentlemen had done before him...</i>
+
+238
+00:22:13,880 --> 00:22:16,917  X1:201 X2:518 Y1:450 Y2:504
+<i>... to marry a woman</i>
+<i>of fortune and condition.</i>
+
+239
+00:22:18,040 --> 00:22:20,349  X1:112 X2:604 Y1:482 Y2:509
+<i>And, as such things so often happen...</i>
+
+240
+00:22:20,720 --> 00:22:24,838  X1:132 X2:587 Y1:448 Y2:509
+<i>... these thoughts coincided</i>
+<i>with his setting sight upon a lady...</i>
+
+241
+00:22:25,160 --> 00:22:29,039  X1:134 X2:587 Y1:448 Y2:504
+<i>... who will play a considerable part</i>
+<i>in the drama of his life.</i>
+
+242
+00:22:30,440 --> 00:22:32,317  X1:195 X2:525 Y1:482 Y2:509
+<i>The Countess of Lyndon...</i>
+
+243
+00:22:33,160 --> 00:22:35,390  X1:113 X2:606 Y1:482 Y2:509
+<i>... Viscountess Bullingdon of England...</i>
+
+244
+00:22:35,480 --> 00:22:37,835  X1:124 X2:594 Y1:482 Y2:509
+<i>... Baroness Castle Lyndon of Ireland.</i>
+
+245
+00:22:39,040 --> 00:22:41,793  X1:084 X2:633 Y1:482 Y2:509
+<i>A woman of vast wealth and great beauty.</i>
+
+246
+00:22:44,440 --> 00:22:46,795  X1:095 X2:624 Y1:482 Y2:509
+<i>She was the wife of Sir Charles Lyndon...</i>
+
+247
+00:22:48,200 --> 00:22:49,713  X1:218 X2:500 Y1:482 Y2:509
+<i>... Knight of the Bath...</i>
+
+248
+00:22:49,800 --> 00:22:53,475  X1:139 X2:580 Y1:448 Y2:509
+<i>... Minister to George III</i>
+<i>at several of the Courts of Europe.</i>
+
+249
+00:22:54,440 --> 00:22:56,795  X1:122 X2:594 Y1:482 Y2:509
+<i>A cripple, wheeled about in a chair...</i>
+
+250
+00:22:57,520 --> 00:23:00,273  X1:196 X2:522 Y1:448 Y2:509
+<i>... worn out by gout</i>
+<i>and a myriad of diseases.</i>
+
+251
+00:23:02,360 --> 00:23:04,715  X1:129 X2:589 Y1:482 Y2:509
+<i>Her Ladyship's Chaplain, Mr. Runt...</i>
+
+252
+00:23:05,160 --> 00:23:09,073  X1:159 X2:560 Y1:448 Y2:509
+<i>... acted as tutor to her son,</i>
+<i>the little Viscount Bullingdon...</i>
+
+253
+00:23:09,920 --> 00:23:13,071  X1:169 X2:550 Y1:448 Y2:504
+<i>... a melancholy little boy,</i>
+<i>much attached to his mother.</i>
+
+254
+00:25:26,760 --> 00:25:28,990  X1:126 X2:591 Y1:482 Y2:509
+I'm going outside for a breath of air.
+
+255
+00:25:29,600 --> 00:25:30,828  X1:268 X2:448 Y1:482 Y2:509
+Yes, My Lady.
+
+256
+00:27:22,240 --> 00:27:24,435  X1:176 X2:544 Y1:482 Y2:509
+<i>To make a long story short...</i>
+
+257
+00:27:25,160 --> 00:27:28,675  X1:181 X2:538 Y1:448 Y2:509
+<i>... six hours after they met...</i>
+<i>Her Ladyship was in love.</i>
+
+258
+00:27:30,120 --> 00:27:32,350  X1:105 X2:612 Y1:482 Y2:509
+<i>And once Barry got into her company...</i>
+
+259
+00:27:32,840 --> 00:27:36,276  X1:140 X2:580 Y1:448 Y2:509
+<i>... he found innumerable occasions</i>
+<i>to improve his intimacy...</i>
+
+260
+00:27:37,480 --> 00:27:40,358  X1:209 X2:510 Y1:448 Y2:509
+<i>... and was scarcely out</i>
+<i>of Her Ladyship's sight.</i>
+
+261
+00:28:31,680 --> 00:28:33,272  X1:190 X2:527 Y1:482 Y2:509
+Good evening, gentlemen.
+
+262
+00:28:36,000 --> 00:28:37,115  X1:284 X2:433 Y1:482 Y2:504
+Sir Charles.
+
+263
+00:28:39,720 --> 00:28:41,438  X1:198 X2:520 Y1:482 Y2:509
+Good evening, Mr. Barry.
+
+264
+00:28:42,360 --> 00:28:44,078  X1:167 X2:552 Y1:482 Y2:509
+Have you done with my Lady?
+
+265
+00:28:46,680 --> 00:28:47,669  X1:308 X2:410 Y1:482 Y2:504
+Pardon?
+
+266
+00:28:48,600 --> 00:28:52,718  X1:104 X2:615 Y1:448 Y2:504
+Come, sir. I'm a man who would rather
+be known as a cuckold than a fool.
+
+267
+00:28:56,000 --> 00:28:59,037  X1:135 X2:582 Y1:448 Y2:509
+I think, Sir Charles,
+that you've had too much to drink.
+
+268
+00:29:00,200 --> 00:29:01,189  X1:318 X2:399 Y1:482 Y2:504
+What?
+
+269
+00:29:01,480 --> 00:29:06,076  X1:105 X2:613 Y1:448 Y2:509
+As it happens, your Chaplain, Mr. Runt,
+introduced me to your Lady...
+
+270
+00:29:06,920 --> 00:29:10,595  X1:122 X2:598 Y1:448 Y2:509
+...to advise me on a religious matter,
+of which she is an expert.
+
+271
+00:29:17,080 --> 00:29:20,868  X1:143 X2:575 Y1:482 Y2:509
+He wants... to step into my shoes.
+
+272
+00:29:22,200 --> 00:29:24,873  X1:151 X2:567 Y1:482 Y2:509
+He wants to step into my shoes.
+
+273
+00:29:27,120 --> 00:29:30,590  X1:155 X2:562 Y1:448 Y2:509
+Is it not a pleasure for me,
+as I am drawing near the goal...
+
+274
+00:29:30,800 --> 00:29:33,314  X1:114 X2:604 Y1:482 Y2:509
+...to find my home such a happy one...
+
+275
+00:29:33,800 --> 00:29:37,873  X1:094 X2:625 Y1:448 Y2:509
+...my wife so fond of me, that she is even
+now thinking of appointing a successor?
+
+276
+00:29:37,960 --> 00:29:41,111  X1:183 X2:536 Y1:448 Y2:509
+Isn't it a comfort to see her
+like a prudent housewife...
+
+277
+00:29:41,200 --> 00:29:43,714  X1:189 X2:531 Y1:448 Y2:509
+...getting everything ready
+for my departure?
+
+278
+00:29:45,600 --> 00:29:48,592  X1:103 X2:615 Y1:448 Y2:504
+I hope you're not thinking of leaving us,
+Sir Charles?
+
+279
+00:29:50,800 --> 00:29:54,076  X1:103 X2:615 Y1:482 Y2:509
+Not so soon as you may fancy, perhaps.
+
+280
+00:29:54,200 --> 00:29:57,749  X1:150 X2:568 Y1:448 Y2:509
+I've been given over many times
+these four years.
+
+281
+00:29:58,120 --> 00:30:00,759  X1:216 X2:502 Y1:448 Y2:504
+And there was always
+a candidate or two...
+
+282
+00:30:00,920 --> 00:30:03,639  X1:131 X2:588 Y1:482 Y2:509
+...waiting to apply for the situation.
+
+283
+00:30:04,080 --> 00:30:05,559  X1:179 X2:538 Y1:482 Y2:509
+I'm sorry for you, Mr. Barry.
+
+284
+00:30:05,640 --> 00:30:08,359  X1:190 X2:528 Y1:448 Y2:509
+It grieves me to keep you
+or any gentleman waiting.
+
+285
+00:30:08,440 --> 00:30:10,556  X1:185 X2:534 Y1:448 Y2:509
+Had you not better arrange
+with my doctor...
+
+286
+00:30:10,760 --> 00:30:14,150  X1:106 X2:614 Y1:448 Y2:507
+...or have the cook flavour my omelette
+with arsenic, eh?
+
+287
+00:30:14,800 --> 00:30:19,510  X1:121 X2:595 Y1:448 Y2:509
+What are the odds, gentlemen,
+that I live to see Mr. Barry hang yet?
+
+288
+00:30:23,560 --> 00:30:26,552  X1:174 X2:543 Y1:482 Y2:509
+Sir, let those laugh that win.
+
+289
+00:30:29,640 --> 00:30:30,709  X1:285 X2:433 Y1:482 Y2:504
+Gentlemen.
+
+290
+00:30:51,600 --> 00:30:52,999  X1:247 X2:470 Y1:482 Y2:509
+I'll get a surgeon.
+
+291
+00:30:57,720 --> 00:30:59,597  X1:158 X2:561 Y1:482 Y2:509
+Have some brandy, Sir Charles.
+
+292
+00:30:59,920 --> 00:31:02,480  X1:179 X2:538 Y1:448 Y2:504
+<i>From a report in</i>
+The Saint James' Chronicle:
+
+293
+00:31:04,080 --> 00:31:06,674  X1:197 X2:524 Y1:482 Y2:509
+<i>"Died at Spa in Belgium...</i>
+
+294
+00:31:07,600 --> 00:31:10,319  X1:151 X2:571 Y1:482 Y2:509
+<i>"...Sir Charles Reginald Lyndon...</i>
+
+295
+00:31:11,440 --> 00:31:14,079  X1:203 X2:514 Y1:448 Y2:504
+<i>"...Knight of the Bath,</i>
+<i>Member of Parliament...</i>
+
+296
+00:31:14,480 --> 00:31:15,879  X1:209 X2:513 Y1:482 Y2:509
+<i>"...and for many years...</i>
+
+297
+00:31:15,960 --> 00:31:19,236  X1:157 X2:567 Y1:448 Y2:509
+<i>"...His Majesty's Representative</i>
+<i>at various European Courts.</i>
+
+298
+00:31:21,200 --> 00:31:25,318  X1:124 X2:597 Y1:448 Y2:504
+<i>"He has left behind him a name</i>
+<i>which is endeared to all his friends. "
+
+299
+00:32:06,800 --> 00:32:08,119  X1:246 X2:473 Y1:482 Y2:509
+''Dearly beloved...
+
+300
+00:32:09,400 --> 00:32:12,551  X1:177 X2:542 Y1:448 Y2:509
+''... we are gathered together
+here in the sight of God...
+
+301
+00:32:13,400 --> 00:32:15,914  X1:101 X2:618 Y1:482 Y2:509
+''... and in the face of this congregation...
+
+302
+00:32:16,960 --> 00:32:20,589  X1:123 X2:595 Y1:448 Y2:509
+''... to join together this man
+and this woman in holy <i>matrimony.''</i>
+
+303
+00:32:20,720 --> 00:32:23,792  X1:197 X2:522 Y1:448 Y2:504
+<i>A year later,</i>
+<i>on the fifteenth of June...</i>
+
+304
+00:32:24,320 --> 00:32:26,197  X1:233 X2:485 Y1:482 Y2:509
+<i>... in the year 1773...</i>
+
+305
+00:32:27,360 --> 00:32:32,036  X1:098 X2:625 Y1:448 Y2:509
+<i>... Redmond Barry had the honour to lead</i>
+<i>to the altar the Countess of Lyndon.</i>
+
+306
+00:32:33,800 --> 00:32:38,430  X1:098 X2:620 Y1:448 Y2:509
+<i>The ceremony was performed by the</i>
+<i>Reverend Runt, Her Ladyship's Chaplain.</i>
+
+307
+00:32:39,280 --> 00:32:42,238  X1:151 X2:569 Y1:448 Y2:509
+''And therefore is not in any way
+to be enterprised...
+
+308
+00:32:43,000 --> 00:32:46,037  X1:136 X2:583 Y1:482 Y2:509
+''... nor taken in hand unadvisedly...
+
+309
+00:32:47,080 --> 00:32:49,275  X1:207 X2:511 Y1:482 Y2:509
+''... lightly or wantonly...
+
+310
+00:32:50,920 --> 00:32:54,230  X1:160 X2:560 Y1:448 Y2:509
+''... to satisfy men's carnal lusts
+and appetites...
+
+311
+00:32:54,760 --> 00:32:57,718  X1:176 X2:540 Y1:448 Y2:509
+''... like brute beasts
+that have no understanding.
+
+312
+00:33:01,080 --> 00:33:02,354  X1:249 X2:469 Y1:482 Y2:509
+''But reverently...
+
+313
+00:33:03,480 --> 00:33:04,754  X1:266 X2:452 Y1:482 Y2:509
+''... discreetly...
+
+314
+00:33:05,680 --> 00:33:06,999  X1:269 X2:450 Y1:482 Y2:509
+''... advisedly...
+
+315
+00:33:08,120 --> 00:33:09,269  X1:282 X2:436 Y1:482 Y2:509
+''... soberly...
+
+316
+00:33:10,520 --> 00:33:12,317  X1:198 X2:521 Y1:482 Y2:504
+''... and in the fear of God.
+
+317
+00:33:14,480 --> 00:33:18,359  X1:128 X2:588 Y1:448 Y2:509
+''Duly considering the causes
+for which matrimony was ordained.
+
+318
+00:33:20,200 --> 00:33:21,269  X1:312 X2:406 Y1:482 Y2:504
+''First...
+
+319
+00:33:21,880 --> 00:33:25,953  X1:116 X2:603 Y1:448 Y2:509
+''... it was ordained for the procreation
+of children to be brought up...
+
+320
+00:33:26,040 --> 00:33:29,953  X1:118 X2:602 Y1:448 Y2:509
+''... in the fear and nurture of the Lord,
+and to the praise of His holy name.
+
+321
+00:33:31,280 --> 00:33:32,429  X1:283 X2:436 Y1:482 Y2:509
+''Secondly...
+
+322
+00:33:33,000 --> 00:33:37,073  X1:116 X2:601 Y1:448 Y2:509
+''... it was ordained for a remedy
+against sin, and to avoid <i>fornication.''</i>
+
+323
+00:33:40,920 --> 00:33:43,912  X1:187 X2:532 Y1:448 Y2:509
+<i>Barry had now arrived</i>
+<i>at the pitch of prosperity...</i>
+
+324
+00:33:45,160 --> 00:33:49,950  X1:112 X2:606 Y1:448 Y2:509
+<i>... and by his own energy had raised</i>
+<i>himself to a higher sphere of society...</i>
+
+325
+00:33:51,320 --> 00:33:55,757  X1:107 X2:610 Y1:448 Y2:509
+<i>... having procured His Majesty's</i>
+<i>gracious permission to add the name...</i>
+
+326
+00:33:56,400 --> 00:33:58,516  X1:160 X2:559 Y1:482 Y2:509
+<i>... of his lovely Lady to his own.</i>
+
+327
+00:33:59,560 --> 00:34:03,314  X1:177 X2:547 Y1:448 Y2:509
+<i>Thenceforth, Redmond Barry</i>
+<i>assumed the style...</i>
+
+328
+00:34:03,720 --> 00:34:05,915  X1:184 X2:535 Y1:482 Y2:509
+<i>... and title of Barry Lyndon.</i>
+
+329
+00:34:36,720 --> 00:34:39,757  X1:102 X2:616 Y1:448 Y2:504
+Redmond, would you mind not smoking
+for a while?
+
+330
+00:34:55,400 --> 00:34:59,951  X1:146 X2:572 Y1:448 Y2:509
+<i>Lady Lyndon was soon destined</i>
+<i>to occupy a place in Barry's life...</i>
+
+331
+00:35:01,040 --> 00:35:05,158  X1:106 X2:612 Y1:448 Y2:509
+<i>... not very much more important</i>
+<i>than the elegant carpets and pictures...</i>
+
+332
+00:35:05,680 --> 00:35:08,956  X1:092 X2:627 Y1:448 Y2:509
+<i>... which would form</i>
+<i>the pleasant background of his existence.</i>
+
+333
+00:35:18,640 --> 00:35:21,791  X1:134 X2:582 Y1:448 Y2:509
+My Lord Bullingdon,
+you seem particularly glum today?
+
+334
+00:35:26,440 --> 00:35:29,557  X1:150 X2:567 Y1:448 Y2:509
+You should be happy
+that your mother has remarried.
+
+335
+00:35:33,680 --> 00:35:34,954  X1:258 X2:461 Y1:482 Y2:509
+Not in this way.
+
+336
+00:35:37,720 --> 00:35:39,233  X1:214 X2:503 Y1:482 Y2:504
+And not in such haste.
+
+337
+00:35:41,360 --> 00:35:43,237  X1:165 X2:552 Y1:482 Y2:509
+And certainly not to this man.
+
+338
+00:35:46,680 --> 00:35:49,069  X1:086 X2:631 Y1:482 Y2:509
+I think you judge your mother too harshly.
+
+339
+00:35:50,760 --> 00:35:53,115  X1:149 X2:569 Y1:482 Y2:509
+Do you not like your new father?
+
+340
+00:35:55,400 --> 00:35:56,628  X1:261 X2:457 Y1:482 Y2:509
+Not very much.
+
+341
+00:35:58,040 --> 00:36:00,998  X1:174 X2:542 Y1:448 Y2:509
+He seems to me little more
+than a common opportunist.
+
+342
+00:36:02,120 --> 00:36:04,475  X1:108 X2:609 Y1:482 Y2:509
+I don't think he loves my mother at all.
+
+343
+00:36:05,520 --> 00:36:08,830  X1:183 X2:536 Y1:448 Y2:504
+And it hurts me to see her
+make such a fool of herself.
+
+344
+00:36:28,680 --> 00:36:32,753  X1:143 X2:576 Y1:448 Y2:509
+<i>At the end of a year Her Ladyship</i>
+<i>presented Barry with a son.</i>
+
+345
+00:36:34,080 --> 00:36:36,594  X1:112 X2:607 Y1:482 Y2:509
+<i>Bryan Patrick Lyndon, they called him.</i>
+
+346
+00:36:59,880 --> 00:37:03,998  X1:168 X2:551 Y1:448 Y2:509
+<i>Her Ladyship and Barry lived,</i>
+<i>after a while, pretty separate.</i>
+
+347
+00:37:05,920 --> 00:37:10,357  X1:105 X2:615 Y1:448 Y2:509
+<i>She preferred quiet, or to say the truth,</i>
+<i>he preferred it for her...</i>
+
+348
+00:37:11,240 --> 00:37:15,028  X1:140 X2:581 Y1:448 Y2:509
+<i>... being a great friend to a modest</i>
+<i>and tranquil behaviour in woman.</i>
+
+349
+00:37:17,040 --> 00:37:20,510  X1:154 X2:565 Y1:448 Y2:509
+<i>Besides, she was a mother,</i>
+<i>and would have great comfort...</i>
+
+350
+00:37:20,880 --> 00:37:24,634  X1:146 X2:572 Y1:448 Y2:509
+<i>... in the dressing, educating</i>
+<i>and dandling of their little Bryan.</i>
+
+351
+00:37:25,560 --> 00:37:28,393  X1:194 X2:525 Y1:448 Y2:509
+<i>For whose sake it was fit,</i>
+<i>Barry believed...</i>
+
+352
+00:37:28,720 --> 00:37:32,429  X1:106 X2:614 Y1:448 Y2:504
+<i>... that she should give up the pleasures</i>
+<i>and frivolities of the world...</i>
+
+353
+00:37:32,600 --> 00:37:35,876  X1:163 X2:556 Y1:448 Y2:509
+<i>... leaving that part of the duty</i>
+<i>of every family of distinction...</i>
+
+354
+00:37:36,280 --> 00:37:38,191  X1:192 X2:526 Y1:482 Y2:509
+<i>... to be performed by him.</i>
+
+355
+00:38:52,920 --> 00:38:56,629  X1:123 X2:598 Y1:448 Y2:509
+<i>Lady Lyndon tended to a melancholy</i>
+<i>and maudlin temper...</i>
+
+356
+00:38:57,960 --> 00:39:01,794  X1:122 X2:596 Y1:448 Y2:509
+<i>... and, left alone by her husband,</i>
+<i>was rarely happy or in good humour.</i>
+
+357
+00:39:03,120 --> 00:39:06,271  X1:182 X2:539 Y1:448 Y2:509
+<i>Now she must add jealousy</i>
+<i>to her other complaints...</i>
+
+358
+00:39:07,200 --> 00:39:10,158  X1:102 X2:616 Y1:482 Y2:509
+<i>... and find rivals even among her maids.</i>
+
+359
+00:39:38,880 --> 00:39:41,075  X1:142 X2:576 Y1:482 Y2:507
+Samuel, what would the time be?
+
+360
+00:39:44,240 --> 00:39:46,629  X1:145 X2:574 Y1:448 Y2:509
+Twenty-five minutes past eleven,
+My Lady.
+
+361
+00:40:00,080 --> 00:40:02,435  X1:091 X2:627 Y1:482 Y2:509
+Shall we make this the last game, ladies?
+
+362
+00:40:49,400 --> 00:40:50,913  X1:217 X2:500 Y1:482 Y2:509
+Good morning, ladies.
+
+363
+00:40:54,480 --> 00:40:57,950  X1:107 X2:611 Y1:448 Y2:509
+Would you mind excusing us?
+I'd like a word alone with Lady Lyndon.
+
+364
+00:41:22,880 --> 00:41:23,915  X1:298 X2:420 Y1:482 Y2:509
+I'm sorry.
+
+365
+00:42:05,880 --> 00:42:08,553  X1:108 X2:609 Y1:482 Y2:504
+This coat is made of the finest velvet...
+
+366
+00:42:09,120 --> 00:42:11,839  X1:214 X2:505 Y1:448 Y2:504
+...all cunningly worked
+with silver thread.
+
+367
+00:42:12,240 --> 00:42:16,199  X1:105 X2:613 Y1:448 Y2:509
+No finer velvet has ever been woven,
+and you will see none better anywhere.
+
+368
+00:42:17,200 --> 00:42:18,679  X1:211 X2:508 Y1:482 Y2:509
+Pardon me, gentlemen.
+
+369
+00:42:22,040 --> 00:42:23,758  X1:207 X2:511 Y1:482 Y2:509
+Good morning, dearest.
+
+370
+00:42:25,040 --> 00:42:28,794  X1:125 X2:591 Y1:448 Y2:509
+We're taking the children for a ride
+to the village. We'll be back for tea.
+
+371
+00:42:28,880 --> 00:42:31,075  X1:135 X2:584 Y1:482 Y2:509
+Have a nice time. I'll see you then.
+
+372
+00:42:31,320 --> 00:42:33,038  X1:218 X2:499 Y1:482 Y2:509
+Goodbye, little Bryan.
+
+373
+00:42:37,320 --> 00:42:38,719  X1:254 X2:464 Y1:482 Y2:509
+Lord Bullingdon.
+
+374
+00:42:41,000 --> 00:42:42,831  X1:157 X2:561 Y1:482 Y2:509
+Take good care of your mother.
+
+375
+00:42:48,320 --> 00:42:50,834  X1:089 X2:629 Y1:482 Y2:509
+Come now, give your father a proper kiss.
+
+376
+00:43:01,160 --> 00:43:02,479  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+377
+00:43:03,280 --> 00:43:05,953  X1:184 X2:536 Y1:448 Y2:509
+...is that the way to behave
+to your father?
+
+378
+00:43:09,720 --> 00:43:12,109  X1:185 X2:534 Y1:448 Y2:509
+Lord Bullingdon,
+have you lost your tongue?
+
+379
+00:43:14,600 --> 00:43:18,991  X1:102 X2:616 Y1:448 Y2:509
+My father was Sir Charles Lyndon.
+I have not forgotten him, if others have.
+
+380
+00:43:21,000 --> 00:43:23,673  X1:163 X2:551 Y1:448 Y2:509
+Lord Bullingdon,
+you have insulted your father!
+
+381
+00:43:25,280 --> 00:43:27,635  X1:119 X2:599 Y1:482 Y2:509
+Madam, you have insulted my father.
+
+382
+00:43:32,320 --> 00:43:36,438  X1:093 X2:625 Y1:448 Y2:509
+Dearest, would you excuse us?
+We have something to discuss in private.
+
+383
+00:43:36,760 --> 00:43:37,988  X1:285 X2:433 Y1:482 Y2:504
+Gentlemen.
+
+384
+00:43:50,000 --> 00:43:50,910  X1:330 X2:388 Y1:482 Y2:504
+One.
+
+385
+00:43:54,200 --> 00:43:55,110  X1:328 X2:390 Y1:482 Y2:504
+Two.
+
+386
+00:44:10,960 --> 00:44:11,915  X1:335 X2:383 Y1:482 Y2:504
+Six.
+
+387
+00:44:20,800 --> 00:44:22,199  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+388
+00:44:23,400 --> 00:44:26,756  X1:138 X2:578 Y1:448 Y2:509
+...I have always been willing
+to live with you on friendly terms.
+
+389
+00:44:27,200 --> 00:44:29,031  X1:173 X2:546 Y1:482 Y2:509
+But be clear about one thing:
+
+390
+00:44:30,320 --> 00:44:32,311  X1:154 X2:562 Y1:482 Y2:507
+As men serve me, I serve them.
+
+391
+00:44:33,960 --> 00:44:36,474  X1:163 X2:556 Y1:448 Y2:504
+I never laid a cane on the back
+of a Lord before...
+
+392
+00:44:36,560 --> 00:44:40,394  X1:114 X2:603 Y1:448 Y2:509
+...but, if you force me to, I shall
+speedily become used to the practice.
+
+393
+00:44:42,880 --> 00:44:45,189  X1:092 X2:627 Y1:482 Y2:509
+Do you have anything to say for yourself?
+
+394
+00:44:47,400 --> 00:44:48,196  X1:338 X2:380 Y1:482 Y2:504
+No.
+
+395
+00:44:51,880 --> 00:44:52,995  X1:278 X2:439 Y1:482 Y2:509
+You may go.
+
+396
+00:44:53,920 --> 00:44:58,118  X1:154 X2:565 Y1:448 Y2:507
+<i>Barry believed, and not without</i>
+<i>some reason, that it had been...</i>
+
+397
+00:44:58,360 --> 00:45:02,148  X1:139 X2:580 Y1:448 Y2:509
+<i>... a declaration of war against him</i>
+<i>by Bullingdon from the start...</i>
+
+398
+00:45:02,920 --> 00:45:05,480  X1:148 X2:573 Y1:448 Y2:504
+<i>... and that the evil consequences</i>
+<i>that ensued...</i>
+
+399
+00:45:05,560 --> 00:45:07,949  X1:102 X2:617 Y1:482 Y2:509
+<i>... were entirely of Bullingdon's creating.</i>
+
+400
+00:45:10,920 --> 00:45:13,559  X1:180 X2:538 Y1:448 Y2:509
+I shall make you into
+a real magician now, Bryan.
+
+401
+00:45:13,640 --> 00:45:16,359  X1:092 X2:625 Y1:482 Y2:509
+I shall show you the knot that never was.
+
+402
+00:45:17,480 --> 00:45:19,869  X1:120 X2:597 Y1:482 Y2:509
+<i>As Bullingdon grew up to be a man...</i>
+
+403
+00:45:21,000 --> 00:45:23,958  X1:210 X2:508 Y1:448 Y2:509
+<i>... his hatred for Barry</i>
+<i>assumed an intensity...</i>
+
+404
+00:45:24,640 --> 00:45:27,791  X1:141 X2:576 Y1:448 Y2:504
+<i>... equalled only by his</i>
+<i>increased devotion to his mother.</i>
+
+405
+00:45:28,040 --> 00:45:30,031  X1:155 X2:561 Y1:482 Y2:509
+Very good, Bryan. A little bow.
+
+406
+00:45:32,960 --> 00:45:35,269  X1:194 X2:525 Y1:448 Y2:509
+Put it on the table for me.
+Thank you.
+
+407
+00:45:35,560 --> 00:45:40,156  X1:125 X2:597 Y1:448 Y2:509
+<i>For Bryan's eighth birthday the local</i>
+<i>nobility, gentry and their children...</i>
+
+408
+00:45:41,960 --> 00:45:43,632  X1:172 X2:547 Y1:482 Y2:509
+<i>... came to pay their respects.</i>
+
+409
+00:45:43,720 --> 00:45:46,757  X1:103 X2:614 Y1:482 Y2:509
+The inside and outside are quite empty.
+
+410
+00:45:47,160 --> 00:45:50,038  X1:168 X2:549 Y1:448 Y2:509
+Wave your hand over the top.
+Is there anything there?
+
+411
+00:45:52,080 --> 00:45:55,117  X1:148 X2:570 Y1:448 Y2:504
+Wonderful! Wonderful, colourful
+silk handkerchiefs!
+
+412
+00:45:55,280 --> 00:45:57,840  X1:204 X2:513 Y1:448 Y2:509
+Take a bow, Bryan,
+you did that beautifully.
+
+413
+00:45:58,080 --> 00:45:59,115  X1:288 X2:428 Y1:482 Y2:509
+Very good.
+
+414
+00:45:59,600 --> 00:46:02,034  X1:156 X2:563 Y1:448 Y2:509
+Let's see if you have something
+behind your ear.
+
+415
+00:46:02,120 --> 00:46:03,189  X1:265 X2:452 Y1:482 Y2:509
+Yes, you have.
+
+416
+00:46:03,760 --> 00:46:05,591  X1:141 X2:575 Y1:482 Y2:504
+A little ball. Let's make it vanish.
+
+417
+00:46:05,680 --> 00:46:06,556  X1:300 X2:418 Y1:482 Y2:509
+It's gone.
+
+418
+00:46:06,640 --> 00:46:09,108  X1:179 X2:539 Y1:482 Y2:509
+Here it is, behind my elbow.
+
+419
+00:46:11,360 --> 00:46:14,033  X1:141 X2:577 Y1:448 Y2:509
+Wave your hand
+over my green silk handkerchief...
+
+420
+00:46:14,120 --> 00:46:17,874  X1:126 X2:591 Y1:448 Y2:509
+...and see if we can produce
+a magic flower. I wonder if we can?
+
+421
+00:46:18,720 --> 00:46:19,948  X1:267 X2:452 Y1:482 Y2:504
+Here it comes.
+
+422
+00:46:21,400 --> 00:46:23,072  X1:182 X2:535 Y1:482 Y2:504
+The colours of the rainbow.
+
+423
+00:46:23,440 --> 00:46:27,592  X1:100 X2:618 Y1:448 Y2:509
+You know all the colours of the rainbow
+produce but one colour, Bryan.
+
+424
+00:46:28,080 --> 00:46:29,798  X1:170 X2:548 Y1:482 Y2:509
+Nothing in my magic cabinet.
+
+425
+00:46:29,880 --> 00:46:31,871  X1:150 X2:567 Y1:482 Y2:509
+They produce the colour... white.
+
+426
+00:46:32,000 --> 00:46:33,831  X1:212 X2:504 Y1:482 Y2:509
+And there is my own...
+
+427
+00:46:34,360 --> 00:46:36,828  X1:204 X2:514 Y1:482 Y2:504
+...beautiful white rabbit.
+
+428
+00:46:38,840 --> 00:46:41,673  X1:154 X2:564 Y1:448 Y2:504
+Bryan, you have done very well.
+A little bow.
+
+429
+00:47:04,880 --> 00:47:08,350  X1:153 X2:565 Y1:448 Y2:509
+We crept up on their fort,
+and I jumped over the wall first.
+
+430
+00:47:08,560 --> 00:47:10,278  X1:174 X2:543 Y1:482 Y2:509
+My fellows jumped after me.
+
+431
+00:47:10,800 --> 00:47:15,078  X1:107 X2:611 Y1:448 Y2:509
+You should have seen the Frenchmen's
+faces when 23 rampaging he-devils...
+
+432
+00:47:15,760 --> 00:47:20,197  X1:137 X2:583 Y1:448 Y2:509
+...sword and pistol, cut and thrust,
+came tumbling into their fort.
+
+433
+00:47:21,600 --> 00:47:24,637  X1:152 X2:566 Y1:448 Y2:509
+In three minutes we left
+as many Artillery men's heads...
+
+434
+00:47:24,720 --> 00:47:26,472  X1:171 X2:548 Y1:482 Y2:504
+...as there were cannon balls.
+
+435
+00:47:28,040 --> 00:47:30,998  X1:189 X2:529 Y1:448 Y2:509
+Later we were visited
+by our noble Prince Henry.
+
+436
+00:47:31,920 --> 00:47:35,230  X1:117 X2:601 Y1:448 Y2:509
+''Who is the man who has done this? <i>''</i>
+I stepped forward.
+
+437
+00:47:36,360 --> 00:47:38,828  X1:183 X2:533 Y1:448 Y2:509
+''How many heads was it
+that you cut off? <i>''</i> He says.
+
+438
+00:47:38,920 --> 00:47:41,593  X1:176 X2:542 Y1:448 Y2:509
+''Nineteen,'' says I,
+''besides wounding <i>several.''</i>
+
+439
+00:47:42,760 --> 00:47:46,548  X1:182 X2:536 Y1:448 Y2:504
+Well, I'll be blessed,
+if he didn't burst into tears.
+
+440
+00:47:47,280 --> 00:47:49,157  X1:165 X2:554 Y1:482 Y2:507
+''Noble, noble <i>fellow,''</i> he said.
+
+441
+00:47:49,360 --> 00:47:53,478  X1:131 X2:587 Y1:448 Y2:509
+''Here is nineteen golden guineas,
+one for each head that you cut <i>off.''</i>
+
+442
+00:47:54,240 --> 00:47:55,798  X1:187 X2:531 Y1:482 Y2:509
+What do you think of that?
+
+443
+00:47:55,880 --> 00:47:58,075  X1:118 X2:600 Y1:482 Y2:509
+Were you allowed to keep the heads?
+
+444
+00:47:58,920 --> 00:48:01,593  X1:199 X2:517 Y1:448 Y2:509
+No, they always become
+the property of the King.
+
+445
+00:48:02,200 --> 00:48:04,077  X1:159 X2:558 Y1:482 Y2:509
+Will you tell me another story?
+
+446
+00:48:04,560 --> 00:48:06,278  X1:191 X2:526 Y1:482 Y2:509
+I'll tell you one tomorrow.
+
+447
+00:48:06,440 --> 00:48:08,635  X1:104 X2:613 Y1:482 Y2:509
+Will you play cards with me tomorrow?
+
+448
+00:48:09,240 --> 00:48:11,276  X1:141 X2:576 Y1:482 Y2:509
+Of course I will. Now go to sleep.
+
+449
+00:48:15,480 --> 00:48:17,357  X1:170 X2:548 Y1:482 Y2:509
+Will you keep the candles lit?
+
+450
+00:48:17,640 --> 00:48:20,757  X1:185 X2:534 Y1:448 Y2:504
+Bryan, big boys don't sleep
+with the candles lit.
+
+451
+00:48:21,560 --> 00:48:23,278  X1:220 X2:497 Y1:482 Y2:504
+I'm afraid of the dark.
+
+452
+00:48:23,520 --> 00:48:26,080  X1:184 X2:534 Y1:448 Y2:504
+My darling, there's nothing
+to be afraid of.
+
+453
+00:48:27,200 --> 00:48:29,509  X1:153 X2:566 Y1:482 Y2:507
+But, I like it with the candles lit.
+
+454
+00:48:29,640 --> 00:48:32,473  X1:210 X2:508 Y1:448 Y2:504
+All right, you can sleep
+with the candles lit.
+
+455
+00:48:33,600 --> 00:48:34,874  X1:250 X2:468 Y1:482 Y2:509
+Thank you, Papa.
+
+456
+00:48:35,320 --> 00:48:36,389  X1:284 X2:434 Y1:482 Y2:509
+Good night.
+
+457
+00:48:57,840 --> 00:48:58,909  X1:266 X2:448 Y1:482 Y2:507
+Ah, Redmond!
+
+458
+00:49:00,000 --> 00:49:04,755  X1:081 X2:637 Y1:448 Y2:509
+It's a blessing to see my darling boy
+has attained a position I knew was his due.
+
+459
+00:49:07,200 --> 00:49:10,078  X1:159 X2:561 Y1:448 Y2:504
+And for which I pinched myself
+to educate him.
+
+460
+00:49:12,040 --> 00:49:13,917  X1:170 X2:549 Y1:482 Y2:509
+Little Bryan is a darling boy...
+
+461
+00:49:14,960 --> 00:49:16,871  X1:144 X2:574 Y1:482 Y2:509
+...and you live in great splendour.
+
+462
+00:49:17,680 --> 00:49:19,750  X1:219 X2:498 Y1:448 Y2:504
+Your lady wife knows
+she has a treasure...
+
+463
+00:49:19,840 --> 00:49:22,513  X1:204 X2:516 Y1:448 Y2:504
+...she couldn't have had,
+had she married a Duke.
+
+464
+00:49:25,080 --> 00:49:28,231  X1:214 X2:503 Y1:448 Y2:509
+But, if she should tire
+of my wild Redmond...
+
+465
+00:49:28,960 --> 00:49:31,190  X1:129 X2:590 Y1:482 Y2:509
+...and his old-fashioned Irish ways...
+
+466
+00:49:32,880 --> 00:49:34,518  X1:213 X2:505 Y1:482 Y2:504
+...or if she should die...
+
+467
+00:49:35,400 --> 00:49:38,676  X1:163 X2:554 Y1:448 Y2:509
+...what future would there be
+for my son, and my grandson?
+
+468
+00:49:40,520 --> 00:49:42,511  X1:126 X2:591 Y1:482 Y2:509
+You have not a penny of your own...
+
+469
+00:49:44,040 --> 00:49:47,191  X1:132 X2:588 Y1:448 Y2:509
+...and cannot transact any business
+without her signature.
+
+470
+00:49:48,840 --> 00:49:52,435  X1:149 X2:570 Y1:448 Y2:509
+Upon her death the entire estate
+would go to young Bullingdon...
+
+471
+00:49:55,000 --> 00:49:57,230  X1:155 X2:564 Y1:482 Y2:509
+...who bears you little affection.
+
+472
+00:49:58,760 --> 00:50:00,751  X1:129 X2:587 Y1:482 Y2:509
+You could be penniless tomorrow...
+
+473
+00:50:01,040 --> 00:50:04,828  X1:148 X2:571 Y1:448 Y2:509
+...and darling Bryan at the mercy
+of his stepbrother.
+
+474
+00:50:09,080 --> 00:50:10,832  X1:187 X2:531 Y1:482 Y2:509
+Shall I tell you something?
+
+475
+00:50:12,160 --> 00:50:16,438  X1:135 X2:582 Y1:448 Y2:509
+There is only one way for you
+and your son to have real security.
+
+476
+00:50:17,480 --> 00:50:19,914  X1:205 X2:511 Y1:482 Y2:504
+You must obtain a title.
+
+477
+00:50:21,640 --> 00:50:25,235  X1:180 X2:537 Y1:448 Y2:509
+I shall not rest
+until I see you Lord Lyndon.
+
+478
+00:50:28,120 --> 00:50:30,236  X1:178 X2:539 Y1:482 Y2:509
+You have important friends.
+
+479
+00:50:30,320 --> 00:50:32,595  X1:185 X2:534 Y1:448 Y2:509
+They can tell you
+how these things are done.
+
+480
+00:50:33,680 --> 00:50:37,116  X1:215 X2:505 Y1:448 Y2:509
+For money, well-timed
+and properly applied...
+
+481
+00:50:38,080 --> 00:50:39,957  X1:184 X2:534 Y1:482 Y2:509
+...can accomplish anything.
+
+482
+00:50:42,760 --> 00:50:47,072  X1:093 X2:625 Y1:448 Y2:509
+<i>And Barry was acquainted with someone</i>
+<i>who knew how these things were done.</i>
+
+483
+00:50:48,600 --> 00:50:52,912  X1:128 X2:595 Y1:448 Y2:504
+<i>This was the distinguished Barrister</i>
+<i>and former Government Minister...</i>
+
+484
+00:50:53,360 --> 00:50:54,588  X1:258 X2:460 Y1:482 Y2:504
+<i>... Lord Hallam...</i>
+
+485
+00:50:55,160 --> 00:50:59,438  X1:094 X2:624 Y1:448 Y2:509
+<i>... whose acquaintance he had made,</i>
+<i>like so many others, at the gaming table.</i>
+
+486
+00:51:00,720 --> 00:51:04,349  X1:144 X2:572 Y1:448 Y2:504
+Do you happen to know
+the Thirteenth Earl of Wendover?
+
+487
+00:51:05,840 --> 00:51:07,319  X1:236 X2:481 Y1:482 Y2:504
+I don't believe I do.
+
+488
+00:51:07,440 --> 00:51:11,638  X1:083 X2:634 Y1:448 Y2:509
+Well, this nobleman is one
+of the Gentlemen of His Majesty's Closet...
+
+489
+00:51:12,440 --> 00:51:16,877  X1:120 X2:598 Y1:448 Y2:509
+...with whom our revered Monarch
+is on terms of considerable intimacy.
+
+490
+00:51:18,480 --> 00:51:22,029  X1:143 X2:576 Y1:448 Y2:509
+In my opinion, you would be wise
+to fix upon him...
+
+491
+00:51:22,640 --> 00:51:26,519  X1:092 X2:628 Y1:448 Y2:509
+...your chief reliance for the advancement
+of your claim to the peerage.
+
+492
+00:51:29,680 --> 00:51:33,639  X1:118 X2:600 Y1:448 Y2:507
+When I take up a person, Mr. Lyndon,
+he, or she, is safe.
+
+493
+00:51:34,440 --> 00:51:36,749  X1:085 X2:633 Y1:482 Y2:509
+There is no question about them anymore.
+
+494
+00:51:37,160 --> 00:51:41,551  X1:098 X2:619 Y1:448 Y2:509
+My friends are the best people.
+I don't mean they're the most virtuous...
+
+495
+00:51:42,480 --> 00:51:45,631  X1:158 X2:562 Y1:448 Y2:504
+...or, indeed, the least virtuous,
+or the cleverest...
+
+496
+00:51:45,840 --> 00:51:48,559  X1:228 X2:490 Y1:448 Y2:504
+...or the stupidest,
+richest or best born.
+
+497
+00:51:49,200 --> 00:51:50,349  X1:273 X2:446 Y1:482 Y2:507
+But, the best.
+
+498
+00:51:50,480 --> 00:51:53,950  X1:163 X2:555 Y1:448 Y2:509
+In a word, people about whom
+there is no question.
+
+499
+00:51:55,840 --> 00:51:58,308  X1:110 X2:607 Y1:482 Y2:509
+I cannot promise how long it will take.
+
+500
+00:51:58,840 --> 00:52:01,673  X1:204 X2:513 Y1:448 Y2:509
+You can appreciate
+it is not an easy matter.
+
+501
+00:52:02,440 --> 00:52:06,274  X1:133 X2:586 Y1:448 Y2:509
+But, any gentleman with an estate,
+and 30,000 a year...
+
+502
+00:52:07,040 --> 00:52:08,678  X1:200 X2:519 Y1:482 Y2:509
+...should have a peerage.
+
+503
+00:52:13,000 --> 00:52:16,072  X1:163 X2:554 Y1:448 Y2:509
+And there standing behind me
+was a total stranger.
+
+504
+00:52:16,520 --> 00:52:18,750  X1:136 X2:582 Y1:482 Y2:507
+I looked at him, and he said to me:
+
+505
+00:52:19,160 --> 00:52:23,870  X1:137 X2:583 Y1:448 Y2:504
+''Excuse me, sir, could you tell me,
+is Lord Wendover alive or dead? <i>''</i>
+
+506
+00:52:26,160 --> 00:52:28,469  X1:162 X2:556 Y1:448 Y2:509
+I was so astonished,
+I couldn't think of what to say.
+
+507
+00:52:28,560 --> 00:52:31,791  X1:172 X2:546 Y1:448 Y2:507
+Then I became angry,
+and said to him, ''He's <i>dead.''</i>
+
+508
+00:52:32,160 --> 00:52:36,438  X1:118 X2:601 Y1:448 Y2:509
+<i>The striving after this peerage was</i>
+<i>one of Barry's most unlucky dealings.</i>
+
+509
+00:52:38,440 --> 00:52:41,000  X1:201 X2:520 Y1:448 Y2:509
+<i>He made great sacrifices</i>
+<i>to bring it about.</i>
+
+510
+00:52:42,200 --> 00:52:44,919  X1:202 X2:518 Y1:448 Y2:504
+<i>He lavished money here,</i>
+<i>and diamonds there.</i>
+
+511
+00:52:46,440 --> 00:52:48,908  X1:197 X2:522 Y1:448 Y2:504
+<i>He bought lands</i>
+<i>at ten times their value...</i>
+
+512
+00:52:49,200 --> 00:52:53,239  X1:146 X2:575 Y1:448 Y2:509
+<i>... purchased pictures and articles</i>
+<i>of virtue at ruinous prices.</i>
+
+513
+00:52:54,600 --> 00:52:58,070  X1:167 X2:552 Y1:448 Y2:504
+<i>He gave entertainments</i>
+<i>to those friends to his claim...</i>
+
+514
+00:52:58,760 --> 00:53:02,355  X1:131 X2:588 Y1:448 Y2:509
+<i>... all, being about the Royal person,</i>
+<i>were likely to advance it.</i>
+
+515
+00:53:03,760 --> 00:53:08,550  X1:111 X2:607 Y1:448 Y2:509
+<i>And, I can tell you, bribes were</i>
+<i>administered. And in high places, too.</i>
+
+516
+00:53:09,960 --> 00:53:14,351  X1:100 X2:618 Y1:448 Y2:509
+<i>So near the person of His Majesty</i>
+<i>that you would be astonished to know...</i>
+
+517
+00:53:14,880 --> 00:53:18,555  X1:115 X2:608 Y1:448 Y2:504
+<i>... what great noblemen condescended</i>
+<i>to receive his loans.</i>
+
+518
+00:53:22,080 --> 00:53:24,116  X1:185 X2:532 Y1:482 Y2:509
+This is by Ludovico Cordi...
+
+519
+00:53:24,920 --> 00:53:26,956  X1:152 X2:567 Y1:482 Y2:509
+...a disciple of Alessandro Allori.
+
+520
+00:53:28,240 --> 00:53:30,390  X1:253 X2:465 Y1:482 Y2:504
+It's dated 1605...
+
+521
+00:53:31,440 --> 00:53:33,670  X1:172 X2:547 Y1:448 Y2:509
+...and shows,
+''The Adoration of The <i>Magi.''</i>
+
+522
+00:53:36,320 --> 00:53:37,514  X1:274 X2:443 Y1:482 Y2:504
+It's beautiful.
+
+523
+00:53:37,600 --> 00:53:38,510  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+524
+00:53:40,000 --> 00:53:42,878  X1:155 X2:563 Y1:448 Y2:509
+I love the use of the colour blue
+by the artist.
+
+525
+00:53:43,360 --> 00:53:45,191  X1:188 X2:528 Y1:482 Y2:509
+Yes, that is very beautiful.
+
+526
+00:53:47,720 --> 00:53:49,597  X1:170 X2:548 Y1:482 Y2:509
+What is the price of this one?
+
+527
+00:53:51,400 --> 00:53:53,550  X1:123 X2:595 Y1:482 Y2:509
+Well, this is one of my best pictures.
+
+528
+00:53:54,320 --> 00:53:58,472  X1:126 X2:590 Y1:448 Y2:509
+But, if you really like it, I'm sure
+we can come to some arrangement.
+
+529
+00:54:11,840 --> 00:54:13,353  X1:164 X2:554 Y1:482 Y2:509
+Lord Wendover, Your Majesty.
+
+530
+00:54:13,440 --> 00:54:15,749  X1:160 X2:559 Y1:448 Y2:504
+I'm glad to see you here today,
+Lord Wendover.
+
+531
+00:54:15,840 --> 00:54:17,717  X1:160 X2:557 Y1:482 Y2:509
+What news of Lady Wendover?
+
+532
+00:54:17,840 --> 00:54:20,718  X1:159 X2:560 Y1:448 Y2:509
+Thank you, Your Majesty.
+Lady Wendover is much better.
+
+533
+00:54:20,880 --> 00:54:25,192  X1:104 X2:613 Y1:448 Y2:509
+Good! Present my compliments to her.
+Say we miss her company here.
+
+534
+00:54:26,680 --> 00:54:28,636  X1:143 X2:575 Y1:448 Y2:509
+And what of those excellent boys
+of yours?
+
+535
+00:54:28,720 --> 00:54:33,157  X1:114 X2:603 Y1:448 Y2:509
+They're well. Charles has gone to sea
+under Captain Geary on the Ramillies.
+
+536
+00:54:33,480 --> 00:54:36,517  X1:146 X2:572 Y1:448 Y2:509
+John has gone to Oxford to learn
+how to preach and pray.
+
+537
+00:54:36,600 --> 00:54:37,669  X1:280 X2:436 Y1:482 Y2:509
+Good, good!
+
+538
+00:54:38,680 --> 00:54:41,240  X1:176 X2:542 Y1:448 Y2:509
+Your Majesty, may I present
+Mr. Barry Lyndon.
+
+539
+00:54:41,800 --> 00:54:44,951  X1:153 X2:565 Y1:448 Y2:509
+Mr. Lyndon. We were very fond
+of Sir Charles Lyndon.
+
+540
+00:54:45,200 --> 00:54:46,713  X1:194 X2:523 Y1:482 Y2:509
+And how is Lady Lyndon?
+
+541
+00:54:46,800 --> 00:54:48,677  X1:163 X2:554 Y1:482 Y2:509
+She's very well, Your Majesty.
+
+542
+00:54:49,000 --> 00:54:53,676  X1:106 X2:612 Y1:448 Y2:509
+Mr. Lyndon raised a company of troops
+to fight in America against the rebels.
+
+543
+00:54:54,280 --> 00:54:57,909  X1:081 X2:638 Y1:448 Y2:509
+Good, Mr. Lyndon. Raise another company
+and go with them, too.
+
+544
+00:55:10,280 --> 00:55:13,238  X1:167 X2:554 Y1:448 Y2:509
+<i>Barry was born clever enough</i>
+<i>at gaining a fortune...</i>
+
+545
+00:55:14,600 --> 00:55:16,556  X1:159 X2:560 Y1:482 Y2:509
+<i>... but incapable of keeping one.</i>
+
+546
+00:55:18,080 --> 00:55:22,039  X1:109 X2:609 Y1:448 Y2:504
+<i>For the qualities and energies</i>
+<i>which lead a man to achieve the first...</i>
+
+547
+00:55:22,400 --> 00:55:25,551  X1:123 X2:597 Y1:448 Y2:504
+<i>... are often the very cause of his ruin</i>
+<i>in the latter case.</i>
+
+548
+00:55:27,280 --> 00:55:31,034  X1:092 X2:627 Y1:448 Y2:509
+<i>Now he was burdened with</i>
+<i>the harassing cares and responsibilities...</i>
+
+549
+00:55:31,760 --> 00:55:34,877  X1:154 X2:566 Y1:448 Y2:509
+<i>... which are the dismal adjuncts</i>
+<i>of great rank and property.</i>
+
+550
+00:55:35,920 --> 00:55:37,194  X1:242 X2:474 Y1:482 Y2:504
+<i>And his life now...</i>
+
+551
+00:55:38,120 --> 00:55:42,477  X1:089 X2:630 Y1:448 Y2:509
+<i>... seemed to consist mostly of drafts</i>
+<i>of letters to lawyers and money-brokers...</i>
+
+552
+00:55:42,560 --> 00:55:44,152  X1:153 X2:565 Y1:482 Y2:509
+<i>... and endless correspondence...</i>
+
+553
+00:55:44,240 --> 00:55:46,151  X1:173 X2:546 Y1:482 Y2:504
+<i>... with decorators and cooks.</i>
+
+554
+00:56:10,200 --> 00:56:14,318  X1:094 X2:623 Y1:448 Y2:509
+Gentlemen, I'm going to leave you for
+a few minutes. Carry on with your work.
+
+555
+00:56:14,600 --> 00:56:15,589  X1:306 X2:410 Y1:482 Y2:507
+Yes, sir.
+
+556
+00:56:32,800 --> 00:56:33,755  X1:324 X2:395 Y1:482 Y2:509
+Bully.
+
+557
+00:56:37,280 --> 00:56:38,395  X1:279 X2:439 Y1:482 Y2:504
+What does...
+
+558
+00:56:40,080 --> 00:56:41,752  X1:224 X2:494 Y1:482 Y2:504
+...''strenuous'' mean?
+
+559
+00:56:45,560 --> 00:56:47,278  X1:194 X2:524 Y1:482 Y2:509
+Bryan, I'm trying to work.
+
+560
+00:56:50,040 --> 00:56:51,553  X1:207 X2:512 Y1:482 Y2:504
+But what does it mean?
+
+561
+00:56:55,400 --> 00:56:57,914  X1:106 X2:612 Y1:482 Y2:509
+It means ''an effort requiring <i>strength.''</i>
+
+562
+00:57:04,360 --> 00:57:06,237  X1:155 X2:562 Y1:482 Y2:509
+What does ''quadrangle'' mean?
+
+563
+00:57:12,400 --> 00:57:16,029  X1:136 X2:582 Y1:448 Y2:509
+A quadrangle is a four-sided figure
+like a square or a rectangle.
+
+564
+00:57:17,000 --> 00:57:19,833  X1:148 X2:569 Y1:448 Y2:509
+Now, please be quiet,
+and let me get on with my work.
+
+565
+00:57:34,400 --> 00:57:36,197  X1:211 X2:505 Y1:482 Y2:509
+Bryan, please be quiet!
+
+566
+00:57:40,200 --> 00:57:41,792  X1:193 X2:525 Y1:482 Y2:509
+Have you seen my pencil?
+
+567
+00:57:45,040 --> 00:57:46,268  X1:275 X2:444 Y1:482 Y2:507
+No, I haven't.
+
+568
+00:58:00,520 --> 00:58:03,034  X1:088 X2:630 Y1:482 Y2:509
+Bryan, please stop making so much noise.
+
+569
+00:58:07,440 --> 00:58:08,714  X1:249 X2:468 Y1:482 Y2:509
+That's my pencil.
+
+570
+00:58:08,800 --> 00:58:09,755  X1:289 X2:430 Y1:482 Y2:507
+No, it isn't.
+
+571
+00:58:09,840 --> 00:58:11,398  X1:231 X2:485 Y1:482 Y2:509
+It is. It's my pencil!
+
+572
+00:58:11,520 --> 00:58:12,873  X1:199 X2:518 Y1:482 Y2:509
+I've had this all morning.
+
+573
+00:58:12,960 --> 00:58:14,154  X1:267 X2:448 Y1:482 Y2:509
+It's my pencil!
+
+574
+00:58:14,440 --> 00:58:16,112  X1:200 X2:517 Y1:482 Y2:509
+Listen, will you be quiet!
+
+575
+00:58:16,200 --> 00:58:17,428  X1:267 X2:448 Y1:482 Y2:509
+It's my pencil!
+
+576
+00:58:19,040 --> 00:58:20,678  X1:216 X2:502 Y1:482 Y2:509
+I'll teach you a lesson.
+
+577
+00:58:23,200 --> 00:58:25,270  X1:139 X2:578 Y1:482 Y2:509
+What the devil's going on in here?
+
+578
+00:58:26,440 --> 00:58:29,398  X1:187 X2:529 Y1:448 Y2:509
+I told you never
+to lay a hand on this child.
+
+579
+00:58:31,880 --> 00:58:32,790  X1:330 X2:388 Y1:482 Y2:504
+One.
+
+580
+00:58:36,160 --> 00:58:37,115  X1:328 X2:390 Y1:482 Y2:504
+Two.
+
+581
+00:58:51,200 --> 00:58:52,155  X1:335 X2:383 Y1:482 Y2:504
+Six.
+
+582
+00:58:58,800 --> 00:59:00,995  X1:124 X2:594 Y1:482 Y2:509
+Will that be all, Mr. Redmond Barry?
+
+583
+00:59:02,560 --> 00:59:04,152  X1:230 X2:487 Y1:482 Y2:507
+Yes, that will be all.
+
+584
+00:59:07,840 --> 00:59:09,432  X1:199 X2:518 Y1:482 Y2:509
+Well then, look you now.
+
+585
+00:59:11,160 --> 00:59:15,631  X1:119 X2:597 Y1:448 Y2:509
+From this moment, I will submit
+to no further chastisement from you.
+
+586
+00:59:17,720 --> 00:59:20,871  X1:167 X2:551 Y1:448 Y2:509
+I will kill you, if you lay hands
+on me ever again.
+
+587
+00:59:23,400 --> 00:59:25,277  X1:206 X2:512 Y1:482 Y2:509
+Is that clear to you, sir?
+
+588
+00:59:28,960 --> 00:59:30,234  X1:256 X2:459 Y1:482 Y2:504
+Get out of here!
+
+589
+01:01:26,160 --> 01:01:29,311  X1:151 X2:568 Y1:448 Y2:509
+Don't you think he fits my shoes
+very well, Your Ladyship?
+
+590
+01:01:35,120 --> 01:01:36,348  X1:283 X2:435 Y1:482 Y2:504
+Dear child...
+
+591
+01:01:37,600 --> 01:01:40,478  X1:158 X2:561 Y1:448 Y2:509
+...what a pity it is I'm not dead,
+for your sake.
+
+592
+01:01:42,920 --> 01:01:45,514  X1:167 X2:552 Y1:448 Y2:509
+The Lyndons would then have
+a worthy representative...
+
+593
+01:01:46,280 --> 01:01:47,952  X1:173 X2:545 Y1:482 Y2:509
+...and enjoy all the benefits...
+
+594
+01:01:48,040 --> 01:01:51,077  X1:189 X2:528 Y1:448 Y2:509
+...of the illustrious blood
+of the Barrys of Barryville.
+
+595
+01:01:55,560 --> 01:01:56,834  X1:248 X2:469 Y1:482 Y2:509
+Would they not...
+
+596
+01:01:57,960 --> 01:01:59,393  X1:215 X2:503 Y1:482 Y2:509
+...Mr. Redmond Barry?
+
+597
+01:02:05,480 --> 01:02:07,550  X1:157 X2:562 Y1:482 Y2:509
+From the way I love this child...
+
+598
+01:02:07,960 --> 01:02:10,713  X1:131 X2:587 Y1:448 Y2:504
+...you ought to know how
+I would've loved his elder brother...
+
+599
+01:02:10,800 --> 01:02:13,473  X1:194 X2:524 Y1:448 Y2:509
+...had he proved worthy
+of any mother's affection.
+
+600
+01:02:15,080 --> 01:02:15,990  X1:306 X2:410 Y1:482 Y2:504
+Madam!
+
+601
+01:02:19,080 --> 01:02:21,753  X1:198 X2:519 Y1:448 Y2:504
+I have borne as long
+as mortal could endure...
+
+602
+01:02:21,840 --> 01:02:26,277  X1:100 X2:617 Y1:448 Y2:509
+...the ill-treatment of the insolent Irish
+upstart whom you've taken to your bed.
+
+603
+01:02:27,560 --> 01:02:31,997  X1:082 X2:635 Y1:448 Y2:509
+It is not only his lowly birth and the
+brutality of his manners which disgust me.
+
+604
+01:02:33,440 --> 01:02:36,716  X1:109 X2:611 Y1:448 Y2:509
+But the shameful nature of his conduct
+toward Your Ladyship...
+
+605
+01:02:36,800 --> 01:02:39,633  X1:148 X2:572 Y1:448 Y2:504
+...his brutal and ungentlemanlike
+behaviour...
+
+606
+01:02:39,880 --> 01:02:41,472  X1:221 X2:498 Y1:482 Y2:509
+...his open infidelity...
+
+607
+01:02:41,760 --> 01:02:45,719  X1:098 X2:621 Y1:448 Y2:509
+...his shameless robberies and swindling
+of my property, and yours.
+
+608
+01:02:46,760 --> 01:02:51,231  X1:103 X2:614 Y1:448 Y2:507
+And as I cannot personally chastise
+this low-bred ruffian, and cannot bear...
+
+609
+01:02:51,360 --> 01:02:53,316  X1:132 X2:586 Y1:482 Y2:509
+...to witness his treatment of you...
+
+610
+01:02:53,440 --> 01:02:56,318  X1:195 X2:525 Y1:448 Y2:509
+...and loathe his company
+as if it were the plague...
+
+611
+01:02:57,600 --> 01:03:00,433  X1:136 X2:583 Y1:448 Y2:504
+...I have decided to leave my home
+and never return.
+
+612
+01:03:01,160 --> 01:03:03,390  X1:139 X2:578 Y1:482 Y2:509
+At least, during his detested life...
+
+613
+01:03:04,280 --> 01:03:05,679  X1:230 X2:489 Y1:482 Y2:509
+...or during my own.
+
+614
+01:04:38,400 --> 01:04:40,072  X1:216 X2:502 Y1:448 Y2:509
+Will anyone be joining
+Your Lordship?
+
+615
+01:04:40,160 --> 01:04:41,593  X1:233 X2:485 Y1:482 Y2:507
+No, I shall be alone.
+
+616
+01:04:52,720 --> 01:04:55,029  X1:123 X2:594 Y1:482 Y2:509
+The roast beef's very good, My Lord.
+
+617
+01:05:14,280 --> 01:05:16,316  X1:175 X2:544 Y1:482 Y2:509
+Hello, Neville. How are you?
+
+618
+01:05:16,760 --> 01:05:18,318  X1:249 X2:468 Y1:482 Y2:509
+Ah, Barry. Hello.
+
+619
+01:05:18,760 --> 01:05:21,228  X1:207 X2:510 Y1:448 Y2:509
+I see you're alone.
+Why don't you join me?
+
+620
+01:05:21,400 --> 01:05:24,392  X1:213 X2:503 Y1:448 Y2:509
+Oh, thank you, Barry,
+you're very kind, but...
+
+621
+01:05:25,000 --> 01:05:27,150  X1:125 X2:593 Y1:482 Y2:509
+...I'm expecting someone to join me.
+
+622
+01:05:27,920 --> 01:05:31,674  X1:137 X2:581 Y1:448 Y2:509
+What a shame! Lady Lyndon and I
+have missed your company lately.
+
+623
+01:05:32,080 --> 01:05:34,435  X1:090 X2:629 Y1:482 Y2:509
+Please give my respects to Lady Lyndon...
+
+624
+01:05:34,520 --> 01:05:37,796  X1:122 X2:595 Y1:448 Y2:509
+...and say I've been very busy of late
+and not been able to go about much.
+
+625
+01:05:37,880 --> 01:05:38,949  X1:317 X2:401 Y1:482 Y2:504
+I shall.
+
+626
+01:05:39,320 --> 01:05:42,790  X1:126 X2:593 Y1:448 Y2:509
+The eighth of next month we're
+having some guests over for cards...
+
+627
+01:05:42,920 --> 01:05:45,718  X1:181 X2:536 Y1:448 Y2:509
+...we'd love to have you
+and Lady Wendover join us.
+
+628
+01:05:46,560 --> 01:05:50,678  X1:168 X2:552 Y1:448 Y2:509
+I'll check my diary, but I think
+I'm engaged on that evening.
+
+629
+01:05:51,200 --> 01:05:54,192  X1:182 X2:535 Y1:448 Y2:509
+I hope you're not engaged.
+We'd love to see you again.
+
+630
+01:05:54,600 --> 01:05:56,955  X1:140 X2:578 Y1:482 Y2:509
+I'll write and say if I'm free or not.
+
+631
+01:05:57,760 --> 01:06:01,070  X1:133 X2:584 Y1:448 Y2:509
+I look forward to hearing from you.
+It's nice to see you again.
+
+632
+01:06:05,120 --> 01:06:07,315  X1:119 X2:598 Y1:482 Y2:509
+<i>If he had murdered Lord Bullingdon...</i>
+
+633
+01:06:07,680 --> 01:06:11,958  X1:089 X2:633 Y1:448 Y2:504
+<i>... Barry could scarcely have been received</i>
+<i>with more coldness and resentment...</i>
+
+634
+01:06:12,200 --> 01:06:14,714  X1:202 X2:517 Y1:448 Y2:509
+<i>... that now followed him</i>
+<i>in town and country.</i>
+
+635
+01:06:16,120 --> 01:06:17,792  X1:162 X2:556 Y1:482 Y2:509
+<i>His friends fell away from him.</i>
+
+636
+01:06:18,400 --> 01:06:21,233  X1:174 X2:546 Y1:448 Y2:509
+<i>A legend arose of his cruelty</i>
+<i>to his stepson.</i>
+
+637
+01:06:31,560 --> 01:06:34,358  X1:177 X2:543 Y1:448 Y2:509
+<i>Now all the bills came down</i>
+<i>on him together.</i>
+
+638
+01:06:35,640 --> 01:06:39,155  X1:125 X2:595 Y1:448 Y2:509
+<i>All the bills he had been contracting</i>
+<i>for the years of his marriage...</i>
+
+639
+01:06:39,240 --> 01:06:42,232  X1:147 X2:573 Y1:448 Y2:509
+<i>... and which the creditors sent in</i>
+<i>with a hasty unanimity.</i>
+
+640
+01:06:42,800 --> 01:06:44,518  X1:186 X2:535 Y1:482 Y2:509
+<i>Their amount was frightful.</i>
+
+641
+01:06:46,080 --> 01:06:50,039  X1:131 X2:587 Y1:448 Y2:504
+<i>Barry was now bound up in an</i>
+<i>inextricable toil of bills and debts...</i>
+
+642
+01:06:51,040 --> 01:06:55,079  X1:114 X2:605 Y1:448 Y2:509
+<i>... of mortgages and insurances,</i>
+<i>and all the evils attendant upon them.</i>
+
+643
+01:06:57,000 --> 01:07:00,629  X1:119 X2:604 Y1:448 Y2:509
+<i>Lady Lyndon's income was hampered</i>
+<i>almost irretrievably...</i>
+
+644
+01:07:01,080 --> 01:07:02,798  X1:198 X2:520 Y1:482 Y2:509
+<i>... to satisfy these claims.</i>
+
+645
+01:07:48,440 --> 01:07:49,793  X1:194 X2:524 Y1:482 Y2:509
+Do you think that's good?
+
+646
+01:07:49,880 --> 01:07:51,074  X1:297 X2:421 Y1:482 Y2:504
+Excellent.
+
+647
+01:07:51,640 --> 01:07:52,868  X1:284 X2:433 Y1:482 Y2:504
+Who's this?
+
+648
+01:07:53,240 --> 01:07:54,958  X1:191 X2:526 Y1:482 Y2:509
+It's a peacock on the wall.
+
+649
+01:07:56,880 --> 01:07:58,108  X1:268 X2:449 Y1:482 Y2:509
+What's it say?
+
+650
+01:07:58,440 --> 01:08:00,396  X1:196 X2:522 Y1:482 Y2:509
+I saw this bird yesterday.
+
+651
+01:08:05,440 --> 01:08:06,555  X1:282 X2:435 Y1:482 Y2:504
+Who's that?
+
+652
+01:08:07,200 --> 01:08:08,838  X1:233 X2:485 Y1:482 Y2:504
+Mama in her coach.
+
+653
+01:08:09,880 --> 01:08:11,438  X1:206 X2:512 Y1:482 Y2:509
+Is she going to London?
+
+654
+01:08:12,320 --> 01:08:13,435  X1:275 X2:442 Y1:482 Y2:504
+I don't know.
+
+655
+01:08:19,920 --> 01:08:21,433  X1:222 X2:496 Y1:482 Y2:509
+<i>Barry had his faults...</i>
+
+656
+01:08:22,520 --> 01:08:26,433  X1:091 X2:627 Y1:448 Y2:509
+<i>... but no man could say of him</i>
+<i>that he was not a good and tender father.</i>
+
+657
+01:08:28,040 --> 01:08:30,554  X1:107 X2:612 Y1:482 Y2:509
+<i>He loved his son with a blind partiality.</i>
+
+658
+01:08:31,720 --> 01:08:33,199  X1:210 X2:508 Y1:482 Y2:509
+<i>He denied him nothing.</i>
+
+659
+01:08:34,800 --> 01:08:38,270  X1:120 X2:599 Y1:448 Y2:509
+<i>It is impossible to convey</i>
+<i>what high hopes he had for the boy...</i>
+
+660
+01:08:39,160 --> 01:08:42,311  X1:139 X2:578 Y1:448 Y2:509
+<i>... and how he indulged</i>
+<i>in a thousand fond anticipations...</i>
+
+661
+01:08:42,840 --> 01:08:45,673  X1:196 X2:525 Y1:448 Y2:509
+<i>... as to his future success</i>
+<i>and figure in the world.</i>
+
+662
+01:08:48,120 --> 01:08:52,238  X1:106 X2:616 Y1:448 Y2:504
+<i>But fate had determined that he should</i>
+<i>leave none of his race behind him...</i>
+
+663
+01:08:53,320 --> 01:08:55,311  X1:157 X2:562 Y1:482 Y2:504
+<i>... that he should finish his life...</i>
+
+664
+01:08:55,640 --> 01:08:57,392  X1:260 X2:459 Y1:482 Y2:509
+<i>... poor, lonely...</i>
+
+665
+01:08:58,160 --> 01:08:59,434  X1:260 X2:458 Y1:482 Y2:504
+<i>... and childless.</i>
+
+666
+01:09:08,040 --> 01:09:08,916  X1:325 X2:393 Y1:482 Y2:509
+Papa.
+
+667
+01:09:09,360 --> 01:09:10,395  X1:282 X2:434 Y1:482 Y2:509
+Yes, Bryan?
+
+668
+01:09:10,560 --> 01:09:12,278  X1:197 X2:521 Y1:482 Y2:509
+Will you buy me a horse?
+
+669
+01:09:12,440 --> 01:09:13,873  X1:250 X2:469 Y1:482 Y2:509
+Buy you a horse?
+
+670
+01:09:14,200 --> 01:09:15,269  X1:292 X2:425 Y1:482 Y2:509
+Yes, Papa.
+
+671
+01:09:15,800 --> 01:09:17,518  X1:151 X2:568 Y1:482 Y2:509
+But you already have little Julia.
+
+672
+01:09:17,600 --> 01:09:20,398  X1:113 X2:604 Y1:482 Y2:509
+She's only a pony, I want a real horse.
+
+673
+01:09:20,600 --> 01:09:22,670  X1:121 X2:596 Y1:482 Y2:509
+Then I can ride with you on the hunt.
+
+674
+01:09:23,120 --> 01:09:25,156  X1:089 X2:627 Y1:482 Y2:509
+You think you're big enough for the hunt?
+
+675
+01:09:25,240 --> 01:09:26,116  X1:306 X2:410 Y1:482 Y2:509
+Oh, yes!
+
+676
+01:09:26,200 --> 01:09:30,591  X1:113 X2:604 Y1:448 Y2:509
+Jonathan Plunkett is only a year older
+than I am and he rides with his papa.
+
+677
+01:09:31,800 --> 01:09:33,552  X1:196 X2:521 Y1:482 Y2:504
+I'll have to think about it.
+
+678
+01:09:33,840 --> 01:09:38,277  X1:106 X2:614 Y1:448 Y2:504
+Please, say yes. There's nothing I want
+in the whole world more than a horse.
+
+679
+01:09:39,720 --> 01:09:41,073  X1:248 X2:469 Y1:482 Y2:504
+I'll think about it.
+
+680
+01:09:41,160 --> 01:09:43,071  X1:146 X2:569 Y1:482 Y2:509
+Oh, thank you, Papa. Thank you!
+
+681
+01:09:47,640 --> 01:09:49,392  X1:136 X2:582 Y1:482 Y2:509
+How much are you asking for him?
+
+682
+01:09:50,000 --> 01:09:51,399  X1:219 X2:499 Y1:482 Y2:509
+One hundred guineas.
+
+683
+01:09:52,280 --> 01:09:55,477  X1:149 X2:569 Y1:448 Y2:504
+He's a nice little horse,
+but I don't think he's worth that.
+
+684
+01:09:56,120 --> 01:09:58,634  X1:200 X2:519 Y1:448 Y2:509
+Seventy-five seems
+more like the right price.
+
+685
+01:10:00,400 --> 01:10:03,312  X1:195 X2:524 Y1:448 Y2:509
+I'll accept eighty guineas,
+and not a shilling less.
+
+686
+01:10:05,160 --> 01:10:08,675  X1:095 X2:623 Y1:448 Y2:509
+Five guineas should never keep two
+gentlemen from their drink. Eighty then.
+
+687
+01:10:08,760 --> 01:10:09,795  X1:299 X2:420 Y1:482 Y2:507
+Done, sir.
+
+688
+01:10:11,000 --> 01:10:14,959  X1:116 X2:601 Y1:448 Y2:509
+Take the horse to Doolan's farm.
+Tell him he needs a bit of breaking in.
+
+689
+01:10:15,320 --> 01:10:18,869  X1:126 X2:593 Y1:448 Y2:509
+Say it's for Master Bryan's birthday,
+and I want it to be a surprise.
+
+690
+01:10:18,960 --> 01:10:20,712  X1:172 X2:545 Y1:482 Y2:509
+And remember that yourself.
+
+691
+01:11:04,200 --> 01:11:05,110  X1:325 X2:393 Y1:482 Y2:509
+Papa.
+
+692
+01:11:06,960 --> 01:11:08,359  X1:262 X2:455 Y1:482 Y2:507
+What is it, lad?
+
+693
+01:11:08,600 --> 01:11:10,158  X1:206 X2:512 Y1:482 Y2:509
+Did you buy that horse?
+
+694
+01:11:12,560 --> 01:11:14,198  X1:233 X2:485 Y1:482 Y2:504
+What horse is that?
+
+695
+01:11:14,920 --> 01:11:17,753  X1:185 X2:531 Y1:448 Y2:509
+The horse you were going
+to buy me for my birthday.
+
+696
+01:11:20,240 --> 01:11:22,117  X1:151 X2:567 Y1:482 Y2:509
+I know nothing about any horse.
+
+697
+01:11:22,840 --> 01:11:26,310  X1:124 X2:595 Y1:448 Y2:509
+But one of the stable boys told Nelly
+you'd already bought it...
+
+698
+01:11:26,920 --> 01:11:30,230  X1:089 X2:628 Y1:448 Y2:509
+...and it was at Doolan's farm
+where Mick the groom was breaking it in.
+
+699
+01:11:30,920 --> 01:11:32,114  X1:280 X2:437 Y1:482 Y2:504
+Is that true?
+
+700
+01:11:33,280 --> 01:11:34,793  X1:210 X2:508 Y1:482 Y2:509
+When is your birthday?
+
+701
+01:11:36,400 --> 01:11:37,515  X1:268 X2:450 Y1:482 Y2:509
+Next Tuesday.
+
+702
+01:11:39,600 --> 01:11:42,319  X1:149 X2:570 Y1:448 Y2:504
+Well, you'll have to wait till then
+to find out.
+
+703
+01:11:42,680 --> 01:11:45,194  X1:123 X2:595 Y1:482 Y2:509
+Then, it's true! Oh, thank you, Papa.
+
+704
+01:11:51,480 --> 01:11:52,515  X1:280 X2:437 Y1:482 Y2:507
+Yes, Mama?
+
+705
+01:11:53,600 --> 01:11:57,149  X1:116 X2:603 Y1:448 Y2:509
+Promise me you won't ride that horse
+except with your father.
+
+706
+01:11:58,520 --> 01:12:00,078  X1:214 X2:502 Y1:482 Y2:509
+Yes, Mama, I promise.
+
+707
+01:12:01,640 --> 01:12:03,756  X1:125 X2:592 Y1:482 Y2:509
+And I promise you a good flogging...
+
+708
+01:12:03,880 --> 01:12:07,350  X1:147 X2:572 Y1:448 Y2:509
+...if you even go to Doolan's farm
+to see him before your birthday.
+
+709
+01:12:08,080 --> 01:12:08,910  X1:292 X2:425 Y1:482 Y2:509
+Yes, Papa.
+
+710
+01:12:09,000 --> 01:12:09,910  X1:249 X2:467 Y1:482 Y2:504
+You understand?
+
+711
+01:12:10,000 --> 01:12:11,274  X1:292 X2:425 Y1:482 Y2:509
+Yes, Papa.
+
+712
+01:12:11,760 --> 01:12:12,715  X1:246 X2:471 Y1:482 Y2:509
+You promise me?
+
+713
+01:12:12,840 --> 01:12:14,319  X1:223 X2:493 Y1:482 Y2:509
+Yes, Papa, I promise.
+
+714
+01:12:16,400 --> 01:12:17,992  X1:208 X2:509 Y1:482 Y2:509
+All right, eat your food.
+
+715
+01:12:43,520 --> 01:12:45,715  X1:113 X2:604 Y1:482 Y2:509
+I'm sorry to trouble you, Mr. Lyndon...
+
+716
+01:12:45,800 --> 01:12:48,109  X1:178 X2:542 Y1:448 Y2:509
+...but I believe Master Bryan
+has disobeyed you...
+
+717
+01:12:48,200 --> 01:12:50,316  X1:128 X2:591 Y1:482 Y2:509
+...and stolen away to Doolan's farm.
+
+718
+01:12:51,480 --> 01:12:54,631  X1:132 X2:586 Y1:448 Y2:509
+On going to his room this morning,
+I found his bed empty.
+
+719
+01:12:54,880 --> 01:12:57,713  X1:183 X2:534 Y1:448 Y2:509
+One of the cooks saw him
+cross the yard at daybreak.
+
+720
+01:12:57,800 --> 01:12:59,358  X1:213 X2:506 Y1:482 Y2:509
+Didn't you see him go?
+
+721
+01:12:59,440 --> 01:13:02,432  X1:106 X2:613 Y1:448 Y2:509
+He must have passed through my room
+while I was asleep.
+
+722
+01:13:33,480 --> 01:13:36,950  X1:103 X2:614 Y1:482 Y2:509
+Oh, my God! What has happened here?
+
+723
+01:13:37,160 --> 01:13:40,197  X1:213 X2:505 Y1:448 Y2:507
+I noticed the lad riding
+across the field, sir...
+
+724
+01:13:40,480 --> 01:13:44,439  X1:125 X2:594 Y1:448 Y2:509
+<i>... and having trouble with the horse,</i>
+<i>which was playing up.</i>
+
+725
+01:13:45,360 --> 01:13:49,353  X1:095 X2:624 Y1:448 Y2:509
+<i>Suddenly the animal plunged and reared,</i>
+<i>and the poor lad was thrown.</i>
+
+726
+01:13:52,440 --> 01:13:54,635  X1:124 X2:593 Y1:482 Y2:509
+Oh, Bryan, why did you disobey me?
+
+727
+01:13:56,280 --> 01:13:57,759  X1:259 X2:459 Y1:482 Y2:509
+I'm sorry, Papa.
+
+728
+01:13:58,520 --> 01:14:00,238  X1:167 X2:549 Y1:482 Y2:509
+You won't whip me, will you?
+
+729
+01:14:03,120 --> 01:14:04,473  X1:261 X2:457 Y1:482 Y2:509
+No, my darling.
+
+730
+01:14:05,600 --> 01:14:06,874  X1:248 X2:470 Y1:482 Y2:509
+I won't whip you.
+
+731
+01:14:11,000 --> 01:14:15,039  X1:120 X2:598 Y1:448 Y2:509
+Take my horse and ride like the Devil
+for Doctor Broughton.
+
+732
+01:14:15,840 --> 01:14:19,196  X1:123 X2:595 Y1:448 Y2:504
+Tell him whatever he's doing
+he must come at once. Understand?
+
+733
+01:14:28,640 --> 01:14:30,232  X1:204 X2:517 Y1:482 Y2:504
+<i>The doctors were called.</i>
+
+734
+01:14:31,240 --> 01:14:35,074  X1:095 X2:627 Y1:448 Y2:509
+<i>But what does a doctor avail in a contest</i>
+<i>with the grim, invincible enemy?</i>
+
+735
+01:14:36,640 --> 01:14:40,838  X1:091 X2:627 Y1:448 Y2:509
+<i>Such as came could only confirm</i>
+<i>the hopelessness of the poor child's case.</i>
+
+736
+01:14:42,920 --> 01:14:45,434  X1:170 X2:551 Y1:448 Y2:509
+<i>He remained with his parents</i>
+<i>for two days.</i>
+
+737
+01:14:46,760 --> 01:14:50,036  X1:140 X2:581 Y1:448 Y2:509
+<i>And a sad comfort it was to know</i>
+<i>that he was in no pain.</i>
+
+738
+01:15:00,800 --> 01:15:01,630  X1:325 X2:393 Y1:482 Y2:509
+Papa.
+
+739
+01:15:03,560 --> 01:15:05,152  X1:240 X2:476 Y1:482 Y2:509
+Am I going to die?
+
+740
+01:15:11,080 --> 01:15:14,993  X1:107 X2:612 Y1:448 Y2:509
+No, my darling, you're not going to die.
+You're going to get better.
+
+741
+01:15:19,400 --> 01:15:23,473  X1:202 X2:517 Y1:448 Y2:509
+But I can't feel anything,
+except in my hands.
+
+742
+01:15:26,480 --> 01:15:29,677  X1:148 X2:572 Y1:448 Y2:509
+Does that mean I'm already dead
+in part of my body?
+
+743
+01:15:37,560 --> 01:15:40,870  X1:176 X2:543 Y1:448 Y2:509
+No, my darling, that's where
+you were hurt by the horse.
+
+744
+01:15:43,480 --> 01:15:45,596  X1:158 X2:560 Y1:482 Y2:509
+But you're going to be all right.
+
+745
+01:15:50,160 --> 01:15:53,630  X1:147 X2:571 Y1:482 Y2:509
+Papa, if I die, will I go to heaven?
+
+746
+01:15:58,960 --> 01:16:00,916  X1:154 X2:564 Y1:482 Y2:509
+Of course you will, my darling...
+
+747
+01:16:02,520 --> 01:16:04,431  X1:172 X2:546 Y1:482 Y2:509
+...but you're not going to die.
+
+748
+01:16:09,160 --> 01:16:10,878  X1:188 X2:530 Y1:482 Y2:509
+Mama, give me your hand.
+
+749
+01:16:20,600 --> 01:16:22,318  X1:198 X2:521 Y1:482 Y2:509
+Papa, give me your hand.
+
+750
+01:16:28,360 --> 01:16:30,510  X1:113 X2:604 Y1:482 Y2:509
+Will you both promise me something?
+
+751
+01:16:34,160 --> 01:16:34,990  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+752
+01:16:36,320 --> 01:16:38,993  X1:153 X2:565 Y1:482 Y2:509
+Promise me never to quarrel so.
+
+753
+01:16:40,000 --> 01:16:41,558  X1:213 X2:506 Y1:482 Y2:504
+But to love each other.
+
+754
+01:16:42,480 --> 01:16:45,790  X1:099 X2:618 Y1:482 Y2:509
+So that we may meet again, in heaven...
+
+755
+01:16:47,280 --> 01:16:51,114  X1:140 X2:578 Y1:448 Y2:509
+...where Bullingdon said
+quarrelsome people will never go.
+
+756
+01:16:59,520 --> 01:17:00,555  X1:278 X2:439 Y1:482 Y2:509
+We promise.
+
+757
+01:17:04,040 --> 01:17:06,998  X1:195 X2:523 Y1:448 Y2:504
+Will you tell me the story
+about the fort?
+
+758
+01:17:09,600 --> 01:17:10,635  X1:294 X2:424 Y1:482 Y2:504
+Of course.
+
+759
+01:17:14,640 --> 01:17:16,232  X1:205 X2:513 Y1:482 Y2:509
+We crept up on the fort.
+
+760
+01:17:19,920 --> 01:17:24,357  X1:147 X2:571 Y1:448 Y2:509
+I jumped over the wall first,
+and my fellows jumped after me.
+
+761
+01:17:26,280 --> 01:17:28,669  X1:121 X2:595 Y1:482 Y2:509
+And you should have seen the look...
+
+762
+01:17:30,280 --> 01:17:35,070  X1:145 X2:575 Y1:448 Y2:509
+...on the Frenchmen's faces when
+23 he-devils, sword and pistol...
+
+763
+01:17:36,440 --> 01:17:39,398  X1:177 X2:541 Y1:448 Y2:509
+...cut and thrust,
+came tumbling into the fort.
+
+764
+01:17:41,160 --> 01:17:42,559  X1:241 X2:477 Y1:482 Y2:504
+In three minutes...
+
+765
+01:17:45,560 --> 01:17:46,709  X1:288 X2:431 Y1:482 Y2:504
+...we left...
+
+766
+01:17:56,680 --> 01:17:59,956  X1:130 X2:588 Y1:448 Y2:504
+'''I am the resurrection and the life,'
+saith the Lord.
+
+767
+01:18:01,680 --> 01:18:05,036  X1:195 X2:524 Y1:448 Y2:509
+'''He that believeth in me,
+though he were dead...
+
+768
+01:18:06,600 --> 01:18:08,113  X1:233 X2:486 Y1:482 Y2:509
+'''... yet shall he live.
+
+769
+01:18:09,160 --> 01:18:11,879  X1:210 X2:510 Y1:448 Y2:504
+'''And whosoever liveth
+and believeth in me...
+
+770
+01:18:13,960 --> 01:18:15,393  X1:237 X2:482 Y1:482 Y2:504
+'''... shall never die.'
+
+771
+01:18:18,080 --> 01:18:20,275  X1:135 X2:584 Y1:482 Y2:509
+<i>''I</i> know that my Redeemer liveth...
+
+772
+01:18:20,840 --> 01:18:24,150  X1:152 X2:566 Y1:448 Y2:509
+''... and that He shall stand
+at the latter day upon the earth.
+
+773
+01:18:25,160 --> 01:18:28,516  X1:185 X2:532 Y1:448 Y2:509
+''And though after my skin
+worms destroy this body...
+
+774
+01:18:29,480 --> 01:18:32,358  X1:144 X2:575 Y1:482 Y2:509
+''... yet in my flesh shall I see God.
+
+775
+01:18:34,440 --> 01:18:38,115  X1:172 X2:546 Y1:448 Y2:509
+''Whom I shall see for myself
+and mine eyes shall behold...
+
+776
+01:18:39,360 --> 01:18:40,793  X1:235 X2:484 Y1:482 Y2:504
+''... and not another.
+
+777
+01:18:43,160 --> 01:18:45,310  X1:114 X2:605 Y1:482 Y2:509
+''We brought nothing into this world...
+
+778
+01:18:45,880 --> 01:18:48,599  X1:193 X2:524 Y1:448 Y2:509
+''... and it is certain
+we can carry nothing out.
+
+779
+01:18:49,840 --> 01:18:53,628  X1:163 X2:555 Y1:448 Y2:509
+''The Lord gave,
+and the Lord hath taken away.
+
+780
+01:18:55,920 --> 01:18:57,956  X1:139 X2:579 Y1:482 Y2:504
+''Blessed is the name of the <i>Lord.''</i>
+
+781
+01:19:41,200 --> 01:19:43,395  X1:162 X2:556 Y1:482 Y2:509
+<i>Barry's grief was inconsolable.</i>
+
+782
+01:19:44,800 --> 01:19:48,031  X1:174 X2:546 Y1:448 Y2:509
+<i>Such solace as he could find,</i>
+<i>came only from drink.</i>
+
+783
+01:19:51,360 --> 01:19:55,797  X1:079 X2:643 Y1:448 Y2:504
+<i>His mother was the only person who would</i>
+<i>remain faithful to him in his misfortune.</i>
+
+784
+01:19:57,240 --> 01:20:00,710  X1:152 X2:567 Y1:448 Y2:504
+<i>And many a night, when he was</i>
+<i>unconscious of her attention...</i>
+
+785
+01:20:01,120 --> 01:20:02,997  X1:175 X2:544 Y1:482 Y2:504
+<i>... saw him carried off to bed.</i>
+
+786
+01:20:08,400 --> 01:20:09,719  X1:246 X2:473 Y1:482 Y2:504
+<i>''O</i> blessed Lord...
+
+787
+01:20:10,160 --> 01:20:12,993  X1:204 X2:516 Y1:448 Y2:504
+''... the Father of mercies
+and God of all comforts.
+
+788
+01:20:13,560 --> 01:20:16,996  X1:133 X2:584 Y1:448 Y2:509
+''We beseech Thee, look down
+in pity and compassion upon this...
+
+789
+01:20:17,080 --> 01:20:18,832  X1:205 X2:513 Y1:482 Y2:509
+''... Thy afflicted servant.
+
+790
+01:20:20,040 --> 01:20:22,110  X1:098 X2:620 Y1:482 Y2:509
+''Thou writest bitter things against her...
+
+791
+01:20:22,200 --> 01:20:24,395  X1:169 X2:551 Y1:448 Y2:509
+''... and makest her to possess
+her former <i>iniquities.''</i>
+
+792
+01:20:24,480 --> 01:20:27,631  X1:153 X2:566 Y1:448 Y2:509
+<i>Her Ladyship,</i>
+<i>always vapourish and nervous...</i>
+
+793
+01:20:28,440 --> 01:20:30,112  X1:195 X2:524 Y1:482 Y2:509
+<i>... plunged into devotion...</i>
+
+794
+01:20:30,200 --> 01:20:34,637  X1:105 X2:618 Y1:448 Y2:509
+<i>... with so much fervour, that you would</i>
+<i>have imagined her distracted at times.</i>
+
+795
+01:20:59,000 --> 01:21:02,754  X1:096 X2:622 Y1:448 Y2:509
+<i>In the doleful conditions</i>
+<i>which now prevailed at Castle Hackton...</i>
+
+796
+01:21:03,560 --> 01:21:06,870  X1:148 X2:572 Y1:448 Y2:509
+<i>... management of the household,</i>
+<i>and of the Lyndon estate...</i>
+
+797
+01:21:07,560 --> 01:21:10,393  X1:213 X2:505 Y1:448 Y2:509
+<i>... fell to Mrs. Barry,</i>
+<i>whose spirit of order...</i>
+
+798
+01:21:10,880 --> 01:21:14,668  X1:181 X2:539 Y1:448 Y2:509
+<i>... attended to all the details</i>
+<i>of a great establishment.</i>
+
+799
+01:21:24,640 --> 01:21:26,312  X1:168 X2:548 Y1:482 Y2:507
+You wish to see me, madam?
+
+800
+01:21:26,800 --> 01:21:28,756  X1:149 X2:568 Y1:482 Y2:507
+Yes, Reverend. Please sit down.
+
+801
+01:21:33,640 --> 01:21:36,473  X1:148 X2:570 Y1:448 Y2:507
+I have some matters I would like
+to discuss later, Graham...
+
+802
+01:21:36,560 --> 01:21:38,596  X1:176 X2:544 Y1:448 Y2:509
+...but just now would you go
+to Her Ladyship...
+
+803
+01:21:38,680 --> 01:21:40,511  X1:143 X2:575 Y1:482 Y2:509
+...and have her sign these papers.
+
+804
+01:21:41,480 --> 01:21:42,549  X1:275 X2:442 Y1:482 Y2:507
+Yes, madam.
+
+805
+01:21:54,840 --> 01:21:56,239  X1:252 X2:465 Y1:482 Y2:504
+Reverend Runt...
+
+806
+01:21:57,320 --> 01:22:00,630  X1:106 X2:610 Y1:448 Y2:509
+...I need not tell you
+that the recent tragedy to this family...
+
+807
+01:22:00,720 --> 01:22:04,508  X1:140 X2:580 Y1:448 Y2:509
+...has made the services of a tutor
+no longer required here.
+
+808
+01:22:06,360 --> 01:22:09,511  X1:104 X2:614 Y1:448 Y2:509
+And as we are in considerable difficulty
+about money...
+
+809
+01:22:10,080 --> 01:22:13,550  X1:163 X2:554 Y1:448 Y2:509
+...I'm afraid I must ask you,
+with the greatest reluctance...
+
+810
+01:22:14,440 --> 01:22:15,998  X1:221 X2:497 Y1:482 Y2:509
+...to resign your post.
+
+811
+01:22:21,760 --> 01:22:24,797  X1:215 X2:502 Y1:448 Y2:509
+Madam, I'm sensible
+to your predicament...
+
+812
+01:22:25,840 --> 01:22:30,277  X1:102 X2:616 Y1:448 Y2:509
+...and you need have no concern about
+my wages, I can willingly forego them...
+
+813
+01:22:31,400 --> 01:22:35,678  X1:084 X2:633 Y1:448 Y2:509
+...but it is out of the question for me
+to leave Her Ladyship in her present state.
+
+814
+01:22:39,120 --> 01:22:41,111  X1:173 X2:545 Y1:482 Y2:509
+I'm sorry to say this to you...
+
+815
+01:22:41,880 --> 01:22:46,237  X1:090 X2:629 Y1:448 Y2:509
+...but I believe you are largely responsible
+for her present state of mind.
+
+816
+01:22:47,880 --> 01:22:50,713  X1:216 X2:500 Y1:448 Y2:504
+The sooner you leave,
+the better she will be.
+
+817
+01:22:55,960 --> 01:22:58,155  X1:127 X2:590 Y1:482 Y2:509
+Madam, with the greatest respect...
+
+818
+01:22:58,720 --> 01:23:01,393  X1:205 X2:512 Y1:448 Y2:509
+...I take my instructions
+only from Her Ladyship.
+
+819
+01:23:04,080 --> 01:23:05,399  X1:252 X2:465 Y1:482 Y2:504
+Reverend Runt...
+
+820
+01:23:06,080 --> 01:23:09,868  X1:159 X2:561 Y1:448 Y2:509
+...Her Ladyship is in no fit mind
+to give instructions to anyone.
+
+821
+01:23:11,480 --> 01:23:14,870  X1:106 X2:613 Y1:448 Y2:504
+My son has charged me with managing
+the affairs at Castle Hackton...
+
+822
+01:23:14,960 --> 01:23:19,078  X1:099 X2:618 Y1:448 Y2:509
+...until he recovers from his grief and
+resumes his interest in worldly matters.
+
+823
+01:23:20,040 --> 01:23:21,393  X1:223 X2:494 Y1:482 Y2:509
+While I'm in charge...
+
+824
+01:23:21,480 --> 01:23:24,278  X1:104 X2:614 Y1:482 Y2:509
+...you'll take your instructions from me.
+
+825
+01:23:25,280 --> 01:23:27,350  X1:126 X2:591 Y1:482 Y2:509
+My only concern is for Lady Lyndon.
+
+826
+01:23:30,520 --> 01:23:31,475  X1:299 X2:418 Y1:482 Y2:504
+Madam...
+
+827
+01:23:33,240 --> 01:23:36,152  X1:173 X2:544 Y1:448 Y2:509
+...your only concern is
+for Her Ladyship's signature.
+
+828
+01:23:37,240 --> 01:23:41,631  X1:091 X2:626 Y1:448 Y2:509
+You and your son have almost succeeded
+in destroying a fine family fortune.
+
+829
+01:23:42,840 --> 01:23:44,592  X1:144 X2:572 Y1:482 Y2:509
+And what little remains for you...
+
+830
+01:23:44,680 --> 01:23:47,672  X1:132 X2:588 Y1:448 Y2:509
+...depends on keeping Her Ladyship
+prisoner in her own home.
+
+831
+01:23:48,160 --> 01:23:49,479  X1:252 X2:465 Y1:482 Y2:504
+Reverend Runt...
+
+832
+01:23:50,520 --> 01:23:53,114  X1:220 X2:499 Y1:448 Y2:504
+...this matter bears
+no further discussion.
+
+833
+01:23:53,840 --> 01:23:56,354  X1:204 X2:513 Y1:448 Y2:509
+You will pack your bags
+and leave by tomorrow.
+
+834
+01:24:15,400 --> 01:24:17,595  X1:251 X2:464 Y1:482 Y2:509
+God, help. Help!
+
+835
+01:24:21,280 --> 01:24:23,794  X1:095 X2:622 Y1:482 Y2:509
+<i>In the midst of these great perplexities...</i>
+
+836
+01:24:23,960 --> 01:24:27,430  X1:149 X2:572 Y1:448 Y2:509
+<i>... Her Ladyship made an attempt</i>
+<i>to kill herself by taking poison.</i>
+
+837
+01:24:28,600 --> 01:24:31,319  X1:169 X2:557 Y1:448 Y2:509
+<i>Though she only made herself</i>
+<i>dangerously ill...</i>
+
+838
+01:24:32,160 --> 01:24:34,754  X1:158 X2:564 Y1:448 Y2:504
+<i>... due to the very small amount</i>
+<i>which she swallowed...</i>
+
+839
+01:24:34,960 --> 01:24:38,748  X1:103 X2:615 Y1:448 Y2:509
+<i>... this, nevertheless, caused</i>
+<i>an intervention from a certain quarter...</i>
+
+840
+01:24:39,320 --> 01:24:40,878  X1:188 X2:531 Y1:482 Y2:509
+<i>... which was long overdue.</i>
+
+841
+01:24:40,960 --> 01:24:41,995  X1:278 X2:438 Y1:482 Y2:509
+Oh, my God!
+
+842
+01:25:13,360 --> 01:25:14,952  X1:205 X2:513 Y1:482 Y2:509
+If my mother had died...
+
+843
+01:25:15,960 --> 01:25:18,190  X1:184 X2:536 Y1:448 Y2:509
+...it would've been as much
+my responsibility...
+
+844
+01:25:18,280 --> 01:25:20,714  X1:167 X2:549 Y1:448 Y2:509
+...as if I had poured
+the strychnine for her myself.
+
+845
+01:25:22,640 --> 01:25:25,518  X1:162 X2:557 Y1:448 Y2:509
+For to the everlasting disgrace
+of my family name...
+
+846
+01:25:26,560 --> 01:25:29,632  X1:188 X2:531 Y1:448 Y2:509
+...I have, by my cowardice,
+and by my weakness...
+
+847
+01:25:30,720 --> 01:25:33,359  X1:216 X2:500 Y1:448 Y2:504
+...allowed the Barrys
+to establish a brutal...
+
+848
+01:25:33,680 --> 01:25:36,035  X1:109 X2:610 Y1:482 Y2:509
+...and ignorant tyranny over our lives...
+
+849
+01:25:36,520 --> 01:25:38,875  X1:183 X2:537 Y1:448 Y2:504
+...which has left my mother
+a broken woman...
+
+850
+01:25:39,920 --> 01:25:44,357  X1:187 X2:533 Y1:448 Y2:509
+...and to squander and ruin
+a fine family fortune.
+
+851
+01:25:47,600 --> 01:25:51,388  X1:168 X2:551 Y1:448 Y2:509
+My friends profess sympathy,
+but behind my back...
+
+852
+01:25:52,600 --> 01:25:54,113  X1:208 X2:510 Y1:482 Y2:509
+...I know I am despised.
+
+853
+01:25:55,560 --> 01:25:57,391  X1:205 X2:512 Y1:482 Y2:509
+And quite justifiably so.
+
+854
+01:26:04,520 --> 01:26:05,555  X1:291 X2:427 Y1:482 Y2:504
+However...
+
+855
+01:26:09,320 --> 01:26:11,117  X1:168 X2:550 Y1:482 Y2:504
+...I know now what I must do.
+
+856
+01:26:14,000 --> 01:26:15,399  X1:230 X2:487 Y1:482 Y2:504
+And what I shall do.
+
+857
+01:26:17,760 --> 01:26:19,193  X1:217 X2:500 Y1:482 Y2:504
+Whatever be the cost.
+
+858
+01:26:32,840 --> 01:26:34,478  X1:202 X2:515 Y1:482 Y2:509
+Good morning, My Lord.
+
+859
+01:26:34,880 --> 01:26:36,029  X1:263 X2:454 Y1:482 Y2:509
+Good morning.
+
+860
+01:26:37,000 --> 01:26:38,433  X1:193 X2:525 Y1:482 Y2:509
+Is Mr. Barry Lyndon here?
+
+861
+01:26:38,520 --> 01:26:40,238  X1:193 X2:523 Y1:482 Y2:509
+Yes, My Lord, he's inside.
+
+862
+01:28:15,040 --> 01:28:16,393  X1:229 X2:488 Y1:482 Y2:509
+Mr. Redmond Barry.
+
+863
+01:28:20,080 --> 01:28:22,230  X1:120 X2:597 Y1:482 Y2:504
+The last occasion on which we met...
+
+864
+01:28:23,000 --> 01:28:25,753  X1:147 X2:573 Y1:448 Y2:504
+...you wantonly caused me injury
+and dishonour.
+
+865
+01:28:27,280 --> 01:28:31,990  X1:101 X2:618 Y1:448 Y2:509
+In such a manner, and to such an extent
+no gentleman can willingly suffer...
+
+866
+01:28:33,640 --> 01:28:35,756  X1:131 X2:588 Y1:482 Y2:509
+...without demanding satisfaction...
+
+867
+01:28:36,800 --> 01:28:38,711  X1:144 X2:575 Y1:482 Y2:504
+...however much time intervenes.
+
+868
+01:28:42,880 --> 01:28:46,077  X1:194 X2:524 Y1:448 Y2:504
+I have now come to claim
+that satisfaction.
+
+869
+01:29:29,160 --> 01:29:30,275  X1:274 X2:443 Y1:482 Y2:509
+Mr. Lyndon...
+
+870
+01:29:30,480 --> 01:29:33,233  X1:120 X2:600 Y1:448 Y2:509
+...these are a matched pair of pistols,
+and as you have seen...
+
+871
+01:29:33,680 --> 01:29:36,831  X1:165 X2:555 Y1:448 Y2:504
+...your second has loaded one,
+and I have loaded the other.
+
+872
+01:29:37,240 --> 01:29:41,358  X1:105 X2:612 Y1:448 Y2:509
+As they belong to Lord Bullingdon,
+you may have whichever one you wish.
+
+873
+01:29:49,080 --> 01:29:50,479  X1:254 X2:464 Y1:482 Y2:509
+Lord Bullingdon.
+
+874
+01:29:58,160 --> 01:30:01,709  X1:163 X2:557 Y1:448 Y2:504
+Now, gentlemen, to determine
+who will have first fire...
+
+875
+01:30:02,240 --> 01:30:04,071  X1:177 X2:542 Y1:482 Y2:504
+...I will toss a coin in the air.
+
+876
+01:30:04,280 --> 01:30:08,068  X1:098 X2:621 Y1:448 Y2:509
+As the offended party, it is
+Lord Bullingdon's choice to call the toss.
+
+877
+01:30:09,200 --> 01:30:11,350  X1:149 X2:569 Y1:482 Y2:509
+Is that agreeable to both of you?
+
+878
+01:30:13,640 --> 01:30:14,595  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+879
+01:30:16,880 --> 01:30:20,509  X1:150 X2:569 Y1:448 Y2:504
+If Lord Bullingdon calls correctly
+he will have the first fire.
+
+880
+01:30:21,880 --> 01:30:25,555  X1:196 X2:522 Y1:448 Y2:504
+If incorrectly, Mr. Lyndon
+will have the first fire.
+
+881
+01:30:27,320 --> 01:30:29,072  X1:186 X2:531 Y1:482 Y2:509
+Is that clearly understood?
+
+882
+01:30:36,600 --> 01:30:38,830  X1:134 X2:584 Y1:482 Y2:509
+What is your call, Lord Bullingdon?
+
+883
+01:30:40,360 --> 01:30:41,315  X1:317 X2:402 Y1:482 Y2:504
+Heads.
+
+884
+01:30:49,680 --> 01:30:50,749  X1:289 X2:429 Y1:482 Y2:504
+It is heads.
+
+885
+01:30:52,400 --> 01:30:54,755  X1:111 X2:607 Y1:482 Y2:509
+Lord Bullingdon will have the first fire.
+
+886
+01:30:59,000 --> 01:31:00,433  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+887
+01:31:00,960 --> 01:31:02,837  X1:176 X2:543 Y1:482 Y2:509
+...will you take your ground?
+
+888
+01:31:16,120 --> 01:31:18,395  X1:239 X2:479 Y1:482 Y2:504
+One... two... three...
+
+889
+01:31:18,480 --> 01:31:20,277  X1:244 X2:474 Y1:482 Y2:504
+...four... five... six...
+
+890
+01:31:20,720 --> 01:31:23,598  X1:189 X2:529 Y1:482 Y2:509
+...seven... eight... nine... ten.
+
+891
+01:31:29,560 --> 01:31:32,393  X1:106 X2:612 Y1:482 Y2:509
+Mr. Lyndon, will you take your ground?
+
+892
+01:31:52,760 --> 01:31:56,878  X1:122 X2:596 Y1:448 Y2:509
+Mr. Lyndon, are you ready to receive
+Lord Bullingdon's fire?
+
+893
+01:32:07,960 --> 01:32:08,915  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+894
+01:32:12,640 --> 01:32:13,959  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+895
+01:32:15,360 --> 01:32:16,873  X1:233 X2:485 Y1:482 Y2:509
+...cock your pistol...
+
+896
+01:32:17,560 --> 01:32:19,152  X1:224 X2:494 Y1:482 Y2:509
+...and prepare to fire.
+
+897
+01:32:33,520 --> 01:32:35,795  X1:113 X2:604 Y1:482 Y2:509
+Sir Richard, this pistol must be faulty.
+
+898
+01:32:36,720 --> 01:32:38,438  X1:198 X2:519 Y1:482 Y2:504
+I must have another one.
+
+899
+01:32:39,360 --> 01:32:42,636  X1:108 X2:609 Y1:448 Y2:509
+I'm sorry, Lord Bullingdon,
+but you must first stand your ground...
+
+900
+01:32:42,720 --> 01:32:45,075  X1:108 X2:611 Y1:482 Y2:509
+...and allow Mr. Lyndon his turn to fire.
+
+901
+01:32:48,280 --> 01:32:50,316  X1:151 X2:566 Y1:482 Y2:509
+That is correct, Lord Bullingdon.
+
+902
+01:32:51,160 --> 01:32:54,994  X1:170 X2:548 Y1:448 Y2:509
+Your pistol has fired,
+and that counts as your shot.
+
+903
+01:33:08,800 --> 01:33:12,588  X1:142 X2:576 Y1:448 Y2:509
+Mr. Lyndon, are the rules of firing
+clear to you?
+
+904
+01:33:14,480 --> 01:33:15,390  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+905
+01:33:19,200 --> 01:33:20,519  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+906
+01:33:21,960 --> 01:33:24,520  X1:192 X2:527 Y1:448 Y2:509
+...are you ready to receive
+Mr. Lyndon's fire?
+
+907
+01:33:31,120 --> 01:33:32,030  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+908
+01:33:35,240 --> 01:33:36,639  X1:256 X2:460 Y1:482 Y2:509
+Very well, then.
+
+909
+01:33:39,920 --> 01:33:41,148  X1:274 X2:443 Y1:482 Y2:509
+Mr. Lyndon...
+
+910
+01:33:42,480 --> 01:33:43,993  X1:233 X2:485 Y1:482 Y2:509
+...cock your pistol...
+
+911
+01:33:44,920 --> 01:33:46,478  X1:224 X2:494 Y1:482 Y2:509
+...and prepare to fire.
+
+912
+01:34:41,200 --> 01:34:44,033  X1:151 X2:565 Y1:482 Y2:509
+Are you ready, Lord Bullingdon?
+
+913
+01:34:53,160 --> 01:34:55,310  X1:138 X2:580 Y1:482 Y2:509
+Is your pistol cocked, Mr. Lyndon?
+
+914
+01:34:58,320 --> 01:34:59,230  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+915
+01:35:04,320 --> 01:35:05,753  X1:227 X2:490 Y1:482 Y2:509
+Then prepare to fire.
+
+916
+01:35:12,160 --> 01:35:13,229  X1:322 X2:396 Y1:482 Y2:504
+One...
+
+917
+01:35:14,920 --> 01:35:15,989  X1:307 X2:411 Y1:484 Y2:504
+...two...
+
+918
+01:35:27,920 --> 01:35:32,072  X1:110 X2:609 Y1:448 Y2:509
+Lord Bullingdon, in view of Mr. Lyndon
+having fired into the ground...
+
+919
+01:35:32,520 --> 01:35:35,671  X1:125 X2:592 Y1:448 Y2:509
+...do you now consider
+that you have received satisfaction?
+
+920
+01:35:48,920 --> 01:35:51,514  X1:153 X2:564 Y1:482 Y2:504
+I have not received satisfaction.
+
+921
+01:36:22,200 --> 01:36:24,191  X1:183 X2:534 Y1:482 Y2:509
+Mr. Lyndon, are you ready?
+
+922
+01:36:35,280 --> 01:36:36,190  X1:331 X2:386 Y1:482 Y2:504
+Yes.
+
+923
+01:36:38,720 --> 01:36:40,039  X1:246 X2:472 Y1:482 Y2:509
+Lord Bullingdon...
+
+924
+01:36:40,960 --> 01:36:43,315  X1:224 X2:494 Y1:448 Y2:509
+...cock your pistol
+and get ready to fire.
+
+925
+01:37:01,160 --> 01:37:02,229  X1:322 X2:396 Y1:482 Y2:504
+One...
+
+926
+01:37:04,880 --> 01:37:05,995  X1:307 X2:411 Y1:484 Y2:504
+...two...
+
+927
+01:37:25,360 --> 01:37:29,433  X1:137 X2:584 Y1:448 Y2:509
+<i>Barry was carried to an inn nearby</i>
+<i>and a surgeon was called.</i>
+
+928
+01:37:43,000 --> 01:37:44,399  X1:236 X2:481 Y1:482 Y2:509
+I'm nearly finished.
+
+929
+01:38:05,680 --> 01:38:08,513  X1:147 X2:571 Y1:448 Y2:509
+I'm sorry to have to tell you this,
+Mr. Lyndon.
+
+930
+01:38:09,640 --> 01:38:11,915  X1:116 X2:601 Y1:482 Y2:509
+I'm afraid you'll have to lose the leg...
+
+931
+01:38:12,720 --> 01:38:14,472  X1:170 X2:548 Y1:482 Y2:509
+...most likely below the knee.
+
+932
+01:38:23,040 --> 01:38:24,268  X1:275 X2:444 Y1:482 Y2:509
+Lose the leg?
+
+933
+01:38:25,920 --> 01:38:26,875  X1:296 X2:421 Y1:482 Y2:504
+What for?
+
+934
+01:38:29,040 --> 01:38:31,429  X1:111 X2:607 Y1:482 Y2:509
+The simple answer is to save your life.
+
+935
+01:38:32,800 --> 01:38:36,759  X1:107 X2:611 Y1:448 Y2:509
+The ball has shattered the bone
+below the knee and severed the artery.
+
+936
+01:38:38,040 --> 01:38:41,032  X1:140 X2:580 Y1:448 Y2:509
+Unless I amputate, there's no way
+that I can repair the artery...
+
+937
+01:38:41,120 --> 01:38:42,792  X1:181 X2:537 Y1:482 Y2:509
+...and stop the hemorrhage.
+
+938
+01:39:13,320 --> 01:39:14,355  X1:304 X2:413 Y1:482 Y2:504
+Graham.
+
+939
+01:39:14,560 --> 01:39:15,709  X1:267 X2:450 Y1:482 Y2:509
+Yes, My Lord?
+
+940
+01:39:16,120 --> 01:39:20,557  X1:095 X2:623 Y1:448 Y2:509
+When we arrive at Castle Hackton,
+inform Mrs. Barry of what has happened.
+
+941
+01:39:21,440 --> 01:39:23,590  X1:120 X2:598 Y1:482 Y2:509
+Don't go into any unnecessary detail.
+
+942
+01:39:23,880 --> 01:39:27,668  X1:093 X2:625 Y1:448 Y2:509
+Just tell her where he is
+and that he has been wounded in the leg.
+
+943
+01:39:28,480 --> 01:39:30,198  X1:183 X2:534 Y1:482 Y2:509
+She will want to go to him.
+
+944
+01:39:30,800 --> 01:39:34,793  X1:085 X2:632 Y1:448 Y2:509
+See that she is out of the house and
+on her way to London as soon as possible.
+
+945
+01:39:35,040 --> 01:39:36,075  X1:245 X2:472 Y1:482 Y2:504
+And in no event...
+
+946
+01:39:36,160 --> 01:39:38,674  X1:089 X2:630 Y1:482 Y2:509
+...is she to be allowed to see my mother...
+
+947
+01:39:38,920 --> 01:39:42,071  X1:099 X2:621 Y1:448 Y2:504
+...or create any disturbance at the house
+before she leaves.
+
+948
+01:39:42,800 --> 01:39:43,949  X1:270 X2:447 Y1:482 Y2:509
+Yes, My Lord.
+
+949
+01:40:53,560 --> 01:40:55,437  X1:181 X2:536 Y1:482 Y2:509
+Mrs. Barry, how do you do?
+
+950
+01:40:56,400 --> 01:40:58,436  X1:167 X2:552 Y1:448 Y2:504
+How nice to see you, Graham.
+Come in.
+
+951
+01:40:58,520 --> 01:40:59,555  X1:289 X2:429 Y1:482 Y2:509
+Thank you.
+
+952
+01:41:01,160 --> 01:41:03,515  X1:203 X2:514 Y1:482 Y2:509
+You... received my note?
+
+953
+01:41:04,200 --> 01:41:05,713  X1:173 X2:543 Y1:482 Y2:509
+Yes, we were expecting you.
+
+954
+01:41:05,800 --> 01:41:08,439  X1:212 X2:507 Y1:448 Y2:504
+Oh, good, I didn't want
+to call unannounced.
+
+955
+01:41:09,680 --> 01:41:11,591  X1:144 X2:573 Y1:482 Y2:509
+Mr. Lyndon, how are you feeling?
+
+956
+01:41:13,520 --> 01:41:16,080  X1:205 X2:514 Y1:448 Y2:509
+I'm feeling much better,
+thank you, Graham.
+
+957
+01:41:17,360 --> 01:41:18,554  X1:227 X2:491 Y1:482 Y2:509
+Won't you sit down?
+
+958
+01:41:18,640 --> 01:41:20,153  X1:213 X2:505 Y1:482 Y2:509
+Thank you, Mrs. Barry.
+
+959
+01:41:28,360 --> 01:41:29,952  X1:193 X2:524 Y1:482 Y2:509
+Would you like some tea?
+
+960
+01:41:30,080 --> 01:41:33,117  X1:134 X2:584 Y1:448 Y2:509
+Oh, no! No, thank you, Mrs. Barry.
+Not just now.
+
+961
+01:41:38,640 --> 01:41:40,676  X1:106 X2:613 Y1:482 Y2:509
+How's the world treating you, Graham?
+
+962
+01:41:40,760 --> 01:41:42,318  X1:255 X2:463 Y1:482 Y2:507
+Oh, not too bad.
+
+963
+01:41:45,360 --> 01:41:47,271  X1:187 X2:530 Y1:482 Y2:509
+Are you comfortable here?
+
+964
+01:41:47,360 --> 01:41:48,634  X1:240 X2:477 Y1:482 Y2:504
+Most comfortable.
+
+965
+01:41:48,800 --> 01:41:49,994  X1:280 X2:436 Y1:482 Y2:509
+Good, good!
+
+966
+01:42:03,760 --> 01:42:06,228  X1:089 X2:628 Y1:482 Y2:509
+Shall we get down to the matter at hand?
+
+967
+01:42:08,120 --> 01:42:09,269  X1:274 X2:445 Y1:482 Y2:509
+By all means.
+
+968
+01:42:15,640 --> 01:42:16,755  X1:274 X2:443 Y1:482 Y2:509
+Mr. Lyndon...
+
+969
+01:42:19,640 --> 01:42:22,359  X1:114 X2:605 Y1:482 Y2:509
+...Lord Bullingdon has instructed me...
+
+970
+01:42:23,160 --> 01:42:26,118  X1:189 X2:529 Y1:482 Y2:509
+...to offer you an annuity...
+
+971
+01:42:26,960 --> 01:42:30,589  X1:162 X2:557 Y1:482 Y2:509
+...of 500 guineas a year for life.
+
+972
+01:42:32,920 --> 01:42:35,912  X1:114 X2:603 Y1:482 Y2:509
+Specifically on the condition of your...
+
+973
+01:42:37,800 --> 01:42:39,358  X1:234 X2:484 Y1:482 Y2:509
+...leaving England...
+
+974
+01:42:39,960 --> 01:42:42,520  X1:220 X2:499 Y1:482 Y2:509
+...and to be stopped...
+
+975
+01:42:43,600 --> 01:42:45,716  X1:180 X2:538 Y1:482 Y2:509
+...the instant of your return.
+
+976
+01:42:48,680 --> 01:42:52,593  X1:136 X2:584 Y1:448 Y2:509
+Lord Bullingdon has also asked me
+to point out to you...
+
+977
+01:42:54,200 --> 01:42:56,714  X1:090 X2:628 Y1:482 Y2:509
+...that should you decide to remain here...
+
+978
+01:42:57,400 --> 01:43:00,995  X1:098 X2:621 Y1:482 Y2:509
+...your stay would infallibly plunge you...
+
+979
+01:43:02,640 --> 01:43:04,437  X1:295 X2:423 Y1:482 Y2:509
+...into jail.
+
+980
+01:43:06,040 --> 01:43:10,511  X1:099 X2:618 Y1:448 Y2:504
+As in view of the present circumstances
+there will soon be...
+
+981
+01:43:11,480 --> 01:43:14,517  X1:165 X2:555 Y1:448 Y2:509
+...innumerable writs taken out
+against you for...
+
+982
+01:43:14,960 --> 01:43:16,996  X1:186 X2:532 Y1:482 Y2:509
+...debts long-outstanding...
+
+983
+01:43:18,200 --> 01:43:20,760  X1:130 X2:588 Y1:482 Y2:509
+...and your credit is so blown that...
+
+984
+01:43:22,200 --> 01:43:23,792  X1:213 X2:506 Y1:482 Y2:509
+...you could not hope...
+
+985
+01:43:24,400 --> 01:43:25,958  X1:233 X2:486 Y1:482 Y2:509
+...to raise a shilling.
+
+986
+01:43:55,360 --> 01:43:57,396  X1:180 X2:539 Y1:482 Y2:509
+<i>Utterly baffled and beaten...</i>
+
+987
+01:43:59,160 --> 01:44:01,993  X1:158 X2:564 Y1:448 Y2:504
+<i>... what was the lonely</i>
+<i>and broken-hearted man to do?</i>
+
+988
+01:44:03,880 --> 01:44:07,475  X1:146 X2:577 Y1:448 Y2:504
+<i>He took the annuity and returned</i>
+<i>to Ireland with his mother...</i>
+
+989
+01:44:08,120 --> 01:44:09,394  X1:184 X2:535 Y1:482 Y2:509
+<i>... to complete his recovery.</i>
+
+990
+01:44:11,160 --> 01:44:13,549  X1:127 X2:592 Y1:482 Y2:504
+<i>Sometime later he travelled abroad.</i>
+
+991
+01:44:15,600 --> 01:44:19,229  X1:119 X2:601 Y1:448 Y2:509
+<i>His life there, we have not the means</i>
+<i>of following accurately.</i>
+
+992
+01:44:20,120 --> 01:44:23,510  X1:125 X2:593 Y1:448 Y2:509
+<i>He appears to have resumed</i>
+<i>his former profession of a gambler...</i>
+
+993
+01:44:23,640 --> 01:44:25,517  X1:169 X2:550 Y1:482 Y2:504
+<i>... without his former success.</i>
+
+994
+01:44:26,960 --> 01:44:28,916  X1:145 X2:574 Y1:482 Y2:509
+<i>He never saw Lady Lyndon again.</i>
+
+995
+01:50:22,560 --> 01:50:25,199  X1:208 X2:510 Y1:448 Y2:504
+Subtitles conformed by
+SOFTITLER
